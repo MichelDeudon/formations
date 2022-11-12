@@ -1,13 +1,13 @@
 ---
 widget: portfolio
 headless: true
-weight: 40
-title: Explore top courses
+weight: 50
+title: Explorer nos offre de coaching
 subtitle:
 content:
   filters:
     folders:
-      - course
+      - coaching
     kinds:
       - section
     exclude_tags:

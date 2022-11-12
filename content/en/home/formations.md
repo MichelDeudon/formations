@@ -1,13 +1,13 @@
 ---
 widget: portfolio
 headless: true
-weight: 50
-title: Explore our coaching
+weight: 30
+title: Explore our trainings
 subtitle:
 content:
   filters:
     folders:
-      - coaching
+      - formation
     kinds:
       - section
     exclude_tags:
@@ -16,7 +16,7 @@ content:
   filter_default: 0
 
   filter_button:
-    - name: All Coaching
+    - name: All trainings
       tag: '*'
     - name: Previous
       tag: previous

@@ -1,13 +1,13 @@
 ---
 widget: portfolio
 headless: true
-weight: 20
-title: Explore top courses
+weight: 30
+title: Explorer nos meilleures formations
 subtitle:
 content:
   filters:
     folders:
-      - course
+      - formation
     kinds:
       - section
     exclude_tags:
@@ -16,7 +16,7 @@ content:
   filter_default: 0
 
   filter_button:
-    - name: All Courses
+    - name: Toutes les formations
       tag: '*'
     - name: Previous
       tag: previous
