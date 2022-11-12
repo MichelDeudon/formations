@@ -67,4 +67,12 @@ user_groups:
   - Teachers
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Since 2012, I train, support and mentor talents. I offer my services as a private teacher, mentor, coach or volunteer with parents, non profits or governmental organizations for primary school to high school and higher education. I offer reskilling and upskilling opportunities for adults in companies and start-ups in the social and solidarity economy - on the protection of personal data, innovation, data science, in interdisciplinary fields or specific domains (health, space , food, 2nd hand).
+
+<br>
+
+I am a graduate of Polytechnique and the College of Engineers. My support and my quality approach are tailor-made. I draw from design thinking, co-creation at Vinted and ElementAI, collaborations with universities and non profits in Canada, Japan, the UK, the US, good practices and lessons to create long-term value.
+
+<br>
+
+I'm also co-president of Local Seasonal, co-founder of Binet Soupe and passionate about extreme sports.

@@ -67,4 +67,12 @@ user_groups:
   - Teachers
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Depuis 2012, je forme, soutien et accompagne des talents. J’interviens auprès de différents publics. J’offre mes services de professeur particulier, d'enseignant vacataire, mentor, coach ou bénévole auprès de parents, d’associations ou d’institutions pour des élèves du primaire, collège, lycée ou supérieur. Je propose des formations en continue pour des adultes en entreprises et startups de l’economie sociale et solidaire - sur la protection des données personnelles, l’innovation, les sciences des données, un accompagnement sur des sujets transverses ou certains domaines (esanté, spatial, alimentation, 2nd main).
+
+<br>
+
+Je suis diplômé de l’X et du Collège des Ingénieurs. Mon accompagnement et ma démarche de qualité sont sur mesures. Je tire du design thinking, de la co création chez Vinted et ElementAI, de collaborations avec des universités et associations au Canada, Japon, le UK, les US, des bonnes pratiques et leçons pour créer de la valeur sur le long terme.
+
+<br>
+
+Je suis également co-président de Local Seasonal, co-fondateur du Binet Soupe et fan de sports extrêmes.
