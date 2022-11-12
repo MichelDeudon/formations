@@ -25,3 +25,5 @@ advanced:
 <br>
 
 Pour vous accompagner et vous faire rayonner sur votre entourage.
+
+<br>
