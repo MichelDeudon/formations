@@ -16,11 +16,11 @@ content:
   filter_default: 0
 
   filter_button:
-    - name: All Courses
+    - name: All
       tag: '*'
-    - name: Previous
+    - name: Adults
       tag: previous
-    - name: Current
+    - name: Youth
       tag: current
 design:
   columns: '1'

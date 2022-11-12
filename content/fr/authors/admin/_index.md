@@ -18,7 +18,7 @@ bio: Mes intérêts de recherche incluent la psychologie, l'apprentissage des la
 
 interests:
   - Psychologie
-  - Linguistique computationnelle
+  - Linguistique
   - Développement durable
 
 education:
@@ -36,7 +36,7 @@ education:
       institution: Lycée Pasteur
       year:
     - course: Baccalauréat scientifique
-      institution: Lycée Francais Charles de Gaulle & Lycée Pasteur
+      institution: Lycée Pasteur
       year: 2012
 
 # Social/Academic Networking
