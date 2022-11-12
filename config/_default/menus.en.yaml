@@ -7,6 +7,7 @@ main:
   - name: Home
     url: '/'
     weight: 10
+
   - name: Formations
     weight: 20
     identifier: formations
@@ -18,6 +19,7 @@ main:
     PageRef: formations/robotics/_index.md
     weight: 20
     parent: formations
+
   - name: Courses
     weight: 30
     identifier: courses
@@ -29,8 +31,9 @@ main:
     PageRef: course/robotics/_index.md
     weight: 20
     parent: courses
+
   - name: Coaching/Mentoring
-    weight: 30
+    weight: 40
     identifier: coaching
   - name: Data science
     PageRef: coaching/data-science/_index.md
@@ -40,6 +43,7 @@ main:
     PageRef: coaching/robotics/_index.md
     weight: 20
     parent: coaching
+
   - name: Blog
     PageRef: post/_index.md
     weight: 40
