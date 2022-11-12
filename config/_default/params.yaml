@@ -15,10 +15,10 @@ appearance:
 
 marketing:
   seo:
-    site_type: Organization
-    local_business_type: ''
+    site_type: LocalBusiness
+    local_business_type: 'ProfessionalService'
     org_name: 'Michel Deudon'
-    description: 'Site perso de formations, services professionnelles et cours particuliers de mathématiques sur Montpellier.'
+    description: 'Site perso de formations, services pro et cours particuliers de mathématiques sur Montpellier.'
     twitter: ''
   analytics:
     google_analytics: ''
