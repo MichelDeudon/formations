@@ -23,7 +23,7 @@ interests:
 
 education:
   courses:
-    - course: Master of Business Administration (MBA)
+    - course: MBA
       institution: Collège des Ingénieurs
       year: 2021
     - course: Ingénieur en sciences des données
@@ -34,7 +34,10 @@ education:
       year: 2018
     - course: Classes préparatoires PC/PC*
       institution: Lycée Pasteur
-      year: 2014
+      year:
+    - course: Baccalauréat scientifique
+      institution: Lycée Francais Charles de Gaulle & Lycée Pasteur
+      year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -50,7 +53,7 @@ social:
     link: https://github.com/MichelDeudon
   - icon_pack: fab
     icon: medium
-    url: 'https://medium.com/@micheldeudon'
+    link: 'https://medium.com/@micheldeudon'
   - icon: envelope
     icon_pack: fas
     link: 'mailto:michel.deudon@hotmail.com?subject=Contact formations'
