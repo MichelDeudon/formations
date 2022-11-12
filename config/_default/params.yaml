@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo learning theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'Michel Deudon'
+    description: 'Site perso de formations, services professionnelles et cours particuliers de mathématiques sur Montpellier.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Michel Deudon. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -67,7 +67,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/wowchemy/starter-hugo-online-course'
+    url: 'https://github.com/MichelDeudon/formations'
     content_dir: content
     branch: main
   comment:
