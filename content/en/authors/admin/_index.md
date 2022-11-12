@@ -6,7 +6,7 @@ title: Michel Deudon
 superuser: true
 
 # Role/position
-role: Consultant en stratégie, formateur et professeur particulier
+role: Strategy consultant, trainer and private teacher
 
 # Organizations/Affiliations
 organizations:
@@ -14,46 +14,46 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mes intérêts de recherche incluent la psychologie, l'apprentissage des langues et l'écologie.
+bio: My research interests include psychology, language learning and ecology.
 
 interests:
-  - Psychologie
-  - Linguistique computationnelle
-  - Développement Durable
+  - Psychology
+  - Computational linguistics
+  - Sustainable development
 
 education:
   courses:
-    - course: Master of Business Administration (MBA)
+    - course: MBA
       institution: Collège des Ingénieurs
-      year: 2020 - 2021
-    - course: Ingénieur en sciences des données
+      year: 2021
+    - course: MSc in data science
       institution: Télécom Paris-Tech & ENS Cachan
-      year: 2017 - 2019
-    - course: Ingénieur en mathématiques appliqués
-      institution: Ecole Polytechnique
-      year: 2014 - 2018
-    - course: Classes préparatoires aux grandes écoles PC/PC*
+      year: 2019
+    - course: MSc in applied mathematics
+      institution: Ecole Polytechnique (X14)
+      year: 2018
+    - course: BSc in physics & chemistry
       institution: Lycée Pasteur
-      year: 20012 - 2014
+      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 social:
-  - icon: "google-scholar"
-    icon_pack: "ai"
-    link: "https://scholar.google.fr/citations?user=p4RP5SoAAAAJ&hl=fr"
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:michel.deudon@hotmail.com?subject=Contact formations'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/michel-deudon/
+  - icon: "google-scholar"
+    icon_pack: "ai"
+    link: "https://scholar.google.com/citations?user=p4RP5SoAAAAJ&hl=en"
   - icon: github
     icon_pack: fab
     link: https://github.com/MichelDeudon
   - icon_pack: fab
     icon: medium
     url: 'https://medium.com/@micheldeudon'
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:michel.deudon@hotmail.com?subject=Contact Trainings'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
