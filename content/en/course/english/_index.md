@@ -1,5 +1,5 @@
 ---
-title: :us: English
+title: 🇺🇸 English
 linkTitle: English
 summary: Tutoring in English. Support for professional and personal projects, university applications, CV, cover letter... to travel abroad!
 date: '2015-01-04'

@@ -1,5 +1,5 @@
 ---
-title: :test_tube: Maths, Physics, Chemistry
+title: 🧪 Maths, Physics, Chemistry
 linkTitle: Maths, Physics, Chemistry
 summary: Tutoring in mathematics, physics and chemistry at college and high school level in Montpellier. Statistics, programming, data science for higher education.
 date: '2015-01-04'

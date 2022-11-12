@@ -1,5 +1,5 @@
 ---
-title: :test_tube: Mathématiques, Physique-Chimie
+title: 🧪 Mathématiques, Physique-Chimie
 linkTitle: Maths, Physique-Chimie
 summary: Soutien scolaire en mathématiques, physique et chimie niveau college et lycée à Montpellier. Statistiques, programmation, sciences des données en études supérieur.
 date: '2015-01-04'
