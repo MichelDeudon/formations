@@ -2,7 +2,7 @@
 title: Ready to learn?
 subtitle:
 widget: blank
-weight: 50
+weight: 70
 design:
   columns: '1'
 ---
