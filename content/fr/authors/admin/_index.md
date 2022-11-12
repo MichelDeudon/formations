@@ -70,12 +70,8 @@ user_groups:
   - Teachers
 ---
 
-Depuis 2012, je forme, soutien et accompagne des talents. J’interviens auprès de différents publics. J’offre mes services de professeur particulier, d'enseignant vacataire, mentor, coach ou bénévole auprès de parents, d’associations ou d’institutions pour des élèves du primaire, collège, lycée ou supérieur. Je propose des formations en continue pour des adultes en entreprises et startups de l’economie sociale et solidaire - sur la protection des données personnelles, l’innovation, les sciences des données, un accompagnement sur des sujets transverses ou certains domaines (esanté, spatial, alimentation, 2nd main).
+Depuis 2012, je forme, soutien et accompagne des talents. J’offre mes services de professeur particulier, d'enseignant vacataire, mentor, coach ou bénévole auprès de parents, d’associations ou d’institutions pour des élèves du primaire, collège, lycée ou supérieur. Je propose des formations en continue pour des adultes en entreprises et startups de l’economie sociale et solidaire - sur la protection des données personnelles, l’innovation, les sciences des données, un accompagnement sur des sujets transverses ou certains domaines (esanté, spatial, alimentation, 2nd main).
 
 <br>
 
-Je suis diplômé de l’X et du Collège des Ingénieurs. Mon accompagnement et ma démarche de qualité sont sur mesures. Je tire du design thinking, de la co création chez Vinted et ElementAI, de collaborations avec des universités et associations au Canada, Japon, le UK, les US, des bonnes pratiques et leçons pour créer de la valeur sur le long terme.
-
-<br>
-
-Je suis également co-président de Local Seasonal, co-fondateur du Binet Soupe et fan de sports extrêmes.
+Je suis diplômé de l’X et du Collège des Ingénieurs. J'ai appris chez Vinted, ElementAI, Accenture et de collaborations avec des universités et associations en France et au Canada, Japon, le UK, les US. Je suis également co-président de Local Seasonal, une association pour célébrer la diversité au fil des saisons et fan de sports extrêmes.

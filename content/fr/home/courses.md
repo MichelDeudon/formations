@@ -2,7 +2,7 @@
 widget: portfolio
 headless: true
 weight: 20
-title: Explore top courses
+title: Explorer nos formations
 subtitle:
 content:
   filters:
@@ -16,11 +16,11 @@ content:
   filter_default: 0
 
   filter_button:
-    - name: All Courses
+    - name: Toutes
       tag: '*'
-    - name: Previous
+    - name: Adultes
       tag: previous
-    - name: Current
+    - name: Jeunes
       tag: current
 design:
   columns: '1'

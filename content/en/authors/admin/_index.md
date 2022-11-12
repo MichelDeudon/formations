@@ -70,12 +70,8 @@ user_groups:
   - Teachers
 ---
 
-Since 2012, I train, support and mentor talents. I offer my services as a private teacher, mentor, coach or volunteer with parents, non profits or governmental organizations for primary school to high school and higher education. I offer reskilling and upskilling opportunities for adults in companies and start-ups in the social and solidarity economy - on the protection of personal data, innovation, data science, in interdisciplinary fields or specific domains (health, space , food, 2nd hand).
+Since 2012, I train, support and mentor talents. I offer my services as a private teacher, mentor, coach or volunteer for parents, non profits or governmental organizations, from primary school to high school and higher education. I offer reskilling and upskilling opportunities for adults in companies and start-ups - on the protection of personal data, innovation, data science, interdisciplinary fields or specific domains (health, space , food, 2nd hand).
 
 <br>
 
-I am a graduate of Polytechnique and the College of Engineers. My support and my quality approach are tailor-made. I draw from design thinking, co-creation at Vinted and ElementAI, collaborations with universities and non profits in Canada, Japan, the UK, the US, good practices and lessons to create long-term value.
-
-<br>
-
-I'm also co-president of Local Seasonal, co-founder of Binet Soupe and passionate about extreme sports.
+I am a graduate of Polytechnique and the College of Engineers. I worked at Vinted, ElementAI, and collaborated with universities in Canada, Japan, the US and the UK, as well as non profits in various roles. I'm a co-president of Local Seasonal, a French non profit to celebrate diversity along the seasons and passionate about roller dance.
