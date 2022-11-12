@@ -1,7 +1,7 @@
 ---
-title: 🧪 Mathématiques, Physique-Chimie
-linkTitle: Maths, Physique-Chimie
-summary: Soutien scolaire en mathématiques, physique et chimie niveau college et lycée à Montpellier. Statistiques, programmation, sciences des données en études supérieur.
+title: 🧪 Physics, Chemistry
+linkTitle: Physics, Chemistry
+summary: Tutoring in physics and chemistry at college and high school level in Montpellier. Statistical physics, quantum computing, data science for higher education.
 date: '2015-01-04'
 type: book
 tags:
