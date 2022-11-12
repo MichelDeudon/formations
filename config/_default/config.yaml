@@ -15,17 +15,7 @@ share: true
 cascade:
   # Docs folder options
   - _target:
-      path: /coaching/**
-    editable: true
-    show_breadcrumb: true
-  # Docs folder options
-  - _target:
       path: /course/**
-    editable: true
-    show_breadcrumb: true
-  # Docs folder options
-  - _target:
-      path: /formation/**
     editable: true
     show_breadcrumb: true
   # Blog post folder options
