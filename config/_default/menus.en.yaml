@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '/'
     weight: 10
-  - name: Courses
+  - name: Teaching
     weight: 20
     identifier: courses
   - name: English
@@ -26,9 +26,14 @@ main:
     PageRef: course/data-science/_index.md
     weight: 40
     parent: courses
+  - name: Data legal
+    PageRef: course/data-legal/_index.md
+    weight: 50
+    parent: courses
+  - name: Linguistics
+    PageRef: course/linguistics/_index.md
+    weight: 60
+    parent: courses
   - name: Blog
     PageRef: post/_index.md
     weight: 30
-  - name: Contact
-    PageRef: home/contact.md
-    weight: 40

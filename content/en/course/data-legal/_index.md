@@ -1,11 +1,11 @@
 ---
-title: 🇺🇸 Anglais
-linkTitle: Anglais
-summary: Soutien scolaire en anglais par Américain natif. Accompagnement des projets pro, candidatures à des universités, CV, lettre de motivation... pour partir à l'étranger!
-date: '2015-01-04'
+title: ⚖️ Data protection
+linkTitle: Data protection
+summary: Upskilling / reskilling in rights and freedoms, protection of personal data, for public or private organizations, start-ups or universities.
+date: '2021-01-24'
 type: book
 tags:
-  - previous
+  - current
 ---
 
 {{< figure src="featured.jpg" >}}

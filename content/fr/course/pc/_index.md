@@ -1,7 +1,7 @@
 ---
 title: 🧪 Physique-Chimie
 linkTitle: Physique-Chimie
-summary: Soutien scolaire en physique et chimie niveau college et lycée à Montpellier. Physique statistique, calcul quantique, sciences des données en études supérieur.
+summary: Soutien scolaire en physique et chimie niveau college et lycée à Montpellier. Physique statistique et calcul quantique en études supérieures.
 date: '2015-01-04'
 type: book
 tags:

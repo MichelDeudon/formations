@@ -1,11 +1,11 @@
 ---
-title: 🇺🇸 Anglais
-linkTitle: Anglais
-summary: Soutien scolaire en anglais par Américain natif. Accompagnement des projets pro, candidatures à des universités, CV, lettre de motivation... pour partir à l'étranger!
-date: '2015-01-04'
+title: 🖊️ Linguistique et traitement du langage
+linkTitle: Linguistique et traitement du langage
+summary: Montée en compétence / reconversion en neuro linguistique et science du language, données pour des organisations publiques ou privées, des startups ou des universités.
+date: '2021-01-24'
 type: book
 tags:
-  - previous
+  - current
 ---
 
 {{< figure src="featured.jpg" >}}

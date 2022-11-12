@@ -1,7 +1,7 @@
 ---
 title: 🧪 Physics, Chemistry
 linkTitle: Physics, Chemistry
-summary: Tutoring in physics and chemistry at college and high school level in Montpellier. Statistical physics, quantum computing, data science for higher education.
+summary: Tutoring in physics and chemistry at college and high school level in Montpellier. Statistical physics and quantum computing, for higher education.
 date: '2015-01-04'
 type: book
 tags:

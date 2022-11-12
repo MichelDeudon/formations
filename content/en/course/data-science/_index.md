@@ -1,7 +1,7 @@
 ---
-title: 📊 Learn Data Science
+title: 📊 Data Science
 linkTitle: Data Science
-summary: An example of using Wowchemy's Book layout for publishing online courses.
+summary: Upskilling / reskilling in data science for public or private organisations, startups or universities.
 date: '2021-01-24'
 type: book
 tags:

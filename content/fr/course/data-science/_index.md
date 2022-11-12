@@ -1,7 +1,7 @@
 ---
-title: 📊 Learn Data Science
-linkTitle: Data Science
-summary: An example of using Wowchemy's Book layout for publishing online courses.
+title: 📊 Sciences des données
+linkTitle: Sciences des données
+summary: Montée en compétence / reconversion en science des données pour des organisations publiques ou privées, des startups ou des universités.
 date: '2021-01-24'
 type: book
 tags:

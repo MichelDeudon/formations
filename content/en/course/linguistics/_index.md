@@ -1,11 +1,11 @@
 ---
-title: 🇺🇸 Anglais
-linkTitle: Anglais
-summary: Soutien scolaire en anglais par Américain natif. Accompagnement des projets pro, candidatures à des universités, CV, lettre de motivation... pour partir à l'étranger!
-date: '2015-01-04'
+title: 🖊️ Computational linguistics
+linkTitle: Computational linguistics
+summary: Upskilling / reskilling in Natural Language Processing, for public or private organizations, start-ups or universities.
+date: '2021-01-24'
 type: book
 tags:
-  - previous
+  - current
 ---
 
 {{< figure src="featured.jpg" >}}
