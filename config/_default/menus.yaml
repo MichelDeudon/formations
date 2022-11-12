@@ -18,13 +18,9 @@ main:
     PageRef: course/maths-pc/_index.md
     weight: 20
     parent: courses
-  - name: Robotics
-    PageRef: course/robotics/_index.md
-    weight: 30
-    parent: courses
   - name: Science des données
     PageRef: course/data-science/_index.md
-    weight: 40
+    weight: 30
     parent: courses
   - name: Blog
     PageRef: post/_index.md

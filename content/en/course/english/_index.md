@@ -1,7 +1,7 @@
 ---
-title: Anglais
-linkTitle: Anglais
-summary: Soutien scolaire en anglais. Accompagnement des projets pro et perso, candidatures à des universités, CV, lettre de motivation... en anglais pour partir à l'étranger!
+title: :us: English
+linkTitle: English
+summary: Tutoring in English. Support for professional and personal projects, university applications, CV, cover letter... to travel abroad!
 date: '2015-01-04'
 type: book
 tags:

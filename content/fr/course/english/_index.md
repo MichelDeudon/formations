@@ -1,7 +1,7 @@
 ---
-title: Anglais
+title: :us: Anglais
 linkTitle: Anglais
-summary: Soutien scolaire en anglais. Accompagnement des projets pro et perso, candidatures à des universités, CV, lettre de motivation... en anglais pour partir à l'étranger!
+summary: Soutien scolaire en anglais. Accompagnement des projets pro et perso, candidatures à des universités, CV, lettre de motivation... pour partir à l'étranger!
 date: '2015-01-04'
 type: book
 tags:

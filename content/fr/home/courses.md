@@ -18,9 +18,9 @@ content:
   filter_button:
     - name: Toutes
       tag: '*'
-    - name: Adultes
-      tag: previous
     - name: Jeunes
+      tag: previous
+    - name: Adultes
       tag: current
 design:
   columns: '1'
