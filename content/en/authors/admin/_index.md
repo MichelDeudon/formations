@@ -51,6 +51,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/MichelDeudon
+  - icon_pack: fab
+    icon: medium
+    url: 'https://medium.com/@micheldeudon'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
