@@ -1,6 +1,6 @@
 ---
-title: 🖊️ Linguistique et traitement du langage
-linkTitle: Linguistique et traitement du langage
+title: 🖊️ Linguistique et NLP
+linkTitle: Linguistique et NLP
 summary: Montée en compétence / reconversion en neuro linguistique et science du language, données pour des organisations publiques ou privées, des startups ou des universités.
 date: '2021-01-24'
 type: book

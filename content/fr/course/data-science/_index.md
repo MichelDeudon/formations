@@ -1,7 +1,7 @@
 ---
 title: 📊 Sciences des données
 linkTitle: Sciences des données
-summary: Montée en compétence / reconversion en science des données pour des organisations publiques ou privées, des startups ou des universités.
+summary: Montée en compétence / reconversion en science des données pour des organisations publiques ou privées, des startups ou des universités. <br>
 date: '2021-01-24'
 type: book
 tags:
