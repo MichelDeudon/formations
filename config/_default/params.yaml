@@ -18,7 +18,7 @@ marketing:
     site_type: LocalBusiness
     local_business_type: 'ProfessionalService'
     org_name: 'Michel Deudon'
-    description: 'Site perso de formations pro et cours particuliers de mathématiques sur Montpellier.'
+    description: 'Formations pro et cours particuliers de mathématiques sur Montpellier.'
     twitter: ''
   analytics:
     google_analytics: ''
@@ -47,7 +47,7 @@ footer:
     license:
       enable: true
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
