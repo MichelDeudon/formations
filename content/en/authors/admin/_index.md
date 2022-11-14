@@ -6,7 +6,7 @@ title: Michel Deudon
 superuser: true
 
 # Role/position
-role: Strategy consultant, trainer and private teacher
+role: Mentor and private teacher
 
 # Organizations/Affiliations
 organizations:
@@ -32,7 +32,7 @@ education:
     - course: MSc in applied mathematics
       institution: Ecole Polytechnique
       year: 2017
-    - course: Undergraduate in physics & chemistry
+    - course: Undergrad in physics & chemistry
       institution: Lycée Pasteur
       year:
     - course: Scientific baccalaureate

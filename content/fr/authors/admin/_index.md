@@ -6,7 +6,7 @@ title: Michel Deudon
 superuser: true
 
 # Role/position
-role: Consultant en stratégie, formateur et professeur particulier
+role: Formateur pro et professeur particulier
 
 # Organizations/Affiliations
 organizations:
@@ -32,7 +32,7 @@ education:
     - course: Ingénieur en mathématiques appliqués
       institution: Ecole Polytechnique
       year: 2018
-    - course: Classes préparatoires PC/PC*
+    - course: Classes préparatoires physique-chimie
       institution: Lycée Pasteur
       year:
     - course: Baccalauréat scientifique
