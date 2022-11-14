@@ -30,7 +30,7 @@ education:
       institution: Télécom Paris-Tech & ENS Cachan
       year: 2019
     - course: MSc in applied mathematics
-      institution: Ecole Polytechnique (X14)
+      institution: Ecole Polytechnique
       year: 2017
     - course: Undergraduate in physics & chemistry
       institution: Lycée Pasteur

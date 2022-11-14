@@ -1,7 +1,7 @@
 ---
 title: 📊 Data Science
 linkTitle: Data Science
-summary: Upskilling / reskilling in data science for public or private organisations, startups or universities. <br>
+summary: Upskilling or reskilling in data science for public or private organisations, startups or universities. <br>
 date: '2021-01-24'
 type: book
 tags:

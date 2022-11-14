@@ -1,7 +1,7 @@
 ---
 title: 🖊️ Computational linguistics
 linkTitle: Computational linguistics
-summary: Upskilling / reskilling in Natural Language Processing, for public or private organizations, start-ups or universities.
+summary: Upskilling or reskilling in Natural Language Processing, for public or private organizations, start-ups or universities.
 date: '2021-01-24'
 type: book
 tags:

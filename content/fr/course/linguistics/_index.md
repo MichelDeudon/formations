@@ -1,7 +1,7 @@
 ---
 title: 🖊️ Linguistique et NLP
 linkTitle: Linguistique et NLP
-summary: Montée en compétence / reconversion en neuro linguistique et science du language, données pour des organisations publiques ou privées, des startups ou des universités.
+summary: Montée en compétence ou reconversion en neuro linguistique et sciences du language, pour des organisations publiques ou privées, startups ou universités.
 date: '2021-01-24'
 type: book
 tags:

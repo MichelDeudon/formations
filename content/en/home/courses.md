@@ -16,11 +16,9 @@ content:
   filter_default: 0
 
   filter_button:
-    - name: All
-      tag: '*'
-    - name: Youth
+    - name: For youth
       tag: previous
-    - name: Adults
+    - name: For adults
       tag: current
 design:
   columns: '1'

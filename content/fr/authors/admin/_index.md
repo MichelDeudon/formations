@@ -30,7 +30,7 @@ education:
       institution: Télécom Paris-Tech & ENS Cachan
       year: 2019
     - course: Ingénieur en mathématiques appliqués
-      institution: Ecole Polytechnique (X14)
+      institution: Ecole Polytechnique
       year: 2018
     - course: Classes préparatoires PC/PC*
       institution: Lycée Pasteur

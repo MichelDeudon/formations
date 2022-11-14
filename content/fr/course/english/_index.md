@@ -1,7 +1,7 @@
 ---
 title: 🇺🇸 Anglais
 linkTitle: Anglais
-summary: Soutien scolaire en anglais par Américain natif. Accompagnement des candidatures aux universités, CV, lettre de motivation... pour partir à l'étranger!
+summary: Soutien scolaire en anglais par Américain natif. Accompagnement des candidatures aux universités, CV et lettres de motivation pour étudier, travailler ou partir à l'étranger!
 date: '2015-01-04'
 type: book
 tags:
