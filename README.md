@@ -2,11 +2,11 @@
 
 <p align="center">
   <!-- Website -->
-  <a href="https://chocapi.herokuapp.com/docs#/">
+  <a href="https://michel-deudon.netlify.app/en/">
     <img src="https://img.shields.io/website?label=Website&style=flat-square&url=https://michel-deudon.netlify.app/en/" alt="website">
   </a>
   <!-- License -->
-  <a href="http://creativecommons.org/licenses/by/4.0/">
+  <a href="https://creativecommons.org/licenses/by-nc/4.0/">
     <img src="https://img.shields.io/badge/License-CC--BY--NC--4.0-blue.svg?style=flat-square" alt="creative_commons_license">
   </a>
 </p>
