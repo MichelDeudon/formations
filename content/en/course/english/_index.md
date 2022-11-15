@@ -1,7 +1,7 @@
 ---
 title: 🇺🇸 English
 linkTitle: English
-summary: Tutoring in English. Support for professional and personal projects, university applications, CV and cover letters to travel, study, work abroad!
+summary: Tutoring in English. Support for professional and personal projects, university applications, CV and cover letters to travel, study or work abroad!
 date: '2015-01-04'
 type: book
 tags:
