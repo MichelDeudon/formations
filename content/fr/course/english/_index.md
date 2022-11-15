@@ -20,11 +20,7 @@ tags:
 
 ## Program overview
 
-The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
-
-## Courses in this program
-
-{{< list_children >}}
+Apprendre l'anglais est l'un des meilleurs investissements que vous puissiez faire aujourd'hui pour devenir indépendant. Cela vous apportera des opportunités de travail, vous donnera accès à des tonnes de ressources pour apprendre et des amitiés à travers le monde. La meilleure façon d'apprendre l'anglais, ou n'importe quelle langue, se résume à trois mots - "Pratique, pratique, pratique". Dans ce cours, vous aurez de nombreuses occasions de pratiquer avec un Amérindien, né à New York, la grosse pomme. Que vous soyez débutant ou avancé en anglais, que vous ayez besoin d'aide pour vos devoirs, vos tests, vos devoirs, que vous souhaitiez relire un document important ou que vous vouliez simplement vous entraîner à parler, ce programme est fait sur mesure pour vous. Contactez votre instructeur et commencez dès aujourd'hui !
 
 ## Meet your instructor
 
@@ -32,12 +28,12 @@ The demand for skilled data science practitioners is rapidly growing. Lorem ipsu
 
 ## FAQs
 
-{{< spoiler text="Are there prerequisites?" >}}
-There are no prerequisites for the first course.
+{{< spoiler text="Y a-t-il des prérequis?" >}}
+Il n'y a pas de prérequis pour le premier cours.
 {{< /spoiler >}}
 
-{{< spoiler text="How often do the courses run?" >}}
-Continuously, at your own pace.
+{{< spoiler text="À quelle fréquence les cours ont-ils lieu ?" >}}
+Aussi souvent que vous en avez besoin. Idéalement une à deux fois par semaine.
 {{< /spoiler >}}
 
 {{< cta cta_text="Begin the course" cta_link="python" >}}
