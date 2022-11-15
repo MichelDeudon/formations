@@ -5,7 +5,7 @@ summary: Soutien scolaire en mathématiques niveau college et lycée à Montpell
 date: '2015-01-04'
 type: book
 tags:
-  - previous
+  - Jeunes
 ---
 
 {{< figure src="featured.jpg" >}}

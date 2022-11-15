@@ -5,7 +5,7 @@ summary: Tutoring in physics and chemistry at college and high school level in M
 date: '2015-01-04'
 type: book
 tags:
-  - previous
+  - Youth
 ---
 
 {{< figure src="featured.jpg" >}}

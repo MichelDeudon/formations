@@ -5,7 +5,7 @@ summary: Upskilling or reskilling in data science for public or private organisa
 date: '2021-01-24'
 type: book
 tags:
-  - current
+  - Adults
 ---
 
 {{< figure src="featured.jpg" >}}

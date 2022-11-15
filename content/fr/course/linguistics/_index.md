@@ -5,7 +5,7 @@ summary: Montée en compétence ou reconversion en neuro linguistique et science
 date: '2021-01-24'
 type: book
 tags:
-  - current
+  - Adultes
 ---
 
 {{< figure src="featured.jpg" >}}

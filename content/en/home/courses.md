@@ -17,9 +17,9 @@ content:
 
   filter_button:
     - name: For youth
-      tag: previous
+      tag: Youth
     - name: For adults
-      tag: current
+      tag: Adults
 design:
   columns: '1'
   view: masonry

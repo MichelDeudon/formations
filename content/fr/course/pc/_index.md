@@ -5,7 +5,7 @@ summary: Soutien scolaire en physique et chimie niveau college et lycée à Mont
 date: '2015-01-04'
 type: book
 tags:
-  - previous
+  - Jeunes
 ---
 
 {{< figure src="featured.jpg" >}}

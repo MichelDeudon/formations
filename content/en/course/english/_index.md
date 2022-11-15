@@ -5,7 +5,7 @@ summary: Tutoring in English. Support for professional and personal projects, un
 date: '2015-01-04'
 type: book
 tags:
-  - previous
+  - Youth
 ---
 
 {{< figure src="featured.jpg" >}}
@@ -17,11 +17,11 @@ tags:
 - Basic to advanced {{<hl>}}vocabulary, grammar, spelling{{</hl>}}
 - How to speak and pronounce words like an {{<hl>}}American or a Briton{{</hl>}}.
 - Broaden your {{<hl>}}culture{{</hl>}}, including proverbs, American and British history
-- Ace your {{<hl>}}tests{{</hl>}} (Toefl, Toeic…) and improve your {{<hl>}}tewriting skillssts{{</hl>}} in any situation (cover letter, CV/resume, article/blog, etc)
+- Ace your {{<hl>}}tests{{</hl>}} (Toefl, Toeic…) and improve your {{<hl>}}writing skills{{</hl>}} in any situation (cover letter, CV/resume, article/blog, etc)
 
 ## Program overview
 
-Learning English is one of the best investment you can make today to become independent. It will bring you work opportunities, give you access to tons of ressources to learn from, and friendships across the world. The best way to learn English, or any language, boils down to three words - "Practice, practice, practice". In this course, you will have many opportunities to practice with a native American, born in New York city, the big apple. Whether you're a beginner or advanced in English, whether you need help with your homework, tests, assignments, would like to proofread an important document or simply want to practice speaking, this program is tailor-made for you. Contact your instructor and start today!
+Learning English is one of the best investment you can make today to become independent. It will bring you work opportunities, give you access to tons of ressources to learn from, and friendships across the world. The best way to learn English boils down to three words - "Practice, practice, practice". In this course, you will have many opportunities to practice with a native American born in New York. Whether you're a beginner or advanced in English, whether you need help with your homework, tests, assignments, would like to proofread an important document or simply want to practice speaking, this program is tailor-made for you. Contact your instructor and start today!
 
 ## Meet your instructor
 
@@ -37,4 +37,4 @@ There are no prerequisites for the first course.
 As often as you need. Ideally once or twice a week.
 {{< /spoiler >}}
 
-{{< cta cta_text="Begin the course" cta_link="python" >}}
+{{< cta cta_text="Begin the course" cta_link="mailto:michel.deudon@hotmail.com?subject=Request for English lessons" >}}

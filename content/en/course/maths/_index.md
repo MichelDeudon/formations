@@ -5,7 +5,7 @@ summary: Tutoring in mathematics at college and high school level in Montpellier
 date: '2015-01-04'
 type: book
 tags:
-  - previous
+  - Youth
 ---
 
 {{< figure src="featured.jpg" >}}

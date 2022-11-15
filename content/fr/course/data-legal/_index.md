@@ -5,7 +5,7 @@ summary: Sensibilisation et montée en compétence la protection des données pe
 date: '2021-01-24'
 type: book
 tags:
-  - current
+  - Adultes
 ---
 
 {{< figure src="featured.jpg" >}}

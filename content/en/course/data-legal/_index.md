@@ -5,7 +5,7 @@ summary: Upskilling in personal data protection, Human rights and freedoms, for 
 date: '2021-01-24'
 type: book
 tags:
-  - current
+  - Adults
 ---
 
 {{< figure src="featured.jpg" >}}
