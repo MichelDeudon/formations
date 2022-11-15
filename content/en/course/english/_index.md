@@ -14,9 +14,10 @@ tags:
 
 ## What you will learn
 
-- Fundamental {{<hl>}}Python programming skills{{</hl>}}
-- {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
-- Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
+- Basic to advanced {{<hl>}}vocabulary, grammar, spelling{{</hl>}}
+- How to speak and pronounce words {{<hl>}}like an American or a British{{</hl>}}. How to use them in practice
+- Broaden your {{<hl>}}culture {{</hl>}}, including proverbs, American and British history
+- {{<hl>}}Ace your tests{{</hl>}} (Toefl, Toeic...) and improve your {{<hl>}}writing skills{{</hl>}} in any situation (statement of purpose, cover letters, CV/resume, article, blog, proofreading...)
 
 ## Program overview
 
