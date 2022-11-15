@@ -16,7 +16,7 @@ tags:
 
 - {{<hl>}}Vocabulaire, grammaire et orthographe{{</hl>}}, niveau basique à avancé
 - Comment parler et prononcer des mots {{<hl>}}comme un américain ou un britannique{{</hl>}}
-- Élargissez votre {{<hl>}}culture{{</hl>}}, y compris les proverbes, l'histoire américaine et britannique
+- Élargissez votre {{<hl>}}culture{{</hl>}}, y compris les proverbes et l'histoire américaine/britannique
 - {{<hl>}}Réussissez vos tests{{</hl>}} (Toefl, Toeic...) et améliorez vos {{<hl>}}compétences rédactionnelles{{</hl>}} dans n' importer quelle situation (lettre de motivation, CV/CV, article/blog, etc.)
 
 ## Program overview

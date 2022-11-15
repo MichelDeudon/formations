@@ -15,8 +15,8 @@ tags:
 ## What you will learn
 
 - Basic to advanced {{<hl>}}vocabulary, grammar, spelling{{</hl>}}
-- How to speak and pronounce words like an {{<hl>}}American or a Briton{{</hl>}}.
-- Broaden your {{<hl>}}culture{{</hl>}}, including proverbs, American and British history
+- How to speak and pronounce words like an {{<hl>}}American or a Briton{{</hl>}}
+- Broaden your {{<hl>}}culture{{</hl>}}, including American/British proverbs and history
 - Ace your {{<hl>}}tests{{</hl>}} (Toefl, Toeic…) and improve your {{<hl>}}writing skills{{</hl>}} in any situation (cover letter, CV/resume, article/blog, etc)
 
 ## Program overview

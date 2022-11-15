@@ -1,7 +1,7 @@
 ---
 title: ⚖️ Droit tech
 linkTitle: Droit tech
-summary: Sensibilisation et montée en compétence la protection des données personnelles, les droits et libertés des personnes, pour des organisations publiques ou privées, startups ou universités.
+summary: Sensibilisation et montée en compétence sur la protection des données personnelles, les droits et libertés des personnes, pour des organisations publiques ou privées, startups ou universités.
 date: '2021-01-24'
 type: book
 tags:
