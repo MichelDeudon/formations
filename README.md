@@ -1,4 +1,4 @@
-# Personal Website - Training and coaching business
+# Personal Website
 
 <p align="center">
   <!-- Website -->
@@ -11,8 +11,15 @@
   </a>
 </p>
 
-## Credits
+## French version
+- [https://michel-deudon.netlify.app/](https://michel-deudon.netlify.app/)
+- [https://www.mtpcours.fr/](https://www.mtpcours.fr/)
 
+## English version
+- [https://michel-deudon.netlify.app/](https://michel-deudon.netlify.app/en/)
+- [https://www.mtpcours.fr/](https://www.mtpcours.fr/en/)
+
+## Credits
 - Website created using the open source [**Hugo Online Course Template**](https://github.com/wowchemy/starter-hugo-online-course)
 - [Demo course image](https://unsplash.com/photos/JKUTrJ4vK00)
 - [Hero elearning icon](https://www.flaticon.com/packs/online-education-25)
