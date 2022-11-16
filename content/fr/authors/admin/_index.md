@@ -10,7 +10,7 @@ role: Formateur pro et professeur particulier
 
 # Organizations/Affiliations
 organizations:
-  - name: Ecole Polytechnique
+  - name: Indépendant
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

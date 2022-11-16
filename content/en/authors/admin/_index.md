@@ -10,7 +10,7 @@ role: Mentor and private teacher
 
 # Organizations/Affiliations
 organizations:
-  - name: Ecole Polytechnique
+  - name: Independant
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
