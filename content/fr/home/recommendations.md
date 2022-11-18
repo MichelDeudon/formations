@@ -2,7 +2,7 @@
 title: Ce que les gens disent
 subtitle:
 widget: blank
-weight: 50
+weight: 40
 design:
   columns: '1'
   view: compact  # Since v5.5+, write the view name, otherwise use the view ID above
