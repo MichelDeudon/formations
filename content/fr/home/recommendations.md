@@ -13,4 +13,4 @@ design:
 
 > _Having worked together with Michel on data science projets, I can confidently say that he is very competent, passionate about science and a cheerful companion!_ - Titas, Decision Scientist chez Vinted (2021)
 
-> _Au cours de mon année de terminale, Michel m'a beaucoup aidé dans les matières scientifiques. C'est un tuteur avec beaucoup de patience et qui sait expliquer de manière clare aussi bien les mathématiques que la physique chimie. Il est très pédagogue, et sait motiver les élèves. Il a su me donner le goût des mathématiques, ce qui était loin d'être gagné!_ - Céline, Etudiante en licence à l'IE Madrid (2020)
+> _Au cours de mon année de terminale, Michel m'a beaucoup aidé dans les matières scientifiques. C'est un tuteur avec beaucoup de patience et qui sait expliquer de manière claire aussi bien les mathématiques que la physique chimie. Il est très pédagogue, et sait motiver les élèves. Il a su me donner le goût des mathématiques, ce qui était loin d'être gagné!_ - Céline, Etudiante en licence à l'IE Madrid (2020)
