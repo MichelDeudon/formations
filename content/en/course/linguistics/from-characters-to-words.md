@@ -2,7 +2,7 @@
 title: From alphabets to words
 date: '2021-01-01'
 type: book
-weight: 30
+weight: 40
 highlight: true
 tags:
   - Data Visualization
@@ -14,15 +14,7 @@ Encode, decode, transform text data.
 
 {{< icon name="clock" pack="fas" >}} 4h30 per week, for 3 weeks
 
-## A primer on languages and alphabets
-
-- **Culture**: A primer on languages and alphabets
-- **Model**: Bag of char (word embed)
-- **Theory**: Message passing. How to transform and pass some information with minimum loss and memory footprint? Ideas from statistical physics, psychology and other fields. No need to be a computer scientist to study computational linguistics.
-- **Tip**: Apply minimum steps. Simpler models are better. Ask the right question. Einstein, Feynman
-- **Homework**: Setup your environment (Github, Python) for the course use cases
-
-## From alphabets to words - part A
+## The n-gram model
 
 - **Culture**: Translating foreign words in Japanese. The Katakana alphabet.
 - **Model**: Limit of bag of char (no order). n-gram model, a finer representation to describe words.
@@ -34,7 +26,7 @@ Encode, decode, transform text data.
     - Money laundering & slavery. Rose, ctxt, info obfuscation. How is a word commonly mispelt?
     
 
-## From alphabets to words - part B
+## Zipf law
 
 - **Culture**: Zipf law
 - **Model**: Limit of n-gram. Dimensionality problem. Visualisation. Quote Hinton 14d. PCA.

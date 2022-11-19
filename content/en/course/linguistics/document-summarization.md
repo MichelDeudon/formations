@@ -2,7 +2,7 @@
 title: From words to sentences
 date: '2021-01-01'
 type: book
-weight: 50
+weight: 60
 math: true
 tags:
   - Statistics
