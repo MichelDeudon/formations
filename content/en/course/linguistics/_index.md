@@ -50,14 +50,22 @@ Yes! CS224n is essentially about deep learning which isn’t what this course is
 
 ## Reference
 
-> ENS - Pr. G. Peyre
+> Michel Deudon. [On food, bias and seasons: A recipe for sustainability](https://hal.archives-ouvertes.fr/hal-02532348). HAL-02532348. 2020.
 
-> Telecom - Pr. C. Clavel
+> Laure Delisle, Alfredo Kalaitzis et al. [A large-scale crowdsourced analysis of abuse against women journalists and politicians on Twitter](https://arxiv.org/abs/1902.03093). 2019.
 
-> MVA - Pr. F. Bach
+> Michel Deudon. [Learning semantic similarity in a continuous space](https://proceedings.neurips.cc/paper/2018/hash/97e8527feaf77a97fc38f34216141515-Abstract.html). Advances in neural information processing systems. vol 31. 2018.
 
-> NLP402 X - Pr M. Vazirgiannis
+> Gabriel Peyré and Marco Cuturi. [Computational Optimal Transport](https://optimaltransport.github.io/book/). ArXiv:1803.00567. 2018.
 
-> CS224n Stanford - Pr C. Manning
+> Chloe Clavel. [Traitement automatique du langage naturel et fouille d’opinions](https://clavel.wp.imt.fr/teaching/)
 
-## FAQ
+> Frederic Nadal. [Modélisation en neurosciences - et ailleurs](http://www.lps.ens.fr/~nadal/Cours/MVA/). 2018.
+
+> Francis Bach. [Introduction to Probabilistic Graphical Models](https://www.di.ens.fr/~fbach/courses/fall2018/). 2018.
+
+> Michalis Vazirgiannis. INF582 - Introduction to Text Mining & NLP. 2017.
+
+> Michalis Vazirgiannis. INF554 - Machine learning I. 2016.
+
+> Christopher Manning and Anna Goldie. [CS224n](https://web.stanford.edu/class/cs224n/). Stanford. 2000.
