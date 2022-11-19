@@ -8,7 +8,7 @@ tags:
   - Data Visualization
 ---
 
-Learn how to visualize data with Plotly.
+Encode, decode, transform text data.
 
 <!--more-->
 

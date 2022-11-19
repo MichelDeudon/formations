@@ -15,8 +15,11 @@ Motivate language studies.
 
 {{< youtube -R6YMWb0vUA >}}
 
+Kate Jefferey is a professor in neuroscience at UCL, London and scientific lead at Exctinction Rebellion. In her inspiring talk on the psychology of climate inaction, 
 - See Kate Jefferey talk
 - Read Predictibly Irrational by Dan Ariely and other books
+
+Humans are social animals.
 
 ## Why study frugal innovation?
 

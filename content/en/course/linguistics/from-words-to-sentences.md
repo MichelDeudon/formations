@@ -8,7 +8,7 @@ tags:
   - Statistics
 ---
 
-Introduction to statistics for data science.
+Learn powerful representations.
 
 <!--more-->
 

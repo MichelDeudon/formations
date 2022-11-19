@@ -14,22 +14,14 @@ tags:
 
 ## What you will learn
 
-- Fundamental {{<hl>}}Python programming skills{{</hl>}}
-- {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
-- Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
+At the end of the course, participants will be able to {{<hl>}}apply NLP for research or innovative projects{{</hl>}}, compare, explain and choose different methods, as well as {{<hl>}}question and test hypothesis{{</hl>}}. Through practical use cases, participants will learn how to use {{<hl>}}numpy{{</hl>}} and {{<hl>}}pandas{{</hl>}} for data wrangling, {{<hl>}}matplotlib{{</hl>}} for data visualization, {{<hl>}}scikit-learn{{</hl>}}, {{<hl>}}scipy{{</hl>}} for statistics, ML, linear algebra, {{<hl>}}nltk{{</hl>}}, {{<hl>}}gensim{{</hl>}} and {{<hl>}}spacy{{</hl>}} for NLP tasks ou routines to build simple proof of concepts and MVP.
 
 ## Program overview
 
-The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
-
-- Course duration: 16h (12 weeks)
+- {{< icon name="clock" pack="fas" >}} Course duration: 1h30 per week, for 12 weeks (16h)
 - Topics: Computational Linguistics, NLP, learning paradigms, models & limits
 - Level: Basic to advanced.
-- Prerequisite: A computer with Python to experiment with the use cases.
-
-## Learning objectives
-
-At the end of the course, participants will be able to apply NLP for research or innovative projects, compare, explain and choose different methods, as well as question and test hypothesis.
+- Prerequisite: A computer with Python installed and a Github account if you wish to experiment with the use cases. Statistics, maths and python libraries will be introduced along the course with practical use cases. No prior experience as a computer scientist or data scientist is required for this course.
 
 ## Course syllabus
 
@@ -59,8 +51,6 @@ Yes! CS224n is essentially about deep learning which isn’t what this course is
 
 ## Reference
 
-### Courses
-
 > ENS - Pr. G. Peyre
 
 > Telecom - Pr. C. Clavel
@@ -70,13 +60,5 @@ Yes! CS224n is essentially about deep learning which isn’t what this course is
 > NLP402 X - Pr M. Vazirgiannis
 
 > CS224n Stanford - Pr C. Manning
-
-### Libraries
-
-> numpy, pandas, matplotlib
-
-> scipy, scikit-learn
-
-> spacy, gensim, nltk
 
 ## FAQ
