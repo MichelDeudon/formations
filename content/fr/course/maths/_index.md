@@ -20,7 +20,9 @@ tags:
 
 ## Program overview
 
-The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
+Les mathématiques, la physique et la chimie...
+
+J'enseigne depuis 10 ans les mathématiques, avec passion, patience et empathie, en cherchant à donner la confiance et les bons réflexes nécessaires pour devenir autonome. En particulier, j'aide mes étudiants à se poser les bonnes questions pour résoudre des problèmes, à bien les visualiser, à se les approprier à travers des exemples concrets et développer des automatismes pour résoudre plus efficacement des exercices. Ma méthode est très pratique. On essaie, on voit où ça coince, on en discute. On s'assure de ne plus être bloqué dans des situations similaires. On transforme chaque erreur en essai pour gagner en sérénité et efficacité.
 
 ## Courses in this program
 
