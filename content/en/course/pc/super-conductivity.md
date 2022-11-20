@@ -1,22 +1,16 @@
 ---
-title: Visualization
+title: Super conductivity
 date: '2021-01-01'
 type: book
-weight: 30
+weight: 40
 highlight: true
 tags:
-  - Data Visualization
+  - Super conductivity
 ---
 
-Learn how to visualize data with Plotly.
+## Learn about Cooper pairs and magnetic levitation.
 
-<!--more-->
-
-{{< icon name="clock" pack="fas" >}} 1-2 hours per week, for 8 weeks
-
-## Learn
-
-{{< youtube hSPmj7mK6ng >}}
+{{< figure src="super-conductivity.png" >}}
 
 ## Quiz
 

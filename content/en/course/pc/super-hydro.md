@@ -2,18 +2,12 @@
 title: Python basics
 date: '2021-01-01'
 type: book
-weight: 20
+weight: 30
 ---
 
-Build a foundation in Python.
+## Learn about Lycopodium spores and superhydrophoby.
 
-<!--more-->
-
-{{< icon name="clock" pack="fas" >}} 1-2 hours per week, for 8 weeks
-
-## Learn
-
-{{< youtube rfscVS0vtbw >}}
+{{< figure src="super-hydro.jpg" >}}
 
 ## Quiz
 

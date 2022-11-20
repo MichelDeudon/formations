@@ -1,20 +1,16 @@
 ---
-title: Statistics
+title: Super resolution
 date: '2021-01-01'
 type: book
-weight: 40
+weight: 50
 math: true
 tags:
-  - Statistics
+  - Super resolution
 ---
 
-Introduction to statistics for data science.
+## Apply ideas from nuclear fusion to image super resolution.
 
-<!--more-->
-
-{{< icon name="clock" pack="fas" >}} 1-2 hours per week, for 8 weeks
-
-## Learn
+{{< figure src="super-resolution.jpg" >}}
 
 The general form of the **normal** probability density function is:
 
