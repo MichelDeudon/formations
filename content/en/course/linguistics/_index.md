@@ -6,6 +6,8 @@ date: '2021-01-24'
 type: book
 tags:
   - Adults
+  - Computational linguistics
+  - NLP
 ---
 
 {{< figure src="featured.jpg" >}}
@@ -37,7 +39,7 @@ There are no prerequisites for the first course. A computer with Python installe
 {{< /spoiler >}}
 
 {{< spoiler text="How often do the courses run?" >}}
-Continuously, at your own pace. Some live webinars and cohorts will be scheduled to foster dynamic learning environment and sense of community.
+Continuously, at your own pace. Some live webinars and cohorts will be scheduled to foster a dynamic learning environment and sense of community.
 {{< /spoiler >}}
 
 {{< spoiler text="I followed CS224n at Stanford. Should I attend this course?" >}}
@@ -45,4 +47,4 @@ Yes! CS224n is essentially about deep learning which isn’t what this course is
 {{< /spoiler >}}
 
 <br>
-{{< cta cta_text="Begin the course" cta_link="mailto:michel.deudon@hotmail.com?subject=Request for English lessons" >}}
+{{< cta cta_text="Begin the course" cta_link="mailto:michel.deudon@hotmail.com?subject=Registration for NLP101" >}}

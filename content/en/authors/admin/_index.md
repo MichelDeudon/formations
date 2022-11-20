@@ -18,6 +18,7 @@ bio: My research interests include psychology, language learning and ecology.
 
 interests:
   - Psychology
+  - Ecology
   - Linguistics
   - Sustainable development
 
@@ -70,8 +71,8 @@ user_groups:
   - Teachers
 ---
 
-Since 2012, I train, support and mentor talents. I offer my services as a private teacher, mentor, coach or volunteer for parents, non profits or governmental organizations, from primary school to high school and higher education. I offer reskilling and upskilling opportunities for adults in companies and start-ups - on the protection of personal data, innovation, data science, interdisciplinary fields or specific domains (health, space, food, 2nd hand).
+Hi! My name is Michel, pronounced Michael in English, and I'm born in New York. I worked in Berlin, London, San Francisco, Montréal and Tokyo, lived more than 10 years abroad and I'm passionate about teaching, learning languages, psychology and rollerblading!
 
-<br>
+Since 2012, I mentor people and offer my services as a private teacher, coach or volunteer for parents, non profits or organizations, from primary school to high school and higher education. I offer reskilling and upskilling opportunities for adults in companies and start-ups - on data science, data protection, frugal innovation and computational linguistics, etc.
 
-I am a graduate of Polytechnique and the College des ingénieurs. I worked at Vinted, ElementAI, and collaborated with universities in Canada, Japan, the US and the UK, as well as non profits in various roles. I'm a co-president of Local Seasonal, a French non profit to celebrate diversity along the seasons and passionate about roller dance.
+I graduated from Polytechnique in 2017 and presented novel methods in operations research or linguistics at international conferences in 2018 (CPAIOR and Neurips). I worked at Accenture, ElementAI, with ESA and at Vinted as a research engineer / senior data scientist, as well as non profits in France, Italy and the UK in various roles. My work was featured in [CNES's spacegate](https://spacegate.cnes.fr/fr/covid-19-venise-sans-les-bateaux) and received 3 ESA prizes with some colleagues. I had an opportunity to mentor PhD students at NASA FDL in 2019 and facilitate a thesis for France's General Secretariat for Defence and National Security in 2021. Since 2020, I am also co-president of [Local Seasonal](https://www.local-seasonal.org/en/), a French non profit to celebrate diversity along the seasons.
