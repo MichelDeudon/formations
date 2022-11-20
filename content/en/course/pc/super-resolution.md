@@ -8,6 +8,10 @@ tags:
   - Super resolution
 ---
 
+A story inspired by nuclear fusion
+
+<!--more-->
+
 ## Apply ideas from nuclear fusion to image super resolution.
 
 {{< figure src="super-resolution.jpg" >}}

@@ -8,6 +8,10 @@ tags:
   - Super conductivity
 ---
 
+A story of Cooper pairs
+
+<!--more-->
+
 ## Learn about Cooper pairs and magnetic levitation.
 
 {{< figure src="super-conductivity.png" >}}

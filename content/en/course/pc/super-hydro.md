@@ -5,6 +5,10 @@ type: book
 weight: 30
 ---
 
+A story inspired from Nature
+
+<!--more-->
+
 ## Learn about Lycopodium spores and superhydrophoby.
 
 {{< figure src="super-hydro.jpg" >}}
