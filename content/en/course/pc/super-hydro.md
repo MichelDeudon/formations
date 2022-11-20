@@ -1,5 +1,5 @@
 ---
-title: Python basics
+title: Super hydrophoby
 date: '2021-01-01'
 type: book
 weight: 30
@@ -8,6 +8,8 @@ weight: 30
 ## Learn about Lycopodium spores and superhydrophoby.
 
 {{< figure src="super-hydro.jpg" >}}
+
+![super-hydro](super-hydro.jpg)
 
 ## Quiz
 
