@@ -9,22 +9,24 @@ Motivate language studies.
 
 <!--more-->
 
-{{< icon name="clock" pack="fas" >}} 1h30 introductory course
+{{< icon name="clock" pack="fas" >}} 1h20 introductory course
 
 ## Why study languages? 
 
 {{< youtube -R6YMWb0vUA >}}
 
 <br> 
-Kate Jefferey is a professor in neuroscience at UCL, London and scientific lead at Exctinction Rebellion. In her inspiring talk on the psychology of climate inaction, 
-- See Kate Jefferey talk
-- Read Predictibly Irrational by Dan Ariely and other books
+Kate Jefferey is a professor in neuroscience at UCL, London and scientific lead at Exctinction Rebellion. In her inspiring talk on [the psychology of climate inaction](https://www.youtube.com/watch?v=-R6YMWb0vUA)...
 
-Humans are social animals.
+Dan Arieli is a ... . In his book [Predictibly Irrational](https://predictablyirrational.com/)... (irrational, tragedy of commons, role of language). 
+
+Other books and authors like Roald Dahl or Albert Camus.
+
+We are social by nature.
 
 ## Why study frugal innovation?
 
-Training a single AI model can emit as much carbon as five cars in their lifetimes (...) The most costly model, BERT, had a carbon footprint of roughly 1,400 pounds of carbon dioxide equivalent, close to a round-trip trans-America flight for one person. [Technology Review, 2019](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/). 
+Training a single AI model can emit as much carbon as five cars in their lifetimes (...) The most costly model, BERT, has a carbon footprint of roughly 1,400 pounds of carbon dioxide equivalent, close to a round-trip trans-America flight for one person. [Technology Review, 2019](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/). 
 
 Cloud providers have a conflit of interest (model complexity, BERT).
 
@@ -44,20 +46,9 @@ Frugal innovation can get us closer to build an inclusive society, low carbon ec
 
 ## Quiz
 
-{{< spoiler text="What is the difference between lists and tuples?" >}}
-Lists
+{{< spoiler text="How many languages are spoken in the world today?" >}}
+More than 7000 languages are spoken today, but just 23 languages account for more than half the world's population. Data science, NLP and AI research is majoritarily done in English, introducing in a bias in the way we approach computational linguistics.
 
-- Lists are mutable - they can be changed
-- Slower than tuples
-- Syntax: `a_list = [1, 2.0, 'Hello world']`
-
-Tuples
-
-- Tuples are immutable - they can't be changed
-- Tuples are faster than lists
-- Syntax: `a_tuple = (1, 2.0, 'Hello world')`
-  {{< /spoiler >}}
-
-{{< spoiler text="Is Python case-sensitive?" >}}
-Yes
+{{< spoiler text="True or False, BERT, has a carbon footprint close to a round-trip trans-America flight for one person.?" >}}
+True, according to [Technology Review, 2019.](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/).
 {{< /spoiler >}}

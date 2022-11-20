@@ -14,13 +14,13 @@ tags:
 
 ## What you will learn
 
-At the end of the course, participants will be able to {{<hl>}}apply NLP for research or innovative projects{{</hl>}}, compare, explain and choose different methods, as well as {{<hl>}}question and test hypothesis{{</hl>}}. Through practical use cases, participants will learn how to use numpy and pandas for data wrangling, matplotlib for data visualization, {{<hl>}}scikit-learn{{</hl>}}, {{<hl>}}scipy{{</hl>}} for statistics, ML, linear algebra, {{<hl>}}nltk{{</hl>}}, {{<hl>}}gensim{{</hl>}} and {{<hl>}}spacy{{</hl>}} for NLP tasks ou routines to build simple proof of concepts and MVP.
+At the end of the course, participants will be able to {{<hl>}}apply NLP for research or innovative projects{{</hl>}}, compare, explain and choose different methods, as well as question and test hypothesis. Through practical use cases, participants will learn how to use numpy and pandas for data wrangling, matplotlib for data visualization, {{<hl>}}scikit-learn, scipy{{</hl>}} for statistics, ML, linear algebra, {{<hl>}}nltk, spacy{{</hl>}} for NLP tasks ou routines to build simple proof of concepts and MVP.
 
 ## Program overview
 
-{{< icon name="clock" pack="fas" >}} Course duration: 1h30 per week, for 12 weeks (16h). <br>
+{{< icon name="clock" pack="fas" >}} Course duration: 16 hours. 1h20 per week, for 12 weeks. <br>
 {{< icon name="turn-up" pack="fas" >}} Level: Basic to advanced. <br>
-Topics: Computational Linguistics, NLP, learning paradigms, models & limits.
+Topics: Computational linguistics, NLP, learning paradigms, models & limits.
 
 ## Course syllabus
 
@@ -44,28 +44,5 @@ Continuously, at your own pace. Some live webinars and cohorts will be scheduled
 Yes! CS224n is essentially about deep learning which isn’t what this course is about. This course will give you new insights and ways to approach problems.
 {{< /spoiler >}}
 
-
-{{< cta cta_text="Begin the course" cta_link="python" >}}
-
-
-## Reference
-
-> Michel Deudon. [On food, bias and seasons: A recipe for sustainability](https://hal.archives-ouvertes.fr/hal-02532348). HAL-02532348. 2020.
-
-> Laure Delisle, Alfredo Kalaitzis et al. [A large-scale crowdsourced analysis of abuse against women journalists and politicians on Twitter](https://arxiv.org/abs/1902.03093). 2019.
-
-> Michel Deudon. [Learning semantic similarity in a continuous space](https://proceedings.neurips.cc/paper/2018/hash/97e8527feaf77a97fc38f34216141515-Abstract.html). Advances in neural information processing systems. vol 31. 2018.
-
-> Gabriel Peyré and Marco Cuturi. [Computational Optimal Transport](https://optimaltransport.github.io/book/). ArXiv:1803.00567. 2018.
-
-> Chloe Clavel. [Traitement automatique du langage naturel et fouille d’opinions](https://clavel.wp.imt.fr/teaching/)
-
-> Frederic Nadal. [Modélisation en neurosciences - et ailleurs](http://www.lps.ens.fr/~nadal/Cours/MVA/). 2018.
-
-> Francis Bach. [Introduction to Probabilistic Graphical Models](https://www.di.ens.fr/~fbach/courses/fall2018/). 2018.
-
-> Michalis Vazirgiannis. INF582 - Introduction to Text Mining & NLP. 2017.
-
-> Michalis Vazirgiannis. INF554 - Machine learning I. 2016.
-
-> Christopher Manning and Anna Goldie. [CS224n](https://web.stanford.edu/class/cs224n/). Stanford. 2000.
+<br>
+{{< cta cta_text="Begin the course" cta_link="mailto:michel.deudon@hotmail.com?subject=Request for English lessons" >}}

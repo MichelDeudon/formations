@@ -5,21 +5,23 @@ type: book
 weight: 30
 highlight: true
 tags:
-  - Data Visualization
+  - Languages and alphabets
 ---
 
 On the origins
 
 <!--more-->
 
-{{< icon name="clock" pack="fas" >}} 4h30 per week, for 3 weeks
+{{< icon name="clock" pack="fas" >}} 1h20 per week, for 3 weeks
 
-## A primer on languages and alphabets
+## Written archives, origins and evolutions
 
-- **Culture**: A primer on languages and alphabets
-- **Model**: Bag of char (word embed)
-- **Theory**: Message passing. How to transform and pass some information with minimum loss and memory footprint? Ideas from statistical physics, psychology and other fields. No need to be a computer scientist to study computational linguistics.
-- **Tip**: Apply minimum steps. Simpler models are better. Ask the right question. Einstein, Feynman
+{{< youtube aCrmBRL4cJs>}}
+
+## A simple word model, bag of characters
+
+- **Theory**: Message passing. How to transform and pass some information with minimum loss and efforts? Ideas from statistical physics, psychology and other fields. No need to be a computer scientist to study computational linguistics.
+- **Tip**: Simpler models are better. Ask the right question. Einstein, Feynman
 - **Homework**: Setup your environment (Github, Python) for the course use cases
 
 ## Quiz

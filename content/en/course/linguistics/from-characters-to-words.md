@@ -12,7 +12,7 @@ Encode, decode, transform text data.
 
 <!--more-->
 
-{{< icon name="clock" pack="fas" >}} 4h30 per week, for 3 weeks
+{{< icon name="clock" pack="fas" >}} 1h20 per week, for 3 weeks
 
 ## The n-gram model
 
@@ -53,3 +53,10 @@ fig.show()
 ```
 
 {{< /spoiler >}}
+
+
+## Reference
+
+> Michel Deudon. [On food, bias and seasons: A recipe for sustainability](https://hal.archives-ouvertes.fr/hal-02532348). HAL-02532348. 2020.
+
+> Frederic Nadal. [Modélisation en neurosciences - et ailleurs](http://www.lps.ens.fr/~nadal/Cours/MVA/). 2018.
