@@ -8,7 +8,13 @@ tags:
   - Biomimicry
 ---
 
+Stories inspired by Nature
+
+<!--more-->
+
 ## Find inspiration with biomimicry
+
+{{< youtube V2GvQXvjhLA >}}
 
 The general form of the **normal** probability density function is:
 
