@@ -1,5 +1,5 @@
 ---
-title: What people say
+title: Testimonials
 subtitle:
 widget: blank
 weight: 40

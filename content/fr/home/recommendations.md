@@ -1,5 +1,5 @@
 ---
-title: Ce que les gens disent
+title: Témoignages
 subtitle:
 widget: blank
 weight: 40
