@@ -24,6 +24,8 @@ From symbolic writing (pictograms) to non symbolic writing
 
 Language is in constant evolution.
 
+Language is ambiguous (look at the dog with one eye)
+
 ## A simple boolean vector model, bag of characters
 
 The words "computer" and "language" can be represented simply as a bag of characters, a vector of length 26 with value <i>i</i> equal to 1 if character i is present in the word, 0 otherwise.
@@ -35,10 +37,10 @@ The words "computer" and "language" can be represented simply as a bag of charac
 
 From the above representation, we can say that computer and language share two characters in common, the letters e and u. Given a 3rd word, e.g., "computational", we are also able to say the word is closer to "computer" than "language".
 
-| Word 	        | a | b | c | d | e | ... | u | v | w | x | y | z |
-| -----------   | - | - | - | - | - | -   | - | - | - | - | - | - |
-| computer      | 0 | 0 | 0.2 | 0 | 0.1 | ... | 0.1 | 0 | 0 | 0 | 0 | 0 |
-| language      | 0.2 | 0 | 0 | 0 | 0.1 | ... | 0.1 | 0 | 0 | 0 | 0 | 0 |
+| Word 	        | a   | b   | c   | d   | e   | ... | u   | v   | w   | x   | y   | z   |
+| -----------   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   |
+| computer      | 0.0 | 0.0 | 0.2 | 0.0 | 0.1 | ... | 0.1 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| language      | 0.2 | 0.0 | 0.0 | 0.0 | 0.1 | ... | 0.1 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 
 
 Limits of the boolean vector model
@@ -74,6 +76,7 @@ each document vector
 - **Theory**: Message passing. How to transform and pass some information with minimum loss and efforts? Ideas from statistical physics, psychology and other fields. No need to be a computer scientist to study computational linguistics.
 - **Tip**: Simpler models are better. Ask the right question. Einstein, Feynman
 - **Homework**: Setup your environment (Github, Python) for the course use cases
+- Use case: Mispellt words
 
 ## Quiz
 
