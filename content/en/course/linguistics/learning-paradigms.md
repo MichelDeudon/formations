@@ -23,6 +23,7 @@ Compare learning paradigms in NLP.
 
 - Semi-supervised learning, contrastive learning (cPCA, RBM), reinforcement learning, self-supervised, curiosity-driven learning, few-shot learning, active learning, federated learning, online learning…  Effort on model design or problem to solve, representation/task to learn, ?
 - Generative vs. discriminative models.
+- Parametric vs. non parametric
 - Other tools : OT, ODE, 
 
 ## Why/when deep learning?
