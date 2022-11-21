@@ -46,5 +46,9 @@ Continuously, at your own pace. Some live webinars and cohorts will be scheduled
 Yes! CS224n is essentially about deep learning which isn’t what this course is about. This course will give you new insights and ways to approach problems.
 {{< /spoiler >}}
 
+{{< spoiler text="I worked in computational linguistics and designed simple solutions in the past. Could I share my learnings with you?" >}}
+Yes of course! Feel free to reach out to chat and co-create the course. Thanks!
+{{< /spoiler >}}
+
 <br>
 {{< cta cta_text="Begin the course" cta_link="mailto:michel.deudon@hotmail.com?subject=Registration for NLP101" >}}

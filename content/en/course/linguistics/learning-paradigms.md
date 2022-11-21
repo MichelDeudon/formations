@@ -31,7 +31,7 @@ Compare learning paradigms in NLP.
     - Learning to repeat, reformulate, predict word from context… task influences representations
     - Semantic similarity: cosine, manh, kulb, w1 (OT, combinatorial complexity). Info Theory. Shannon (encode) vs Fisher (param)
 - Simple preprocessing + ranking can solve your problem?
-- Is it the solution or the problem that is wrong?
+- Is it the solution or the problem that is wrong? Quote Einstein + Feynman.
 - **Usecase**:
     - Deduplicate database, build search/recommendation API… (faq)
     - Regulatory, media & political feedback
