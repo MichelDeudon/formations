@@ -16,13 +16,14 @@ Compare learning paradigms in NLP.
 
 ## Learning paradigms
 
-- Supervised learning (Linear, Logistic, RF, MLP)
+- Supervised learning (Linear, LDA/QDA, naive Bayes, Logistic, RF, MLP, SVM, Kernel)
 - Unsupervised learning, e.g., clustering (see ML1, ML2 course)
 
 ## Other learning paradigms
 
 - Semi-supervised learning, contrastive learning (cPCA, RBM), reinforcement learning, self-supervised, curiosity-driven learning, few-shot learning, active learning, federated learning, online learning…  Effort on model design or problem to solve, representation/task to learn, ?
 - Generative vs. discriminative models.
+- Other tools : OT, ODE, 
 
 ## Why/when deep learning?
 
