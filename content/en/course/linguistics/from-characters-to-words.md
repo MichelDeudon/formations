@@ -28,6 +28,8 @@ Encode, decode, transform text data.
 
 ## Zipf law
 
+{{< figure src="zipflaw.png" >}}
+
 - **Culture**: Zipf law
 - **Model**: Limit of n-gram. Dimensionality problem. Visualisation. Quote Hinton 14d. PCA.
 - **Theory**: Maxinfo. Optimal projection to reconstruct original message.
