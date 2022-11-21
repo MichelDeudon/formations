@@ -195,5 +195,3 @@ You’re done with this crash course, well done! You’re ready to collaborate w
 [2] [GitHub Git Cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet/) <br>
 [3] [Visual Git Cheatsheet](https://ndpsoftware.com/git-cheatsheet.html) <br>
 [4] [Vinted Proper Git](https://vinted.engineering/2015/01/02/proper-git/)
-
-

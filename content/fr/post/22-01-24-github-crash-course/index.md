@@ -1,130 +1,197 @@
 ---
-title: Github crash course for data scientists
+title: Cours sur Github pour data scientists
 date: 2022-01-24
 ---
 
-From zero to hero, all you need to know
+De A à Z, tout ce que vous devez savoir
 
 <!--more-->
 
-I always had an imposter syndrome working with Github, until recently. It just wasn’t part of my education as a scientist and I remember the first time I opened a terminal. It felt like I was about to hack the world 🐱‍💻
+J'ai toujours eu un syndrome de l'imposteur en travaillant sur Github, jusqu'à récemment. Je me souviens de la première fois que j'ai ouvert un terminal, j'avais l'impression d'être sur le point de pirater le monde 🐱‍💻 Avec le temps et la pratique, j'ai finalement compris les concepts clés derrière Github. Maintenant, je me sens plus à l'aise de travailler avec des ingénieurs et des développeurs ou d'encadrer des pairs, et c'est amusant. J'ai écrit ce tuto au moment où j'ai postulé chez Vinted pour un poste en science des données et j'ai décidé de le partager car c'est peut-être ce que vous recherchez 😊. Super, alors qu'est-ce que Github ?
 
-With time and practice, I eventually grasped the key concepts behind Github. Now I feel more comfortable working with engineers and developers or mentoring peers, and that’s fun. I wrote this crash course at the time I applied to Vinted for a Data Science position and decided to share it because it might be what you’re looking for 😊. Great, so what’s Github?
+{{< figure src="blog-git-1.jpg" caption="Photo de Tatiana Syrikova sur Pexels" numbered="true" >}}
 
-Git is an open source, distributed version-control system and Github is a platform for hosting and collaborating on Git repositories. Github helps people collaborate across the world - learn, share, contribute and build together by synchronising work on different machines to solve various kind of problems related to artificial intelligence, machine learning or apps. In other words, Github is like a distributed sandbox and it’s free to play!
+Git est un système de contrôle de version, open source, distribué et Github est une plate-forme d'hébergement et de collaboration sur les projets Git. <b>Github aide les gens à collaborer à travers le monde</b> - apprendre, partager, contribuer et construire ensemble en synchronisant le travail sur différentes machines pour résoudre divers types de problèmes liés à l'intelligence artificielle, à l'apprentissage automatique ou à des applications. En d'autres termes, Github est comme un bac à sable distribué et c'est gratuit !
 
-Whether you work or you’re applying for a job as an analyst, a data or decision scientist, a developer, an engineer, a consultant or a manager and you need a refresher on Github or you heard about it and need to use it to collaborate, this practical guide to master Github in 7 steps is probably for you. I will only assume you have Git installed and a Github account, otherwise check how to install Git for your Operating System (Mac, Windows, Linux/Ubuntu) and sign up for a Github account 🚀
+Que vous travailliez ou que vous postuliez pour un emploi en tant qu'analyste, data scientist ou décisionnaire, développeur, ingénieur, consultant ou manager et que vous ayez besoin d'un rappel sur Github ou que vous en ayez entendu parler et que vous devez l'utiliser pour collaborer, ce <b>guide pratique pour maîtriser Github en 7 étapes</b> est probablement pour vous. Je supposerai seulement que vous avez installé Git et un compte Github, sinon vérifiez [comment installer Git pour votre système d'exploitation](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) (Mac, Windows, Linux/Ubuntu) et [créez un compte Github](https://github.com/) 🚀
 
-Before diving into practical use cases and Git commands, here’s a bit of terminology to get familiar with the concepts:
+Avant de plonger dans des cas d'utilisation pratiques et des commandes Git, voici un peu de <b>terminologie</b> anglaise pour vous familiariser avec les concepts :
 
-Repository: A folder with files we want to keep track of
-Remote: A common repository that all team members use to exchange their changes
-Origin: Your local repository
-Index: An area where Git holds files that have been changed, added or removed
-Commit: An entry into Git’s history, representing a change made to a set of files at a given point in time, a compressed snapshot of your entire repository
-Branch: A version of a repository, a lightweight movable pointer to a commit, which represents the status of the repository
-HEAD: The most recent commit on a branch. It represents your current working directory and can be moved to different branches, tags or commits when using git checkout
+> `Repository`: Un dossier avec des fichiers dont nous voulons garder une trace <br>
+> `Remote`: Un dossier commun que tous les membres de l'équipe utilisent pour échanger leurs modifications <br>
+> `Origin`: Votre dossier local <br>
+> `Index`: Une zone où Git contient les fichiers qui ont été modifiés, ajoutés ou supprimés <br>
+> `Commit`: Une entrée dans l'historique de Git, représentant une modification apportée à un ensemble de fichiers à un moment donné, un instantané compressé de l'ensemble de votre dossier <br>
+> `Branch`: Une version d'un dossier, un pointeur mobile léger vers un commit, qui représente l'état du dossier<br>
+> `HEAD`: Le commit le plus récent sur une branche. Il représente votre répertoire de travail actuel et peut être déplacé vers différentes branches, balises ou commits lors de l'utilisation de git checkout
 
-Use cases and practical Git commands
-1. Get started
-The first step when you start working with Git is to configure your user information (name and email). You can do so for all local repositories by typing the commands below in a terminal
+## Cas d'utilisation et commandes Git pratiques
 
-git config — global user.name "your_name"
-git config — global user.email "your_email"
-Easy, right? You can further display help information about Git using
+### 1. Commencer
 
+La première étape lorsque vous commencez à travailler avec Git consiste à configurer vos informations d'utilisateur (nom et e-mail). Vous pouvez le faire pour tous les dossiers locaux en tapant les commandes ci-dessous dans un terminal
+
+```sh
+git config — global user.name "votre_nom"
+git config — global user.email "votre_email"
+```
+
+Facile, non ? Vous pouvez également afficher des informations d'aide sur Git en utilisant
+
+```sh
 git help
-2. Start a working area
-Now that your local repositories are configured, you can create a repository on Github and clone (download) it locally with
+```
 
+### 2. Démarrer une zone de travail
+
+Maintenant que vos dossiers locaux sont configurés, vous pouvez créer un projet sur Github et le cloner (télécharger) localement avec
+
+```sh
 git clone "url"
-The .gitignore file is helpful to exclude files from being tracked with Git such as credentials, tokens or data. You can find templates at github.com/github/gitignore.
+```
 
-3. Examine the history and state
-From your cloned repository, you can list the version history for the current branch with
+Le fichier <b>.gitignore</b> est utile pour exclure les fichiers du suivi avec Git, tels que les informations d'identification, les jetons ou les données. Vous pouvez trouver des modèles sur [github.com/github/gitignore](https://github.com/github/gitignore).
 
+### 3. Examiner l'historique et l'état du dossier de travail
+
+À partir de votre dossier cloné, vous pouvez répertorier l'historique des versions de la branche actuelle avec
+
+```sh
 git log
-To further inspect and compare the evolution of project files, use
+```
 
+Pour inspecter et comparer plus en détail l'évolution des fichiers de projet, utilisez
+
+```sh
 git diff
-This will show changes from the previous commit (what was added, removed or modified). You can further specify branches or commits to change the default result.
+```
 
-4. Make changes and commit
-At this point, you can inspect the version history. Now it’s time to contribute to the project! Add, remove or edit a file in your repository, for example, a Python script hello world.py.
+Cela montrera les changements par rapport au commit précédent (ce qui a été ajouté, supprimé ou modifié). Vous pouvez en outre spécifier des branches ou des commits pour modifier le résultat par défaut.
 
-The changes you’ve made to your local repository and which files are tracked/untracked on your branch can be accessed with
+{{< figure src="blog-git-2.jpg" caption="Photo de James Wheeler sur Pexels" numbered="true" >}}
 
+### 4. Apporter des modifications et les valider
+
+À ce stade, vous pouvez inspecter l'historique des versions. Il est maintenant temps de contribuer au projet ! Ajoutez, supprimez ou modifiez un fichier dans votre dossier, par exemple, un script Python <i>hello-world.py</i>.
+
+Les modifications que vous avez apportées à votre dossier local et les fichiers qui sont suivis/non suivis sur votre branche sont accessibles avec
+
+```sh
 git status
-To add content to the index and snapshot the files you worked on for versioning, simply use
+```
 
-git add [file1][file2][file3]
-Or to add all files and changes directly (beware though), use
+Pour ajouter du contenu à l'index et créer une "capture" des fichiers sur lesquels vous avez travaillé, utilisez simplement
 
+```sh
+git add [fichier1][fichier2][fichier3]
+```
+
+Ou pour ajouter tous les fichiers et modifications directement (attention cependant), utilisez
+
+```sh
 git add .
-The last step to record the changes in your version history is done with
+```
 
-git commit -m "descriptive message"
-Your message should carry specific information, what the changes do, not what you did for the change (e.g., “fixed bug” 🙈). Ask yourself, will other people or yourself in 6 months understand what it is about without looking at the code? Consider splitting a large commit into multiple commits if it makes it easier to understand and don’t forget Github is a tool for collaboration and should be used as such.
+La dernière étape pour enregistrer les changements dans votre historique de version se fait avec
 
-Note: You can also remove files from the index using git rm or move a file with git mv
+```sh
+git commit -m "message descriptif"
+```
 
-5. Swing with branches
-Let’s assume you have a first prototype and want to develop features in parallel. That’s where branches kick in. Branches are an important part of working with Git. Any commits you make will be made on the branch you’re currently “checked out” to and you can see the different branches using
+Votre message doit contenir des informations spécifiques, [ce que font les changements, pas ce que vous avez fait pour le changement](https://vinted.engineering/2015/01/02/proper-git/) (par exemple, <i>"bug corrigé”</i> 🙈). Demandez-vous si d'autres personnes ou vous-même dans 6 mois comprendront de quoi il s'agit sans regarder le code ? Envisagez de diviser un grand commit en plusieurs commits si cela facilite la compréhension et n'oubliez pas que Github est un outil de collaboration et doit être utilisé comme tel.
 
+### 5. Se balancer de branche en branche
+
+Supposons que vous ayez un premier prototype et que vous souhaitiez développer des fonctionnalités en parallèle. C'est là que les branches entrent en jeu. Les branches sont une partie importante du travail avec Git. Tous les commits que vous faites seront faits sur la branche sur laquelle vous êtes actuellement et vous pouvez voir les différentes branches en utilisant
+
+```sh
 git branch -l
-You can create a new branch locally, for example called “feature/x”, using
+```
 
+Vous pouvez créer une nouvelle branche localement, par exemple appelée <i>"feature/x"</i>, en utilisant
+
+```sh
 git branch feature/x
-And you can delete this same branch by adding the flag -d after git branch
+```
 
-Now you can switch to a specific branch or commit (this will update your local working directory) with the first or second command line below
+Et vous pouvez supprimer cette même branche en ajoutant le drapeau `-d` après `git branch`
 
+Vous pouvez maintenant basculer vers une branche ou un commit spécifique (cela mettra à jour votre répertoire de travail local) avec la première ou la deuxième ligne de commande ci-dessous
+
+```sh
 git checkout feature/x
 git checkout commit_id
+```
 
-Each branch tends to diverge naturally with different objectives and features. You can join their development history back together by “merging” branches, i.e., incorporating changes from one branch to another. By default,
+{{< figure src="blog-git-3.jpg" caption="Photo de Leah Kelley sur Pexels" numbered="true" >}}
 
+Chaque branche a tendance à diverger naturellement avec des caractéristiques différentes. Vous pouvez reconstituer leur historique de développement en « fusionnant » les branches, c'est-à-dire en incorporant les changements d'une branche à l'autre. Par défaut,
+
+```sh
 git merge
-combines the remote tracking branches into the current local branch and
+```
 
+combine la branche suivi à distance dans la branche locale actuelle et
+
+```sh
 git merge origin [branch]
-combines the specified branch’s history into the current branch. This is usually done in pull requests (more on this in the next section)
+```
 
-Finally, a few words on git rebase . Rebase applies the commits of a branch on top of another branch’s HEAD (it’s also known as fast forwarding). It should be used carefully because it modifies the commits themselves and therefore can become a mess if done on a branch with many collaborators. I personally find the command below quite helpful to clean the version history of a branch or integrate changes done on the master branch and affecting your code (-i stands for interactive mode)
+combine l'historique de la branche spécifiée dans la branche actuelle. Cela se fait généralement dans les "pull requests" (plus d'informations à ce sujet dans la section suivante).
 
+Enfin, quelques mots sur `git rebase`. Rebase applique les commits d'une branche au-dessus du HEAD d'une autre branche (c'est aussi connu sous le nom de fast forwarding). Il doit être utilisé avec précaution car il modifie les commits eux-mêmes et peut donc devenir problématique s'il est effectué sur une branche avec de nombreux collaborateurs. Personnellement, je trouve la commande utile pour nettoyer l'historique des versions d'une branche ou pour intégrer des modifications apportées à la branche principale (`-i` signifie mode interactif)
+
+```sh
 git rebase -i master
-Note: Other methods like cherry-pick exist and are not further discussed here since they are less popular and less useful on a day to day basis.
+```
 
-6. Synchronize changes
-At this point, you did some changes in your local repository and modified the version history of your local branch “feature/x”. In the meantime, your friend and colleague also modified the version history of the same remote branch. What to do now?
+### 6. Synchroniser les modifications
 
-The first step is to download all history from the remote tracking branches. You can do so with
+À ce stade, vous avez apporté quelques modifications à votre dosser local et modifié l'historique des versions de votre branche locale <i>"feature/x"</i>. Entre-temps, votre ami et collègue a également modifié l'historique des versions de la même branche distante. Que faire maintenant?
 
+La première étape consiste à télécharger tout l'historique des branches de suivi à distance. Vous pouvez le faire avec
+
+```sh
 git fetch
-Then, you actually need to merge these remote tracking branches in your local branches. You can simply use
+```
 
+Ensuite, vous devez réellement fusionner ces branches de suivi à distance dans vos branches locales. Vous pouvez simplement utiliser
+
+```sh
 git pull origin feature/x
-as a combination of git fetch and git merge to get changes from the remote repository. If you’re lucky, everything worked well. Otherwise, if git merge returns “Automatic merge failed; fix conflicts and then commit the result”, it means your friend and you both modified the same code and conflicts need to be resolved manually. In such case, git status will help you find which files are modified on both branches and git diff will show where the conflicts are. These are marked and delimited in the code with >>>> ,====, <<<< which makes it easy to detect and modify with a text editor, until all conflicts are resolved. When you’re done, your local working branch is up to date with all new commits from the corresponding remote branch on GitHub.
+```
 
-Finally, you can send your commit to the remote repository and grab a snack. Congrats!
+en tant que combinaison de `git fetch` et `git merge` pour obtenir les modifications du dossier distant. Si vous avez de la chance, tout a bien fonctionné. Sinon, si `git merge` renvoie <i>"Automatic merge failed; fix conflicts and then commit the result"</i>, cela signifie que votre ami et vous avez tous les deux modifié le même code et que les conflits doivent être résolus manuellement. Dans ce cas, `git status` vous aidera à trouver quels fichiers sont modifiés sur les deux branches et git diff vous montrera où se trouvent les conflits. Ceux-ci sont marqués et délimités dans le code par `>>>>`, `====`, `<<<<` ce qui facilite la détection et la modification avec un éditeur de texte, jusqu'à ce que tous les conflits soient résolus. Lorsque vous avez terminé, votre branche de travail locale est à jour avec tous les nouveaux commits de la branche distante correspondante sur GitHub.
 
+Enfin, vous pouvez envoyer votre commit au dossier distant et prendre une collation. Félicitations!
+
+```sh
 git push origin feature/x
-Note: In some situations, e.g., all changes were done on master but were meant to be done on branch “feature/x”, it’s convenient to “stash” the changes in a dirty working directory before adding them to the version history. You can do so and apply the modification on the right branch using
+```
 
+Remarque : Dans certaines situations, par exemple, toutes les modifications ont été effectuées sur master mais devaient être effectuées sur la branche <i>"feature/x"</i>, il est pratique de <i>"cacher"</i> les modifications. dans un répertoire de travail modifié avant de les ajouter à l'historique des versions. Vous pouvez le faire et appliquer la modification sur la bonne branche en utilisant
+
+```sh
 git stash
 git checkout feature/x
 git stash apply
+```
 
-7. Tag your commits
-Git is a version-control system and helps keep track of different versions. You might want to tag some of these with a human readable name such as “alpha”, “beta”, “v0.0.1” or “v0.0.2”. The syntax is given below. Although this step is entirely optional, I like to think of it as a way to celebrate milestones and victories 🎉
+### 7. Taguez vos commits
 
+Git est un système de contrôle de version et aide à garder une trace des différentes versions. Vous voudrez peut-être marquer certains d'entre eux avec un nom lisible tel que "alpha", "beta", "v0.0.1" ou "v0.0.2". La syntaxe est donnée ci-dessous. Bien que cette étape soit entièrement facultative, c'est une belle façon de célébrer les jalons et les victoires 🎉
+
+```sh
 git tag [label] [commit]
-Final words
-You’re done with this crash course, well done! You’re ready to collaborate with people across the globe. Don’t forget it takes time and practice to master a tool like Github and if you want to go further, check the reference below or just ask around you for some help
+```
 
-[1] Git Documentation
-[2] GitHub Git Cheatsheet
-[3] Visual Git Cheatsheet
-[4] Vinted Proper Git
+## Derniers mots
 
+Vous avez terminé avec ce cours, bravo ! Vous êtes prêt à collaborer avec des personnes du monde entier. N'oubliez pas qu'il faut du temps et de la pratique pour maîtriser un outil comme Github et si vous souhaitez aller plus loin, consultez la référence ci-dessous ou demandez simplement de l'aide autour de vous.
 
+{{< figure src="blog-git-4.png" caption="Visual Git Cheatsheet par Andrew Perterson" numbered="true" >}}
+
+[1] [Documentation Git](https://git-scm.com/doc) <br>
+[2] [GitHub Git Cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet/) <br>
+[3] [Visual Git Cheatsheet](https://ndpsoftware.com/git-cheatsheet.html) <br>
+[4] [Vinted Proper Git](https://vinted.engineering/2015/01/02/proper-git/)

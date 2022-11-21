@@ -1,76 +1,88 @@
 ---
-title: 5 alternative ways to learn a language effectively
+title: 5 façons alternatives d'apprendre une langue efficacement
 date: 2022-03-29
 ---
 
-The most chill, adventurous, social, in rhythm and intellectual
+Le plus tranquille, aventureux, social, en rythme et intellectuel
 
 <!--more-->
 
-Learning languages, practicing with friends, colleagues, people in a restaurant, at a market or on travel is simply amazing and totally worth the experience. Saying hi or thank you in someone’s language is usually enough to trigger a conversation and the more you know that language, some jokes or rhymes, the more that conversation can go deep and get intimate.
+Apprendre des langues, pratiquer avec des amis, des collègues, des gens dans un restaurant, sur un marché ou en voyage est tout simplement incroyable et vaut vraiment l'expérience. Dire <i>bonjour</i> ou <i>merci</i> dans la langue de quelqu'un est généralement suffisant pour déclencher une conversation et plus vous connaissez cette langue, quelques blagues ou rimes, plus cette conversation peut devenir intéressante ou intime.
 
-Learning a new language will help you make connections and be more empathic. It’s one of the best investments you could make today and which will pay off tomorrow. It will broaden your horizon, open you up to a new culture, challenge your beliefs and make you see society and life in a new way.
+{{< figure src="blog-lang-1.jpeg" caption="Photo de Lady Escabia sur Pexels" numbered="true" >}}
 
-After American and French, I learned German and Japanese at school, Spanish and Italian with Duolingo, a gamified application, and although these were helpful to get started, I quickly hit the ceiling. In this short post, I’ll present 5 alternative ways to learn a language effectively. Let me know if you have suggestions to add to the list or which one you prefer. 😉
+Apprendre une nouvelle langue vous aidera à établir des liens et à être plus empathique. C'est l'un des meilleurs investissements que vous puissiez faire aujourd'hui et qui paiera demain. Cela élargira votre horizon, vous ouvrira à une nouvelle culture, défiera vos croyances et vous fera voir la société et la vie d'une nouvelle manière.
 
-Before diving into these different approaches, I’d like to highlight that learning a language takes some time, requires some efforts and to be successful, you need to be truly motivated and patient. We all have our own motivations when it comes to learning a language, linked to personal or professional endeavors, traveling abroad, connecting with origins or following our heart. Find your motivation, the rest will flow and now let’s dive into these 5 alternative ways.
+Après l'américain et le français, j'ai appris l'allemand et le japonais à l'école, l'espagnol et l'italien avec Duolingo, une application divertissante, et bien qu'ils aient été utiles pour démarrer, j'ai vite atteint le plafond. Dans ce court article, je vais vous présenter <b>5 méthodes alternatives pour apprendre une langue efficacement</b>. Faites-moi savoir si vous avez des suggestions à ajouter à la liste ou celle que vous préférez. 😉
 
-#1 The most chill: Netflix, podcasts & series
+Avant de plonger dans ces différentes approches, je voudrais souligner qu'apprendre une langue prend du temps, demande des efforts et pour réussir, il faut être vraiment motivé et patient. Nous avons tous nos propres motivations lorsqu'il s'agit d'apprendre une langue, liées à des projets personnels ou professionnels, à des voyages à l'étranger, à nos origines ou à notre cœur. Trouvez votre motivation, le reste suivra et maintenant plongeons dans ces 5 façons alternatives.
 
-This is maybe the most obvious one.
+## Le plus tranquille: Netflix, podcasts & séries
 
-We spend ages on screens, consuming media, so it makes sense to switch the audio or subtitles once in a while to another language if you’re trying to learn one. This usually helps people better listen to foreign languages, pay attention to intonation, body language, and it works well.
+{{< figure src="blog-lang-2.jpeg" caption="Photo de Johann Pictures sur Pexels" numbered="true" >}}
 
-I watched the story behind Vespa with my family, and I think the original Italian version does a better job at conveying the emotions of the characters, resulting in a better movie experience. More recently I started to do my meditation with PetitBambou in Italian, 15 minutes every day.
+C'est peut-être le plus évident.
 
-All you need to do is switch the language.
+Nous passons des heures sur les écrans, à consommer des médias, il est donc logique de changer de temps en temps l'audio ou les sous-titres dans une autre langue si vous essayez d'en apprendre une. Cela aide généralement à mieux écouter les langues étrangères, à faire attention à l'intonation, au langage corporel et cela fonctionne bien.
 
-#2 The most adventurous: Travel & work abroad
+J'ai regardé l'histoire derrière Vespa avec ma famille, et je pense que la version italienne originale transmet mieux les émotions des personnages, ce qui se traduit par une meilleure expérience cinématographique. Plus récemment j'ai commencé à faire ma méditation avec Petit Bambou en italien, 15 minutes par jour, chaque jour.
 
-Working on a farm, for example through the World of Opportunities on Organic Farms network (WOOF), is by far one of the best way to travel and immerse yourself in another culture, practice the local language and more. Of course, this can be extended to other kind of volunteering, working or educative experiences.
+Tout ce que vous avez à faire est de changer de langue.
 
-I’ve been doing this for a month in Bologna, Italy, and it boosted my confidence to speak the local language. In addition, I learned a lot about organic farming, animal well-fare, met lovely people and took time for myself.
+## Le plus aventureux : voyager et travailler à l'étranger
 
-Ready to pack your bag?
+{{< figure src="blog-lang-3.jpeg" caption="Photo de Rattasat sur Pexels" numbered="true" >}}
 
-#3 The most social: Meet some friends or a partner
+Travailler dans une ferme, par exemple via le réseau World of Opportunities on Organic Farms (WOOF), est de loin l'un des meilleurs moyens de voyager et de s'immerger dans une autre culture, de pratiquer la langue locale et plus encore. Bien sûr, cela peut être étendu à d'autres types de volontariat, de travail ou d'expériences éducatives.
 
-Having somebody to speak with just makes learning a language totally worth it and after a glass or two, speaking another language seems easier.
+J'ai fait cela pendant un mois à Bologne, en Italie, et cela a renforcé ma confiance pour parler la langue locale. De plus, j'ai beaucoup appris sur l'agriculture biologique, le bien-être animal, rencontré des gens adorables et pris du temps pour moi.
 
-There’s a ton of opportunities in large cities to find bars with locals or foreigners and practice your new skill. Start with a hi and then move on with whatever feels the most appropriate and natural, a compliment, a question, a joke, you choose.
+Prêt à faire votre valise ?
 
-You can also do this during the day, in a café, in a museum, sober, anywhere. There are some groups, meet-ups that organize events to speak languages if you want to find people in the same mood.
+## Le plus social : rencontrer des amis ou un partenaire
 
-Check what’s going on in your city, look around and be curious!
+{{< figure src="blog-lang-4.jpeg" caption="Photo de cottonbro sur Pexels" numbered="true" >}}
 
-#4 The most in rhythm: Sing, sing, sing
+Avoir quelqu'un à qui parler fait que l'apprentissage d'une langue en vaut vraiment la peine et après un verre ou deux, parler une autre langue semble plus facile.
 
-This is my favorite one. Singing and dancing makes me feel happy. It makes me smile. In a group, it gets funnier. Karaoke nights are hilarious and in Japan it’s really famous to spend your night there before trains open in the morning. So with friends we compiled a few artists by languages you might want to check to warm up your day and your voice.
+Il y a une tonne d'opportunités dans les grandes villes pour trouver des bars avec des locaux ou des étrangers et pratiquer votre nouvelle compétence. Commencez par un bonjour, puis passez à ce qui vous semble le plus approprié et le plus naturel, un compliment, une question, une blague, vous choisissez.
 
-- Arabic: Fayrouz, Sabah fakhry, Um kalthum
-- English: Aretha Franklin, Amy Winehouse, Bob Marley, Michael Jackson
-- French: Edith Piaf, Georges Brassens, Jean Ferrat, Joe Dassin, Muriel Moreno, Serge Gainsbourg, Zaz
-- German: Die Ärzte, Hildegard Knef
-- Italian: Franco Battiato, Fred Buscaglione, Pino Daniele, Rino Gaetano
-- Lithuanian: Labas rytas, MG international
-- Polish: Czesław Niemen, Happysad, Pidżama Porno, Strachy na Lachy
-- Spanish: Gipsy, Manu Chao
+Vous pouvez aussi le faire pendant la journée, dans un café, dans un musée, sobre, n'importe où. Il y a des groupes, des meetups qui organisent des événements pour parler des langues si vous voulez trouver des gens dans la même humeur.
 
-#5 The most intellectual: Translate a book
+Vérifiez ce qui se passe dans votre ville, regardez autour de vous et soyez curieux !
 
-Why not? I gave it a try, picking up the first chapter from Simone de Beauvoir’s autobiography in Italian, Memoria di una ragazza perbene, and I struggled.
+## Le plus en rythme : Chante, chante, chante
 
-Language is ambiguous by nature. Each language has its own specificities and some words or sentences are impossible to translate, but practicing your reading and writing is definitely one of the best way to progress and learn a language. Plus it’s definitely worth the experience to sit in a café or in a park with a book and take some time for yourself.
+{{< figure src="blog-lang-5.jpeg" caption="Photo de Andrea Piacquadio sur Pexels" numbered="true" >}}
 
-Take away
-Learning a new language will broaden your horizon and help you connect with people, but it requires some time and efforts. The secret to learn a new language, or many other skills, is motivation and patience.
+C'est mon préféré. Chanter et danser me rend heureux. Cela me fait sourire. En groupe, ça devient plus drôle. Les soirées karaoké sont hilarantes et au Japon, il est très célèbre d'y passer la nuit avant l'ouverture des trains le matin. Ainsi, avec des amis, nous avons compilé quelques artistes par langues que vous voudrez peut-être consulter pour réchauffer votre journée et votre voix.
 
-If you feel ready, the 5 alternative ways to learn a language effectively are summarized below:
+- <b>Arabe</b> : Fayrouz, Sabah fakhry, Um kalthum
+- <b>Anglais</b> : Aretha Franklin, Amy Winehouse, Bob Marley, Michael Jackson
+- <b>Français</b> : Edith Piaf, Georges Brassens, Jean Ferrat, Joe Dassin, Muriel Moreno, Serge Gainsbourg, Zaz
+- <b>Allemand</b> : Die Ärzte, Hildegard Knef
+- <b>Italien</b> : Franco Battiato, Fred Buscaglione, Pino Daniele, Rino Gaetano
+- <b>Lituanien</b> : Labas rytas, MG international
+- <b>polonais</b> : Czesław Niemen, Happysad, Pidżama Porno, Strachy na Lachy
+- <b>Espagnol</b> : Gipsy, Manu Chao
 
-1. The most chill: Netflix, podcasts & series.
-2. The most adventurous: Travel & work abroad.
-3. The most social: Meet some friends or a partner.
-4. The most in rhythm: Sing, sing, sing.
-5. The most intellectual: Translate a book.
+## Le plus intellectuel : Traduire un livre
 
-Language is something we came up with to communicate with each other, share feelings, opinions, thoughts, collaborate and more. As put by Kate Jeffrey, Professor in neuroscience at UCL, “with language we have gone further than any species on Earth, we went on the Moon”. The world would be more peaceful if we all started to learn a language with empathy. 💕
+{{< figure src="blog-lang-6.jpeg" caption="Photo de Wendelin Jacober sur Pexels" numbered="true" >}}
+
+Pourquoi pas? J'ai essayé, en prenant le premier chapitre de l'autobiographie de Simone de Beauvoir en italien, Memoria di una ragazza perbene, et j'ai eu du mal.
+
+Le langage est ambigu par nature. Chaque langue a ses propres spécificités et certains mots ou phrases sont impossibles à traduire, mais pratiquer la lecture et l'écriture est certainement l'un des meilleurs moyens de progresser et d'apprendre une langue. De plus, cela vaut vraiment la peine de s'asseoir dans un café ou dans un parc avec un livre et de prendre du temps pour soi.
+
+## Emporter
+Apprendre une nouvelle langue élargira vos horizons et vous aidera à vous connecter avec les gens, mais cela demande du temps et des efforts. Le secret pour apprendre une nouvelle langue, ou bien d'autres compétences, est la motivation et la patience.
+
+Si vous vous sentez prêt, les 5 façons alternatives d'apprendre une langue efficacement sont résumées ci-dessous :
+
+1. <b>Le plus tranquille</b> : Netflix, podcasts et séries.
+2. <b>Le plus aventureux</b> : Voyager et travailler à l'étranger.
+3. <b>Le plus social</b> : Rencontrez des amis ou un partenaire.
+4. <b>Le plus en rythme</b> : Chantez, chantez, chantez.
+5. <b>Le plus intellectuel</b> : Traduire un livre.
+
+Le langage est quelque chose que nous avons inventé pour communiquer les uns avec les autres, partager des sentiments, des opinions, des pensées, collaborer et plus encore. Comme le dit Kate Jeffrey, professeur de neurosciences à l'UCL, <i>"avec le langage, nous sommes allés plus loin que n'importe quelle espèce sur Terre, nous sommes allés sur la Lune"</i>. Le monde serait plus paisible si nous commencions tous à apprendre une langue avec empathie. 💕
