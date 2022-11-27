@@ -7,9 +7,9 @@ widget: people
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 20
 
-title: Meet the Team
+title: Mentor and private teacher
 subtitle:
 
 content:
