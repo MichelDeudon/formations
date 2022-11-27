@@ -1,5 +1,5 @@
 ---
-title: Physique-Chimie
+title: Cours particuliers de physique-chimie
 linkTitle: Physique-Chimie
 summary: Soutien scolaire en physique et chimie niveau college et lycée à Montpellier. Physique statistique et calcul quantique en études supérieures.
 date: '2015-01-04'
@@ -10,34 +10,26 @@ tags:
 
 {{< figure src="featured.jpg" >}}
 
-{{< toc hide_on="xl" >}}
+## Présentation
 
-## What you will learn
+> <i> Vous ne pouvez espérer construire un monde meilleur sans améliorer les individus. À cette fin, chacun de nous doit travailler à sa propre amélioration et, en même temps, partager une responsabilité générale pour toute l'humanité, notre devoir particulier étant d'aider ceux pour qui nous pensons être le plus utile. </i> - Marie Curie, double prix nobel (physique et chimie)
 
-- Fundamental {{<hl>}}Python programming skills{{</hl>}}
-- {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
-- Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
+J'enseigne depuis 10 ans la physique et la chimie, avec passion, patience et empathie, en cherchant à donner à mes élèves la confiance, l'intuition et les bons réflexes nécessaires pour devenir autonome. En particulier, j'aide mes étudiants à se poser les bonnes questions pour résoudre des problèmes, à bien les visualiser, à se les approprier à travers des exemples concrets et développer des automatismes pour résoudre plus efficacement des exercices.
 
-## Program overview
+Ma méthode est très pratique. On essaie, on voit où ça coince, on en discute. On s'assure de ne plus être bloqué dans des situations similaires. On transforme chaque erreur en essai pour gagner en sérénité et efficacité. Contactez votre instructeur et commencez dès aujourd'hui !
 
-The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
-
-## Courses in this program
+## Pour aller plus loin
 
 {{< list_children >}}
 
-## Meet your instructor
-
-{{< mention "admin" >}}
-
 ## FAQs
 
-{{< spoiler text="Are there prerequisites?" >}}
-There are no prerequisites for the first course.
+{{< spoiler text="Y a-t-il des prérequis?" >}}
+Il n'y a pas de prérequis pour le premier cours.
 {{< /spoiler >}}
 
-{{< spoiler text="How often do the courses run?" >}}
-Continuously, at your own pace.
+{{< spoiler text="À quelle fréquence les cours ont-ils lieu ?" >}}
+Aussi souvent que vous en avez besoin. Idéalement une à deux fois par semaine.
 {{< /spoiler >}}
 
-{{< cta cta_text="Begin the course" cta_link="python" >}}
+{{< cta cta_text="Commencer la formation" cta_link="mailto:michel.deudon@hotmail.com?subject=Demande de cours particuliers de physique-chimie">}}
