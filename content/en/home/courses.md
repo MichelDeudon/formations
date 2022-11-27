@@ -1,7 +1,7 @@
 ---
 widget: portfolio
 headless: true
-weight: 30
+weight: 20
 title: Explore top courses
 subtitle:
 content:

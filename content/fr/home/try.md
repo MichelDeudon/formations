@@ -2,9 +2,9 @@
 title: Prêt à apprendre?
 subtitle:
 widget: blank
-weight: 50
+weight: 40
 design:
   columns: '1'
 ---
 
-{{% cta cta_link="./course/" cta_text="Explorer nos formations!" %}}
+{{% cta cta_link="./course/" cta_text="Explorer les formations!" %}}

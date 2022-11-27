@@ -16,6 +16,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include psychology, language learning and ecology.
 
+interests:
+  - Psychology
+  - Language learning
+  - Ecology
+
 education:
   courses:
     - course: MBA
@@ -65,8 +70,8 @@ user_groups:
   - Teachers
 ---
 
-Hi! My name is Michel, pronounced Michael in English, and I'm born in New York. I worked in Berlin, London, San Francisco, Montréal and Tokyo, lived more than 10 years abroad and I'm passionate about teaching, learning languages, psychology and rollerblading!
+Hi! I'm Michael, I'm born in New York and lived more than 10 years abroad - in Berlin, London, SF, Montréal, Paris and Tokyo. 
 
-Since 2012, I mentor people and offer my services as a private teacher, coach or volunteer for parents, non profits or organizations, from primary school to high school and higher education. I offer reskilling and upskilling opportunities for adults in companies and start-ups - on data science, data protection, frugal innovation and computational linguistics, etc.
+Passionate about teaching, learning and psychology, I mentor students and offer my services as a private teacher or coach for parents, non profits and organizations, from primary to high school, in english, science, and higher education in mathematics. I offer reskilling and upskilling opportunities for adults - in data science, data protection, on GDPR, and I started to work on a course on frugal innovation and computational linguistics for 2023.
 
-I graduated from Polytechnique in 2017 and presented novel methods in operations research and linguistics at international conferences in 2018 (CPAIOR and Neurips). I worked at Accenture, ElementAI, with ESA and at Vinted as a research engineer / senior data scientist, as well as non profits in France, Italy and the UK in various roles. My work was featured in [CNES's spacegate](https://spacegate.cnes.fr/fr/covid-19-venise-sans-les-bateaux) and received 3 ESA prizes with some colleagues. I had an opportunity to mentor PhD students at NASA FDL in 2019 and facilitate a thesis for France's General Secretariat for Defence and National Security in 2021. Since 2020, I am also co-president of [Local Seasonal](https://www.local-seasonal.org/en/), a French non profit to celebrate diversity along the seasons.
+I graduated from Polytechnique in 2017 and presented research at [CPAIOR](https://hanalog.ca/wp-content/uploads/2018/11/cpaior-learning-heuristics-6.pdf) and [Neurips](https://papers.nips.cc/paper/2018/hash/97e8527feaf77a97fc38f34216141515-Abstract.html) 2018. I worked at Accenture, ElementAI, with ESA and at Vinted as a research engineer / senior data scientist, as well as non profits in France, Italy and the UK in various roles. My work was featured in [CNES's spacegate](https://spacegate.cnes.fr/fr/covid-19-venise-sans-les-bateaux) and received 3 ESA prizes. I had an opportunity to mentor PhD students at NASA FDL in 2019. Since 2020, I am also co-president of [Local Seasonal](https://www.local-seasonal.org/en/), a French non profit to celebrate diversity along the seasons. In my spare time, I like to dance, rollerblade and I enjoy outdoor activities, especially skiing and surfing.

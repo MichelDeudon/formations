@@ -6,7 +6,7 @@ title: Michel Deudon
 superuser: true
 
 # Role/position
-role: Formateur pro et professeur particulier
+role: Enseignant et mentor
 
 # Organizations/Affiliations
 organizations:
@@ -19,7 +19,7 @@ bio: Mes intérêts de recherche incluent la psychologie, l'apprentissage des la
 interests:
   - Psychologie
   - Linguistique
-  - Développement durable
+  - Ecologie
 
 education:
   courses:
@@ -70,8 +70,8 @@ user_groups:
   - Teachers
 ---
 
-Depuis 2012, je forme, soutien et accompagne des talents. J’offre mes services de professeur particulier, d'enseignant vacataire, mentor, coach ou bénévole auprès de parents, d’associations ou d’institutions pour des élèves du primaire, collège, lycée ou supérieur. Je propose des formations en continue pour des adultes en entreprises et startups de l’economie sociale et solidaire - sur la protection des données personnelles, l’innovation, les sciences des données, un accompagnement sur des sujets transverses ou certains domaines (esanté, spatial, alimentation, 2nd main).
+Bonjour! Je m'appelle Michel, je suis né à New York et j'ai vécu plus de 10 ans à l'étranger - à Berlin, Londres, SF, Montréal, Paris et Tokyo.
 
-<br>
+Passionnée par l'enseignement, l'apprentissage et la psychologie, je mentor des étudiants et offre mes services comme professeur particulier ou coach pour les parents, les associations et les organisations, du primaire au lycée, en anglais, en sciences et en enseignement supérieur en mathématiques. J'offre des opportunités de reconversion et de perfectionnement pour les adultes - en science des données, en protection des données, sur le RGPD, et j'ai commencé à travailler sur un cours sur l'innovation frugale et la linguistique computationnelle pour 2023.
 
-Je suis diplômé de l’X et du Collège des Ingénieurs. J'ai appris chez Vinted, ElementAI, Accenture et de collaborations avec des universités et associations en France et au Canada, Japon, le UK, les US. Je suis également co-président de Local Seasonal, une association pour célébrer la diversité au fil des saisons et fan de sports extrêmes.
+Je suis diplômé de Polytechnique depuis 2017 et j'ai présenté des recherches à [CPAIOR](https://hanalog.ca/wp-content/uploads/2018/11/cpaior-learning-heuristics-6.pdf) et [Neurips](https:/ /papers.nips.cc/paper/2018/hash/97e8527feaf77a97fc38f34216141515-Abstract.html) en 2018. J'ai travaillé chez Accenture, ElementAI, avec ESA et chez Vinted en tant qu'ingénieur de recherche / data scientist senior, ainsi qu'avec des organisations à but non lucratif en France, Italie et au Royaume-Uni dans divers rôles. Mes travaux ont recu l'attention du [CNES](https://spacegate.cnes.fr/fr/covid-19-venise-sans-les-bateaux) et 3 prix ESA. J'ai eu l'opportunité d'encadrer des doctorants à NASA FDL en 2019. Depuis 2020, je suis également co-président de [Local Seasonal](https://www.local-seasonal.org/en/), une association loi 1901 pour célébrer la diversité au fil des saisons. Dans mes temps libres, j'aime danser, faire du roller et j'aime les activités de plein air, notamment le ski et le surf.
