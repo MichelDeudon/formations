@@ -1,5 +1,5 @@
 ---
-title: 📊 Data Science
+title: Data Science
 linkTitle: Data Science
 summary: Upskilling or reskilling in data science for public or private organisations, startups or universities. <br>
 date: '2021-01-24'

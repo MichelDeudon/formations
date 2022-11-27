@@ -1,5 +1,5 @@
 ---
-title: 📐 Mathématiques
+title: Mathématiques
 linkTitle: Maths
 summary: Soutien scolaire en mathématiques niveau college et lycée à Montpellier. Statistiques, programmation, sciences des données en études supérieures.
 date: '2015-01-04'

@@ -1,5 +1,5 @@
 ---
-title: 📊 Sciences des données
+title: Sciences des données
 linkTitle: Sciences des données
 summary: Montée en compétence ou reconversion en science des données pour des organisations publiques ou privées, startups ou universités. <br>
 date: '2021-01-24'

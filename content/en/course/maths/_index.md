@@ -1,5 +1,5 @@
 ---
-title: 📐 Maths
+title: Maths
 linkTitle: Maths
 summary: Tutoring in mathematics at college and high school level in Montpellier. Statistics, programming, data science for higher education.
 date: '2015-01-04'

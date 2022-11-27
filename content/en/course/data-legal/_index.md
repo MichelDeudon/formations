@@ -1,5 +1,5 @@
 ---
-title: ⚖️ Data protection
+title: Data protection
 linkTitle: Data protection
 summary: Upskilling in personal data protection, Human rights and freedoms, for public or private organizations, start-ups or universities.
 date: '2021-01-24'
