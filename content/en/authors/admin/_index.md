@@ -32,9 +32,6 @@ education:
     - course: MSc in applied mathematics
       institution: Ecole Polytechnique
       year: 2017
-    - course: Undergrad in physics & chemistry
-      institution: Lycée Pasteur
-      year:
     - course: Scientific baccalaureate
       institution: Lycée Pasteur
       year: 2012
@@ -70,6 +67,6 @@ user_groups:
   - Teachers
 ---
 
-Hi! I'm Michael, I'm born in New York and lived more than 10 years abroad. I'm passionate about teaching, learning and psychology. I mentor students and offer my services as a private teacher or coach, from primary to high school, in english, science, and higher education in mathematics since 2012. I also offer reskilling and upskilling opportunities for adults - in data science, personal data protection, etc.
+Hi! I'm Michael, I'm born in New York and lived more than 10 years abroad. I'm passionate about teaching, learning and psychology. I mentor students and offer my services as a private teacher, tutor or coach, from primary to high school, in english, science, and higher education in mathematics since 2012. I also offer reskilling and upskilling opportunities for adults - in data science, personal data protection, innovation, etc.
 
-I graduated from Polytechnique in 2017 and presented research at [CPAIOR](https://hanalog.ca/wp-content/uploads/2018/11/cpaior-learning-heuristics-6.pdf) and [Neurips](https://papers.nips.cc/paper/2018/hash/97e8527feaf77a97fc38f34216141515-Abstract.html) 2018. I worked at Accenture, ElementAI, with ESA and at Vinted as a senior data scientist, as well as non profits in various roles. My work was featured in [CNES's spacegate](https://spacegate.cnes.fr/fr/covid-19-venise-sans-les-bateaux) and received 3 ESA prizes. I had an opportunity to mentor PhD students at NASA FDL in 2019. Since 2020, I am also co-president of [Local Seasonal](https://www.local-seasonal.org/en/), a French non profit to celebrate diversity along the seasons. In my spare time, I like to dance, rollerblade and I enjoy outdoor activities, especially skiing and surfing.
+I graduated from Polytechnique in 2017 and presented research at [CPAIOR](https://hanalog.ca/wp-content/uploads/2018/11/cpaior-learning-heuristics-6.pdf) and [Neurips](https://papers.nips.cc/paper/2018/hash/97e8527feaf77a97fc38f34216141515-Abstract.html) 2018. I worked at Accenture, ElementAI, with ESA and at Vinted as a senior data scientist, as well as non profits in various roles. My work was featured in [CNES's spacegate](https://spacegate.cnes.fr/fr/covid-19-venise-sans-les-bateaux) and received 3 ESA prizes. Since 2020, I am also co-president of [Local Seasonal](https://www.local-seasonal.org/en/), a French non profit to celebrate diversity along the seasons. In my spare time, I like to dance, rollerblade and I enjoy outdoor activities, especially skiing and surfing.
