@@ -74,7 +74,7 @@ Pourquoi pas? J'ai essayé, en prenant le premier chapitre de l'autobiographie d
 
 Le langage est ambigu par nature. Chaque langue a ses propres spécificités et certains mots ou phrases sont impossibles à traduire, mais pratiquer la lecture et l'écriture est certainement l'un des meilleurs moyens de progresser et d'apprendre une langue. De plus, cela vaut vraiment la peine de s'asseoir dans un café ou dans un parc avec un livre et de prendre du temps pour soi.
 
-## Emporter
+## En résumé
 Apprendre une nouvelle langue élargira vos horizons et vous aidera à vous connecter avec les gens, mais cela demande du temps et des efforts. Le secret pour apprendre une nouvelle langue, ou bien d'autres compétences, est la motivation et la patience.
 
 Si vous vous sentez prêt, les 5 façons alternatives d'apprendre une langue efficacement sont résumées ci-dessous :
