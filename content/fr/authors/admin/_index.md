@@ -6,7 +6,7 @@ title: Michel Deudon
 superuser: true
 
 # Role/position
-role: Enseignant et mentor
+role: Enseignant et professeur particulier de mathématiques, physique-chimie et anglais
 
 # Organizations/Affiliations
 organizations:

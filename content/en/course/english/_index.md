@@ -1,5 +1,5 @@
 ---
-title: English
+title: English private lessons
 linkTitle: English
 summary: Tutoring in English. Support for professional and personal projects, university applications, CV and cover letters to travel, study or work abroad!
 date: '2015-01-04'
@@ -10,22 +10,13 @@ tags:
 
 {{< figure src="featured.jpg" >}}
 
-{{< toc hide_on="xl" >}}
-
-## What you will learn
-
-- Basic to advanced {{<hl>}}vocabulary, grammar, spelling{{</hl>}}
-- How to speak and pronounce words like an {{<hl>}}American or a Briton{{</hl>}}
-- Broaden your {{<hl>}}culture{{</hl>}}, including American/British proverbs and history
-- Ace your {{<hl>}}tests{{</hl>}} (Toefl, Toeic…) and improve your {{<hl>}}writing skills{{</hl>}} in any situation (cover letter, CV/resume, article/blog, etc)
-
 ## Program overview
 
-Learning English is one of the best investment you can make today to become independent. It will bring you work opportunities, give you access to tons of ressources to learn from, and friendships across the world. The best way to learn English boils down to three words - "Practice, practice, practice". In this course, you will have many opportunities to practice with a native American born in New York. Whether you're a beginner or advanced in English, whether you need help with your homework, tests, assignments, would like to proofread an important document or simply want to practice speaking, this program is tailor-made for you. Contact your instructor and start today!
+Learning English is [one of the best investment](https://www.mtpcours.fr/en/post/22-03-29-language-learning/) you can make today to become independent. It will give you access to tons of ressources to learn from, bring you work opportunities, and friendships across the world. 
 
-## Meet your instructor
+The best way to learn English boils down to three words - <i>"Practice, practice, practice"</i>. In this course, you will have many opportunities to practice with a native American born in New York. It's an opportunity to deepen your vocabulary, grammar and spelling, learn to speak and pronounce words like a native, and an opportunity to expand your culture, including proverbs and American / British history.
 
-{{< mention "admin" >}}
+Whether you're a beginner or advanced in English, whether you need help with your homework, assignments, tests (Toefl, Toeic), would like to proofread an important document (cover letter, cv, article/blog) or simply want to practice speaking, this program is tailor-made for you. Contact your instructor and start today!
 
 ## FAQs
 

@@ -1,7 +1,7 @@
 ---
-title: Anglais
+title: Cours particuliers d'anglais
 linkTitle: Anglais
-summary: Soutien scolaire en anglais par Américain natif. Accompagnement des candidatures aux universités, CV et lettres de motivation pour étudier, travailler ou partir à l'étranger!
+summary: Soutien scolaire en anglais par américain natif. Accompagnement des candidatures aux universités, CV et lettres de motivation pour étudier, travailler ou partir à l'étranger!
 date: '2015-01-04'
 type: book
 tags:
@@ -10,22 +10,13 @@ tags:
 
 {{< figure src="featured.jpg" >}}
 
-{{< toc hide_on="xl" >}}
+## Présentation
 
-## What you will learn
+Apprendre l'anglais est l'[un des meilleurs investissements](https://www.mtpcours.fr/post/22-03-29-language-learning/) que vous puissiez faire aujourd'hui pour devenir indépendant. Cela vous donnera accès à des tonnes de ressources pour apprendre, vous apportera des opportunités de travail, et des amitiés à travers le monde. 
 
-- {{<hl>}}Vocabulaire, grammaire et orthographe{{</hl>}}, niveau basique à avancé
-- Comment parler et prononcer des mots {{<hl>}}comme un américain ou un britannique{{</hl>}}
-- Élargissez votre {{<hl>}}culture{{</hl>}}, y compris les proverbes et l'histoire américaine/britannique
-- {{<hl>}}Réussissez vos tests{{</hl>}} (Toefl, Toeic...) et améliorez vos {{<hl>}}compétences rédactionnelles{{</hl>}} dans n' importer quelle situation (lettre de motivation, CV/CV, article/blog, etc.)
+La meilleure façon d'apprendre l'anglais se résume à trois mots - <i>"Pratiquer, pratiquer, pratiquer"</i>. Dans ce cours particulier, vous aurez de nombreuses occasions de pratiquer avec un américain, né à New York. C'est l'occassion d'approfondir son vocabulaire, la grammaire et l'orthographe, apprendre à parler et prononcer des mots comme un natif, et l'occassion d'élargir sa culture, y compris de proverbes et d'histoire américaine/britannique. 
 
-## Program overview
-
-Apprendre l'anglais est l'un des meilleurs investissements que vous puissiez faire aujourd'hui pour devenir indépendant. Cela vous apportera des opportunités de travail, vous donnera accès à des tonnes de ressources pour apprendre et des amitiés à travers le monde. La meilleure façon d'apprendre l'anglais se résume à trois mots - "Pratiquer, pratiquer, pratiquer". Dans ce cours, vous aurez de nombreuses occasions de pratiquer avec un américain, né à New York. Que vous soyez débutant ou avancé en anglais, que vous ayez besoin d'aide pour vos devoirs ou vos tests, que vous souhaitiez relire un document important ou que vous vouliez simplement vous entraîner à parler, ce programme sur mesure est fait pour vous. Contactez votre instructeur et commencez dès aujourd'hui !
-
-## Meet your instructor
-
-{{< mention "admin" >}}
+Que vous soyez débutant ou avancé en anglais, que vous ayez besoin d'aide pour vos devoirs ou vos tests (Toefl, Toeic), que vous souhaitiez relire un document important et améliorer vos compétences rédactionnelles (lettre de motivation, cv, article/blog), ou que vous vouliez simplement vous entraîner à parler, ce programme sur mesure est fait pour vous. Contactez votre instructeur et commencez dès aujourd'hui !
 
 ## FAQs
 

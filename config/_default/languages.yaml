@@ -14,7 +14,7 @@ en:
   contentDir: content/en
   title: Michel Deudon
   params:
-    description: Personal website of professionnal trainings and tutoring
+    description: Professionnal trainings and tutoring in mathematics, physics and chemistry in Montpellier
   menu:
     main:
       - name: en

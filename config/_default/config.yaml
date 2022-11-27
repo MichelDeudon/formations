@@ -15,6 +15,10 @@ share: true
 cascade:
   # Docs folder options
   - _target:
+      path: /cours/**
+    editable: false
+    show_breadcrumb: true
+  - _target:
       path: /course/**
     editable: false
     show_breadcrumb: true
