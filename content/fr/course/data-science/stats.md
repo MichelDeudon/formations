@@ -1,35 +1,35 @@
 ---
-title: Statistics
+title: Statistiques
 date: '2021-01-01'
 type: book
 weight: 40
 math: true
 tags:
-  - Statistics
+  - Statistiques
 ---
 
-Introduction to statistics for data science.
+Introduction aux statistiques en science des données.
 
 <!--more-->
 
-{{< icon name="clock" pack="fas" >}} 1-2 hours per week, for 8 weeks
+{{< icon name="clock" pack="fas" >}} 1-2 heures par semaines, sur 8 semaines
 
-## Learn
+## Apprendre
 
-The general form of the **normal** probability density function is:
+La forme générale de la densité d'une loi normale s'écrit:
 
 $$
 f(x) = \frac{1}{\sigma \sqrt{2\pi} } e^{-\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2}
 $$
 
 {{< callout note >}}
-The parameter $\mu$ is the mean or expectation of the distribution.
-$\sigma$ is its standard deviation.
-The variance of the distribution is $\sigma^{2}$.
+Le paramètre $\mu$ est la moyenne ou l'espérance de la distribution.
+$\sigma$ est la déviation standard.
+La variance de la distribution est $\sigma^{2}$.
 {{< /callout >}}
 
 ## Quiz
 
-{{< spoiler text="What is the parameter $\mu$?" >}}
-The parameter $\mu$ is the mean or expectation of the distribution.
+{{< spoiler text="Qu'est ce que la paramètre $\mu$?" >}}
+Le paramètre $\mu$ est la moyenne ou l'espérance de la distribution.
 {{< /spoiler >}}

@@ -1,36 +1,36 @@
 ---
-title: Python basics
+title: Les bases de Python
 date: '2021-01-01'
 type: book
 weight: 20
 ---
 
-Build a foundation in Python.
+Batir une fondation en Python.
 
 <!--more-->
 
-{{< icon name="clock" pack="fas" >}} 1-2 hours per week, for 8 weeks
+{{< icon name="clock" pack="fas" >}} 1-2 heures par semaine, sur 8 semaines
 
-## Learn
+## Apprendre
 
 {{< youtube rfscVS0vtbw >}}
 
 ## Quiz
 
-{{< spoiler text="What is the difference between lists and tuples?" >}}
+{{< spoiler text="Quelles différences entre une liste et un tuple?" >}}
 Lists
 
-- Lists are mutable - they can be changed
-- Slower than tuples
+- Les listes sont mutables - elles peuvent être modifiées
+- Plus lent que les tuples
 - Syntax: `a_list = [1, 2.0, 'Hello world']`
 
 Tuples
 
-- Tuples are immutable - they can't be changed
-- Tuples are faster than lists
+- Les tuples sont immutable - ils ne peuvent pas être modifiés
+- Plus rapide que les listes
 - Syntax: `a_tuple = (1, 2.0, 'Hello world')`
   {{< /spoiler >}}
 
-{{< spoiler text="Is Python case-sensitive?" >}}
-Yes
+{{< spoiler text="Python est-il sensible à la casse?" >}}
+Oui
 {{< /spoiler >}}

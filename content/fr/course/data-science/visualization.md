@@ -1,30 +1,30 @@
 ---
-title: Visualization
+title: Visualisation
 date: '2021-01-01'
 type: book
 weight: 30
 highlight: true
 tags:
-  - Data Visualization
+  - Data Visualisation
 ---
 
-Learn how to visualize data with Plotly.
+Apprend à visualiser des données avec Plotly.
 
 <!--more-->
 
-{{< icon name="clock" pack="fas" >}} 1-2 hours per week, for 8 weeks
+{{< icon name="clock" pack="fas" >}} 1-2 heures par semaines, sur 8 semaines
 
-## Learn
+## Apprendre
 
 {{< youtube hSPmj7mK6ng >}}
 
 ## Quiz
 
-{{< spoiler text="When is a heatmap useful?" >}}
+{{< spoiler text="Quand une carte thermique (heatmap) est-elle utile?" >}}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 {{< /spoiler >}}
 
-{{< spoiler text="Write Plotly code to render a bar chart" >}}
+{{< spoiler text="Écrire du code Plotly pour afficher un graphique à barres (bar chart)" >}}
 
 ```python
 import plotly.express as px

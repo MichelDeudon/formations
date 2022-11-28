@@ -12,32 +12,28 @@ tags:
 
 {{< toc hide_on="xl" >}}
 
-## What you will learn
+## Ce que vous apprendrez
 
-- Fundamental {{<hl>}}Python programming skills{{</hl>}}
-- {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
-- Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
+- Les fondamentaux de la {{<hl>}}programmation Python{{</hl>}}
+- Des concepts de {{<hl>}}statistiques{{</hl>}} et comment les appliquer en pratique
+- Une experience pratique de {{<hl>}}Scikit{{</hl>}}, de {{<hl>}}Plotly{{</hl>}} pour la data visualisation et de {{<hl>}}Pandas{{</hl>}} pour manipuler les données.
 
-## Program overview
+## Présentation
 
-The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
+> <i>Un data scientist est un statisticien avec des connaissances en informatique ou un informaticien avec des connaissances en statistiques.</i> - Un professeur à Polytechnique
 
-## Courses in this program
+## Cours dans ce programme
 
 {{< list_children >}}
 
-## Meet your instructor
-
-{{< mention "admin" >}}
-
 ## FAQs
 
-{{< spoiler text="Are there prerequisites?" >}}
-There are no prerequisites for the first course.
+{{< spoiler text="Y a-t-il des prérequis?" >}}
+Il n'y a pas de prérequis pour le premier cours.
 {{< /spoiler >}}
 
-{{< spoiler text="How often do the courses run?" >}}
-Continuously, at your own pace.
+{{< spoiler text="À quelle fréquence les cours ont-ils lieu ?" >}}
+En continu, à votre rythme.
 {{< /spoiler >}}
 
-{{< cta cta_text="Begin the course" cta_link="python" >}}
+{{< cta cta_text="Commencer le cours" cta_link="python" >}}

@@ -28,10 +28,6 @@ Topics: Computational linguistics, NLP, learning paradigms, models & limits.
 
 {{< list_children >}}
 
-## Meet your instructor
-
-{{< mention "admin" >}}
-
 ## FAQs
 
 {{< spoiler text="Are there prerequisites?" >}}
