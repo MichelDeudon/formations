@@ -9,27 +9,27 @@ main:
     weight: 10
   - name: Teaching
     weight: 20
-    identifier: courses
+    identifier: cours
   - name: English
-    PageRef: course/english/_index.md
+    PageRef: cours/english/_index.md
     weight: 10
-    parent: courses
+    parent: cours
   - name: Science
     PageRef: course/science/_index.md
     weight: 20
-    parent: courses
+    parent: cours
   - name: Data science
     PageRef: course/data-science/_index.md
     weight: 30
-    parent: courses
+    parent: cours
   - name: Data protection
     PageRef: course/data-legal/_index.md
     weight: 40
-    parent: courses
+    parent: cours
   - name: Linguistics
     PageRef: course/linguistics/_index.md
     weight: 50
-    parent: courses
+    parent: cours
   - name: Blog
     PageRef: post/_index.md
     weight: 30
