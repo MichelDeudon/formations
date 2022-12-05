@@ -12,28 +12,28 @@ tags:
 
 {{< toc hide_on="xl" >}}
 
-## What you will learn
+## Ce que vous apprendrez
 
-- Fundamental {{<hl>}}Python programming skills{{</hl>}}
-- {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
-- Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
+- Les fondamentaux de la {{<hl>}}protection des données personnelles{{</hl>}}
+- Les {{<hl>}}grands principes du RGPD{{</hl>}} et leurs applications en pratique
+- Mise en conformité pour les utilisateurs et la {{<hl>}}CNIL{{</hl>}}
 
-## Program overview
+## Présentation
 
 The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
 
-## Courses in this program
+## Cours dans ce programme
 
 {{< list_children >}}
 
 ## FAQs
 
-{{< spoiler text="Are there prerequisites?" >}}
-There are no prerequisites for the first course.
+{{< spoiler text="Y a-t-il des prérequis?" >}}
+Il n'y a pas de prérequis pour le premier cours.
 {{< /spoiler >}}
 
-{{< spoiler text="How often do the courses run?" >}}
-Continuously, at your own pace.
+{{< spoiler text="À quelle fréquence les cours ont-ils lieu ?" >}}
+En continu, à votre rythme ou sur 1-2 jours dans le cas de séminaires ou workshop.
 {{< /spoiler >}}
 
-{{< cta cta_text="Begin the course" cta_link="python" >}}
+{{< cta cta_text="Commencer la formation" cta_link="introduction" >}}
