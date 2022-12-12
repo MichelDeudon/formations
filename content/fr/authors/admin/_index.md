@@ -30,8 +30,8 @@ education:
       institution: Télécom Paris-Tech & ENS Cachan
       year: 2019
     - course: Ingénieur en mathématiques appliqués
-      institution: Ecole Polytechnique
-      year: 2014
+      institution: Ecole Polytechnique (X14)
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -64,6 +64,4 @@ user_groups:
   - Teachers
 ---
 
-Bonjour! Je m'appelle Michel, je suis né à New York et j'ai vécu plus de 10 ans à l'étranger. Je suis passionné par l'enseignement, l'apprentissage et la psychologie. J'enseigne les mathématiques, sciences et l'anglais, au lycée et en enseignement supérieur depuis 2012. J'offre aussi des opportunités de reconversion et de perfectionnement pour les adultes - en science des données, protection des données personnelles, innovation, etc.
-
-J'ai travaillé chez Accenture, ElementAI, avec ESA et chez Vinted en tant qu'ingénieur-chercheur, ainsi qu'avec des associations dans divers rôles. Mes travaux ont reçu l'attention du [CNES](https://spacegate.cnes.fr/fr/covid-19-venise-sans-les-bateaux) et 3 prix ESA. Depuis 2020, je suis également co-président de [Local Seasonal](https://www.local-seasonal.org/fr/), une association pour célébrer la diversité au fil des saisons. Dans mon temps libre, j'aime danser, faire du roller et les activités de plein air.
+Bonjour! Je m'appelle Michel, je suis né à New York et j'ai vécu plus de 10 ans à l'étranger. Je suis passionné par l'enseignement, l'apprentissage et la psychologie. J'enseigne les mathématiques, sciences et l'anglais, au lycée et supérieur depuis 2012. J'offre aussi des opportunités de reconversion et de perfectionnement pour les adultes - en science des données, protection des données personnelles, innovation, etc. J'ai travaillé chez Accenture, ElementAI, avec ESA et chez Vinted en tant qu'ingénieur-chercheur, ainsi qu'avec des associations dans divers rôles. En 2020 avec Lucie, on a co-fondé [Local Seasonal](https://www.local-seasonal.org/fr/), une association pour célébrer la diversité au fil des saisons. Dans mon temps libre, j'aime danser, faire du roller et les activités de plein air.
