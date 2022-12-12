@@ -9,7 +9,7 @@ design:
   flip_alt_rows: true # Flip alternate rows when in Showcase view?
 ---
 
-> _Nous tenons à adresser nos sincères remerciements à Michel DEUDON qui a apporté une contribution de très bonne qualité à cette édition, avec une présence durant les sept jours du début jusqu’à la fin de chaque séance tout en étant toujours disponible et bienveillant envers les élèves. Il a réussi à rajouter encore plus de motivations à certains élèves, de sorte qu’ils ne voulaient plus le quitter après cela._ - Karim, Bénévole au sein de l’association GSC (2022)
+> _Nous tenons à adresser nos sincères remerciements à Michel qui a apporté une contribution de très bonne qualité à cette édition, avec une présence durant les sept jours du début jusqu’à la fin de chaque séance tout en étant toujours disponible et bienveillant envers les élèves. Il a réussi à rajouter encore plus de motivations à certains élèves, de sorte qu’ils ne voulaient plus le quitter après cela._ - Karim, Bénévole au sein de l’association GSC (2022)
 
 > _Ayant travaillé avec Michel sur des projets de science des données, je peux dire avec confiance qu'il est très compétent, passionné par la science et un compagnon joyeux!_ - Titas, Decision Scientist chez Vinted (2021)
 

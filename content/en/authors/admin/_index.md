@@ -32,9 +32,6 @@ education:
     - course: MSc in applied mathematics
       institution: Ecole Polytechnique
       year: 2017
-    - course: Scientific baccalaureate
-      institution: Lycée Pasteur
-      year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -67,6 +64,6 @@ user_groups:
   - Teachers
 ---
 
-Hi! I'm Michael, I was born in New York and lived more than 10 years abroad. I'm passionate about teaching, learning and psychology. I mentor students and offer my services as a private teacher, tutor or coach, from primary to high school, in English, science, and higher education in mathematics since 2012. I also offer reskilling and upskilling opportunities for adults - in data science, personal data protection, innovation, etc.
+Hi! I'm Michael, I was born in New York and lived more than 10 years abroad. I'm passionate about teaching, learning and psychology. I mentor students in English, science and mathematics, in high school and higher education since 2012. I also offer reskilling and upskilling opportunities for adults - in data science, data protection, innovation, etc.
 
-I graduated from Polytechnique in 2017 and presented research at [CPAIOR](https://hanalog.ca/wp-content/uploads/2018/11/cpaior-learning-heuristics-6.pdf) and [Neurips](https://papers.nips.cc/paper/2018/hash/97e8527feaf77a97fc38f34216141515-Abstract.html) 2018. I worked at Accenture, ElementAI, with ESA and at Vinted as a senior data scientist, as well as non profits in various roles. My work was featured in [CNES's spacegate](https://spacegate.cnes.fr/fr/covid-19-venise-sans-les-bateaux) and received 3 ESA prizes. Since 2020, I am also co-president of [Local Seasonal](https://www.local-seasonal.org/en/), a French non profit to celebrate diversity along the seasons. In my spare time, I like to dance, rollerblade and I enjoy outdoor activities, especially skiing and surfing.
+I worked at Accenture, ElementAI, with ESA and at Vinted as a senior data scientist, as well as non profits in various roles. My work was featured in [CNES's spacegate](https://spacegate.cnes.fr/fr/covid-19-venise-sans-les-bateaux) and received 3 ESA prizes. Since 2020, I am also co-president of [Local Seasonal](https://www.local-seasonal.org/en/), a French non profit to celebrate diversity along the seasons. In my spare time, I like to dance, rollerblade and enjoy outdoor activities.

@@ -9,7 +9,7 @@ design:
   flip_alt_rows: true # Flip alternate rows when in Showcase view?
 ---
 
-> _We would like to express our sincere thanks to Michel DEUDON who made a very good contribution to this edition, with a presence during the seven days from the beginning to the end of each session while always being available and benevolent towards the students. He managed to add even more motivation to some students, such that they did not want to leave him after that._ - Karim, Volunteer in the GSC association (2022)
+> _We would like to express our sincere thanks to Michel who made a very good contribution to this edition, with a presence during the seven days from the beginning to the end of each session while always being available and benevolent towards the students. He managed to add even more motivation to some students, such that they did not want to leave him after that._ - Karim, Volunteer in the GSC association (2022)
 
 > _Having worked together with Michel on data science projets, I can confidently say that he is very competent, passionate about science and a cheerful companion!_ - Titas, Decision Scientist at Vinted (2021)
 
