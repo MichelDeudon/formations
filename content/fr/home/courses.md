@@ -15,11 +15,6 @@ content:
 
   filter_default: 0
 
-  filter_button:
-    - name: Pour jeunes
-      tag: Jeunes
-    - name: Pour adultes
-      tag: Adultes
 design:
   columns: '1'
   view: masonry

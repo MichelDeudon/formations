@@ -15,19 +15,19 @@ main:
     weight: 10
     parent: cours
   - name: Science
-    PageRef: course/science/_index.md
+    PageRef: cours/maths/_index.md
     weight: 20
     parent: cours
   - name: Data science
-    PageRef: course/data-science/_index.md
+    PageRef: cours/data-science/_index.md
     weight: 30
     parent: cours
   - name: Data protection
-    PageRef: course/data-legal/_index.md
+    PageRef: cours/data-legal/_index.md
     weight: 40
     parent: cours
   - name: Linguistics
-    PageRef: course/linguistics/_index.md
+    PageRef: cours/linguistics/_index.md
     weight: 50
     parent: cours
   - name: Blog
