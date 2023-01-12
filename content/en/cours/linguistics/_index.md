@@ -16,13 +16,14 @@ tags:
 
 ## What you will learn
 
-At the end of the course, participants will be able to {{<hl>}}apply NLP for research or innovative projects{{</hl>}}, compare, explain and choose different methods, as well as question and test hypothesis. Through practical use cases, participants will learn how to use numpy and pandas for data wrangling, matplotlib for data visualization, {{<hl>}}scikit-learn, scipy{{</hl>}} for statistics, ML, linear algebra, {{<hl>}}nltk, spacy{{</hl>}} for NLP tasks ou routines to build simple proof of concepts and MVP.
+At the end of the course, participants will be able to {{<hl>}}apply NLP for research or innovative projects{{</hl>}}, compare, explain and choose different methods, as well as question and test hypothesis. (Optional) Through practical use cases, participants will learn how to use Python to analyze data, visualize information and convey learnings with {{<hl>}}[scikit-learn](https://scikit-learn.org/stable/), scipy, [NLTK](https://www.nltk.org/), [gensim](https://radimrehurek.com/gensim/index.html) or [spacy](https://spacy.io/){{</hl>}} to build simple proof of concepts and MVP.
 
 ## Program overview
 
 {{< icon name="clock" pack="fas" >}} Course duration: 16 hours. 1h20 per week, for 12 weeks. <br>
 {{< icon name="turn-up" pack="fas" >}} Level: Basic to advanced. <br>
 Topics: Computational linguistics, NLP, learning paradigms, models & limits.
+(Recommended) Audience: Master students enrolled in a scientific field (e.g., healthcare, data science, neuroscience, computer science), language learning and development practitioner or entrepreneurs (in life science, education, etc).
 
 ## Course syllabus
 

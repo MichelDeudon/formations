@@ -8,7 +8,7 @@ tags:
   - Statistics
 ---
 
-Learn powerful representations.
+Combine analytical & synthetic skills.
 
 <!--more-->
 

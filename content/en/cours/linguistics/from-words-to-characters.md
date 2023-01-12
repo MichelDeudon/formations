@@ -8,7 +8,7 @@ tags:
   - Data Visualization
 ---
 
-Encode, decode, transform text data.
+Encode, decode information.
 
 <!--more-->
 

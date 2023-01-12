@@ -8,7 +8,7 @@ tags:
   - Languages and alphabets
 ---
 
-On the origins
+Give historical context.
 
 <!--more-->
 
@@ -17,6 +17,8 @@ On the origins
 ## Written archives, origins and evolutions
 
 {{< youtube aCrmBRL4cJs>}}
+
+On the origins of writing
 
 From symbolic writing (pictograms) to non symbolic writing
 

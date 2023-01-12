@@ -16,48 +16,41 @@ Motivate language studies.
 {{< youtube -R6YMWb0vUA >}}
 <br> 
 
-Kate Jefferey is a professor in neuroscience at UCL, London, and scientific lead at Exctinction Rebellion. In her inspiring talk on the [psychology of climate inaction](https://www.youtube.com/watch?v=-R6YMWb0vUA&ab_channel=UCLMindsLunchHourLectures), the tragedy of commons has no rational solution. Language, as a way to communicate with each other and collaborate, has a key role to play in the way we understand the past, envision the future, and deal with the present. <i>With language we have gone further than any species on Earth, we went on the Moon</i>. What if we all started to learn a language with empathy and used language to fix some of our biggest problems ? <br>
+Kate Jefferey is a professor in neuroscience at UCL, London, and scientific lead at Exctinction Rebellion. In her inspiring talk on the [psychology of climate inaction](https://www.youtube.com/watch?v=-R6YMWb0vUA&ab_channel=UCLMindsLunchHourLectures), language, as a way to communicate with each other and collaborate, has a key role to play in <b>the way we understand the past, envision the future, and deal with the present</b>. <i>With language we have gone further than any species on Earth, we went on the Moon</i>. What if we all started to learn a language with empathy and used language to fix some of our biggest problems ? <br>
 
-The idea that mankind is a social animal is found in many books. As opposed to the classic theory in economics, in which human beings act rationally, Dan Ariely in his book [Predictibly Irrational](https://predictablyirrational.com/) invites us to question the way Human beings take decisions and make choices. Here again, language has a fundamental role in understanding the hidden forces that shape our decisions. We need to embrace language and our irrationality to imaginate and co-create a better tomorrow.
+Language has a fundamental role in understanding the hidden forces that shape our decisions. We need to embrace language and our irrationality to imaginate and co-create a better tomorrow.
 
 <b>Computational linguistics</b> is an interdisciplinary field that deals with languages, psychology, social sciences, statistics, computer science, artificial intelligence and more. It has gained in popularity in the last decade with the release of open source datasets, libraries, courses, etc. Models have increased in accuracy and on other metrics, on different benchmarks (e.g., translation). However, this increase in performance comes with a drastic increase in complexity and ressources required (data, hardware, energy). A new paradigm in AI and computational lingustics is needed.
 
 ## Why study frugal innovation?
 
-> <i>All models are wrong but some are better than others</i>
+> <i>All models are wrong, some are useful</i>
 
-Models in data science have drastically increased in complexity in the last 10 years, at the advantage of cloud providers like Google, Microsoft and Amazon 🌥️. First in computer vision in the 2012s, then gradually in linguistics since 2014 with word vectors, document embeddings and attention models.
+<b>Models in data science have drastically increased in complexity in the last 10 years</b>, at the advantage of cloud providers like Google, Microsoft and Amazon 🌥️. First in computer vision in the 2012s, then gradually in linguistics since 2014 with word vectors, document embeddings and attention models.
 
-BERT, RoBERT, CamemBERT 🧀 are models with a quadratric complexity. AI conferences are dominated by players that own platforms running these models as a service. Why solve a problem in 5 minutes when you can charge more for hours? This conflict of interest may sound silly but that’s how the field became toxic, from expired cheese 🤢 That’s where the money comes from and not where the value lies. I personnaly struggled getting papers published and working in the field.
+BERT, RoBERT, CamemBERT 🧀 are models with a quadratric complexity. AI conferences, like NeurIPS, are dominated by players that run these models as a service. Why solve a problem in 5 minutes when you can charge more for hours? This conflict of interest may sound silly but that's how the field became toxic. 🤢
 
 > <i>Training a single AI model can emit as much carbon as five cars in their lifetimes (...) The most costly model, BERT, has a carbon footprint of roughly 1,400 pounds of carbon dioxide equivalent, close to a round-trip trans-America flight for one person.</i> [Technology Review, 2019](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/). 
 
-In the last conferences I’ve attended, speakers present again and again variants of BERT, known to emit as much carbon emissions as a transatlantic flight everytime it is trained (for comparison, the Human brain only uses 40 Watt, the equivalent of a light bulb).  Decision making systems lack <b>diversity</b> (1+1 = 1). Conflicts of interest set us further apart from our common goals like building an <b>inclusive society</b> (1+1 = 3) or <b>low carbon economy</b>.
+December 2022, Elon Musk released a model with 175 million parameters, 60% more than BERT. <b>It’s an ego-thing, who has the biggest neural network</b>. BERT was a bazooka. <b>OpenAI released a tank</b>.
 
-In addition, the way AI is done in big labs, at Google, Facebook, Microsoft or Amazon, is not appropriate for many entrepreneurs or researchers, working on new problems. Indeed, entrepreneurs or non profits have fewer ressources (human, financial, tech). They don't have HUGE massive dataset for supervised learning, cheap labour for annotating data or moderators, but messy data and domain knowledge. Read more on AWS Turk, Youtube or Facebook moderators and unethical practices to train AI models that kill people.
+Decision making systems lack <b>diversity</b>. There is no such things as a universal language model trained on one language (lol). Conflicts of interest set us further apart from our common goals like building an <b>inclusive society</b> or <b>low carbon economy</b>.
 
-Finally, as opposed to (dangereously) popularised ideas in the field, there is no such things as a universal language model trained on one language (lol). Computers surpassing Humans on linguistics tasks, doesn't make sense. There's a lack of diversity in the field. Deep learning only uses a fraction of tools available.
+In addition, the way AI is done at Google, Facebook, Microsoft or Amazon, is not appropriate for many entrepreneurs or researchers, working on new problems with little to no data. Cheap labour and moderators used to supervise machine learning models is unethical.
 
-We are at a crossroad in the way AI, NLP and computational linguistics are taught. While big players will continue building more powerful models, we will focus on building simple, intelligible, useful models first and attempt to democratize the access to computational linguistics to empower creators, entrepreneurs and researchers. We will lay the scientific foundations for computational linguistics, and will not explore Artificial General Intelligence, Large Language Model (LLM), unless our simpler models don't work well enough to start. By reversing the trend set by big players, frugal innovation can get us closer to build an inclusive society and low carbon economy. I’d like to share learnings with a broad audience of entrepreneurs and researchers to address societal and environmental issues.
+We are at a crossroad in the way AI, NLP and computational linguistics are taught. While big players will continue building more complex models, we will focus on building simple, intelligible, useful models first and attempt to democratize the access to computational linguistics to empower creators, entrepreneurs and researchers. We will lay the scientific foundations for computational linguistics, and will not explore Artificial General Intelligence or Large Language Models. By reversing the trend set by big players, frugal innovation can get us closer to build an inclusive society and low carbon economy 🦓. This course on frugal innovation and computational linguistics is an open source, interdisciplinary alternative for people interested in addressing societal and environmental challenges with language learning and development practitioners. The course will explore different use cases and tested models to empower creators through illustrated examples.
 
-Note: There's room to create value. We’re talking about thousands of gigatons of carbon emissions.
+## Applications
 
-## Applications & audience
+Here are just a few ideas how you can apply what you will learn in this course
 
-- Education, language learning (Duolingo)
-- Human rights, diversity & inclusion
-- Regulatory, media & political feedback
-- Food, music, dna…
-
-## Course outline 
-
-The course will explore different use cases and tested models to empower creators through illustrated examples:
-
-- Regulatory feedback, media & politics
-- Online harassment, diversity & inclusion
-- Anti money laundering & modern slavery
-- Food, music or dna as a language
-- And more modern examples
+- Help students learn languages with gamefied applications like Duolingo.
+- Support NGO's defending Human rights by monitoring and quantifying diversity & inclusion indicators.
+- Provide feedback for politicians on what people say on regulations on social networks or in the news/media.
+- Recommend treatments or psycho therapies to patients in healthcare.
+- Predict protein-protein binding or user-user matching.
+- Analyse and generate food recipes, music and art.
+- Counter fight money laundering, modern slavery, fake news and hate speech.
 
 ## Quiz
 

@@ -8,13 +8,15 @@ tags:
   - Statistics
 ---
 
-Learn powerful representations.
+Contextualize, visualize meaning.
 
 <!--more-->
 
 {{< icon name="clock" pack="fas" >}} 1h20 per week, for 3 weeks
 
 ## From words to sentences & topics - part A
+
+Learn powerful representations
 
 - **Culture:** Search engines. Research in Information Retrieval. Ex Google. Other topics like spam detection, summarization, translation… widely used today.
 - **Model:** Bag of word, tfidf, pLSI (doc embed)
