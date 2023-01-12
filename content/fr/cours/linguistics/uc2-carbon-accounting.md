@@ -1,5 +1,5 @@
 ---
-title: Use Case #2 - Carbon accounting
+title: Use case 2 - Carbon accounting
 date: '2021-01-01'
 type: book
 weight: 110

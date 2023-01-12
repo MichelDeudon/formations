@@ -1,5 +1,5 @@
 ---
-title: Use Case #3 - Fighting fake news
+title: Use case 3 - Fighting fake news
 date: '2021-01-01'
 type: book
 weight: 120

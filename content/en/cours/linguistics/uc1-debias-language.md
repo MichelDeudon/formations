@@ -1,5 +1,5 @@
 ---
-title: Use Case #1 - Debias language
+title: Use case 1 - Debias language
 date: '2021-01-01'
 type: book
 weight: 100

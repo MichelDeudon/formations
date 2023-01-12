@@ -5,7 +5,7 @@ summary: Montée en compétence ou reconversion en traitement automatique des la
 date: '2021-01-24'
 type: book
 tags:
-  - Adults
+  - Adultes
   - Linguistique computationelle
   - NLP
 ---
@@ -16,7 +16,7 @@ tags:
 
 ## Ce que vous apprendrez
 
-À la fin du cours, les participants seront capables d'{{<hl>}}appliquer la PNL à des projets de recherche ou innovants{{</hl>}}, de comparer, d'expliquer et de choisir différentes méthodes, ainsi que de questionner et de tester des hypothèses. (Optionel) À travers de cas pratiques, les participants apprendront à utiliser Python pour analyser des données, visualiser des informations et transmettre des apprentissages avec {{<hl>}}[scikit-learn](https://scikit-learn.org/stable/ ), scipy, [NLTK](https://www.nltk.org/), [gensim](https://radimrehurek.com/gensim/index.html) ou [spacy](https://spacy.io /){{</hl>}} pour créer des preuves de concept et MVP.
+À la fin du cours, les participants seront capables d'{{<hl>}}appliquer la PNL à des projets de recherche ou innovants{{</hl>}}, de comparer, d'expliquer et de choisir différentes méthodes, ainsi que de questionner et de tester des hypothèses. (Optionel) À travers de cas pratiques, les participants apprendront à utiliser Python pour analyser des données, visualiser des informations et transmettre des apprentissages avec {{<hl>}}[scikit-learn](https://scikit-learn.org/stable/ ), scipy, [NLTK](https://www.nltk.org/), [gensim](https://radimrehurek.com/gensim/index.html) ou [spacy](https://spacy.io/){{</hl>}} pour créer des preuves de concept et MVP.
 
 ## Présentation
 

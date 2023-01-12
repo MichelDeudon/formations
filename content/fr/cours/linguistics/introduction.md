@@ -5,59 +5,59 @@ type: book
 weight: 20
 ---
 
-Motivate language studies.
+Motiver les études de langues.
 
 <!--more-->
 
-{{< icon name="clock" pack="fas" >}} 1h20 introductory course
+{{< icon name="clock" pack="fas" >}} 1h20 cours d'introduction
 
-## Why study languages? 
+## Pourquoi étudier les langues?
 
 {{< youtube -R6YMWb0vUA >}}
 <br> 
 
-Kate Jefferey is a professor in neuroscience at UCL, London, and scientific lead at Exctinction Rebellion. In her inspiring talk on the [psychology of climate inaction](https://www.youtube.com/watch?v=-R6YMWb0vUA&ab_channel=UCLMindsLunchHourLectures), language, as a way to communicate with each other and collaborate, has a key role to play in <b>the way we understand the past, envision the future, and deal with the present</b>. <i>With language we have gone further than any species on Earth, we went on the Moon</i>. What if we all started to learn a language with empathy and used language to fix some of our biggest problems ? <br>
+Kate Jefferey est professeur de neurosciences à UCL, Londres, et responsable scientifique chez Extinction Rebellion. Dans son discours inspirant sur la [psychologie de l'inaction climatique](https://www.youtube.com/watch?v=-R6YMWb0vUA&ab_channel=UCLMindsLunchHourLectures), le langage, en tant que moyen de communiquer les uns avec les autres et de collaborer, joue un rôle clé jouer dans <b>la façon dont nous comprenons le passé, envisageons l'avenir et gérons le présent</b>. <i>Avec le langage, nous sommes allés plus loin que n'importe quelle espèce sur Terre, nous sommes allés sur la Lune</i>. Et si nous commencions tous à apprendre une langue avec empathie et utilisions le langage pour résoudre certains de nos plus gros défis? <br>
 
-Language has a fundamental role in understanding the hidden forces that shape our decisions. We need to embrace language and our irrationality to imaginate and co-create a better tomorrow.
+Le langage joue un rôle fondamental dans la compréhension des forces cachées qui façonnent nos décisions. Nous devons embrasser le langage et notre irrationalité pour imaginer et co-créer un avenir meilleur.
 
-<b>Computational linguistics</b> is an interdisciplinary field that deals with languages, psychology, social sciences, statistics, computer science, artificial intelligence and more. It has gained in popularity in the last decade with the release of open source datasets, libraries, courses, etc. Models have increased in accuracy and on other metrics, on different benchmarks (e.g., translation). However, this increase in performance comes with a drastic increase in complexity and ressources required (data, hardware, energy). A new paradigm in AI and computational lingustics is needed.
+<b>La linguistique computationnelle</b> est un domaine interdisciplinaire qui traite des langues, de la psychologie, des sciences sociales, des statistiques, de l'informatique, de l'intelligence artificielle, etc. Elle a gagné en popularité au cours de la dernière décennie avec la publication d'ensembles de données, de bibliothèques et de cours en accès libre. Les modèles se sont améliorés sur différents benchmarks (par exemple, la traduction). Cependant, cette augmentation des performances s'accompagne d'une augmentation drastique de la complexité et des ressources nécessaires (données, matériel, énergie). Un nouveau paradigme en IA et en linguistique computationnelle est nécessaire.
 
-## Why study frugal innovation?
+## Pourquoi étudier l'innovation frugale?
 
-> <i>All models are wrong, some are useful</i>
+> <i>Tous les modèles sont faux, certains sont utiles.</i>
 
-<b>Models in data science have drastically increased in complexity in the last 10 years</b>, at the advantage of cloud providers like Google, Microsoft and Amazon 🌥️. First in computer vision in the 2012s, then gradually in linguistics since 2014 with word vectors, document embeddings and attention models.
+<b>Les modèles en science des données ont considérablement augmenté en complexité au cours des 10 dernières années</b>, à l'avantage des fournisseurs de cloud comme Google, Microsoft et Amazon 🌥️. D'abord en vision par ordinateur dans les années 2012, puis progressivement en linguistique depuis 2014 avec les vecteurs de mots, les plongements de documents et les modèles d'attention.
 
-BERT, RoBERT, CamemBERT 🧀 are models with a quadratric complexity. AI conferences, like NeurIPS, are dominated by players that run these models as a service. Why solve a problem in 5 minutes when you can charge more for hours? This conflict of interest may sound silly but that's how the field became toxic. 🤢
+BERT, RoBERT, CamemBERT 🧀 sont des modèles avec une complexité quadratrique. Les conférences sur l'IA, comme NeurIPS, sont dominées par des acteurs qui exécutent ces modèles en tant que service. Pourquoi résoudre un problème en 5 minutes quand on peut facturer plus pendant des heures ? Ce conflit d'intérêts peut sembler naif mais c'est ainsi que le domaine est devenu toxique. 🤢
 
-> <i>Training a single AI model can emit as much carbon as five cars in their lifetimes (...) The most costly model, BERT, has a carbon footprint of roughly 1,400 pounds of carbon dioxide equivalent, close to a round-trip trans-America flight for one person.</i> [Technology Review, 2019](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/). 
+> <i>L'entraînement d'un seul modèle d'IA peut émettre autant de carbone que cinq voitures au cours de leur vie (...) Le modèle le plus coûteux, le BERT, a une empreinte carbone d'environ 1 400 livres d'équivalent en dioxyde de carbone, soit près d'un rond- voyage vol trans-Amérique pour une personne.</i> [Technology Review, 2019](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/).
 
-December 2022, Elon Musk released a model with 175 million parameters, 60% more than BERT. <b>It’s an ego-thing, who has the biggest neural network</b>. BERT was a bazooka. <b>OpenAI released a tank</b>.
+Décembre 2022, Elon Musk a publié un modèle avec 175 millions de paramètres, 60% de plus que BERT. <b>C'est une question d'ego, qui a le plus grand réseau de neurones</b>. BERT était un bazooka. <b>OpenAI a sorti un tank</b>.
 
-Decision making systems lack <b>diversity</b>. There is no such things as a universal language model trained on one language (lol). Conflicts of interest set us further apart from our common goals like building an <b>inclusive society</b> or <b>low carbon economy</b>.
+Les systèmes de prise de décision manquent de <b>diversité</b>. Il n'existe pas de modèle de langage universel formé sur une langue (lol). Les conflits d'intérêts nous éloignent davantage de nos objectifs communs tels que la construction d'une <b>société inclusive</b> ou d'une <b>économie à faibles émissions de carbone</b>.
 
-In addition, the way AI is done at Google, Facebook, Microsoft or Amazon, is not appropriate for many entrepreneurs or researchers, working on new problems with little to no data. Cheap labour and moderators used to supervise machine learning models is unethical.
+De plus, la façon dont l'IA est réalisée chez Google, Facebook, Microsoft ou Amazon n'est pas appropriée pour de nombreux entrepreneurs ou chercheurs, travaillant sur de nouveaux problèmes avec peu ou pas de données. L'exploitation de main-d'œuvre bon marché et de modérateurs pour superviser les modèles d'apprentissage automatique ne sont pas très éthiques.
 
-We are at a crossroad in the way AI, NLP and computational linguistics are taught. While big players will continue building more complex models, we will focus on building simple, intelligible, useful models first and attempt to democratize the access to computational linguistics to empower creators, entrepreneurs and researchers. We will lay the scientific foundations for computational linguistics, and will not explore Artificial General Intelligence or Large Language Models. By reversing the trend set by big players, frugal innovation can get us closer to build an inclusive society and low carbon economy 🦓. This course on frugal innovation and computational linguistics is an open source, interdisciplinary alternative for people interested in addressing societal and environmental challenges with language learning and development practitioners. The course will explore different use cases and tested models to empower creators through illustrated examples.
+Nous sommes à la croisée des chemins dans la manière dont l'IA, la PNL et la linguistique computationnelle sont enseignées. Alors que les grands acteurs continueront à construire des modèles plus complexes, nous nous concentrerons d'abord sur la construction de modèles simples, intelligibles et utiles et tenterons de démocratiser l'accès à la linguistique informatique pour responsabiliser les créateurs, les entrepreneurs et les chercheurs. Nous poserons les bases scientifiques de la linguistique computationnelle, et n'explorerons pas l'Intelligence Générale Artificielle ou les Grands Modèles de Langage. En inversant la tendance des grands acteurs, l'innovation frugale peut nous rapprocher de la construction d'une société inclusive et d'une économie bas carbone 🦓. Ce cours sur l'innovation frugale et la linguistique informatique est une alternative open source et interdisciplinaire pour les personnes intéressées à relever les défis sociétaux et environnementaux avec les praticiens de l'apprentissage et du développement des langues. Le cours explorera différents cas d'utilisation et modèles testés pour responsabiliser les créateurs à travers des exemples illustrés.
 
 ## Applications
 
-Here are just a few ideas how you can apply what you will learn in this course
+Voici quelques idées sur la façon dont vous pouvez appliquer ce que vous apprendrez dans ce cours
 
-- Help students learn languages with gamefied applications like Duolingo.
-- Support NGO's defending Human rights by monitoring and quantifying diversity & inclusion indicators.
-- Provide feedback for politicians on what people say on regulations on social networks or in the news/media.
-- Recommend treatments or psycho therapies to patients in healthcare.
-- Predict protein-protein binding or user-user matching.
-- Analyse and generate food recipes, music and art.
-- Counter fight money laundering, modern slavery, fake news and hate speech.
+- Aider les étudiants à apprendre des langues avec des applications ludiques comme Duolingo.
+- Soutenir les ONG de défense des droits de l'Homme en surveillant et quantifiant des indicateurs de diversité et d'inclusion.
+- Fournir aux politiciens un retour sur ce qui se dit sur la réglementation sur les réseaux sociaux ou dans les médias.
+- Recommander des traitements ou des psychothérapies aux patients en soins de santé.
+- Prédire la liaison entre deux protéines ou l'affinité entre deux utilisateurs.
+- Analyser et générer des recettes de cuisine, de la musique et de l'art.
+- Lutter contre le blanchiment d'argent, l'esclavage moderne, les fausses nouvelles et les discours de haine.
 
 ## Quiz
 
-{{< spoiler text="How many languages are spoken in the world today?" >}}
-More than 7000 languages are spoken today, but just 23 languages account for more than half the world's population. Data science, NLP and AI research is majoritarily done in English, introducing in a bias in the way we approach computational linguistics.
+{{< spoiler text="Combien de langues sont parlées dans le monde aujourd'hui?" >}}
+Plus de 7000 langues sont parlées aujourd'hui, mais seulement 23 langues représentent plus de la moitié de la population mondiale. La recherche en science des données, en PNL et en IA se fait majoritairement en anglais, introduisant un biais dans notre approche de la linguistique computationnelle.
 {{< /spoiler >}}
 
-{{< spoiler text="True or false, BERT has a carbon footprint close to a round-trip trans-America flight for one person?" >}}
-True, according to [Technology Review, 2019](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/).
+{{< spoiler text="Vrai ou faux, le BERT a une empreinte carbone proche d'un vol aller-retour trans-Amérique pour une personne?" >}}
+Vrai, selon [Technology Review, 2019](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/).
 {{< /spoiler >}}
