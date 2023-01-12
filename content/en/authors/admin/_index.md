@@ -10,7 +10,7 @@ role: Professor in applied mathematics
 
 # Organizations/Affiliations
 organizations:
-  - name: Independant
+  - name: Université Paul Valéry
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

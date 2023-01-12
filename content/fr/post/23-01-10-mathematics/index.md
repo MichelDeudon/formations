@@ -31,7 +31,7 @@ C'est peut-être là que la conversation se terminait.
 
 Voici une citation que j'adore de Richard Feynman, qui résume l'idée :
 
-<i> Je préfère avoir des questions sans réponse que des réponses sans question. </i>
+> Je préfère avoir des questions sans réponse que des réponses sans question.
 
 J'utilise les 4 questions ci-dessous depuis le collège pour réussir mes examens, mener des recherches et des projets :
 
@@ -170,7 +170,7 @@ Profitez de l'école pour apprendre à apprendre.
 
 Pour finir sur une citation de Richard Feynman
 
-<i> La science est la croyance en l'ignorance des experts </i>
+> La science est la croyance en l'ignorance des experts
 
 Vous pouvez apprendre les mathématiques à tout âge.
 

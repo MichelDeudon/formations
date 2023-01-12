@@ -10,7 +10,7 @@ role: Professeur de mathématiques appliqués
 
 # Organizations/Affiliations
 organizations:
-  - name: Indépendant
+  - name: Université Paul Valéry
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

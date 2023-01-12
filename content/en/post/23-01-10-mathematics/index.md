@@ -31,7 +31,7 @@ That's maybe when the conversation would end.
 
 Here's a quote I love from Richard Feynman, which summarizes the idea:
 
-<i> I would rather have questions that can't be answered than answers that can't be questioned. </i>
+> I would rather have questions that can't be answered than answers that can't be questioned.
 
 I've been using the 4 questions below since mid school to pass exams, carry out research and projects:
 
@@ -171,7 +171,7 @@ Take the opportunity of school to learn to learn.
 
 As Richard Feynman said
 
-<i> Science is the belief in the ignorance of experts </i>
+> Science is the belief in the ignorance of experts
 
 You can learn mathematics at any age.
 

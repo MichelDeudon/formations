@@ -1,7 +1,7 @@
 ---
 title: Data protection
 linkTitle: Data protection
-summary: Upskilling in personal data protection, Human rights and freedoms, for public or private organizations, start-ups or universities.
+summary: Upskilling in personal data protection, Human rights and freedoms, GDPR, for public or private organizations, start-ups or universities.
 date: '2021-01-24'
 type: book
 tags:
