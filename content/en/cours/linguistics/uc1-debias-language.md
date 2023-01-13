@@ -9,12 +9,8 @@ Use language for social innovation.
 
 <!--more-->
 
-{{< icon name="clock" pack="fas" >}} 1h20 introductory course
+{{< icon name="clock" pack="fas" >}} 1h20 hands on
 
-## From Naive Bayes
+## Street names gender bias in Montpellier
 
-xyz
-
-## To latent variables and models
-
-xyz
+{{< icon name="github" pack="fab" >}} [nlp201-street-names-gender-analysis](https://github.com/MichelDeudon/nlp201-street-names-gender-analysis)

@@ -9,12 +9,8 @@ Use language for environmental protection.
 
 <!--more-->
 
-{{< icon name="clock" pack="fas" >}} 1h20 introductory course
+{{< icon name="clock" pack="fas" >}} 1h20 application pratique
 
-## From Naive Bayes
+## Carbonfact entity and relationship extraction
 
-xyz
-
-## To latent variables and models
-
-xyz
+{{< icon name="github" pack="fab" >}} [nlp201-clothing-composition-parsing](https://github.com/MichelDeudon/nlp201-clothing-composition-parsing)
