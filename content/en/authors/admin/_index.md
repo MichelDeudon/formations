@@ -17,9 +17,9 @@ organizations:
 bio: My research interests include psychology, language learning and ecology.
 
 interests:
+  - Ecology
   - Psychology
   - Language learning
-  - Ecology
 
 education:
   courses:

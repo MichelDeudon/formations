@@ -17,9 +17,9 @@ organizations:
 bio: Mes intérêts de recherche incluent la psychologie, l'apprentissage des langues et l'écologie.
 
 interests:
+  - Ecologie
   - Psychologie
   - Linguistique
-  - Ecologie
 
 education:
   courses:
@@ -29,6 +29,9 @@ education:
     - course: Ingénieur
       institution: Ecole Polytechnique
       year: 2014
+    - course: Prépa Physique Chimie
+      institution: Lycée Pasteur
+      year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
