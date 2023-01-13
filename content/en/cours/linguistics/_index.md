@@ -22,7 +22,7 @@ At the end of the course, participants will be able to {{<hl>}}apply NLP for res
 
 {{< icon name="clock" pack="fas" >}} Course duration: 16 hours. 1h20 per week, for 12 weeks. <br>
 {{< icon name="turn-up" pack="fas" >}} Level: Basic to advanced. <br>
-Topics: Computational linguistics, NLP, learning paradigms, models & limits.
+Topics: Computational linguistics, NLP, learning paradigms, models & limits. <br>
 (Recommended) Audience: Master students enrolled in a scientific field (e.g., healthcare, data science, neuroscience, computer science), language learning and development practitioner or entrepreneurs (in life science, education, etc).
 
 ## Course syllabus
