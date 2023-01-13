@@ -14,3 +14,5 @@ Utiliser le langage pour la protection de l'environnement.
 ## Carbonfact: Entité et extraction de relation
 
 {{< icon name="github" pack="fab" >}} [nlp201-clothing-composition-parsing](https://github.com/MichelDeudon/nlp201-clothing-composition-parsing)
+
+{{< figure src="linguistics/img8.png" >}}

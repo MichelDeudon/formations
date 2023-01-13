@@ -28,7 +28,7 @@ Encoder, décoder les informations.
 
 ## Zipf law
 
-{{< figure src="zipflaw.png" >}}
+{{< figure src="linguistics/img4.png" >}}
 
 - **Culture**: Zipf law
 - **Model**: Limit of n-gram. Dimensionality problem. Visualisation. Quote Hinton 14d. PCA.

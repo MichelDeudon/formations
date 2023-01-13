@@ -18,3 +18,5 @@ xyz
 ## To latent variables and models
 
 xyz
+
+{{< figure src="linguistics/img7.png" >}}
