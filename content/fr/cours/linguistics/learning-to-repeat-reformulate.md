@@ -19,4 +19,4 @@ xyz
 
 xyz
 
-{{< figure src="linguistics/img7.png" >}}
+{{< figure src="linguistics/img7.jpg" >}}
