@@ -1,8 +1,8 @@
 ---
-title: 2nd-1ère
+title: Lycée (2nd - 1ère)
 date: '2023-01-10'
 type: book
-weight: 30
+weight: 40
 ---
 
 15-18 ans
@@ -11,7 +11,7 @@ weight: 30
 
 ## Feminism and social justice
 
-### Emma Watson HeforShe Speech at the UN (2014)
+### Emma Watson at the UN (2014)
 
 {{< youtube gkjW9PZBRfk>}}
 
