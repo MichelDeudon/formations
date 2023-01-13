@@ -23,7 +23,7 @@ tags:
 {{< icon name="clock" pack="fas" >}} Durée du cours : 16 heures. 1h20 par semaine, pendant 12 semaines. <br>
 {{< icon name="turn-up" pack="fas" >}} Niveau : De base à avancé. <br>
 {{< icon name="spell-check" pack="fas" >}} Thèmes : Linguistique computationelle, paradigmes d'apprentissage, modèles et limites, TAL, PNL. <br>
-{{< icon name="discourse" pack="fas" >}} Public (recommandé): Étudiants en M1 (cursus scientifique, ex: data science, neurosciences, psychologie), praticiens de l'apprentissage et du développement des langues (ex: orthophoniste, enseignant).
+{{< icon name="hands-asl-interpreting" pack="fas" >}} Public (recommandé): Étudiants en M1 (cursus scientifique, ex: data science, neurosciences, psychologie), praticiens de l'apprentissage et du développement des langues (ex: orthophoniste, enseignant).
 
 ## Cours dans ce program
 
