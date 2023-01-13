@@ -1,5 +1,5 @@
 ---
-title: Cours particuliers d'anglais
+title: Anglais
 linkTitle: Anglais
 summary: Soutien scolaire en anglais par américain natif. Accompagnement des candidatures aux universités, CV et lettres de motivation pour étudier, travailler ou partir à l'étranger!
 date: '2015-01-04'

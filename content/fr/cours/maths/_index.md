@@ -1,5 +1,5 @@
 ---
-title: Cours particuliers de mathématiques, physique-chimie
+title: Mathématiques, Physique Chimie
 linkTitle: Maths, Physique-Chimie
 summary: Soutien scolaire en mathématiques et physique-chimie niveau college et lycée à Montpellier. Statistiques, quantique, programmation, sciences des données en études supérieures.
 date: '2015-01-04'

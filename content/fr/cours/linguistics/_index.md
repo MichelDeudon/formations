@@ -1,5 +1,5 @@
 ---
-title: Linguistique et PNL
+title: Linguistique computationelle et innovation frugale
 linkTitle: Linguistique
 summary: Montée en compétence ou reconversion en traitement automatique des langues et programmation neuro linguistique, pour des organisations publiques ou privées, des start-up ou des universités.
 date: '2021-01-24'

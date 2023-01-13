@@ -1,5 +1,5 @@
 ---
-title: Mathematics, Physics, Chemistry private lessons
+title: Mathematics, Physics, Chemistry
 linkTitle: Science
 summary: Tutoring in mathematics, physics and chemistry at college and high school level in Montpellier. Statistical physics and quantum computing, for higher education.
 date: '2015-01-04'

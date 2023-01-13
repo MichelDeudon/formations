@@ -1,5 +1,5 @@
 ---
-title: Computational linguistics
+title: Computational linguistics and frugal innovation
 linkTitle: Computational linguistics
 summary: Upskilling or reskilling in Natural Language Processing, for public or private organizations, start-ups or universities.
 date: '2021-01-24'
