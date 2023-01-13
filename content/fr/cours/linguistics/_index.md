@@ -16,15 +16,14 @@ tags:
 
 ## Ce que vous apprendrez
 
-À la fin du cours, les participants seront capables d'{{<hl>}}appliquer la PNL à des projets de recherche ou innovants{{</hl>}}, de comparer, d'expliquer et de choisir différentes méthodes, ainsi que de questionner et de tester des hypothèses. (Optionel) À travers de cas pratiques, les participants apprendront à utiliser Python pour analyser des données, visualiser des informations et transmettre des apprentissages avec {{<hl>}}[scikit-learn](https://scikit-learn.org/stable/ ), scipy, [NLTK](https://www.nltk.org/), [gensim](https://radimrehurek.com/gensim/index.html) ou [spacy](https://spacy.io/){{</hl>}} pour créer des preuves de concept et MVP.
+À la fin du cours, les participants seront capables d'{{<hl>}}appliquer la linguistique computationelle à des projets de recherche innovants{{</hl>}}, de comparer, d'expliquer et de choisir différentes méthodes, ainsi que de questionner et de tester des hypothèses. (Optionel) À travers de cas pratiques, les participants apprendront à utiliser Python pour analyser des données, visualiser des informations et expérimenter avec {{<hl>}}[scikit-learn](https://scikit-learn.org/stable/ ), [NLTK](https://www.nltk.org/), [gensim](https://radimrehurek.com/gensim/index.html) ou [spacy](https://spacy.io/){{</hl>}} pour créer des modèles simples et pratiques.
 
 ## Présentation
 
 {{< icon name="clock" pack="fas" >}} Durée du cours : 16 heures. 1h20 par semaine, pendant 12 semaines. <br>
 {{< icon name="turn-up" pack="fas" >}} Niveau : De base à avancé. <br>
-Thèmes : Linguistique computationelle, TAL, PNL, paradigmes d'apprentissage, modèles et limites. <br>
-Public (recommandé): Étudiants en master inscrits dans un domaine scientifique (par exemple, en santé, science des données, neurosciences, informatique), praticiens de l'apprentissage et du développement des langues ou entrepreneurs (en sciences de la vie, en éducation, etc.)
-
+{{< icon name="spell-check" pack="fas" >}} Thèmes : Linguistique computationelle, paradigmes d'apprentissage, modèles et limites, TAL, PNL. <br>
+{{< icon name="discourse" pack="fas" >}} Public (recommandé): Étudiants en M1 (cursus scientifique, ex: data science, neurosciences, psychologie), praticiens de l'apprentissage et du développement des langues (ex: orthophoniste, enseignant).
 
 ## Cours dans ce program
 
