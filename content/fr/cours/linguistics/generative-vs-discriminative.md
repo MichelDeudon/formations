@@ -1,11 +1,11 @@
 ---
-title: Generative vs discriminative learning
+title: Apprentissage génératif vs discriminatif
 date: '2021-01-01'
 type: book
 weight: 80
 ---
 
-Create to understand.
+Créer pour comprendre.
 
 <!--more-->
 

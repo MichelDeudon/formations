@@ -1,14 +1,14 @@
 ---
-title: A primer on languages and alphabets
+title: Une introduction aux langues et aux alphabets
 date: '2021-01-01'
 type: book
 weight: 30
 highlight: true
 tags:
-  - Languages and alphabets
+  - Langues et alphabets
 ---
 
-Give historical context.
+Donner du contexte historique.
 
 <!--more-->
 
@@ -100,10 +100,10 @@ fig.show()
 
 ## Reference
 
+> Michalis Vazirgiannis. Introduction to Text Mining & NLP. Ecole Polytechnique. 2017.
+
 > Christopher D. Manning et al. [Introduction to Information Retrieval](http://www-nlp.stanford.edu/IR-book/). Cambridge
 University Press. 2008.
-
-> Michalis Vazirgiannis. INF582 - Introduction to Text Mining & NLP. 2017.
 
 > S.Deerwester et al. Indexing by Latent Semantic Analysis. Journal of the Society for Information Science. 1990
 

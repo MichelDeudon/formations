@@ -1,16 +1,16 @@
 ---
-title: Use case 2 - Carbon accounting
+title: Cas pratique 2 - Comptabilité carbone
 date: '2021-01-01'
 type: book
 weight: 110
 ---
 
-Use language for environmental protection.
+Utiliser le langage pour la protection de l'environnement.
 
 <!--more-->
 
 {{< icon name="clock" pack="fas" >}} 1h20 application pratique
 
-## Carbonfact entity and relationship extraction
+## Carbonfact: Entité et extraction de relation
 
 {{< icon name="github" pack="fab" >}} [nlp201-clothing-composition-parsing](https://github.com/MichelDeudon/nlp201-clothing-composition-parsing)

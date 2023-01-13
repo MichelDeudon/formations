@@ -1,5 +1,5 @@
 ---
-title: Document summarization
+title: Keyword extraction
 date: '2021-01-01'
 type: book
 weight: 60
@@ -47,4 +47,4 @@ The parameter $\mu$ is the mean or expectation of the distribution.
 
 ## Reference
 
-> Michalis Vazirgiannis. INF582 - Introduction to Text Mining & NLP. 2017.
+> Michalis Vazirgiannis. Introduction to Text Mining & NLP. Ecole Polytechnique. 2017.

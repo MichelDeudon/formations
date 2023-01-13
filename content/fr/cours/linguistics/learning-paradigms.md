@@ -1,5 +1,5 @@
 ---
-title: Learning paradigms
+title: Paradigmes d'apprentissage
 date: '2021-01-01'
 type: book
 weight: 70
@@ -8,7 +8,7 @@ tags:
   - Statistics
 ---
 
-Compare learning paradigms in NLP.
+Explorez les paradigmes d'apprentissage en PNL.
 
 <!--more-->
 

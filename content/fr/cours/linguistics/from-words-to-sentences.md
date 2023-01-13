@@ -1,5 +1,5 @@
 ---
-title: From words to sentences
+title: Des mots aux phrases
 date: '2021-01-01'
 type: book
 weight: 50
@@ -8,7 +8,7 @@ tags:
   - Statistics
 ---
 
-Contextualize, visualize meaning.
+Contextualiser, visualiser le sens.
 
 <!--more-->
 

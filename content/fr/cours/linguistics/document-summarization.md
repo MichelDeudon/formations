@@ -1,5 +1,5 @@
 ---
-title: Document summarization
+title: Extraction de mots-clés
 date: '2021-01-01'
 type: book
 weight: 60
@@ -8,43 +8,42 @@ tags:
   - Statistics
 ---
 
-Combine analytical & synthetic skills.
+Analytise et synthése.
 
 <!--more-->
 
 {{< icon name="clock" pack="fas" >}} 1h20 per week, for 3 weeks
 
-## Keywords extraction and document summarization
+## Extraction de mots-clés et synthèse de documents
+- **Culture** : le classement des pages en tant que problème de graphique
+- **Modèle** : Graphe de mots (Vazirgiannis, TDA)
+- **Théorie** : Nœud, arêtes. OR, MST
+- **Cas d'utilisation**:
+    - Extraction de mots-clés, Résumé de documents
+    - Biais linguistiques, biais cognitifs, évolution
+    - Feedback réglementaire. Graphe de connaissances.
+- **Résumé de la partie 2** (modèles, hypothèses, limites, approche probabiliste)
 
-- **Culture**: Page rank as a graph problem
-- **Model**: Graph of words (Vazirgiannis, TDA)
-- **Theory**: Node, edges. OR, MST. MST.
-- **Usecase**:
-    - Keyword extraction, Document summarization
-    - Language biases, evolution
-    - Regulatory feedback. KG.
-- **Summary of part 2** (models, hypothesis, limits, probabilistic approach)
-
-
-The general form of the **normal** probability density function is:
+La forme générale de la fonction de densité de probabilité **normale** est :
 
 $$
 f(x) = \frac{1}{\sigma \sqrt{2\pi} } e^{-\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2}
 $$
 
 {{< callout note >}}
-The parameter $\mu$ is the mean or expectation of the distribution.
-$\sigma$ is its standard deviation.
-The variance of the distribution is $\sigma^{2}$.
+Le paramètre $\mu$ est la moyenne ou l'espérance de la distribution.
+$\sigma$ est son écart type.
+La variance de la distribution est $\sigma^{2}$.
+
 {{< /callout >}}
 
 ## Quiz
 
-{{< spoiler text="What is the parameter $\mu$?" >}}
-The parameter $\mu$ is the mean or expectation of the distribution.
+{{< spoiler text="Qu'est-ce que le paramètre $\mu$ ?" >}}
+Le paramètre $\mu$ est la moyenne ou l'espérance de la distribution.
 {{< /spoiler >}}
 
 
 ## Reference
 
-> Michalis Vazirgiannis. INF582 - Introduction to Text Mining & NLP. 2017.
+> Michalis Vazirgiannis. Introduction to Text Mining & NLP. Ecole Polytechnique. 2017.

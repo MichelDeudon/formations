@@ -1,11 +1,11 @@
 ---
-title: Learning to repeat, reformulate
+title: Apprendre à répéter, reformuler
 date: '2021-01-01'
 type: book
 weight: 90
 ---
 
-Distinguish style & semantics.
+Distinguer style & sémantique.
 
 <!--more-->
 

@@ -1,20 +1,15 @@
 ---
-title: Use case 3 - Fighting fake news
+title: Cas pratique 3 - Lutte contre les fake news
 date: '2021-01-01'
 type: book
 weight: 120
 ---
 
-Identify fake news, counter hate speech.
+Identifier les fausses nouvelles, contrer les discours de haine.
 
 <!--more-->
 
 {{< icon name="clock" pack="fas" >}} 1h20 application pratique
 
-## From Naive Bayes
+## Segmentation graphe
 
-xyz
-
-## To latent variables and models
-
-xyz

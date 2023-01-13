@@ -1,5 +1,5 @@
 ---
-title: From alphabets to words
+title: Des alphabets aux mots
 date: '2021-01-01'
 type: book
 weight: 40
@@ -8,7 +8,7 @@ tags:
   - Data Visualization
 ---
 
-Encode, decode information.
+Encoder, décoder les informations.
 
 <!--more-->
 

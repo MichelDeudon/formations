@@ -1,22 +1,16 @@
 ---
-title: Project presentations
+title: Présentations de projets
 date: '2021-01-01'
 type: book
 weight: 130
 ---
 
-Give and receive feedback.
+Donner et recevoir du feedback.
 
 <!--more-->
 
-{{< icon name="clock" pack="fas" >}} 1h20 introductory course
+{{< icon name="clock" pack="fas" >}} 1h20 séance de feedback
 
-## From Naive Bayes
+## Projets
 
-Identify fake news, counter hate speech.
-
-Present learnings and convey important messages through simple visualizations. 
-
-## To latent variables and models
-
-xyz
+Présentez vos apprentissages et transmettez des messages importants à travers des visualisations simples.
