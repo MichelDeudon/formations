@@ -18,6 +18,12 @@ The best way to learn English boils down to three words - <i>"Practice, practice
 
 Whether you're a beginner or advanced in English, whether you need help with your homework, assignments, tests (Toefl, Toeic), would like to proofread an important document (cover letter, cv, article/blog) or simply want to practice speaking, this program is tailor-made for you. Contact your instructor and start today!
 
+
+## Topics for debates
+
+{{< list_children >}}
+
+
 ## FAQs
 
 {{< spoiler text="Are there prerequisites?" >}}
