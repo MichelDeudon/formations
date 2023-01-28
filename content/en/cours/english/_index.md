@@ -16,7 +16,7 @@ Learning English is [one of the best investment](https://www.mtpcours.fr/en/post
 
 The best way to learn English boils down to three words - <i>"Practice, practice, practice"</i>. In this course, you will have many opportunities to practice with a native American born in New York. It's an opportunity to deepen your vocabulary, grammar and spelling, learn to speak and pronounce words like a native, and an opportunity to expand your culture, including proverbs and American / British history.
 
-Whether you're a beginner or advanced in English, whether you need help with your homework, assignments, tests (Toefl, Toeic), would like to proofread an important document (cover letter, cv, article/blog) or simply want to practice speaking, this program is tailor-made for you. Contact your instructor and start today!
+Whether you're a beginner or advanced in English, whether you need help with your homework, assignments, tests (Toefl, Toeic), would like to proofread an important document (cover letter, cv, article/blog) or simply want to practice speaking, this program is tailor-made for you.
 
 
 ## Topics for debates

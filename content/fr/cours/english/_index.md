@@ -16,7 +16,7 @@ Apprendre l'anglais est l'[un des meilleurs investissements](https://www.mtpcour
 
 La meilleure façon d'apprendre l'anglais se résume à trois mots - <i>"Pratiquer, pratiquer, pratiquer"</i>. Dans ce cours particulier, vous aurez de nombreuses occasions de pratiquer avec un américain, né à New York. C'est l'occassion d'approfondir son vocabulaire, la grammaire et l'orthographe, apprendre à parler et prononcer des mots comme un natif, et l'occassion d'élargir sa culture, y compris de proverbes et d'histoire américaine/britannique. 
 
-Que vous soyez débutant ou avancé en anglais, que vous ayez besoin d'aide pour vos devoirs ou vos tests (Toefl, Toeic), que vous souhaitiez relire un document important et améliorer vos compétences rédactionnelles (lettre de motivation, cv, article/blog), ou que vous vouliez simplement vous entraîner à parler, ce programme sur mesure est fait pour vous. Commencez dès aujourd'hui !
+Que vous soyez débutant ou avancé en anglais, que vous ayez besoin d'aide pour vos devoirs ou vos tests (Toefl, Toeic), que vous souhaitiez relire un document important et améliorer vos compétences rédactionnelles (lettre de motivation, cv, article/blog), ou que vous vouliez simplement vous entraîner à parler, ce programme sur mesure est fait pour vous.
 
 ## Dans ce program
 
