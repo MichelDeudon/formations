@@ -3,9 +3,8 @@ title: Super conductivité
 date: '2023-01-29'
 type: book
 weight: 40
-math: true
 tags:
-  - Super conductivité
+  - Superconductivité
 ---
 
 Des paires de coopers aux basses températures

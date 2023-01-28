@@ -3,9 +3,8 @@ title: Super résolution
 date: '2023-01-29'
 type: book
 weight: 50
-math: true
 tags:
-  - Super resolution
+  - Superresolution
 ---
 
 From nuclear physics to Alice and Bob
