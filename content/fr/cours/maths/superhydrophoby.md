@@ -34,7 +34,7 @@ L'observation de spores au microscope optique (x100, x400, x600) suggère que le
 Des irrégularités distantes
 de quelques {{< math >}}$\mu m${{< /math >}} la rendent rugueuse et superhydrophobe. C'est l'effet Fakir: une goutte d'eau ne s'écrase pas sous l'effet de la pesanteur mais laisse sous elle des poches d'air, tel un fakir posé sur des clous. Ceci se produit lorsque la distance entre les irrégularités est inférieure à la longueur capillaire de l'eau {{< math >}}$L_c = \sqrt{\frac{\gamma}{\rho g}} \approx 3${{< /math >}} mm. 
 
-{{< figure src="super-hydrophoby/img2.jpg" caption="Spores de Lycopodium, vus au microscope." numbered="true">}}
+{{< figure src="super-hydrophoby/img3.jpg" caption="Spores de Lycopodium, vus au microscope." numbered="true">}}
 
 ### Tracé d'un diagramme énergétique
 
@@ -53,7 +53,8 @@ la densité surfacique de spores, supposée uniforme à l'échelle du bécher. A
 
 A {{< math >}}$\sigma${{< /math >}} et h fixées j'ai lâché successivement entre 5 et 10 gouttes. Le résultat est une fraction comprise
 entre 0 (aucune goutte lâchée n'a traversé les spores) et 1 (toutes les gouttes lâchées ont traversé).
-Ainsi, à {{< math >}}$\sigma${{< /math >}} donnée, en réitérant ce qui précède pour différentes valeurs de h, je définis deux hauteurs {{< math >}}$h_{min}${{< /math >}} et {{< math >}}$h_{max}${{< /math >}}. Si {{< math >}}$h<h_{min}${{< /math >}} la goutte ne traverse jamais et si {{< math >}}$h>h_{max}${{< /math >}} la goutte traverse toujours: l'apport d'énergie est suffisant. L'intervalle {{< math >}}$[h_{min}-h_{max}]${{< /math >}} correspond aux incertitudes de mesure.
+Ainsi, à {{< math >}}$\sigma${{< /math >}} donnée, en réitérant ce qui précède pour différentes valeurs de h, je définis deux hauteurs {{< math >}}$h_{min}${{< /math >}} et {{< math >}}$h_{max}${{< /math >}}.
+Si {{< math >}}$h<h_{min}${{< /math >}} la goutte ne traverse jamais et si {{< math >}}$h>h_{max}${{< /math >}} la goutte traverse toujours: l'apport d'énergie est suffisant. L'intervalle {{< math >}}$[h_{min}-h_{max}]${{< /math >}} correspond aux incertitudes de mesure.
 
 Après plus de 800 gouttes lâchées, j'ai obtenu un diagramme énergétique où {{< math >}}$\sigma${{< /math >}} est porté en abscisse, {{< math >}}$h_{min}${{< /math >}} et {{< math >}}$h_{max}${{< /math >}} en ordonné. On distingue trois domaines. Un premier où {{< math >}}$h${{< /math >}} est proportionnelle à {{< math >}}$\sqrt{\sigma}${{< /math >}}, puis une évolution linéaire et enfin quadratique. On remarque aussi qu'il existe une densité surfacique critique {{< math >}}$\sigma_c${{< /math >}}. Si {{< math >}}$\sigma< \sigma_c${{< /math >}} une goutte d'eau traverse la couche de spores, quelque soit sa hauteur de chute.
 
@@ -65,7 +66,7 @@ Après plus de 800 gouttes lâchées, j'ai obtenu un diagramme énergétique où
 
 Lorsque la déformation de l'interface est maximale (état repéré par * et dépendant de la hauteur de chute h),
 si la densité surfacique apparente {{< math >}}$\sigma^*${{< /math >}} est inférieure à {{< math >}}$\sigma_c${{< /math >}}, la goutte traverse.
-Sinon la goutte ne traverse pas. Le cas limite $\sigma^*=\sigma_c$ correspond à la frontière entre les deux régimes. Pour déterminer $\sigma^*$ en fonction des paramètres $h$ et $\sigma$, je me suis rendu à l'institut d'Alembert de Jussieu pour filmer la déformation. Arnaud Antkowiak, professeur à l'UPMC et chercheur en mécanique des fluides, m'a accueilli et permis de réaliser des videos avec une caméra rapide (plus de 1000 images par seconde).
+Sinon la goutte ne traverse pas. Le cas limite {{< math >}}$\sigma^*=\sigma_c${{< /math >}} correspond à la frontière entre les deux régimes. Pour déterminer {{< math >}}$\sigma^*${{< /math >}} en fonction des paramètres {{< math >}}$h${{< /math >}} et {{< math >}}$\sigma${{< /math >}}, je me suis rendu à l'institut d'Alembert de Jussieu pour filmer la déformation. Arnaud Antkowiak, professeur à l'UPMC et chercheur en mécanique des fluides, m'a accueilli et permis de réaliser des videos avec une caméra rapide (plus de 1000 images par seconde).
 
 #### Modélisation du domaine linéaire
 
