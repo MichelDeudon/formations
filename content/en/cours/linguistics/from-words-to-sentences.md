@@ -112,5 +112,3 @@ The parameter $\mu$ is the mean or expectation of the distribution.
 ## Reference
 
 > Laure Delisle et al. [A large-scale crowdsourced analysis of abuse against women journalists and politicians on Twitter](https://arxiv.org/abs/1902.03093). 2019.
-
-> Francis Bach. [Introduction to Probabilistic Graphical Models](https://www.di.ens.fr/~fbach/courses/fall2018/). 2018.

@@ -24,19 +24,6 @@ Analytise et synthése.
     - Feedback réglementaire. Graphe de connaissances.
 - **Résumé de la partie 2** (modèles, hypothèses, limites, approche probabiliste)
 
-La forme générale de la fonction de densité de probabilité **normale** est :
-
-$$
-f(x) = \frac{1}{\sigma \sqrt{2\pi} } e^{-\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2}
-$$
-
-{{< callout note >}}
-Le paramètre $\mu$ est la moyenne ou l'espérance de la distribution.
-$\sigma$ est son écart type.
-La variance de la distribution est $\sigma^{2}$.
-
-{{< /callout >}}
-
 ## Quiz
 
 {{< spoiler text="Qu'est-ce que le paramètre $\mu$ ?" >}}

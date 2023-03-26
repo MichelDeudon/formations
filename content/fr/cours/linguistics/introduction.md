@@ -34,7 +34,7 @@ BERT, RoBERT, CamemBERT 🧀 sont des modèles avec une complexité quadratrique
 
 Décembre 2022, Elon Musk a publié un modèle avec 175 millions de paramètres, 60% de plus que BERT. <b>C'est une question d'ego, qui a le plus grand réseau de neurones</b>. BERT était un bazooka. <b>OpenAI a sorti un tank</b>.
 
-Les systèmes de prise de décision manquent de <b>diversité</b>. Il n'existe pas de modèle de langage universel formé sur une langue (lol). Les conflits d'intérêts nous éloignent davantage de nos objectifs communs tels que la construction d'une <b>société inclusive</b> ou d'une <b>économie à faibles émissions de carbone</b>.
+Les systèmes de prise de décision manquent de <b>diversité</b>. Il n'existe pas de modèle de langage universel entrainé par des ingénieurs francais sur des données en anglais. Les conflits d'intérêts nous éloignent davantage de nos objectifs communs tels que la construction d'une <b>société inclusive</b> ou d'une <b>économie à faibles émissions de carbone</b>.
 
 De plus, la façon dont l'IA est réalisée chez Google, Facebook, Microsoft ou Amazon n'est pas appropriée pour de nombreux entrepreneurs ou chercheurs, travaillant sur de nouveaux problèmes avec peu ou pas de données. L'exploitation de main-d'œuvre bon marché et de modérateurs pour superviser les modèles d'apprentissage automatique ne sont pas très éthiques.
 
@@ -58,6 +58,12 @@ Voici quelques idées sur la façon dont vous pouvez appliquer ce que vous appre
 Plus de 7000 langues sont parlées aujourd'hui, mais seulement 23 langues représentent plus de la moitié de la population mondiale. La recherche en science des données, en PNL et en IA se fait majoritairement en anglais, introduisant un biais dans notre approche de la linguistique computationnelle.
 {{< /spoiler >}}
 
-{{< spoiler text="Vrai ou faux, le BERT a une empreinte carbone proche d'un vol aller-retour trans-Amérique pour une personne?" >}}
+{{< spoiler text="Vrai ou faux, le modèle BERT a une empreinte carbone proche d'un vol aller-retour trans-Amérique pour une personne?" >}}
 Vrai, selon [Technology Review, 2019](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/).
 {{< /spoiler >}}
+
+## Reference 
+
+> Emma Strubell, Ganesh Ananya and Andrew McCallum. [Energy and policy considerations for deep learning in NLP](https://arxiv.org/abs/1906.02243). arXiv preprint arXiv:1906.02243 (2019). Published in the 57th Annual Meeting of the Association for Computational Linguistics (ACL). Florence, Italy. July 2019.
+
+> Karen Hao. [Training a single AI model can emit as much carbon as five cars in their lifetimes](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/). MIT Technology Review. June 6, 2019.

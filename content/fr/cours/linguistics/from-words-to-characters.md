@@ -25,7 +25,6 @@ Encoder, décoder les informations.
     - Pyfood, search and translate api
     - Money laundering & slavery. Rose, ctxt, info obfuscation. How is a word commonly mispelt?
     
-
 ## Zipf law
 
 {{< figure src="linguistics/img4.png" >}}
@@ -39,26 +38,9 @@ Encoder, décoder les informations.
     - Language evolution. Word context. W2vec, Glove (300d, oov) → fastvec (next chapter)
 - **Summary of part 1** (models, hypothesis, limits, information theory)
 
-## Quiz
-
-{{< spoiler text="When is a heatmap useful?" >}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-{{< /spoiler >}}
-
-{{< spoiler text="Write Plotly code to render a bar chart" >}}
-
-```python
-import plotly.express as px
-data_canada = px.data.gapminder().query("country == 'Canada'")
-fig = px.bar(data_canada, x='year', y='pop')
-fig.show()
-```
-
-{{< /spoiler >}}
-
 
 ## Reference
 
 > Michel Deudon. [On food, bias and seasons: A recipe for sustainability](https://hal.archives-ouvertes.fr/hal-02532348). HAL-02532348. 2020.
 
-> Frederic Nadal. [Modélisation en neurosciences - et ailleurs](http://www.lps.ens.fr/~nadal/Cours/MVA/). 2018.
+> Local Seasonal. [Pyfood: A Python package to process food](https://pyfood.readthedocs.io/en/latest/). Pypi.

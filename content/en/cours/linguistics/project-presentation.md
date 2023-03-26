@@ -9,14 +9,8 @@ Give and receive feedback.
 
 <!--more-->
 
-{{< icon name="clock" pack="fas" >}} 1h20 introductory course
+{{< icon name="clock" pack="fas" >}} 1h20 feedback session 
 
-## From Naive Bayes
+## Projects
 
-Identify fake news, counter hate speech.
-
-Present learnings and convey important messages through simple visualizations. 
-
-## To latent variables and models
-
-xyz
+Showcase your learnings and convey important messages through simple visualizations.

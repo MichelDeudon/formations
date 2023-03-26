@@ -1,5 +1,5 @@
 ---
-title: Cas pratique 2 - Comptabilité carbone
+title: 2 - Comptabilité carbone
 date: '2021-01-01'
 type: book
 weight: 110

@@ -54,7 +54,8 @@ la densité surfacique de spores, supposée uniforme à l'échelle du bécher. A
 A {{< math >}}$\sigma${{< /math >}} et h fixées j'ai lâché successivement entre 5 et 10 gouttes. Le résultat est une fraction comprise
 entre 0 (aucune goutte lâchée n'a traversé les spores) et 1 (toutes les gouttes lâchées ont traversé).
 Ainsi, à {{< math >}}$\sigma${{< /math >}} donnée, en réitérant ce qui précède pour différentes valeurs de h, je définis deux hauteurs {{< math >}}$h_{min}${{< /math >}} et {{< math >}}$h_{max}${{< /math >}}.
-Si {{< math >}}$h<h_{min}${{< /math >}} la goutte ne traverse jamais et si {{< math >}}$h>h_{max}${{< /math >}} la goutte traverse toujours: l'apport d'énergie est suffisant. L'intervalle {{< math >}}$[h_{min}-h_{max}]${{< /math >}} correspond aux incertitudes de mesure.
+
+Si {{< math >}} $h < h_{min}$ {{< /math >}} la goutte ne traverse jamais et si {{< math >}} $h > h_{max}$ {{< /math >}} la goutte traverse toujours: l'apport d'énergie est suffisant. L'intervalle {{< math >}}$[h_{min}-h_{max}]${{< /math >}} correspond aux incertitudes de mesure.
 
 Après plus de 800 gouttes lâchées, j'ai obtenu un diagramme énergétique où {{< math >}}$\sigma${{< /math >}} est porté en abscisse, {{< math >}}$h_{min}${{< /math >}} et {{< math >}}$h_{max}${{< /math >}} en ordonné. On distingue trois domaines. Un premier où {{< math >}}$h${{< /math >}} est proportionnelle à {{< math >}}$\sqrt{\sigma}${{< /math >}}, puis une évolution linéaire et enfin quadratique. On remarque aussi qu'il existe une densité surfacique critique {{< math >}}$\sigma_c${{< /math >}}. Si {{< math >}}$\sigma< \sigma_c${{< /math >}} une goutte d'eau traverse la couche de spores, quelque soit sa hauteur de chute.
 
@@ -99,8 +100,8 @@ une déplétion locale de spores conséquente. Le transfert et l'échange d'éne
 
 ### Reference
 
-[1] S. Barrier. Physical and chemical properties of sporopollenin exine particles. PhD Thesis. University of Hull. 2008.
+[1] S. Barrier. [Physical and chemical properties of sporopollenin exine particles](https://core.ac.uk/download/pdf/9841868.pdf). PhD Thesis. University of Hull. 2008.
 
-[2] P. Aussillous. Les gouttes enrobées. PhD Thesis. Université Paris VI. 2002.
+[2] P. Aussillous. [Les gouttes enrobées](https://theses.hal.science/tel-00003630). PhD Thesis. Université Paris VI. 2002.
 
-[3] E. Lorenceau, C. Planche, A. L. Biance et al. Coalescence of armored interface under impact. 2013.
+[3] E. Lorenceau, C. Planche, A. L. Biance et al. [Coalescence of armored interface under impact](https://aip.scitation.org/doi/abs/10.1063/1.4801320). 2013.

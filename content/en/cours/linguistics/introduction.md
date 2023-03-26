@@ -34,7 +34,7 @@ BERT, RoBERT, CamemBERT 🧀 are models with a quadratric complexity. AI confere
 
 December 2022, Elon Musk released a model with 175 million parameters, 60% more than BERT. <b>It’s an ego-thing, who has the biggest neural network</b>. BERT was a bazooka. <b>OpenAI released a tank</b>.
 
-Decision making systems lack <b>diversity</b>. There is no such things as a universal language model trained on one language (lol). Conflicts of interest set us further apart from our common goals like building an <b>inclusive society</b> or <b>low carbon economy</b>.
+Decision making systems lack <b>diversity</b>. There is no such things as a universal language model trained on English by French engineers. Conflicts of interest set us further apart from our common goals like building an <b>inclusive society</b> or <b>low carbon economy</b>.
 
 In addition, the way AI is done at Google, Facebook, Microsoft or Amazon, is not appropriate for many entrepreneurs or researchers, working on new problems with little to no data. Cheap labour and moderators used to supervise machine learning models is unethical.
 
@@ -61,3 +61,10 @@ More than 7000 languages are spoken today, but just 23 languages account for mor
 {{< spoiler text="True or false, BERT has a carbon footprint close to a round-trip trans-America flight for one person?" >}}
 True, according to [Technology Review, 2019](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/).
 {{< /spoiler >}}
+
+
+## Reference 
+
+> Emma Strubell, Ganesh Ananya and Andrew McCallum. [Energy and policy considerations for deep learning in NLP](https://arxiv.org/abs/1906.02243). arXiv preprint arXiv:1906.02243 (2019). Published in the 57th Annual Meeting of the Association for Computational Linguistics (ACL). Florence, Italy. July 2019.
+
+> Karen Hao. [Training a single AI model can emit as much carbon as five cars in their lifetimes](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/). MIT Technology Review. June 6, 2019.
