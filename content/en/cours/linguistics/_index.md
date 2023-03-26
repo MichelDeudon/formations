@@ -1,12 +1,13 @@
 ---
-title: Computational linguistics and frugal innovation
-linkTitle: Computational linguistics
-summary: Upskilling or reskilling in Natural Language Processing, for public or private organizations, start-ups or universities.
+title: Ecolinguistics and frugal innovation
+linkTitle: Ecolinguistics
+summary: Upskilling or reskilling in ecolinguistics and natural language processing, for public or private organizations, start-ups or universities.
 date: '2021-01-24'
 type: book
 tags:
   - Adults
   - Computational linguistics
+  - Ecolinguistics
   - NLP
 ---
 

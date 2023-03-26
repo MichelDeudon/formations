@@ -1,13 +1,14 @@
 ---
-title: Linguistique computationelle et innovation frugale
-linkTitle: Linguistique
-summary: Montée en compétence ou reconversion en traitement automatique des langues et programmation neuro linguistique, pour des organisations publiques ou privées, des start-up ou des universités.
+title: Ecolinguistique et innovation frugale
+linkTitle: Ecolinguistique
+summary: Montée en compétence ou reconversion en écolinguistique, traitement automatique des langues et programmation neuro linguistique, pour des organisations publiques ou privées, des start-up ou des universités.
 date: '2021-01-24'
 type: book
 tags:
   - Adultes
   - Linguistique computationelle
-  - NLP
+  - Ecolinguistique
+  - PNL
 ---
 
 {{< figure src="featured.jpg" >}}
