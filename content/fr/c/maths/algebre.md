@@ -14,6 +14,8 @@ Algèbre II et analyse en composante principale
 
 <!--more-->
 
+{{< figure src="linguistics/img7.jpg" caption="Illustration de notre espace latent appris. Les phrases sont mappées sur des distributions gaussiennes avec des matrices de covariance diagonales. Le tracé a été obtenu par ACP sur les vecteurs moyens des questions. Deudon, Michel. [Learning semantic similarity in a continuous space](https://papers.nips.cc/paper_files/paper/2018/file/97e8527feaf77a97fc38f34216141515-Paper.pdf). Advances in neural information processing systems 31 (2018).">}}
+
 ## Analyse en composante principale et MDS
 
 {{< icon name="clock" pack="fas" >}} 12h, 6x2h par semaine
@@ -29,7 +31,3 @@ Algèbre II et analyse en composante principale
 ### TD / Exercices
 
 À venir.
-
-### Application
-
-{{< figure src="linguistics/img7.jpg" >}}

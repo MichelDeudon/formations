@@ -20,8 +20,8 @@ My method is very practical. We try, we see where it gets stuck, we discuss. We 
 
 ## Au programme
 
-- Lycée: Fonctions usuelles (linéaire, affine, polynômial, etc.), suites, vecteurs, probabilités et statistiques, trigonométrie, etc.
-- Supérieur: Analyse, algèbre
+- High school: Usual functions (linear, affine, polynomial, etc.), sequences, vectors, probabilities and statistics, trigonometry, etc.
+- Higher education: Analysis, algebra
 
 ## To go further
 

@@ -15,6 +15,8 @@ Optimisation et régularisation des modèles
 
 <!--more-->
 
+{{< figure src="super-resolution/img2.jpg" caption="Deudon, M., Kalaitzis, A., Goytom, I., Arefin, M. R., Lin, Z., Sankaran, K., ... & Bengio, Y. (2020). [Highres-net: Recursive fusion for multi-frame super-resolution of satellite imagery](https://arxiv.org/pdf/2002.06460.pdf). arXiv preprint arXiv:2002.06460.">}}
+
 ## Optimisation et régularisation des modèles
 
 {{< icon name="clock" pack="fas" >}} 12h, 6x2h par semaine
@@ -30,7 +32,3 @@ Optimisation et régularisation des modèles
 ### TD / Exercices
 
 À venir.
-
-### Application
-
-{{< figure src="super-resolution/img2.jpg" >}}
