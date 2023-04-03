@@ -2,10 +2,10 @@
 title: Lycée (2nd - 1ère)
 date: '2023-01-10'
 type: book
-weight: 40
+weight: 20
 ---
 
-15-18 ans
+15-18 years old
 
 <!--more-->
 

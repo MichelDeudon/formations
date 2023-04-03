@@ -1,8 +1,8 @@
 ---
-title: Collège (4e - 3e)
+title: Collège
 date: '2023-01-10'
 type: book
-weight: 30
+weight: 10
 ---
 
 13-15 ans
