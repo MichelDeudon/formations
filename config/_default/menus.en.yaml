@@ -26,6 +26,10 @@ main:
     PageRef: c/ecolinguistics/_index.md
     weight: 40
     parent: cours
+  - name: Disinformation
+    PageRef: c/desinformation/_index.md
+    weight: 50
+    parent: cours
   - name: Blog
     PageRef: post/_index.md
     weight: 30
