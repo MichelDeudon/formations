@@ -23,7 +23,7 @@ main:
     weight: 30
     parent: cours
   - name: Ecolinguistics
-    PageRef: c/ecolinguistic/_index.md
+    PageRef: c/ecolinguistics/_index.md
     weight: 40
     parent: cours
   - name: Blog
