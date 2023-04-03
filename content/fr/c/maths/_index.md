@@ -23,6 +23,11 @@ Ma méthode est très pratique. On essaie, on voit où ça coince, on en discute
 - Lycée: Fonctions usuelles (linéaire, affine, polynômial, etc.), suites, vecteurs, probabilités et statistiques, trigonométrie, etc.
 - Supérieur: Analyse, algèbre
 
+## Ressources utiles
+- [Bibmath](https://www.bibmath.net/), la bibliothèque des mathématiques.
+- Cercle trigonométrique. [Pinterest](https://i.pinimg.com/736x/19/f5/b3/19f5b354491a16b870ef4108e909a258--animation.jpg).
+- Mathématiques au lycée général/technologique. [Eduscol](https://eduscol.education.fr/1723/programmes-et-ressources-en-mathematiques-voie-gt).
+
 ## Pour aller plus loin
 
 {{< list_children >}}

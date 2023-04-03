@@ -23,6 +23,11 @@ Ma méthode est très pratique. On essaie, on voit où ça coince, on en discute
 - Physique (forces, gravitation, force éléctrostatique, énergie, ondes, son et lumière, applications)
 - Chimie (structure de la matière, réaction d'oxydo-réduction, physique quantique, chimie organique)
 
+## Ressources utiles
+- Tableau périodique des éléments - Mendeleïev (1869). [Futura-science](https://cdn.futura-sciences.com/cdn-cgi/image/width=1000,quality=60,format=auto/sources/images/tableau-de-Mendeleiev.jpg). [L'étudiant](https://www.letudiant.fr/college/methodologie-college/article/tableau-periodique-des-elements-introduction-et-repertoire.html).
+- Grandeurs et unités physique. [IUTenligne](https://public.iutenligne.net/mecanique/mecanique-du-solide/charbonnieras/mecanique/3.2.Img1.png).
+- Physique Chimie au lycée général/technologique. [Eduscol](https://eduscol.education.fr/1648/programmes-et-ressources-en-physique-chimie-voie-gt).
+
 ## Pour aller plus loin
 
 {{< list_children >}}

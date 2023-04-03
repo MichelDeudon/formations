@@ -18,10 +18,15 @@ I have been teaching mathematics for 10 years, with passion, patience and empath
 
 My method is very practical. We try, we see where it gets stuck, we discuss. We make sure we won't get stuck in similar situations again. We transform each error to gain in efficiency and effectiveness.
 
-## Au programme
+## <i>Au programme</i>
 
 - High school: Usual functions (linear, affine, polynomial, etc.), sequences, vectors, probabilities and statistics, trigonometry, etc.
 - Higher education: Analysis, algebra
+
+## Useful resources
+- [Bibmath](https://www.bibmath.net/), la bibliothèque des mathématiques.
+- Trigonometric circle. [Pinterest](https://i.pinimg.com/736x/19/f5/b3/19f5b354491a16b870ef4108e909a258--animation.jpg).
+- Mathematics in general and technological high school. [Eduscol](https://eduscol.education.fr/1723/programmes-et-ressources-en-mathematiques-voie-gt).
 
 ## To go further
 
