@@ -7,20 +7,24 @@ main:
   - name: Home
     url: '/'
     weight: 10
-  - name: Teaching
+  - name: Training
     weight: 20
     identifier: cours
-  - name: English
-    PageRef: cours/english/_index.md
+  - name: Enlish
+    PageRef: c/english/_index.md
     weight: 10
     parent: cours
-  - name: Science
-    PageRef: cours/maths/_index.md
+  - name: Maths
+    PageRef: c/maths/_index.md
     weight: 20
     parent: cours
-  - name: Linguistics
-    PageRef: cours/linguistics/_index.md
+  - name: Physics Chemistry
+    PageRef: c/physique-chimie/_index.md
     weight: 30
+    parent: cours
+  - name: Ecolinguistics
+    PageRef: c/ecolinguistic/_index.md
+    weight: 40
     parent: cours
   - name: Blog
     PageRef: post/_index.md

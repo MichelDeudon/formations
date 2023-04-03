@@ -11,16 +11,20 @@ main:
     weight: 20
     identifier: cours
   - name: Anglais
-    PageRef: cours/english/_index.md
+    PageRef: c/english/_index.md
     weight: 10
     parent: cours
   - name: Maths
-    PageRef: cours/maths/_index.md
+    PageRef: c/maths/_index.md
     weight: 20
     parent: cours
-  - name: Linguistique
-    PageRef: cours/linguistics/_index.md
+  - name: Physique-Chimie
+    PageRef: c/physique-chimie/_index.md
     weight: 30
+    parent: cours
+  - name: Ecolinguistique
+    PageRef: c/ecolinguistic/_index.md
+    weight: 40
     parent: cours
   - name: Blog
     PageRef: post/_index.md
