@@ -10,7 +10,7 @@ main:
   - name: Training
     weight: 20
     identifier: cours
-  - name: Enlish
+  - name: English
     PageRef: c/english/_index.md
     weight: 10
     parent: cours
