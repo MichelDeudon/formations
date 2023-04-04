@@ -1,6 +1,6 @@
 ---
-title: Invisible pollution and misinformation
-linkTitle: Pollution and Disinformation
+title: Tackling disinformation par la formation
+linkTitle: Disinformation and attention
 summary: Artificial intelligence is everyone's business. Cédric Villani.
 date: '2023-03-21'
 type: book
@@ -18,14 +18,14 @@ tags:
 
 ## What you will learn
 
-At the end of this training, participants will be able to {{<hl>}}explain the links between AI, Energy and Climate{{</hl>}}, to {{<hl>}}identify and fight against disinformation{{</hl>}}, and to {{<hl>}}refocus attention to debate in society{{</hl>}}.
+At the end of this training, participants will be able to {{<hl>}}identify and fight against disinformation{{</hl>}} to {{<hl>}}refocus attention to debate in society{{</hl>}} and {{<hl>}}explain what is invisible pollution{{</hl>}}, the links between AI, energy and climate from scientific articles and evidence.
 
 ## Program overview
 
-This course reviews 10 years of research and development (R&D) in artificial intelligence, from 2014 to today, for teachers, researchers, students in humanities, art or science, and anyone in [higher education and research](https://www.enseignementsup-recherche.gouv.fr/fr) or [national education](https://www.education.gouv.fr/).
+This course reviews 10 years of research and development (R&D) in artificial intelligence, from 2014 to today, for teachers, researchers and students in [higher education and research](https://www.enseignementsup-recherche.gouv.fr/fr) or [national education](https://www.education.gouv.fr/).
 
-{{< icon name="clock" pack="fas" >}} <b>Duration</b>: 12 hours. 2h per week, for 6 weeks. <br>
-{{< icon name="spell-check" pack="fas" >}} <b>Topics</b>: AI, Energy, Climate, Disinformation, Attention, Humanities and Science. <br>
+{{< icon name="clock" pack="fas" >}} <b>Duration</b>: 12 hours. 6x2h per week. <br>
+{{< icon name="spell-check" pack="fas" >}} <b>Thèmes</b> : Disinformation, Attention, Society and the Environment. <br>
 {{< icon name="hands-asl-interpreting" pack="fas" >}} <b>Audience</b> (recommended): Bachelor students (L2/L3), language learning and development practitioners (speech therapist, psychologist, teacher, researcher, data scientist, etc.), associations fighting against misinformation, for the social and climate justice.
 
 ## Chapters overview

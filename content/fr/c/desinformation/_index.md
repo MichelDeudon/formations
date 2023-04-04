@@ -1,6 +1,6 @@
 ---
-title: Pollution invisible et desinformation
-linkTitle: Pollution et Desinformation
+title: Lutter contre la desinformation par la formation
+linkTitle: Desinformation et attention
 summary: L'intelligence artificielle est l'affaire de tout le monde. Cédric Villani.
 date: '2023-03-21'
 type: book
@@ -18,15 +18,15 @@ tags:
 
 ## Ce que vous apprendrez
 
-À la fin de cette formation, les participants seront capables d'{{<hl>}}expliquer les liens entre IA, Énergie et Climat{{</hl>}}, d'{{<hl>}}identifier et lutter contre la désinformation{{</hl>}}, et de {{<hl>}}recentrer l'attention pour débattre en société{{</hl>}}.
+À la fin de cette formation, les participants seront capables d'{{<hl>}}identifier et lutter contre la désinformation{{</hl>}} et {{<hl>}}recentrer l'attention pour débattre en société{{</hl>}}. Les participants seront capable d'{{<hl>}}expliquer ce qu'est la pollution invisible{{</hl>}}, les liens entre IA, énergie et climat, en s'appuyant sur des travaux scientifiques et observations.
 
 ## Présentation
 
-Ce dossier retrace 10 ans de recherche et développement (R&D) en intelligence artificielle, de 2014 à aujourd'hui, à destination des enseignants, chercheurs, étudiants en fac de sciences ou de lettres, et toute personne de l'[enseignement supérieur et de la recherche](https://www.enseignementsup-recherche.gouv.fr/fr) ou l'[éducation nationale](https://www.education.gouv.fr/).
+Ce dossier retrace 10 ans de recherche et développement (R&D) en intelligence artificielle, de 2014 à aujourd'hui, à destination des enseignants, chercheurs et étudiants de l'[enseignement supérieur et de la recherche](https://www.enseignementsup-recherche.gouv.fr/fr) ou l'[éducation nationale](https://www.education.gouv.fr/).
 
-{{< icon name="clock" pack="fas" >}} <b>Durée</b> : 12 heures. 2h par semaine, pendant 6 semaines. <br>
-{{< icon name="spell-check" pack="fas" >}} <b>Thèmes</b> : IA, Énergie, Climat, Désinformation, Attention, Sciences et Lettres. <br>
-{{< icon name="hands-asl-interpreting" pack="fas" >}} <b>Public</b> (recommandé): Étudiant.e.s en L2/L3, praticienn.e.s de l'apprentissage et du développement des langues (orthophoniste, psychologue, enseignant, chercheur, data scientist, etc), associations luttant contre la desinformation, pour la justice sociale et climatique.
+{{< icon name="clock" pack="fas" >}} <b>Durée</b> : 12 heures. 6x2h par semaine. <br>
+{{< icon name="spell-check" pack="fas" >}} <b>Thèmes</b> : Désinformation, Attention, Société et Environnement. <br>
+{{< icon name="hands-asl-interpreting" pack="fas" >}} <b>Public</b> (recommandé): Étudiant.e.s en licence/master MIASHS, praticienn.e.s de l'apprentissage et du développement des langues (orthophoniste, psychologue, enseignant, chercheur, data scientist), associations luttant contre la desinformation, pour la justice sociale et climatique.
 
 ## Vue d'ensemble
 
