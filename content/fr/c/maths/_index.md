@@ -1,11 +1,14 @@
 ---
 title: Mathématiques
 linkTitle: Maths
-summary: Soutien scolaire en mathématiques niveau college et lycée à Montpellier. Statistiques, quantique, programmation, sciences des données en études supérieures.
-date: '2015-01-04'
+summary: Cours particulier de mathématiques et soutien scolaire au lycée à Montpellier. Cours d'analyse, d'algèbre, statistiques et programmation en études supérieures (licence/master MIASHS).
+date: '2023-01-23'
 type: book
 tags:
-  - Jeunes
+  - Mathématiques
+  - Analyse
+  - Algèbre
+  - MIASHS
 ---
 
 {{< figure src="featured.jpg" >}}
@@ -18,19 +21,18 @@ J'enseigne depuis 10 ans les mathématiques avec passion, patience et empathie, 
 
 Ma méthode est très pratique. On essaie, on voit où ça coince, on en discute. On s'assure de ne plus être bloqué dans des situations similaires. On transforme chaque erreur en essai pour gagner en sérénité et efficacité.
 
-## Au programme
+## Lycée
 
-- Lycée: Fonctions usuelles (linéaire, affine, polynômial, etc.), suites, vecteurs, probabilités et statistiques, trigonométrie, etc.
-- Supérieur: Analyse, algèbre
+- Programme de mathématiques au lycée général/technologique. [Eduscol](https://eduscol.education.fr/1723/programmes-et-ressources-en-mathematiques-voie-gt).
+- Fonctions usuelles (linéaire, affine, polynômial, etc.), suites, vecteurs, probabilités et statistiques, trigonométrie, etc.
+
+## Enseignement supérieur
+
+{{< list_children >}}
 
 ## Ressources utiles
 - [Bibmath](https://www.bibmath.net/), la bibliothèque des mathématiques.
 - Cercle trigonométrique. [Pinterest](https://i.pinimg.com/736x/19/f5/b3/19f5b354491a16b870ef4108e909a258--animation.jpg).
-- Mathématiques au lycée général/technologique. [Eduscol](https://eduscol.education.fr/1723/programmes-et-ressources-en-mathematiques-voie-gt).
-
-## Pour aller plus loin
-
-{{< list_children >}}
 
 ## FAQs
 
