@@ -1,8 +1,8 @@
 ---
 title: Physics, Chemistry
 linkTitle: Science
-summary: Tutoring in physics and chemistry at college and high school level in Montpellier. Statistical physics and quantum computing, for higher education.
-date: '2015-01-04'
+summary: Tutoring in physics and chemistry in high school in Montpellier. Training in Earth observation science for masters/PhD.
+date: '2023-01-04'
 type: book
 tags:
   - Youth
@@ -18,19 +18,19 @@ I have been teaching physics and chemistry for 10 years, with passion, patience 
 
 My method is very practical. We try, we see where it gets stuck, we discuss. We make sure we won't get stuck in similar situations again. We transform each error to gain in efficiency and effectiveness.
 
-## <i>Au programme</i>
+## Lycée
 
+- <i>Au programme</i> in physics and chemistry in general and technological high school. [Eduscol](https://eduscol.education.fr/1648/programmes-et-ressources-en-physique-chimie-voie-gt).
 - Physics (forces, gravitation, electrostatic force, energy, waves, sound and light, applications)
 - Chemistry (structure of matter, oxidation-reduction reaction, quantum physics, organic chemistry)
+
+## Higher education
+
+{{< list_children >}}
 
 ## Useful resources
 - Periodic Table of Elements - Mendeleev (1869). [Futura-science](https://cdn.futura-sciences.com/cdn-cgi/image/width=1000,quality=60,format=auto/sources/images/tableau-de-Mendeleiev.jpg). [L'étudiant](https://www.letudiant.fr/college/methodologie-college/article/tableau-periodique-des-elements-introduction-et-repertoire.html).
 - Quantities and physical units. [IUTenligne](https://public.iutenligne.net/mecanique/mecanique-du-solide/charbonnieras/mecanique/3.2.Img1.png).
-- Physics and Chemistry in general and technological high school. [Eduscol](https://eduscol.education.fr/1648/programmes-et-ressources-en-physique-chimie-voie-gt).
-
-## To go further
-
-{{< list_children >}}
 
 ## FAQs
 

@@ -1,7 +1,7 @@
 ---
 title: Mathématiques
 linkTitle: Maths
-summary: Cours particulier de mathématiques et soutien scolaire au lycée à Montpellier. Cours d'analyse, d'algèbre, statistiques et programmation en études supérieures (licence/master MIASHS).
+summary: Cours particulier de mathématiques et soutien scolaire au lycée à Montpellier. Cours d'analyse, d'algèbre, statistiques et programmation en licence/master MIASHS.
 date: '2023-01-23'
 type: book
 tags:

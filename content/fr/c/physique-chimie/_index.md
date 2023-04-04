@@ -1,8 +1,8 @@
 ---
 title: Physique Chimie
 linkTitle: Physique-Chimie
-summary: Soutien scolaire en physique-chimie niveau college et lycée à Montpellier. Phys stats, quantique, programmation, sciences des données en études supérieures.
-date: '2015-01-04'
+summary: Cours particulier de physique chimie et soutien scolaire au lycée à Montpellier. Formation sur l'observation de la Terre en master/doctorat.
+date: '2023-01-04'
 type: book
 tags:
   - Jeunes
@@ -18,19 +18,19 @@ J'enseigne depuis 10 ans la physique et la chimie, avec passion, patience et emp
 
 Ma méthode est très pratique. On essaie, on voit où ça coince, on en discute. On s'assure de ne plus être bloqué dans des situations similaires. On transforme chaque erreur en essai pour gagner en sérénité et efficacité.
 
-## Au programme
+## Lycée
 
+- Programme en Physique Chimie au lycée général/technologique. [Eduscol](https://eduscol.education.fr/1648/programmes-et-ressources-en-physique-chimie-voie-gt).
 - Physique (forces, gravitation, force éléctrostatique, énergie, ondes, son et lumière, applications)
 - Chimie (structure de la matière, réaction d'oxydo-réduction, physique quantique, chimie organique)
+
+## Enseignement supérieur
+
+{{< list_children >}}
 
 ## Ressources utiles
 - Tableau périodique des éléments - Mendeleïev (1869). [Futura-science](https://cdn.futura-sciences.com/cdn-cgi/image/width=1000,quality=60,format=auto/sources/images/tableau-de-Mendeleiev.jpg). [L'étudiant](https://www.letudiant.fr/college/methodologie-college/article/tableau-periodique-des-elements-introduction-et-repertoire.html).
 - Grandeurs et unités physique. [IUTenligne](https://public.iutenligne.net/mecanique/mecanique-du-solide/charbonnieras/mecanique/3.2.Img1.png).
-- Physique Chimie au lycée général/technologique. [Eduscol](https://eduscol.education.fr/1648/programmes-et-ressources-en-physique-chimie-voie-gt).
-
-## Pour aller plus loin
-
-{{< list_children >}}
 
 ## FAQs
 

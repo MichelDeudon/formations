@@ -7,4 +7,4 @@ design:
   columns: '1'
 ---
 
-{{% cta cta_link="./cours/" cta_text="Explorer les formations!" %}}
+{{% cta cta_link="./c/" cta_text="Explorer les formations!" %}}

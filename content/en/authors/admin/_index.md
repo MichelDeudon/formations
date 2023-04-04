@@ -10,8 +10,8 @@ role: Professor in applied mathematics
 
 # Organizations/Affiliations
 organizations:
-  - name: Université Paul Valéry
-    url: ''
+  - name: Paul Valéry University Montpellier 3
+    url: 'https://www.univ-montp3.fr/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include psychology, language learning and ecology.
@@ -58,4 +58,4 @@ user_groups:
   - Teachers
 ---
 
-Hi! I'm Michael, I was born in New York and lived more than 10 years abroad. I'm passionate about teaching, learning and psychology. I mentor students in English, science and mathematics, in high school and higher education since 2012. I also offer reskilling opportunities for adults in ecolinguistics and frugal innovation. In 2020, I co-founded [Local Seasonal](https://www.local-seasonal.org/en/), a French non profit to celebrate diversity along the seasons. In my spare time, I like to dance, rollerblade and enjoy outdoor activities.
+Hi! I'm Michael, I was born in New York and lived more than 10 years abroad. I'm passionate about ecology and psychology. I mentor students in English, science and mathematics, in high school and higher education since 2012. I also offer reskilling opportunities for adults in ecolinguistics and frugal innovation. In 2020, I co-founded [Local Seasonal](https://www.local-seasonal.org/en/), a French non profit to celebrate diversity along the seasons. In my spare time, I like to dance, rollerblade and enjoy outdoor activities.
