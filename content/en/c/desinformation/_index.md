@@ -12,13 +12,17 @@ tags:
   - environment and society
 ---
 
-{{< figure src="featured.jpg" >}}
+{{< figure src="featured.jpg" caption="There are two possible visions of the world: the vision that divides, the vision that unites. - Paul Valéry">}}
 
 {{< toc hide_on="xl" >}}
 
 ## What you will learn
 
 At the end of this training, participants will be able to {{<hl>}}identify and fight against disinformation{{</hl>}} to {{<hl>}}refocus attention to debate in society{{</hl>}} and {{<hl>}}explain what is invisible pollution{{</hl>}}, the links between AI, energy and climate from scientific articles and evidence.
+
+{{< callout warning >}}
+La ville de Montpellier interdit à ses agents d'utiliser l'intelligence-artificielle. [France-3 Regions](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/chatgpt-revolutionnaire-mais-qui-inquiete-pourquoi--2742446.html).
+{{< /callout >}}
 
 ## Program overview
 
@@ -43,9 +47,9 @@ There are no prerequisites for the first course.
 {{< /spoiler >}}
 
 {{< spoiler text="How often do the courses run?" >}}
-Continuously, at your own pace. Some live webinars and cohorts will be scheduled to foster a dynamic learning environment and sense of community.
+Continuously, at your own pace. Some events will be scheduled to foster a benevolent learning environment and sense of community.
 {{< /spoiler >}}
 
-{{< spoiler text="I worked in computational linguistics or as a data scientist. Could I share my learnings with you?" >}}
+{{< spoiler text="I worked in linguistics or as a data scientist. Could I share my learnings with you?" >}}
 Yes of course! Feel free to reach out to chat and co-create the course. Thanks!
 {{< /spoiler >}}

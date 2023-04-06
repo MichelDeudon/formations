@@ -12,13 +12,17 @@ tags:
   - environnement et société
 ---
 
-{{< figure src="featured.jpg" >}}
+{{< figure src="featured.jpg" caption="Il y a deux visions possibles du monde : la vision qui morcelle, la vision qui unit. - Paul Valéry">}}
 
 {{< toc hide_on="xl" >}}
 
 ## Ce que vous apprendrez
 
 À la fin de cette formation, les participants seront capables d'{{<hl>}}identifier et lutter contre la désinformation{{</hl>}} et {{<hl>}}recentrer l'attention pour débattre en société{{</hl>}}. Les participants seront capable d'{{<hl>}}expliquer ce qu'est la pollution invisible{{</hl>}}, les liens entre IA, énergie et climat, en s'appuyant sur des travaux scientifiques et observations.
+
+{{< callout warning >}}
+The city of Montpellier prohibits its agents from using artificial intelligence. [France-3 Regions](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/chatgpt-revolutionnaire-mais-qui-inquiete-pourquoi--2742446.html).
+{{< /callout >}}
 
 ## Présentation
 
@@ -43,7 +47,7 @@ Il n'y a pas de prérequis pour le premier cours.
 {{< /spoiler >}}
 
 {{< spoiler text="À quelle fréquence les cours ont-ils lieu?" >}}
-En continu, à votre rythme. Certains webinaires et cohortes seront programmés pour favoriser un environnement d'apprentissage dynamique et un sentiment de communauté.
+En continu, à votre rythme. Certains événements seront programmés pour favoriser un environnement d'apprentissage bienveillant et un sentiment de communauté.
 {{< /spoiler >}}
 
 {{< spoiler text="J'ai travaillé en linguistique ou comme data scientist. Puis-je partager mes apprentissages avec vous?" >}}
