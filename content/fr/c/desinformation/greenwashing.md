@@ -19,6 +19,8 @@ Sur Twitter (acheté par Elon Musk en xxxx), plus de 10 000 comptes climatoscept
 
 Le but de la désinformation comme [business](https://www.bfmtv.com/tech/intelligence-artificielle/le-patron-de-l-entreprise-a-l-origine-de-chat-gpt-a-un-peu-peur-de-chat-gpt_AV-202303210270.html) est de détourner l’attention et influencer les décisions, par exemple dans quoi [investir](https://www.bpifrance.fr/nos-actualites/rencontres-economiques-daix-en-provence-un-regard-sur-le-monde-demain), de quoi [débattre](https://www.bfmtv.com/tech/intelligence-artificielle/pour-la-premiere-fois-l-assemblee-nationale-va-debattre-d-un-amendement-redige-par-chat-gpt_AV-202303210310.html), etc. Lorsqu’elle est toxique et virale, elle génère plus de clics (Click Through Rate en anglais) et appelle à plus de deeptech...
 
+{{< figure src="mafia-desinformation.png">}}
+
 Ainsi, les développements d'IA pendant l'automne hiver 2022/2023 - [Galactica 120B](https://huggingface.co/facebook/galactica-120b), ChatGPT3, LLaMA 65B, ChatGPT4 - et la désinformation a permis de détourner l'attention des CEO au [Forum Économique Mondial](https://www.reuters.com/technology/davos-2023-ceos-buzz-about-chatgpt-style-ai-world-economic-forum-2023-01-17/) pour investir dans l'armement au profit de HuggingFace, les GAFAMs, NVIDIA, etc.
 
 En mars 2023, TF1 parle de menaces de l'IA sur les emplois, de risques des voitures autonomes... l'écologie et la jeunesse ne sont pas mentionnés.
@@ -28,7 +30,7 @@ Le [MIT](https://www.technologyreview.com/2019/02/14/137426/an-ai-tool-auto-gene
 - Le guide anti greenwashing de [Pour un Réveil Ecologique](https://pour-un-reveil-ecologique.org/fr/les-entreprises-nous-repondent/#guide-anti-greenwashing)
 - L'outil en ligne anti greenwashing de l'[ADEME](https://communication-responsable.ademe.fr/antigreenwashing)
 
-## [Présentation de LLaMA : un modèle de langage fondamental de 65 milliards de paramètres](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
+### [Cas pratique LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
 {{< icon name="calendar" pack="fas" >}} Fév 2023. Le blog de Meta AI / FAIR Paris est une {{<hl>}}perle de greenwashing{{</hl>}}.
 
 Dans le cadre de l'engagement de Meta en faveur de la science ouverte, nous publions aujourd'hui LLaMA (Large Language Model Meta AI), un modèle de langage fondamental à l’état de l’art conçu pour aider les chercheurs à faire progresser leurs travaux dans ce sous-domaine de l'IA. {{<hl>}}Des modèles <b>plus petits</b> et plus performants tels que LLaMA{{</hl>}} permettent à d'autres membres de la communauté de recherche qui n'ont pas accès à de grandes quantités d'infrastructures d'étudier ces modèles, démocratisant davantage l'accès dans ce domaine important et en évolution rapide.
@@ -60,16 +62,10 @@ Il reste encore des recherches à faire pour traiter les risques de biais, de co
 {{< /callout >}}
 
 ## [Considérations éthiques sur Github](https://github.com/facebookresearch/llama/blob/1076b9c51c77ad06e9d7ba8a4c6df775741732bd/MODEL_CARD.md)
-- Organisation développant le modèle: L'équipe FAIR de Meta AI.
 - Date du modèle: LLaMA a été entraîné entre décembre 2022 et février 2023.
 - Version du modèle: Il s'agit de la version 1 du modèle.
 - Données: Les données utilisées pour entraîner le modèle sont collectées à partir de diverses sources, principalement du Web. En tant que tel, il contient un contenu offensant, préjudiciable et biaisé. Nous nous attendons à ce que le modèle présente de tels biais.
-- Risques et préjudices: Les risques et préjudices des grands modèles linguistiques incluent la génération de contenu nuisible, offensant ou biaisé. Ces modèles sont souvent susceptibles de générer des informations incorrectes. Nous ne nous attendons pas à ce que notre modèle soit une exception à cet égard.
-- Cas d'utilisation: LLaMA est un modèle fondamental et, en tant que tel, il ne doit pas être utilisé pour des applications sans une enquête plus approfondie et une atténuation des risques. Ces risques et cas d'utilisation potentiellement dangereux incluent, mais sans s'y limiter : la <b>génération de fausses informations</b> et la <b>génération de contenu nuisible, biaisé ou offensant</b>.
-
-### 💧 Crise climatique
-- 15-02 <b style="color:red;">CNRS</b>. Climatosceptiques: sur Twitter, enquête sur les mercenaires de l’intox [cnrs.fr](https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox) [Le Monde](https://www.lemonde.fr/planete/article/2023/02/13/la-france-fait-face-a-un-fort-regain-de-climatoscepticisme-sur-twitter_6161691_3244.html) @[Audrey Garric](https://twitter.com/audreygarric/status/1625416947729944579?cxt=HHwWhsC-1cSG0o4tAAAA).
-- 31-12 (2022) <b style="color:blue;">Emmanuel Macron</b> <i>Qui aurait pu prédire la crise climatique?</i> [archive INA](https://www.youtube.com/watch?v=SsqYCvJvxQY&ab_channel=INAPolitique).
+- Les risques et cas d'utilisation potentiellement dangereux incluent, mais sans s'y limiter : la <b>génération de fausses informations</b> et la <b>génération de contenu nuisible, biaisé ou offensant</b>.
 
 ## [Lutter contre le changement climatique avec l'IA](https://arxiv.org/abs/1906.05433)
 
@@ -92,3 +88,6 @@ Le 23-24 novembre 2022, pendant que Patrick Pouyanne, PDG de <b>Total Energies</
 Le 25-26 juin 2022, <b>Total</b>, <b>EDF</b>, et <b>ENGIE</b> alertaient de la menace des prix sur la cohésion. [JDD](https://www.lejdd.fr/societe/tribune-le-prix-de-lenergie-menace-notre-cohesion-par-les-patrons-dengie-edf-et-totalenergies-9401), appellant les Français à une sobriété d'urgence [face à la flambée des prix de l'énergie](https://www.bfmtv.com/economie/total-edf-et-engie-appellent-les-francais-a-une-sobriete-d-urgence-face-a-la-flambee-des-prix-de-l-energie_VN-202206260112.html) et à réduire ["immédiatement"](https://www.bfmtv.com/economie/entreprises/energie/total-energies-edf-et-engie-appellent-a-reduire-immediatement-la-consommation-d-energie_AD-202206260081.html) la consommation d'énergie.
 {{< /callout >}}
 
+### 💧 Crise climatique
+- 15-02 <b style="color:red;">CNRS</b>. Climatosceptiques: sur Twitter, enquête sur les mercenaires de l’intox [cnrs.fr](https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox) [Le Monde](https://www.lemonde.fr/planete/article/2023/02/13/la-france-fait-face-a-un-fort-regain-de-climatoscepticisme-sur-twitter_6161691_3244.html) @[Audrey Garric](https://twitter.com/audreygarric/status/1625416947729944579?cxt=HHwWhsC-1cSG0o4tAAAA).
+- 31-12 (2022) <b style="color:blue;">Emmanuel Macron</b> <i>Qui aurait pu prédire la crise climatique?</i> [archive INA](https://www.youtube.com/watch?v=SsqYCvJvxQY&ab_channel=INAPolitique).

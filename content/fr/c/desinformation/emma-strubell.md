@@ -52,6 +52,10 @@ Les résultats soulignent également un autre problème croissant dans le domain
 
 {{< figure src="macron-lecun-zuckerberg.png" caption="Macron Lecun Zuckerberg et Vivatech 2023. <b style='color:blue;'>Zuckerberg</b>-<b>Macron</b> fait le buzz à VivaTech. [Les echos](https://www.lesechos.fr/start-up/next40-vivatech/le-duo-zuckerberg-macron-fait-le-buzz-a-vivatech-132831), Mai 2018. <b style='color:blue;'>Zuckerberg</b> et <b>Macron</b> se sont (encore) rencontrés à l'Élysée. <i>Cinq jours avant la deuxième édition 'Tech for good'</i>. [Huffington post](https://www.huffingtonpost.fr/politique/article/mark-zuckerberg-et-emmanuel-macron-se-sont-encore-rencontres-a-l-elysee_144827.html), Mai 2019.">}}
 
+{{< figure src="mafia-these-CIFRE.png">}}
+
+{{< figure src="mafia-france-ia.png" caption="Source: @[Yann Lecun](https://twitter.com/ylecun/status/1629845738170597376?lang=en).">}}
+
 ## L'affaire du Siècle ⚖ (2021)
 - 24-04 <i>Le bluff numérique, ce sont tous les impacts qu’on ne voit pas</i>, avec <b>Laurie Marrauld</b> du <b>Shift Project</b> et <b>Cédric Villani</b>. [Libération](https://www.youtube.com/watch?v=6kJYR0oG3GQ&ab_channel=Lib%C3%A9ration).
 - 22-08 <b>Convention citoyenne pour le climat</b>. Une partie des 146 propositions est retenue par le chef de l'État. Code de l'environnement. [LOI n° 2021-1104 du 22 août 2021 portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets (V)](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043956924). [Article L231-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043961211)

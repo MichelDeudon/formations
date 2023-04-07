@@ -19,16 +19,18 @@ On Twitter (bought by Elon Musk in xxxx), more than 10,000 active climatosceptiq
 
 The purpose of disinformation as [business](https://www.bfmtv.com/tech/intelligence-artificielle/le-patron-de-l-entreprise-a-l-origine-de-chat-gpt-a-un-peu-peur-de-chat-gpt_AV-202303210270.html) is to divert attention and influence decisions, for example in what to [invest](https://www.bpifrance.fr/nos-actualites/rencontres-economiques-daix-en-provence-un-regard-sur-le-monde-demain), what [to debate](https://www.bfmtv.com/tech/intelligence-artificielle/pour-la-premiere-fois-l-assemblee-nationale-va-debattre-d-un-amendement-redige-par-chat-gpt_AV-202303210310.html), etc. When it is toxic and viral, it generates more clicks (Click Through Rate in English) and calls for more deeptech...
 
+{{< figure src="mafia-desinformation.png">}}
+
 Thus, AI developments during fall winter 2022/2023 - [Galactica 120B](https://huggingface.co/facebook/galactica-120b), ChatGPT3, LLaMA 65B, ChatGPT4 - and disinformation allowed to hijack the attention of CEOs at the [World Economic Forum](https://www.reuters.com/technology/davos-2023-ceos-buzz-about-chatgpt-style-ai-world-economic-forum-2023-01-17/) to invest in weapons for the benefit of HuggingFace, the GAFAMs, NVIDIA, etc.
 
 In March 2023, TF1 talks about the threats of AI on jobs, the risks of autonomous cars... ecology and youth are not mentioned.
 The [MIT](https://www.technologyreview.com/2019/02/14/137426/an-ai-tool-auto-generates-fake-news-bogus-tweets-and-plenty-of-gibberish/) warned, however, in 2019, of the risk that IA who writes convincing prose could mass produce fake news, referring to ChatGPT2. This has not prevented investments from multiplying in disinformation, energy consumption (x1000 in 4 years) and the generation of fake news.
 
-## Resources to help fight greenwashing
+### Resources to help fight greenwashing
 - The anti-greenwashing guide from [Pour un Réveil Ecologique](https://pour-un-reveil-ecologique.org/fr/les-entreprises-nous-repondent/#guide-anti-greenwashing)
 - The online anti-greenwashing tool of [ADEME](https://communication-responsable.ademe.fr/antigreenwashing)
 
-## [Introducing LLaMA: A foundational, 65-billion-parameter large language model](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
+### [LLaMA use case](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
 {{< icon name="calendar" pack="fas" >}} Feb 2023. The Meta AI / FAIR Paris blog is a {{<hl>}}gem of greenwashing{{</hl>}}.
 
 As part of Meta’s commitment to open science, today we are publicly releasing LLaMA (Large Language Model Meta AI), a state-of-the-art foundational large language model designed to help researchers advance their work in this subfield of AI. Dans le cadre de l'engagement de Meta en faveur de la science ouverte, nous publions aujourd'hui LLaMA (Large Language Model Meta AI), un modèle de langage fondamental à l’état de l’art conçu pour aider les chercheurs à faire progresser leurs travaux dans ce sous-domaine de l'IA. {{<hl>}} <b>Smaller</b>, more performant models such as LLaMA{{</hl>}} enable others in the research community who don’t have access to large amounts of infrastructure to study these models, further democratizing access in this important, fast-changing field.
@@ -60,16 +62,10 @@ March 8, 2023. [Model leaked](https://www.01net.com/actualites/fuite-meta-altern
 {{< /callout >}}
 
 ## [Ethical considerations on Github](https://github.com/facebookresearch/llama/blob/1076b9c51c77ad06e9d7ba8a4c6df775741732bd/MODEL_CARD.md)
-- Organization developing the model: The FAIR team of Meta AI.
 - Model date: LLaMA was trained between December 2022 and February 2023.
 - Model version: This is version 1 of the model
 - Data: The data used to train the model is collected from various sources, mostly from the Web. As such, it contains offensive, harmful and biased content. We thus expect the model to exhibit such biases from the training data.
-- Risks and harms: Risks and harms of large language models include the generation of harmful, offensive or biased content. These models are often prone to generating incorrect information, sometimes referred to as hallucinations. We do not expect our model to be an exception in this regard.
-- Use cases: LLaMA is a foundational model, and as such, it should not be used for downstream applications without further investigation and mitigations of risks. These risks and potential fraught use cases include, but are not limited to: <b>generation of misinformation</b> and <b>generation of harmful, biased or offensive content</b>
-
-### 💧 Climate crisis
-- 02-15 <b style="color:red;">CNRS</b>. Climatosceptiques: on Twitter, investigation into mercenaries of intox. [cnrs.fr](https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox) [Le Monde](https://www.lemonde.fr/planete/article/2023/02/13/la-france-fait-face-a-un-fort-regain-de-climatoscepticisme-sur-twitter_6161691_3244.html) @[Audrey Garric](https://twitter.com/audreygarric/status/1625416947729944579?cxt=HHwWhsC-1cSG0o4tAAAA).
-- 12-31 (2022) <b style="color:blue;">Emmanuel Macron</b> <i>Who could have predicted the climate crisis?</i>. [archive INA](https://www.youtube.com/watch?v=SsqYCvJvxQY&ab_channel=INAPolitique).
+- Risks and potential fraught use cases include, but are not limited to: <b>generation of misinformation</b> and <b>generation of harmful, biased or offensive content</b>
 
 ## [Tackling Climate Change with Machine Learning](https://arxiv.org/abs/1906.05433)
 
@@ -91,3 +87,7 @@ On November 23-24, 2022, while Patrick Pouyanne, CEO of <b>Total Energies</b>, i
 {{< callout warning >}}
 On June 25-26, 2022, <b>Total</b>, <b>EDF</b>, and <b>ENGIE</b> warned on the threat of prices on cohesion. [JDD](https://www.lejdd.fr/societe/tribune-le-prix-de-lenergie-menace-notre-cohesion-par-les-patrons-dengie-edf-et-totalenergies-9401), calling on the French for emergency sobriety [in the face of soaring energy prices](https://www.bfmtv.com/economie/total-edf-et-engie-appellent-les-francais-a-une-sobriete-d-urgence-face-a-la-flambee-des-prix-de-l-energie_VN-202206260112.html) and to reduce ["immediately"](https://www.bfmtv.com/economie/entreprises/energie/total-energies-edf-et-engie-appellent-a-reduire-immediatement-la-consommation-d-energie_AD-202206260081.html) energy consumption.
 {{< /callout >}}
+
+### 💧 Climate crisis
+- 02-15 <b style="color:red;">CNRS</b>. Climatosceptiques: on Twitter, investigation into mercenaries of intox. [cnrs.fr](https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox) [Le Monde](https://www.lemonde.fr/planete/article/2023/02/13/la-france-fait-face-a-un-fort-regain-de-climatoscepticisme-sur-twitter_6161691_3244.html) @[Audrey Garric](https://twitter.com/audreygarric/status/1625416947729944579?cxt=HHwWhsC-1cSG0o4tAAAA).
+- 12-31 (2022) <b style="color:blue;">Emmanuel Macron</b> <i>Who could have predicted the climate crisis?</i>. [archive INA](https://www.youtube.com/watch?v=SsqYCvJvxQY&ab_channel=INAPolitique).
