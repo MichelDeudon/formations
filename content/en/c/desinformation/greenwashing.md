@@ -1,32 +1,46 @@
 ---
-title: Meta LLaMA and misinformation
+title: Identify greenwashing and conflicts of interest
 date: '2023-02-24'
 type: book
-weight: 40
+weight: 30
 tags:
   - energy
   - climate
   - misinformation
 ---
 
-Feb 2023. Training smaller foundation models like LLaMA is desirable (...) because it requires far less computing power and resources to test new approaches. FAIR Paris. {{<hl>}}Gem of greenwashing{{</hl>}}. 
+What is the goal of climate skeptics? What are they defending? Case study through LLaMA and ChatGPT models.
 
 <!--more-->
 
+## Disinformation is used to divert attention from the ecological emergency…
+
+The purpose of disinformation as [business](https://www.bfmtv.com/tech/intelligence-artificielle/le-patron-de-l-entreprise-a-l-origine-de-chat-gpt-a-un- peu-peur-de-chat-gpt_AV-202303210270.html) is to divert attention and influence decisions, for example in what to [invest](https://www.bpifrance.fr/nos-actualites/rencontres-economiques-daix-en-provence-un-regard-sur-le-monde-demain), what [to debate](https://www.bfmtv.com/tech/intelligence-artificielle/pour-la-premiere-fois-l-assemblee-nationale-va-debattre-d-un-amendement-redige-par-chat-gpt_AV-202303210310.html), etc. When it is toxic and viral, it generates more clicks (Click Through Rate in English) and calls for more deeptech...
+
+Thus, AI developments during fall winter 2022/2023 - [Galactica 120B](https://huggingface.co/facebook/galactica-120b), ChatGPT3, LLaMA 65B, ChatGPT4 - and disinformation allowed to hijack the attention of CEOs at the [World Economic Forum](https://www.reuters.com/technology/davos-2023-ceos-buzz-about-chatgpt-style-ai-world-economic-forum-2023-01- 17/) to invest in weapons rather than ecology, youth... for the benefit of HuggingFace, the GAFAMs, NVIDIA, etc.
+
+In March 2023, TF1 talks about the threats of AI on jobs, the risks of autonomous cars... ecology and youth are not mentioned.
+The [MIT](https://www.technologyreview.com/2019/02/14/137426/an-ai-tool-auto-generates-fake-news-bogus-tweets-and-plenty-of-gibberish/) warned, however, of the risk in 2019 that IA who writes convincing prose could mass produce fake news, referring to ChatGPT2. This has not prevented investments from multiplying in disinformation, energy consumption (x1000 in 4 years) and the generation of fake news.
+
+## Resources to help fight greenwashing
+- The anti-greenwashing guide from [Pour un Réveil Ecologique](https://pour-un-reveil-ecologique.org/fr/les-entreprises-nous-repondent/#guide-anti-greenwashing)
+- The online anti-greenwashing tool of [ADEME](https://communication-responsable.ademe.fr/antigreenwashing)
+
 ## [Introducing LLaMA: A foundational, 65-billion-parameter large language model](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
+{{< icon name="calendar" pack="fas" >}} Feb 2023. The Meta AI / FAIR Paris blog is a {{<hl>}}gem of greenwashing{{</hl>}}.
 
 As part of Meta’s commitment to open science, today we are publicly releasing LLaMA (Large Language Model Meta AI), a state-of-the-art foundational large language model designed to help researchers advance their work in this subfield of AI. Dans le cadre de l'engagement de Meta en faveur de la science ouverte, nous publions aujourd'hui LLaMA (Large Language Model Meta AI), un modèle de langage fondamental à l’état de l’art conçu pour aider les chercheurs à faire progresser leurs travaux dans ce sous-domaine de l'IA. {{<hl>}} <b>Smaller</b>, more performant models such as LLaMA{{</hl>}} enable others in the research community who don’t have access to large amounts of infrastructure to study these models, further democratizing access in this important, fast-changing field.
 
 {{<hl>}}Training <b>smaller</b> foundation models like LLaMA is desirable{{</hl>}} in the large language model space because {{<hl>}}it requires <b>far less computing power and resources</b>{{</hl>}} to test new approaches, validate others’ work, and explore new use cases. Foundation models train on a large set of unlabeled data, which makes them ideal for fine-tuning for a variety of tasks. We are making LLaMA available at several sizes (7B, 13B, 33B, and 65B parameters) and also sharing a LLaMA model card that details how we built the model in keeping with our approach to {{<hl>}}<b>Responsible AI practices</b>{{</hl>}}.
 
-{{< figure src="meta-paper-hours-gpu.png" caption="Carbon footprint of training different models in the same data center (see section 6 Carbon footprint), from the scientific paper LLaMA on [Arxiv](https://arxiv.org/abs/2302.13971) (see section 6 Carbon footprint)." numbered="true">}}
+{{< figure src="meta-paper-hours-gpu.png" caption="Carbon footprint of training different models in the same data center, from the paper LLaMA on [Arxiv](https://arxiv.org/abs/2302.13971) (section 6 Carbon footprint).">}}
 
 {{< callout warning >}}
-<i>The training of our models have consumed a massive quantity of energy, responsible for the emission of carbon dioxide</i> (see section 6 Carbon footprint). <i>We plan to release larger models trained on larger pretraining corpora in the future</i> (see section 8 Conclusion). [Arxiv](https://arxiv.org/abs/2302.13971).
+<i>The training of our models have consumed a massive quantity of energy, responsible for the emission of carbon dioxide</i> (section 6 Carbon footprint). <i>We plan to release larger models trained on larger pretraining corpora in the future</i> (section 8 Conclusion). [Arxiv](https://arxiv.org/abs/2302.13971).
 {{< /callout >}}
 
 {{< callout note >}}
-No communication is made on Meta AI [research blog](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), [social networks](https://www.linkedin.com/posts/yann-lecun_github-facebookresearchllama-inference-activity-7034956639526952960-B1-d?trk=public_profile_like_view) or on [Github](https://github.com/facebookresearch/llama/blob/1076b9c51c77ad06e9d7ba8a4c6df775741732bd/MODEL_CARD.md) concerning the record carbon footprint, the environmental impact and the financing of the LLaMA model version 1.
+No communication is made on Meta AI [research blog](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), [social networks](https://www.linkedin.com/posts/yann-lecun_github-facebookresearchllama-inference-activity-7034956639526952960-B1-d?trk=public_profile_like_view) or on [Github](https://github.com/facebookresearch/llama/blob/1076b9c51c77ad06e9d7ba8a4c6df775741732bd/MODEL_CARD.md) concerning the record carbon footprint, the environmental impact and the financing of the LLaMA model.
 {{< /callout >}}
 
 {{<hl>}}<b>Smaller</b> models{{</hl>}} trained on more tokens — which are pieces of words — are easier to retrain and fine-tune for specific potential product use cases. We trained LLaMA 65B and LLaMA 33B on 1.4 trillion tokens. Our smallest model, LLaMA 7B, is trained on one trillion tokens....
@@ -47,33 +61,10 @@ March 8, 2023. [Model leaked](https://www.01net.com/actualites/fuite-meta-altern
 - Organization developing the model: The FAIR team of Meta AI.
 - Model date: LLaMA was trained between December 2022 and February 2023.
 - Model version: This is version 1 of the model
-- License: Non-commercial bespoke license
 - Data: The data used to train the model is collected from various sources, mostly from the Web. As such, it contains offensive, harmful and biased content. We thus expect the model to exhibit such biases from the training data.
-- Human life: The model is not intended to inform decisions about matters central to human life, and should not be used in such a way.
-- Mitigations: We filtered the data from the Web based on its proximity to Wikipedia text and references. For this, we used a Kneser-Ney language model and a fastText linear classifier.
 - Risks and harms: Risks and harms of large language models include the generation of harmful, offensive or biased content. These models are often prone to generating incorrect information, sometimes referred to as hallucinations. We do not expect our model to be an exception in this regard.
 - Use cases: LLaMA is a foundational model, and as such, it should not be used for downstream applications without further investigation and mitigations of risks. These risks and potential fraught use cases include, but are not limited to: <b>generation of misinformation</b> and <b>generation of harmful, biased or offensive content</b>
 
-{{< figure src="meta-github-bias.png" caption="Meta github model bias" numbered="true">}}
-
-## Resources to help fight greenwashing
-- The anti-greenwashing guide from [Pour un Réveil Ecologique](https://pour-un-reveil-ecologique.org/fr/les-entreprises-nous-repondent/#guide-anti-greenwashing)
-- The online anti-greenwashing tool of [ADEME](https://communication-responsable.ademe.fr/antigreenwashing)
-
-## Winter of AI and Climate (2023)
-
-### 🔥 Energy consumption records and misinformation
-- 03-14 (2023) <b style="color:blue;">Open AI</b> ChatGPT4. <i>Explosion of misinformation</i>. [BFM Business](https://www.bfmtv.com/tech/intelligence-artificielle/le-patron-de-l-entreprise-a-l-origine-de-chat-gpt-a-un-peu-peur-de-chat-gpt_AV-202303210270.html)
-- 24-02 (2023) <b style="color:blue;">Facebook</b> AI Research LLaMA 65B.
-- 11-30 (2022) <b style="color:blue;">Open AI</b>. ChatGPT3. 
-- 11-25 (2022) <b style="color:blue;">Facebook</b> AI Research Galactica 120B. <i>More to come</i>. @[Paperswithcode](https://paperswithcode.com/paper/galactica-a-large-language-model-for-science-1) @[HuggingFace](https://huggingface.co/facebook/galactica-120b).
-- 02-14 (2019) 🔥 <b style="color:blue;">OpenAI</b> ChatGPT2.
-- 02-14 (2019) <i>An AI that writes convincing prose risks mass-producing fake news</i>. [MIT Technology Review](https://www.technologyreview.com/2019/02/14/137426/an-ai-tool-auto-generates-fake-news-bogus-tweets-and-plenty-of-gibberish/).
-
 ### 💧 Climate crisis
-- 02-22 <b style="color:red;">Meteo France</b>. Drought: 32 days without rain in France, record broken. [meteofrance.com](https://meteofrance.com/actualites-et-dossiers/actualites/climat/secheresse-32-jours-sans-pluie-en-france-record-battu).
 - 02-15 <b style="color:red;">CNRS</b>. Climatosceptiques: on Twitter, investigation into mercenaries of intox. [cnrs.fr](https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox) [Le Monde](https://www.lemonde.fr/planete/article/2023/02/13/la-france-fait-face-a-un-fort-regain-de-climatoscepticisme-sur-twitter_6161691_3244.html) @[Audrey Garric](https://twitter.com/audreygarric/status/1625416947729944579?cxt=HHwWhsC-1cSG0o4tAAAA).
-- 01-23 <b style="color:red;">Meteo France</b>. <i>2022, the hottest year in France</i>. [meteofrance.com](https://meteofrance.com/actualites-et-dossiers/actualites/2022-annee-la-plus-chaude-en-france).
 - 12-31 (2022) <b style="color:blue;">Emmanuel Macron</b> <i>Who could have predicted the climate crisis?</i>. [archive INA](https://www.youtube.com/watch?v=SsqYCvJvxQY&ab_channel=INAPolitique).
-
-{{< vimeo 767800360 >}}

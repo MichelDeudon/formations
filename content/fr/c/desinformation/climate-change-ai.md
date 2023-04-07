@@ -2,7 +2,7 @@
 title: Lutter contre le changement climatique avec l'IA
 date: '2019-06-10'
 type: book
-weight: 30
+weight: 40
 highlight: true
 ---
 

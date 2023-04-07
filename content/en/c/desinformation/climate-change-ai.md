@@ -2,7 +2,7 @@
 title: Tackling Climate Change with Machine Learning
 date: '2019-06-10'
 type: book
-weight: 30
+weight: 40
 highlight: true
 ---
 
