@@ -12,7 +12,7 @@ tags:
   - environnement et société
 ---
 
-{{< figure src="featured.jpg" caption="Il y a deux visions possibles du monde : la vision qui morcelle, la vision qui unit. - Paul Valéry">}}
+{{< figure src="featured.jpg" caption="Il y a deux visions possibles du monde : la vision qui morcelle, la vision qui unit. -  Paul Valéry (1871-1945)">}}
 
 {{< toc hide_on="xl" >}}
 
@@ -21,7 +21,7 @@ tags:
 À la fin de cette formation, les participants seront capables d'{{<hl>}}identifier et lutter contre la désinformation{{</hl>}} et {{<hl>}}recentrer l'attention pour débattre en société{{</hl>}}. Les participants seront capable d'{{<hl>}}expliquer ce qu'est la pollution invisible{{</hl>}}, les liens entre IA, énergie et climat, en s'appuyant sur des travaux scientifiques et observations.
 
 {{< callout warning >}}
-The city of Montpellier prohibits its agents from using artificial intelligence. [France-3 Regions](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/chatgpt-revolutionnaire-mais-qui-inquiete-pourquoi--2742446.html).
+Mars 2023. La ville de Montpellier interdit à ses agents d'utiliser l'intelligence-artificielle. [France-3 Regions](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/chatgpt-revolutionnaire-mais-qui-inquiete-pourquoi--2742446.html).
 {{< /callout >}}
 
 ## Présentation
@@ -30,11 +30,17 @@ Ce dossier retrace 10 ans de recherche et développement (R&D) en intelligence a
 
 {{< icon name="clock" pack="fas" >}} <b>Durée</b> : 12 heures. 6x2h par semaine. <br>
 {{< icon name="spell-check" pack="fas" >}} <b>Thèmes</b> : Désinformation, Attention, Société et Environnement. <br>
-{{< icon name="hands-asl-interpreting" pack="fas" >}} <b>Public</b> (recommandé): Étudiant.e.s en licence/master MIASHS, praticienn.e.s de l'apprentissage et du développement des langues (orthophoniste, psychologue, enseignant, chercheur, data scientist), associations luttant contre la desinformation, pour la justice sociale et climatique.
+{{< icon name="hands-asl-interpreting" pack="fas" >}} <b>Public</b> (recommandé): Étudiant.e.s en licence/master MIASHS, praticienn.e.s de l'apprentissage et du développement des langues (orthophoniste, psy, enseignant, chercheur, data scientist), associations luttant contre la desinformation, pour la justice sociale et climatique.
 
 ## Vue d'ensemble
 
-De 2017 et 2018, la France définissait une feuille de route pour les années à venir en intelligence artificielle (IA). De la fin de l'année 2018 à la fin de l'année 2022, des alertes se sont succédées pour informer les politiciens et scientifiques du terrible impact écologique du <i>deep learning</i>. Hélas, les projecteurs durant ces années étaient braqués sur les parrains du <i>deep learning</i>, au profit des États-Unis, des GAFAM et de NVIDIA.
+De 2014 à 2018, la France définissait une feuille de route pour les années à venir en intelligence artificielle (IA). De la fin de l'année 2018 à la fin de l'année 2022, des alertes se sont succédées pour informer les politiciens et scientifiques du terrible impact écologique du <i>deep learning</i>. Les projecteurs durant ces années étaient braqués sur les parrains du <i>deep learning</i>, au profit des GAFAMs (Google, Amazon, Facebook, Apple, Microsoft) et de NVIDIA, leader mondial du calcul en intelligence artificielle. La France a été condamnée pour inaction climatique en octobre 2021 par le tribunal administratif de Paris suite à l'affaire du siècle.
+
+Après une année 2022 record de température (Météo France) et dans un contexte de crise énérgétique et guerre en Europe, le mois de février 2023 a été marqué par un record historique de sécheresse (Météo France). L'hiver 2023 de l'IA a été marqué par des records de consommations énergétique avec ChatGPT3 d'Open AI (cofondée par Elon Musk), LLaMA de Facebook AI Research (FAIR) Paris, ChatGPT4... au profit de quelques ingénieurs francais et investisseurs, pendant que la majorité des francais a subi la flambée des prix de l'énergie et de l'inflation.
+
+Le 20 mars 2023, le Groupe intergouvernemental d’experts sur l’évolution du climat (GIEC) a publié son 6e rapport de synthèse ([ecologie.gouv.fr](https://www.ecologie.gouv.fr/publication-du-6e-rapport-synthese-du-giec)), qualifié de "guide de survie pour l'humanité" par le chef de l'ONU, mais une montée du climatosceptisme sur Twitter (acheté par Elon Musk en xxxx) divise les francais et la communauté internationale. Une importante communauté s’est structurée à partir de l’été 2022, avec plus de 10 000 comptes recensés. Le Monde.
+
+Dans ce cours vous apprendrez à repérer le greenwashing, les conflits d'intérêt et lutter contre en réinvestissant votre temps, énergie et attention.
 
 {{< list_children >}}
 

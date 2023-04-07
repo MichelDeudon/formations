@@ -12,7 +12,7 @@ tags:
   - environment and society
 ---
 
-{{< figure src="featured.jpg" caption="There are two possible visions of the world: the vision that divides, the vision that unites. - Paul Valéry">}}
+{{< figure src="featured.jpg" caption="There are two possible visions of the world: the vision that divides, the vision that unites. -  Paul Valéry (1871-1945)">}}
 
 {{< toc hide_on="xl" >}}
 
@@ -21,7 +21,7 @@ tags:
 At the end of this training, participants will be able to {{<hl>}}identify and fight against disinformation{{</hl>}} to {{<hl>}}refocus attention to debate in society{{</hl>}} and {{<hl>}}explain what is invisible pollution{{</hl>}}, the links between AI, energy and climate from scientific articles and evidence.
 
 {{< callout warning >}}
-La ville de Montpellier interdit à ses agents d'utiliser l'intelligence-artificielle. [France-3 Regions](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/chatgpt-revolutionnaire-mais-qui-inquiete-pourquoi--2742446.html).
+March 2023. The city of Montpellier prohibits its agents from using artificial intelligence. [France-3 Regions](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/chatgpt-revolutionnaire-mais-qui-inquiete-pourquoi--2742446.html).
 {{< /callout >}}
 
 ## Program overview
@@ -30,11 +30,11 @@ This course reviews 10 years of research and development (R&D) in artificial int
 
 {{< icon name="clock" pack="fas" >}} <b>Duration</b>: 12 hours. 6x2h per week. <br>
 {{< icon name="spell-check" pack="fas" >}} <b>Thèmes</b> : Disinformation, Attention, Society and the Environment. <br>
-{{< icon name="hands-asl-interpreting" pack="fas" >}} <b>Audience</b> (recommended): Bachelor students (L2/L3), language learning and development practitioners (speech therapist, psychologist, teacher, researcher, data scientist, etc.), associations fighting against misinformation, for the social and climate justice.
+{{< icon name="hands-asl-interpreting" pack="fas" >}} <b>Audience</b> (recommended): Bachelor students (L2/L3), language learning and development practitioners (speech therapist, psy, teacher, researcher, data scientist, etc.), associations fighting against misinformation, for the social and climate justice.
 
 ## Chapters overview
 
-In 2017 and 2018, France defined a roadmap for the coming years in artificial intelligence (AI). From the end of 2018 to the end of 2022, alerts followed one another to inform politicians and scientists about the terrible ecological impact of <i>deep learning</i>. Yet, the spotlight during those years was focused on the <i>deep learning</i> godfathers, to the benefit of the United States, GAFAM and NVIDIA.
+From 2014 to 2018, France defined a roadmap for the coming years in artificial intelligence (AI). From the end of 2018 to the end of 2022, alerts followed one another to inform politicians and scientists about the terrible ecological impact of <i>deep learning</i>. The spotlight during those years was focused on the <i>deep learning</i> godfathers, to the benefit of the United States, GAFAMs (Google, Amazon, Facebook, Apple, Microsoft) and NVIDIA, the world leader in artificial intelligence computing.
 
 {{< list_children >}}
 
