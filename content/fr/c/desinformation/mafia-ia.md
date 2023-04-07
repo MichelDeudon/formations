@@ -1,11 +1,11 @@
 ---
-title: Macron et la mafia francaise de l'IA
+title: Lutter contre la désinformation par la formation, en pratique
 date: '2023-02-24'
 type: book
 weight: 40
 ---
 
-14 juin 2023. Macron et Zuckerberg au salon Vivatech
+Le printemps francais et l'été sans réseaux sociaux
 
 <!--more-->
 

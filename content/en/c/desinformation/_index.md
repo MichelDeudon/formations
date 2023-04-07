@@ -34,12 +34,12 @@ This course reviews 10 years of research and development (R&D) in artificial int
 
 ## Chapters overview
 
-From 2014 to 2018, France defined a roadmap for the coming years in artificial intelligence (AI). From the end of 2018 to the end of 2022, alerts followed one another to inform politicians and scientists about the terrible ecological impact of <i>deep learning</i>. The spotlight during those years was focused on the <i>deep learning</i> godfathers, to the benefit of the United States, GAFAMs and NVIDIA, the world leader in artificial intelligence computing.
+From 2014 to 2018, France defined [a roadmap](https://www.mtpcours.fr/en/c/desinformation/rapport-villani/) for the coming years in artificial intelligence (AI). From 2018 to 2022, [alerts](https://www.mtpcours.fr/en/c/desinformation/emma-strubell/) followed one another to inform politicians and scientists about the terrible ecological impact of <i>deep learning</i> in AI.
 
-France was condemned for climate inaction in October 2021 by the Paris administrative court following the case of the century.
-After a [heat record](https://meteofrance.com/actualites-et-dossiers/actualites/2022-annee-la-plus-chaude-en-france) in 2022 and in a context of energy crisis and war in Europe, the winter of 2023 was marked by a [drought record](https://meteofrance.com/actualites-et-dossiers/actualites/climat/secheresse-32-jours-sans-pluie-en-france-record-battu) and energy consumption records with ChatGPT3 of Open AI (co-founded by Elon Musk), LLaMA from Facebook AI Research (FAIR) Paris, ChatGPT4... for the benefit of a few French engineers and investors, while the majority of French people suffered from the soaring prices of energy and inflation. In parallel, on Twitter (bought by Elon Musk in xxxx), more than 10,000 active accounts relay false information [CNRS](https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox).
+France was sentenced for climate inaction in October 2021 by the administrative court of Paris following the case of the century.
+After a [heat record in France](https://meteofrance.com/actualites-et-dossiers/actualites/2022-annee-la-plus-chaude-en-france) in 2022 and in a context of energy crisis and war in Europe, the winter 2023 was marked by a [drought record in France](https://meteofrance.com/actualites-et-dossiers/actualites/climat/secheresse-32-jours-sans-pluie-en-france-record-battu) and energy consumption records with ChatGPT3 of Open AI (co-founded by Elon Musk), LLaMA from Facebook AI Research (FAIR Paris directed by Yann LeCun), ChatGPT4... for the benefit of a few French engineers and investors.
 
-In this course, you will learn how to spot greenwashing, and fight against conflicts of interest by reinvesting your time, energy and attention.
+In this course, you will learn how to spot [greenwashing, conflicts of interest](https://www.mtpcours.fr/en/c/desinformation/greenwashing/), fake news and fight against disinformation by reinvesting your time, energy and attention.
 
 {{< list_children >}}
 

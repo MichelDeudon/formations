@@ -47,17 +47,13 @@ Le rapport France IA 🇫🇷 est publié en mars 2017 par le [ministère de l'�
 <i>Avez-vous déjà en tête des priorités pour l'action de la France dans ce domaine?</i> Un enjeu très important est <b>comment faire en sorte que l'intelligence artificielle profite à tout le monde</b>, soit associée à un renforcement de la {{<hl>}}<b>démocratie</b>{{</hl>}} et pas le contraire. Un certain nombre d'exemples montrent que dans certains cas l'utilisation de l'IA peut avoir des effets ravageurs sur les questions économiques et le tissu démocratique. Un ouvrage m'a beaucoup marqué, celui de <b style="color:red;">Cathy O'Neil</b>, Weapons of Math Destruction (2016, non traduit), qui montre que l'<b>IA profite déjà à des entreprises très fortes, aboutit à des régressions sociales, des erreurs, est utilisée pour le ciblage publicitaire à des fins qui ne sont pas acceptables...</b>
 
 {{< callout warning >}}
-29 mars 2023. Sommes-nous toujours en {{<hl>}}<b>démocratie</b>{{</hl>}} ? [Blast, le souffle de l'info](https://www.blast-info.fr/articles/2023/sommes-nous-toujours-en-democratie-AwJ1_TmlTM-ONwHybrhuqQ).
+Mars 2023. Sommes-nous toujours en {{<hl>}}<b>démocratie</b>{{</hl>}} ? [Blast, le souffle de l'info](https://www.blast-info.fr/articles/2023/sommes-nous-toujours-en-democratie-AwJ1_TmlTM-ONwHybrhuqQ).
 {{< /callout >}}
 
 <i>Comment la France peut-elle rivaliser face aux géants comme les <b style="color:blue;">GAFAM</b>, qui investissent massivement dans l'IA et débauchent les meilleurs experts, notamment français?</i> La France est en pointe dans la recherche en intelligence artificielle. Nous avons aussi des institutions comme l'<b>Inria</b>, le <b>CNRS</b>, des chercheurs comme <b style="color:blue;">Yann LeCun</b>... J'en ai d'autres, des collègues qui sont partis chez <b style="color:blue;">Facebook</b>, chez <b style="color:blue;">Google</b>... Ce sera <b>une des grandes questions dans le rapport</b>... Il y a aussi <b>une question de souveraineté, qui concerne toute l'Europe</b>... de <b>qui on met à la tête des projets</b>...
 
 {{< callout warning >}}
-29 mars 2023. ChatGPT : pourquoi la ville de Montpellier interdit à ses agents d’utiliser l'intelligence artificielle. [France-3 Regions](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/chatgpt-revolutionnaire-mais-qui-inquiete-pourquoi-la-ville-de-montpellier-interdit-a-ses-agents-d-utiliser-l-intelligence-artificielle-2742446.html)
-{{< /callout >}}
-
-{{< callout warning >}}
-31 mars 2023. ChatGPT interdit en Italie: le premier domino tombe en Europe. [La Tribune](https://www.latribune.fr/technos-medias/informatique/chatgpt-interdit-en-italie-le-premier-domino-tombe-en-europe-957429.html).
+Mars 2023. ChatGPT interdit en Italie: le premier domino tombe en Europe. [La Tribune](https://www.latribune.fr/technos-medias/informatique/chatgpt-interdit-en-italie-le-premier-domino-tombe-en-europe-957429.html).
 {{< /callout >}}
 
 <i>Où trouvera-t-on l'argent nécessaire?</i> Je n'ai pas les idées claires là-dessus, <b>c'est un problème majeur</b>.... Sur certains projets, l'Europe s'est montrée capable de débloquer des sommes phénoménales, y compris pour des projets scientifiques très audacieux, comme le Human Brain Project. Mais dans des conditions très compliquées, avec des <b>problèmes de gouvernance considérables</b>... C'est aussi une <b>question de confiance</b>.

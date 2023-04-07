@@ -9,15 +9,17 @@ tags:
   - misinformation
 ---
 
-Hiver 2023. What is the goal of climate skeptics? What are they defending? Case study through LLaMA and ChatGPT models.
+What is the goal of climate skeptics? What are they defending? Case study of LLaMA and ChatGPT.
 
 <!--more-->
 
 ## Disinformation is used to divert attention from the ecological emergency…
 
-The purpose of disinformation as [business](https://www.bfmtv.com/tech/intelligence-artificielle/le-patron-de-l-entreprise-a-l-origine-de-chat-gpt-a-un- peu-peur-de-chat-gpt_AV-202303210270.html) is to divert attention and influence decisions, for example in what to [invest](https://www.bpifrance.fr/nos-actualites/rencontres-economiques-daix-en-provence-un-regard-sur-le-monde-demain), what [to debate](https://www.bfmtv.com/tech/intelligence-artificielle/pour-la-premiere-fois-l-assemblee-nationale-va-debattre-d-un-amendement-redige-par-chat-gpt_AV-202303210310.html), etc. When it is toxic and viral, it generates more clicks (Click Through Rate in English) and calls for more deeptech...
+On Twitter (bought by Elon Musk in xxxx), more than 10,000 active climatosceptiques accounts relay false information [CNRS](https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox).
 
-Thus, AI developments during fall winter 2022/2023 - [Galactica 120B](https://huggingface.co/facebook/galactica-120b), ChatGPT3, LLaMA 65B, ChatGPT4 - and disinformation allowed to hijack the attention of CEOs at the [World Economic Forum](https://www.reuters.com/technology/davos-2023-ceos-buzz-about-chatgpt-style-ai-world-economic-forum-2023-01- 17/) to invest in weapons for the benefit of HuggingFace, the GAFAMs, NVIDIA, etc.
+The purpose of disinformation as [business](https://www.bfmtv.com/tech/intelligence-artificielle/le-patron-de-l-entreprise-a-l-origine-de-chat-gpt-a-un-peu-peur-de-chat-gpt_AV-202303210270.html) is to divert attention and influence decisions, for example in what to [invest](https://www.bpifrance.fr/nos-actualites/rencontres-economiques-daix-en-provence-un-regard-sur-le-monde-demain), what [to debate](https://www.bfmtv.com/tech/intelligence-artificielle/pour-la-premiere-fois-l-assemblee-nationale-va-debattre-d-un-amendement-redige-par-chat-gpt_AV-202303210310.html), etc. When it is toxic and viral, it generates more clicks (Click Through Rate in English) and calls for more deeptech...
+
+Thus, AI developments during fall winter 2022/2023 - [Galactica 120B](https://huggingface.co/facebook/galactica-120b), ChatGPT3, LLaMA 65B, ChatGPT4 - and disinformation allowed to hijack the attention of CEOs at the [World Economic Forum](https://www.reuters.com/technology/davos-2023-ceos-buzz-about-chatgpt-style-ai-world-economic-forum-2023-01-17/) to invest in weapons for the benefit of HuggingFace, the GAFAMs, NVIDIA, etc.
 
 In March 2023, TF1 talks about the threats of AI on jobs, the risks of autonomous cars... ecology and youth are not mentioned.
 The [MIT](https://www.technologyreview.com/2019/02/14/137426/an-ai-tool-auto-generates-fake-news-bogus-tweets-and-plenty-of-gibberish/) warned, however, in 2019, of the risk that IA who writes convincing prose could mass produce fake news, referring to ChatGPT2. This has not prevented investments from multiplying in disinformation, energy consumption (x1000 in 4 years) and the generation of fake news.
@@ -72,6 +74,8 @@ March 8, 2023. [Model leaked](https://www.01net.com/actualites/fuite-meta-altern
 ## [Tackling Climate Change with Machine Learning](https://arxiv.org/abs/1906.05433)
 
 The original article is published on [Arxiv](https://arxiv.org/abs/1906.05433v1) on June 10, 2019, four days after [Emma Strubell](https://arxiv.org/abs/1906.02243) and the [MIT](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/)'s alert in 2019. Written by 22 authors including <b>Demis Hassabis</b>, CEO of <b>Deepmind</b>, and <b>Yoshua Bengio</b>, <b>Turing</b> award 2019 and deep learning godfather, it is republished on June 7 February 2022 by the [Association for Computing Machinery](https://dl.acm.org/doi/10.1145/3485128) (ACM) which awards the Turing Prize. In December 2022, while Yann Lecun and Elon Musk are working on models with billions of parameters (1000 times [MIT](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/)'s 2019 alert), a workshop is organized by climatechange.ai at [NeurIPS 2022](https://www.climatechange.ai/events/neurips2022) and includes 19 authors from <b style='color:blue;'>NVIDIA</b> which benefits from the explosion of model complexity.
+
+The spotlight during those years was focused on the <i>deep learning</i> godfathers, to the benefit of the United States, GAFAMs and NVIDIA, the world leader in artificial intelligence computing.
 
 ## Research and gifts en IA
 

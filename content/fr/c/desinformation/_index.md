@@ -34,16 +34,16 @@ Ce dossier retrace 10 ans de recherche et développement (R&D) en intelligence a
 
 ## Vue d'ensemble
 
-De 2014 à 2018, la France définissait une feuille de route pour les années à venir en intelligence artificielle (IA). De la fin de l'année 2018 à la fin de l'année 2022, des alertes se sont succédées pour informer les politiciens et scientifiques du terrible impact écologique du <i>deep learning</i>. Les projecteurs durant ces années étaient braqués sur les parrains du <i>deep learning</i>, au profit des GAFAMs et de NVIDIA, leader mondial du calcul en intelligence artificielle. 
+De 2014 à 2018, la France définissait [une feuille de route](https://www.mtpcours.fr/c/desinformation/rapport-villani/) pour les années à venir en intelligence artificielle (IA). De 2018 à 2022, des [alertes](https://www.mtpcours.fr/c/desinformation/emma-strubell/) se sont succédées pour informer les politiciens et scientifiques du terrible impact écologique du <i>deep learning</i> en IA.
 
 La France a été condamnée pour inaction climatique en octobre 2021 par le tribunal administratif de Paris suite à l'affaire du siècle.
-Après une année 2022 [record de chaleur](https://meteofrance.com/actualites-et-dossiers/actualites/2022-annee-la-plus-chaude-en-france) et dans un contexte de crise énérgétique et guerre en Europe, l'hiver 2023 a été marqué par un [record de sécheresse](https://meteofrance.com/actualites-et-dossiers/actualites/climat/secheresse-32-jours-sans-pluie-en-france-record-battu) et des records de consommations énergétique avec ChatGPT3 d'Open AI (cofondée par Elon Musk), LLaMA de Facebook AI Research (FAIR) Paris, ChatGPT4... au profit de quelques ingénieurs francais et investisseurs, pendant que la majorité des francais a subi la flambée des prix de l'énergie et de l'inflation. En parallèle, sur Twitter (acheté par Elon Musk en xxxx), plus de 10 000 comptes actifs relaient des fausses informations [CNRS](https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox).
+Après une année 2022 [record de chaleur en France](https://meteofrance.com/actualites-et-dossiers/actualites/2022-annee-la-plus-chaude-en-france) et dans un contexte de crise énérgétique et guerre en Europe, l'hiver 2023 a été marqué par un [record de sécheresse en France](https://meteofrance.com/actualites-et-dossiers/actualites/climat/secheresse-32-jours-sans-pluie-en-france-record-battu) et des records de consommations énergétique avec ChatGPT3 d'Open AI (cofondée par Elon Musk), LLaMA de Facebook AI Research (FAIR Paris (avec Yann LeCun comme directeur de la recherche), ChatGPT4... au profit de quelques ingénieurs francais et investisseurs.
 
-Dans ce cours vous apprendrez à repérer le greenwashing, les conflits d'intérêt et lutter contre en réinvestissant votre temps, énergie et attention.
+Dans ce cours vous apprendrez à repérer [le greenwashing, les conflits d'intérêt](https://www.mtpcours.fr/c/desinformation/greenwashing/), les fake news et à lutter contre la désinformation en réinvestissant votre temps, énergie et attention. 
 
 {{< list_children >}}
 
-{{< cta cta_text="Se former" cta_link="rapport-villani" >}}
+{{< cta cta_text="Lutter contre la désinformation <br> par la formation" cta_link="rapport-villani" >}}
 
 ## FAQs
 

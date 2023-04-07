@@ -1,11 +1,11 @@
 ---
-title: Macron and the French mafia of AI
+title: Tackling disinformation "par la formation", in practice
 date: '2023-02-26'
 type: book
 weight: 40
 ---
 
-14 juin 2023. Macron and Zuckerberg at Vivatech
+French spring and summer without social networks
 
 <!--more-->
 

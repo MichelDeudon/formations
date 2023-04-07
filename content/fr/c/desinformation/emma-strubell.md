@@ -11,7 +11,7 @@ tags:
   - désinformation
 ---
 
-Été 2019. Alerte d'Emma Strubell et du MIT.
+Printemps 2019. Alerte d'Emma Strubell et du MIT.
 
 <!--more-->
 

@@ -9,11 +9,13 @@ tags:
   - désinformation
 ---
 
-Hiver 2023. Quel est le but des climatosceptiques? Que défendent-ils? Étude de cas à travers les modèles LLaMA et ChatGPT.
+Quel est le but des climatosceptiques? Que défendent-ils? Études de cas des modèles LLaMA et ChatGPT.
 
 <!--more-->
 
 ## La désinformation sert à détourner l’attention de l’urgence écologique…
+
+Sur Twitter (acheté par Elon Musk en xxxx), plus de 10 000 comptes climatosceptiques actifs relaient des fausses informations [CNRS](https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox).
 
 Le but de la désinformation comme [business](https://www.bfmtv.com/tech/intelligence-artificielle/le-patron-de-l-entreprise-a-l-origine-de-chat-gpt-a-un-peu-peur-de-chat-gpt_AV-202303210270.html) est de détourner l’attention et influencer les décisions, par exemple dans quoi [investir](https://www.bpifrance.fr/nos-actualites/rencontres-economiques-daix-en-provence-un-regard-sur-le-monde-demain), de quoi [débattre](https://www.bfmtv.com/tech/intelligence-artificielle/pour-la-premiere-fois-l-assemblee-nationale-va-debattre-d-un-amendement-redige-par-chat-gpt_AV-202303210310.html), etc. Lorsqu’elle est toxique et virale, elle génère plus de clics (Click Through Rate en anglais) et appelle à plus de deeptech...
 
@@ -72,6 +74,8 @@ Il reste encore des recherches à faire pour traiter les risques de biais, de co
 ## [Lutter contre le changement climatique avec l'IA](https://arxiv.org/abs/1906.05433)
 
 L'article original est publié sur [Arxiv](https://arxiv.org/abs/1906.05433v1) le 10 juin 2019, quatre jours après l'alerte d'[Emma Strubell](https://arxiv.org/abs/1906.02243) et du [MIT](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/) en 2019. Écrit par 22 auteurs dont <b>Demis Hassabis</b>, CEO de <b>Deepmind</b>, et <b>Yoshua Bengio</b>, prix <b>Turing</b> 2019 et parrain du deep learning, il est republié le 7 février 2022 par l'[Association for Computing Machinery](https://dl.acm.org/doi/10.1145/3485128) (ACM) qui remet le prix Turing. En décembre 2022, alors que Yann Lecun et Elon Musk travaillent sur des modèles avec des milliards de paramètres (1000 fois l'alerte du [MIT](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/) de 2019), un workshop est organisé par climatechange.ai à [NeurIPS 2022](https://www.climatechange.ai/events/neurips2022) et inclut 19 auteurs de <b style='color:blue;'>NVIDIA</b> qui tire profit de l'explosion de la complexité des modèles.
+
+Les projecteurs durant ces années étaient braqués sur les parrains du <i>deep learning</i>, au profit des GAFAMs et de NVIDIA, leader mondial du calcul en intelligence artificielle. 
 
 ## Recherche et cadeaux en IA
 
