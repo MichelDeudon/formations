@@ -28,7 +28,7 @@ Mars 2023. La ville de Montpellier interdit à ses agents d'utiliser l'intellige
 
 Ce dossier retrace 10 ans de recherche et développement (R&D) en intelligence artificielle, de 2014 à aujourd'hui, à destination des enseignants, chercheurs et étudiants de l'[enseignement supérieur et de la recherche](https://www.enseignementsup-recherche.gouv.fr/fr) ou l'[éducation nationale](https://www.education.gouv.fr/).
 
-{{< icon name="clock" pack="fas" >}} <b>Durée</b> : 12 heures. 6x2h par semaine. <br>
+{{< icon name="clock" pack="fas" >}} <b>Durée</b> : 6 heures. 4x1.5h par semaine. <br>
 {{< icon name="spell-check" pack="fas" >}} <b>Thèmes</b> : Désinformation, Attention, Société et Environnement. <br>
 {{< icon name="hands-asl-interpreting" pack="fas" >}} <b>Public</b> (recommandé): Étudiant.e.s en licence/master MIASHS, praticienn.e.s de l'apprentissage et du développement des langues (orthophoniste, psy, enseignant, chercheur, data scientist), associations luttant contre la desinformation, pour la justice sociale et climatique.
 

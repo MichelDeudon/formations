@@ -6,7 +6,7 @@ weight: 10
 math: true
 ---
 
-March 2018. <i>AI cannot be a new machine to exclude.</i>
+Spring 2018. <i>AI cannot be a new machine to exclude.</i>
 
 <!--more-->
 

@@ -28,7 +28,7 @@ March 2023. The city of Montpellier prohibits its agents from using artificial i
 
 This course reviews 10 years of research and development (R&D) in artificial intelligence, from 2014 to today, for teachers, researchers and students in [higher education and research](https://www.enseignementsup-recherche.gouv.fr/fr) or [national education](https://www.education.gouv.fr/).
 
-{{< icon name="clock" pack="fas" >}} <b>Duration</b>: 12 hours. 6x2h per week. <br>
+{{< icon name="clock" pack="fas" >}} <b>Duration</b>: 6 hours. 4x1.5h per week. <br>
 {{< icon name="spell-check" pack="fas" >}} <b>Thèmes</b> : Disinformation, Attention, Society and the Environment. <br>
 {{< icon name="hands-asl-interpreting" pack="fas" >}} <b>Audience</b> (recommended): Bachelor students (L2/L3), language learning and development practitioners (speech therapist, psy, teacher, researcher, data scientist, etc.), associations fighting against misinformation, for the social and climate justice.
 

@@ -6,7 +6,7 @@ weight: 10
 math: true
 ---
 
-Mars 2018. <i>L'IA ne peut pas être une nouvelle machine à exclure.</i>
+Printemps 2018. <i>L'IA ne peut pas être une nouvelle machine à exclure.</i>
 
 <!--more-->
 

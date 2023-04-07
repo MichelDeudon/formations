@@ -2,7 +2,7 @@
 title: Macron et la mafia francaise de l'IA
 date: '2023-02-24'
 type: book
-weight: 50
+weight: 40
 ---
 
 14 juin 2023. Macron et Zuckerberg au salon Vivatech

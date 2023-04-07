@@ -11,7 +11,7 @@ tags:
   - disinformation
 ---
 
-June 2019. Emma Strubell and MIT's alert.
+Summer 2019. Emma Strubell and MIT's alert.
 
 <!--more-->
 
@@ -50,3 +50,13 @@ The results underscore another growing problem in AI, too: <b>the sheer intensit
 - 04-24 <i>The digital bluff is all the impacts that we do not see</i>, with <b>Laurie Marrauld</b> from <b>the Shift Project</b> and <b>Cédric Villani</b>. [Libération](https://www.youtube.com/watch?v=6kJYR0oG3GQ&ab_channel=Lib%C3%A9ration).
 - 08-22 <b>Citizen's Climate Convention</b>. A part of the 146 proposals is selected by the head of State. Code of the Environment. [Law n° 2021-1104 of August 22, 2021 on the fight against climate change and strengthening resilience to its effects (V)](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043956924). [Article L231-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043961211).
 - 10-14 <b>Paris court</b>. <i>France sentenced for climate inaction. The State has an obligation to respect its greenhouse gas emissions reduction trajectory and must repair any overrun by <b>December 31, 2022</b>. Each departure from the road on the climate trajectory now constitutes a fault which MUST be repaired</i>. [vie-publique.fr](https://www.vie-publique.fr/en-bref/282012-changement-climatique-la-france-condamnee-pour-prejudice-ecologique).
+
+### [Macron calls for <i>individual sobriety</i>](https://www.ladepeche.fr/2022/09/05/direct-crise-de-lenergie-quelles-mesures-complementaires-pourraient-etre-prises-suivez-en-direct-la-conference-demmanuel-macron-10524445.php)
+
+{{< icon name="calendar" pack="fas" >}} Press conference at the Elysee, September 5, 2022
+
+{{< callout note >}}
+Macron was re-elected President on April 24, 2022, two months after the invasion of Ukraine and the energy crisis ⚡. [Elysée](https://www.elysee.fr/emmanuel-macron).
+{{< /callout >}}
+
+<i>"Everyone has a role to play"</i>, announced the French president, calling for energy sobriety and believing that <i>"the best energy is that which we do not consume"</i>. The objective stated by <b>Emmanuel Macron</b> is <i>"to save 10% of what we currently consume"</i>. [Elysée](https://www.youtube.com/watch?v=XjC1NqzyGkc&ab_channel=%C3%89lys%C3%A9e).

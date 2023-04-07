@@ -11,7 +11,7 @@ tags:
   - désinformation
 ---
 
-Juin 2019. Alerte d'Emma Strubell et du MIT.
+Été 2019. Alerte d'Emma Strubell et du MIT.
 
 <!--more-->
 
@@ -50,3 +50,13 @@ Les résultats soulignent également un autre problème croissant dans le domain
 - 24-04 <i>Le bluff numérique, ce sont tous les impacts qu’on ne voit pas</i>, avec <b>Laurie Marrauld</b> du <b>Shift Project</b> et <b>Cédric Villani</b>. [Libération](https://www.youtube.com/watch?v=6kJYR0oG3GQ&ab_channel=Lib%C3%A9ration).
 - 22-08 <b>Convention citoyenne pour le climat</b>. Une partie des 146 propositions est retenue par le chef de l'État. Code de l'environnement. [LOI n° 2021-1104 du 22 août 2021 portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets (V)](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043956924). [Article L231-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043961211)
 - 14-10 <b>Tribunal de Paris</b>. France condamnée pour inaction climatique. L'État a l’obligation de respecter sa trajectoire de réduction d’émissions de gaz à effet de serre et doit réparer tout dépassement, d’ici le <b>31 décembre 2022</b>. Chaque sortie de route sur la trajectoire climatique constitue à présent une faute qui DOIT être réparée. [vie-publique.fr](https://www.vie-publique.fr/en-bref/282012-changement-climatique-la-france-condamnee-pour-prejudice-ecologique).
+
+### [Macron appelle à la <i>sobriété individuelle</i>](https://www.ladepeche.fr/2022/09/05/direct-crise-de-lenergie-quelles-mesures-complementaires-pourraient-etre-prises-suivez-en-direct-la-conference-demmanuel-macron-10524445.php)
+
+{{< icon name="calendar" pack="fas" >}} Conférence de presse à l'Elysee, le 5 septembre 2022
+
+{{< callout note >}}
+Macron a été réélu Président le 24 avril 2022, deux mois après l'invasion de l'Ukraine et début de la crise énergétique ⚡. [Elysée](https://www.elysee.fr/emmanuel-macron).
+{{< /callout >}}
+
+<i>"Chacun a son rôle à jouer"</i>, annonce le président français, appelant à la sobriété énergétique et estimant que <i>"la meilleure énergie est celle qu’on ne consomme pas"</i>. L’objectif énoncé par <b>Emmanuel Macron</b> est <i>"d’économiser 10 % de ce que nous consommons actuellement"</i>. [Elysée](https://www.youtube.com/watch?v=XjC1NqzyGkc&ab_channel=%C3%89lys%C3%A9e).
