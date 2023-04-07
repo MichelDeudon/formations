@@ -17,9 +17,11 @@ Spring 2019. Emma Strubell and MIT's alert.
 
 ## [Energy and Policy Considerations for Deep Learning in NLP](https://arxiv.org/abs/1906.02243)
 
-🚨 On June 5, 2019, Emma Strubell, PhD candidate and lead author of the paper [Energy and Policy Considerations for Deep Learning in NLP](https://arxiv.org/abs/1906.02243) gave the alert to the scientific and political community of the terrible ecological impact of deep learning models in linguistics at that time. Her article appeared in <b>ACL2019</b> 🇮🇹, the largest linguistics conference. The <b>Massachusetts Institute of Technology</b> 🇺🇸 shared her alert on energy consumption and carbon emissions of models with millions of parameters like Transformers (paper "[Attention is all you need](https://arxiv.org/abs/1706.03762)" from <b style="color:blue;">Google</b>, 2017) and [BERT](https://arxiv.org/abs/1810.04805) (<b style="color:blue;">Google</b>, 2018) in its technology review of June 6, 2019. At that time, the largest model had up to 65 million parameters (1/1000 [LLaMA](https://arxiv.org/abs/2302.13971), 2023).
+🚨 On June 5, 2019, Emma Strubell, PhD candidate and lead author of the paper [Energy and Policy Considerations for Deep Learning in NLP](https://arxiv.org/abs/1906.02243) gave the alert to the scientific and political community of the terrible ecological impact of deep learning models in linguistics at that time. Her article appeared in <b>ACL2019</b> 🇮🇹, the largest linguistics conference. The <b>Massachusetts Institute of Technology</b> 🇺🇸 shared her alert on energy consumption and carbon emissions of models with millions of parameters like [Transformers](https://arxiv.org/abs/1706.03762)" (<b style="color:blue;">Google</b>, 2017) and [BERT](https://arxiv.org/abs/1810.04805) (<b style="color:blue;">Google</b>, 2018) in its technology review of June 6, 2019. At that time, the largest model had up to 65 million parameters (1/1000 [LLaMA](https://arxiv.org/abs/2302.13971), 2023).
 
-🔥 The day following [Emma Strubell](https://arxiv.org/abs/1906.02243) and the [MIT](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/)'s alert, on June 7, 2019, BERT received the best long paper award at [NAACL19](https://aclanthology.org/N19-1423/) 🇺🇸. Three days later, on June 10, 2019, 22 authors, including the CEO de <b style="color:blue;">Deep Mind</b>, Demis Hassabis, publish on [Arxiv](https://arxiv.org/abs/1906.05433) Tackling Climate Change with Machine Learning, published by [ACM](https://dl.acm.org/doi/10.1145/3485128) early February 2022.
+{{< callout warning >}}
+The day following [Emma Strubell](https://arxiv.org/abs/1906.02243) and the [MIT](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/)'s alert, BERT received the best long paper award at [NAACL19](https://aclanthology.org/N19-1423/) 🇺🇸.
+{{< /callout >}}
 
 ## [Training a single AI model can emit as much carbon as...](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/)
 
@@ -55,6 +57,12 @@ The results underscore another growing problem in AI, too: <b>the sheer intensit
 {{< figure src="mafia-these-CIFRE.png">}}
 
 {{< figure src="mafia-france-ia.png" caption="Source: @[Yann Lecun](https://twitter.com/ylecun/status/1629845738170597376?lang=en).">}}
+
+{{< figure src="meta-paper-hours-gpu.png" caption="Carbon footprint of training different models in the same data center, from the paper LLaMA on [Arxiv](https://arxiv.org/abs/2302.13971) (section 6 Carbon footprint).">}}
+
+{{< callout warning >}}
+<i>The training of our models have consumed a massive quantity of energy, responsible for the emission of carbon dioxide</i> (section 6 Carbon footprint). <i>We plan to release larger models trained on larger pretraining corpora in the future</i> (section 8 Conclusion). [Arxiv](https://arxiv.org/abs/2302.13971).
+{{< /callout >}}
 
 ## The case of the Century ⚖ (2021)
 - 04-24 <i>The digital bluff is all the impacts that we do not see</i>, with <b>Laurie Marrauld</b> from <b>the Shift Project</b> and <b>Cédric Villani</b>. [Libération](https://www.youtube.com/watch?v=6kJYR0oG3GQ&ab_channel=Lib%C3%A9ration).

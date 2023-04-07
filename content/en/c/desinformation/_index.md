@@ -21,7 +21,7 @@ tags:
 At the end of this training, participants will be able to {{<hl>}}identify and fight against disinformation{{</hl>}} to {{<hl>}}refocus attention to debate in society{{</hl>}} and {{<hl>}}explain what is invisible pollution{{</hl>}}, the links between AI, energy and climate from scientific articles and evidence.
 
 {{< callout warning >}}
-March 2023. The city of Montpellier prohibits its agents from using artificial intelligence. [France-3 Regions](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/chatgpt-revolutionnaire-mais-qui-inquiete-pourquoi--2742446.html).
+March 2023. ChatGPT: Why the city of Montpellier prohibits its agents from using artificial intelligence. [France-3 Regions](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/chatgpt-revolutionnaire-mais-qui-inquiete-pourquoi--2742446.html).
 {{< /callout >}}
 
 ## Program overview
@@ -37,9 +37,9 @@ This course reviews 10 years of research and development (R&D) in artificial int
 From 2014 to 2018, France defined [a roadmap](https://www.mtpcours.fr/en/c/desinformation/rapport-villani/) for the coming years in artificial intelligence (AI). From 2018 to 2022, [alerts](https://www.mtpcours.fr/en/c/desinformation/emma-strubell/) followed one another to inform politicians and scientists about the terrible ecological impact of <i>deep learning</i> in AI.
 
 France was sentenced for climate inaction in October 2021 by the administrative court of Paris following the case of the century.
-After a [heat record in France](https://meteofrance.com/actualites-et-dossiers/actualites/2022-annee-la-plus-chaude-en-france) in 2022 and in a context of energy crisis and war in Europe, the winter 2023 was marked by a [drought record in France](https://meteofrance.com/actualites-et-dossiers/actualites/climat/secheresse-32-jours-sans-pluie-en-france-record-battu) and energy consumption records with ChatGPT3 of Open AI (co-founded by Elon Musk), LLaMA from Facebook AI Research (FAIR Paris directed by Yann LeCun), ChatGPT4... for the benefit of a few French engineers and investors.
+After a [heat record in France](https://meteofrance.com/actualites-et-dossiers/actualites/2022-annee-la-plus-chaude-en-france) in 2022 and in a context of energy crisis and war in Europe, the winter 2023 was marked by a [drought record in France](https://meteofrance.com/actualites-et-dossiers/actualites/climat/secheresse-32-jours-sans-pluie-en-france-record-battu) and energy consumption records with ChatGPT3 of Open AI (co-founded by Elon Musk), LLaMA from Facebook AI Research (FAIR Paris), ChatGPT4... for the benefit of a few French engineers and investors.
 
-In this course, you will learn how to spot [greenwashing, conflicts of interest](https://www.mtpcours.fr/en/c/desinformation/greenwashing/), fake news and fight against disinformation by reinvesting your time, energy and attention.
+In this course, you will learn how to spot [greenwashing, conflicts of interest](https://www.mtpcours.fr/en/c/desinformation/greenwashing/), fake news and fight against disinformation by reinvesting your time, energy and attention in sustainable development.
 
 {{< list_children >}}
 

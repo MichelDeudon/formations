@@ -21,7 +21,7 @@ tags:
 À la fin de cette formation, les participants seront capables d'{{<hl>}}identifier et lutter contre la désinformation{{</hl>}} et {{<hl>}}recentrer l'attention pour débattre en société{{</hl>}}. Les participants seront capable d'{{<hl>}}expliquer ce qu'est la pollution invisible{{</hl>}}, les liens entre IA, énergie et climat, en s'appuyant sur des travaux scientifiques et observations.
 
 {{< callout warning >}}
-Mars 2023. La ville de Montpellier interdit à ses agents d'utiliser l'intelligence-artificielle. [France-3 Regions](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/chatgpt-revolutionnaire-mais-qui-inquiete-pourquoi--2742446.html).
+Mars 2023. ChatGPT : pourquoi la ville de Montpellier interdit à ses agents d’utiliser l'intelligence artificielle. [France-3 Regions](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/chatgpt-revolutionnaire-mais-qui-inquiete-pourquoi--2742446.html).
 {{< /callout >}}
 
 ## Présentation
@@ -37,9 +37,9 @@ Ce dossier retrace 10 ans de recherche et développement (R&D) en intelligence a
 De 2014 à 2018, la France définissait [une feuille de route](https://www.mtpcours.fr/c/desinformation/rapport-villani/) pour les années à venir en intelligence artificielle (IA). De 2018 à 2022, des [alertes](https://www.mtpcours.fr/c/desinformation/emma-strubell/) se sont succédées pour informer les politiciens et scientifiques du terrible impact écologique du <i>deep learning</i> en IA.
 
 La France a été condamnée pour inaction climatique en octobre 2021 par le tribunal administratif de Paris suite à l'affaire du siècle.
-Après une année 2022 [record de chaleur en France](https://meteofrance.com/actualites-et-dossiers/actualites/2022-annee-la-plus-chaude-en-france) et dans un contexte de crise énérgétique et guerre en Europe, l'hiver 2023 a été marqué par un [record de sécheresse en France](https://meteofrance.com/actualites-et-dossiers/actualites/climat/secheresse-32-jours-sans-pluie-en-france-record-battu) et des records de consommations énergétique avec ChatGPT3 d'Open AI (cofondée par Elon Musk), LLaMA de Facebook AI Research (FAIR Paris (avec Yann LeCun comme directeur de la recherche), ChatGPT4... au profit de quelques ingénieurs francais et investisseurs.
+Après une année 2022 [record de chaleur en France](https://meteofrance.com/actualites-et-dossiers/actualites/2022-annee-la-plus-chaude-en-france) et dans un contexte de crise énérgétique et guerre en Europe, l'hiver 2023 a été marqué par un [record de sécheresse en France](https://meteofrance.com/actualites-et-dossiers/actualites/climat/secheresse-32-jours-sans-pluie-en-france-record-battu) et des records de consommations énergétique avec ChatGPT3 d'Open AI (cofondée par Elon Musk), LLaMA de Facebook AI Research (FAIR Paris), ChatGPT4... au profit de quelques ingénieurs francais et investisseurs.
 
-Dans ce cours vous apprendrez à repérer [le greenwashing, les conflits d'intérêt](https://www.mtpcours.fr/c/desinformation/greenwashing/), les fake news et à lutter contre la désinformation en réinvestissant votre temps, énergie et attention. 
+Dans ce cours vous apprendrez à repérer [le greenwashing, les conflits d'intérêt](https://www.mtpcours.fr/c/desinformation/greenwashing/), les fake news et à lutter contre la désinformation en réinvestissant durablement votre temps, énergie et attention. 
 
 {{< list_children >}}
 
