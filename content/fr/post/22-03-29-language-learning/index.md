@@ -9,7 +9,7 @@ Le plus tranquille, aventureux, social, en rythme et intellectuel
 
 Apprendre des langues, pratiquer avec des amis, des collègues, des gens dans un restaurant, sur un marché ou en voyage est tout simplement incroyable et vaut vraiment l'expérience. Dire <i>bonjour</i> ou <i>merci</i> dans la langue de quelqu'un est généralement suffisant pour déclencher une conversation et plus vous connaissez cette langue, quelques blagues ou rimes, plus cette conversation peut devenir intéressante ou intime.
 
-{{< figure src="blog-lang-1.jpeg" caption="Photo de Lady Escabia sur Pexels" numbered="true" >}}
+{{< figure src="blog-lang-1.jpeg" caption="lang/Photo de Lady Escabia sur Pexels" numbered="true" >}}
 
 Apprendre une nouvelle langue vous aidera à établir des liens et à être plus empathique. C'est l'un des meilleurs investissements que vous puissiez faire aujourd'hui et qui paiera demain. Cela élargira votre horizon, vous ouvrira à une nouvelle culture, défiera vos croyances et vous fera voir la société et la vie d'une nouvelle manière.
 
@@ -19,7 +19,7 @@ Avant de plonger dans ces différentes approches, je voudrais souligner qu'appre
 
 ## Le plus tranquille: Netflix, podcasts & séries
 
-{{< figure src="blog-lang-2.jpeg" caption="Photo de Johann Pictures sur Pexels" numbered="true" >}}
+{{< figure src="blog-lang-2.jpeg" caption="lang/Photo de Johann Pictures sur Pexels" numbered="true" >}}
 
 C'est peut-être le plus évident.
 
@@ -31,7 +31,7 @@ Tout ce que vous avez à faire est de changer de langue.
 
 ## Le plus aventureux : voyager et travailler à l'étranger
 
-{{< figure src="blog-lang-3.jpeg" caption="Photo de Rattasat sur Pexels" numbered="true" >}}
+{{< figure src="blog-lang-3.jpeg" caption="lang/Photo de Rattasat sur Pexels" numbered="true" >}}
 
 Travailler dans une ferme, par exemple via le réseau World of Opportunities on Organic Farms (WOOF), est de loin l'un des meilleurs moyens de voyager et de s'immerger dans une autre culture, de pratiquer la langue locale et plus encore. Bien sûr, cela peut être étendu à d'autres types de volontariat, de travail ou d'expériences éducatives.
 
@@ -41,7 +41,7 @@ Prêt à faire votre valise ?
 
 ## Le plus social : rencontrer des amis ou un partenaire
 
-{{< figure src="blog-lang-4.jpeg" caption="Photo de cottonbro sur Pexels" numbered="true" >}}
+{{< figure src="blog-lang-4.jpeg" caption="lang/Photo de cottonbro sur Pexels" numbered="true" >}}
 
 Avoir quelqu'un à qui parler fait que l'apprentissage d'une langue en vaut vraiment la peine et après un verre ou deux, parler une autre langue semble plus facile.
 
@@ -53,7 +53,7 @@ Vérifiez ce qui se passe dans votre ville, regardez autour de vous et soyez cur
 
 ## Le plus en rythme : Chante, chante, chante
 
-{{< figure src="blog-lang-5.jpeg" caption="Photo de Andrea Piacquadio sur Pexels" numbered="true" >}}
+{{< figure src="blog-lang-5.jpeg" caption="lang/Photo de Andrea Piacquadio sur Pexels" numbered="true" >}}
 
 C'est mon préféré. Chanter et danser me rend heureux. Cela me fait sourire. En groupe, ça devient plus drôle. Les soirées karaoké sont hilarantes et au Japon, il est très célèbre d'y passer la nuit avant l'ouverture des trains le matin. Ainsi, avec des amis, nous avons compilé quelques artistes par langues que vous voudrez peut-être consulter pour réchauffer votre journée et votre voix.
 
@@ -68,7 +68,7 @@ C'est mon préféré. Chanter et danser me rend heureux. Cela me fait sourire. E
 
 ## Le plus intellectuel : Traduire un livre
 
-{{< figure src="blog-lang-6.jpeg" caption="Photo de Wendelin Jacober sur Pexels" numbered="true" >}}
+{{< figure src="blog-lang-6.jpeg" caption="lang/Photo de Wendelin Jacober sur Pexels" numbered="true" >}}
 
 Pourquoi pas? J'ai essayé, en prenant le premier chapitre de l'autobiographie de Simone de Beauvoir en italien, Memoria di una ragazza perbene, et j'ai eu du mal.
 

@@ -28,7 +28,7 @@ March 2023. ChatGPT: Why the city of Montpellier prohibits its agents from using
 
 This course reviews 10 years of research and development (R&D) in artificial intelligence, from 2014 to today, for teachers, researchers and students in [higher education and research](https://www.enseignementsup-recherche.gouv.fr/fr) or [national education](https://www.education.gouv.fr/).
 
-{{< icon name="clock" pack="fas" >}} <b>Duration</b>: 6 hours. 4x1.5h per week. <br>
+{{< icon name="clock" pack="fas" >}} <b>Duration</b>: 6 hours. <br>
 {{< icon name="spell-check" pack="fas" >}} <b>Thèmes</b> : Disinformation, Attention, Society and the Environment. <br>
 {{< icon name="hands-asl-interpreting" pack="fas" >}} <b>Audience</b> (recommended): Bachelor students (L2/L3), language learning and development practitioners (speech therapist, psy, teacher, researcher, data scientist, etc.), associations fighting against misinformation, for the social and climate justice.
 
@@ -57,4 +57,8 @@ Continuously, at your own pace. Some events will be scheduled to foster a benevo
 
 {{< spoiler text="I worked in linguistics or as a data scientist. Could I share my learnings with you?" >}}
 Yes of course! Feel free to reach out to chat and co-create the course. Thanks!
+{{< /spoiler >}}
+
+{{< spoiler text="What are the knowledge check procedures?" >}}
+To validate the module, you must complete a final multiple choice (50% of the points) and carry out a disinformation awareness project (50% of the points), for example 2-3 interviews/testimonials for a summer without social networks, in the form audiovisual or written production. If you validate the module, you will obtain a certificate of completion.
 {{< /spoiler >}}

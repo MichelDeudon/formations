@@ -9,7 +9,7 @@ From zero to hero, all you need to know
 
 I always had an imposter syndrome working with Github, until recently. I remember the first time I opened a terminal, it felt like I was about to hack the world 🐱‍💻 With time and practice, I eventually grasped the key concepts behind Github. Now I feel more comfortable working with engineers and developers or mentoring peers, and that’s fun. I wrote this crash course at the time I applied to Vinted for a Data Science position and decided to share it because it might be what you’re looking for 😊. Great, so what’s Github?
 
-{{< figure src="blog-git-1.jpg" caption="Photo by Tatiana Syrikova from Pexels" numbered="true" >}}
+{{< figure src="blog-git-1.jpg" caption="git/Photo by Tatiana Syrikova from Pexels" numbered="true" >}}
 
 Git is an open source, distributed version-control system and Github is a platform for hosting and collaborating on Git repositories. <b>Github helps people collaborate across the world</b> - learn, share, contribute and build together by synchronising work on different machines to solve various kind of problems related to artificial intelligence, machine learning or apps. In other words, Github is like a distributed sandbox and it’s free to play!
 
@@ -68,7 +68,7 @@ git diff
 
 This will show changes from the previous commit (what was added, removed or modified). You can further specify branches or commits to change the default result.
 
-{{< figure src="blog-git-2.jpg" caption="Photo by James Wheeler from Pexels" numbered="true" >}}
+{{< figure src="blog-git-2.jpg" caption="git/Photo by James Wheeler from Pexels" numbered="true" >}}
 
 ### 4. Make changes and commit
 
@@ -123,7 +123,7 @@ git checkout feature/x
 git checkout commit_id
 ```
 
-{{< figure src="blog-git-3.jpg" caption="Photo by Leah Kelley from Pexels" numbered="true" >}}
+{{< figure src="blog-git-3.jpg" caption="git/Photo by Leah Kelley from Pexels" numbered="true" >}}
 
 Each branch tends to diverge naturally with different features. You can join their development history back together by “merging” branches, i.e., incorporating changes from one branch to another. By default,
 
@@ -189,7 +189,7 @@ git tag [label] [commit]
 
 You’re done with this crash course, well done! You’re ready to collaborate with people across the globe. Don’t forget it takes time and practice to master a tool like Github and if you want to go further, check the reference below or just ask around you for some help.
 
-{{< figure src="blog-git-4.png" caption="Visual Git Cheatsheet by Andrew Perterson" numbered="true" >}}
+{{< figure src="blog-git-4.png" caption="git/Visual Git Cheatsheet by Andrew Perterson" numbered="true" >}}
 
 [1] [Git Documentation](https://git-scm.com/doc) <br>
 [2] [GitHub Git Cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet/) <br>

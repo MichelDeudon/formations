@@ -27,7 +27,7 @@ The day following [Emma Strubell](https://arxiv.org/abs/1906.02243) and the [MIT
 
 6 juin 2019. [MIT Technology Review](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/) by Karen Hao.
 
-{{< figure src="2019-06 MIT.jpg" caption="MIT Technology Review, june 2019." numbered="true">}}
+{{< figure src="desinfo/2019-06 MIT.jpg" caption="MIT Technology Review, june 2019." numbered="true">}}
 
 The [artificial-intelligence](https://www.technologyreview.com/artificial-intelligence/) industry is often compared to the oil industry: once mined and refined, data, like oil, can be a highly lucrative commodity. Now it seems the metaphor may extend even further. Like its fossil-fuel counterpart, the process of {{<hl>}}<b>deep learning has an outsize environmental impact</b>{{</hl>}}.
 
@@ -36,7 +36,9 @@ In a [new paper](http://arxiv.org/abs/1906.02243), researchers at the University
 ### The carbon footprint of natural-language processing
 The paper specifically examines the model training process for [natural-language processing](https://www.technologyreview.com/s/612975/ai-natural-language-processing-explained/) (NLP), the subfield of AI that focuses on teaching machines to handle human language. In the last two years, the NLP community has reached several noteworthy performance milestones in machine translation, sentence completion, and other standard benchmarking tasks. [OpenAI's infamous GPT-2 model](https://www.technologyreview.com/s/612960/an-ai-tool-auto-generates-fake-news-bogus-tweets-and-plenty-of-gibberish/), as one example, excelled at writing convincing fake news articles. But such advances have required <b>training ever larger models on sprawling data sets of sentences scraped from the internet. The approach is computationally expensive—and highly energy intensive</b>.
 
-The researchers looked at four models in the field that have been responsible for the biggest leaps in performance: the Transformer, ELMo, [BERT](https://www.nytimes.com/2018/11/18/technology/artificial-intelligence-language.html), and GPT-2. They trained each on a single GPU for up to a day to measure its power draw. They then used the number of training hours listed in the model’s original papers to calculate the total energy consumed over the complete training process. That number was converted into pounds of carbon dioxide equivalent based on the average energy mix in the US, which closely matches the energy mix used by Amazon’s <b style="color:blue;">AWS</b>, the largest cloud services provider.
+{{< figure src="desinfo/mit-review-2019 - emissions.png">}}
+
+The researchers looked at four models in the field that have been responsible for the biggest leaps in performance: the Transformer, ELMo, [BERT](https://www.nytimes.com/2018/11/18/technology/artificial-intelligence-language.html), and GPT-2. They trained each on a single GPU for up to a day to measure its power draw. They then used the number of training hours listed in the model’s original papers to calculate the total energy consumed over the complete training process. That number was converted into pounds of carbon dioxide equivalent based on the average energy mix in the US, which closely matches the energy mix used by <b style="color:blue;">Amazon’s AWS</b>, the largest cloud services provider.
 
 {{< callout note >}}
 February 2023. <b>Macron</b> decorates <b style="color:blue;">Bezos</b> in secret. [Le Point](https://www.youtube.com/watch?v=kZPG9rmbdmw&ab_channel=LePoint).
@@ -49,16 +51,18 @@ Strubell and her colleagues used a model they’d produced in a previous paper a
 
 The significance of those figures is colossal—especially when considering the current trends in AI research. “<i>This kind of analysis needed to be done to raise awareness about the resources being spent [...] and will spark a debate</i>.”, says <b>Gómez-Rodríguez</b>. “<i>What probably many of us did not comprehend is the scale of it until we saw these comparisons</i>,” echoed <b>Siva Reddy</b>, a postdoc at <b>Stanford University</b> who was not involved in the research.
 
+{{< figure src="desinfo/mit-review-2019 - costs.png">}}
+
 ### The privatization of AI research
 The results underscore another growing problem in AI, too: <b>the sheer intensity of resources now required to produce paper-worthy results</b> has made it increasingly challenging for people working in academia to continue contributing to research. “<b>This trend toward training huge models on tons of data is not feasible for academics</b> — grad students especially, because we don’t have the computational resources,” says Strubell. “So there’s <b>an issue of equitable access</b> between researchers in academia versus researchers in industry.”
 
-{{< figure src="macron-lecun-zuckerberg.png" caption="<b style='color:blue;'>Zuckerberg</b>-<b>Macron</b> buzz at VivaTech. [Les echos](https://www.lesechos.fr/start-up/next40-vivatech/le-duo-zuckerberg-macron-fait-le-buzz-a-vivatech-132831), May 2018. <b style='color:blue;'>Mark Zuckerberg</b> and <b>Emmanuel Macron</b> met (again) at the Elysée. <i>Five days before the second edition of 'Tech for good'</i>. [Huffington post](https://www.huffingtonpost.fr/politique/article/mark-zuckerberg-et-emmanuel-macron-se-sont-encore-rencontres-a-l-elysee_144827.html), May 2019.">}}
+{{< figure src="desinfo/macron-lecun-zuckerberg.png" caption="<b style='color:blue;'>Zuckerberg</b>-<b>Macron</b> buzz at VivaTech. [Les echos](https://www.lesechos.fr/start-up/next40-vivatech/le-duo-zuckerberg-macron-fait-le-buzz-a-vivatech-132831), May 2018. <b style='color:blue;'>Mark Zuckerberg</b> and <b>Emmanuel Macron</b> met (again) at the Elysée. <i>Five days before the second edition of 'Tech for good'</i>. [Huffington post](https://www.huffingtonpost.fr/politique/article/mark-zuckerberg-et-emmanuel-macron-se-sont-encore-rencontres-a-l-elysee_144827.html), May 2019.">}}
 
-{{< figure src="mafia-these-CIFRE.png">}}
+{{< figure src="desinfo/mafia-these-CIFRE.png">}}
 
-{{< figure src="mafia-france-ia.png" caption="Source: @[Yann Lecun](https://twitter.com/ylecun/status/1629845738170597376?lang=en).">}}
+{{< figure src="desinfo/mafia-france-ia.png" caption="Source: @[Yann Lecun](https://twitter.com/ylecun/status/1629845738170597376?lang=en).">}}
 
-{{< figure src="meta-paper-hours-gpu.png" caption="Carbon footprint of training different models in the same data center, from the paper LLaMA on [Arxiv](https://arxiv.org/abs/2302.13971) (section 6 Carbon footprint).">}}
+{{< figure src="desinfo/meta-paper-hours-gpu.png" caption="Carbon footprint of training different models in the same data center, from the paper LLaMA on [Arxiv](https://arxiv.org/abs/2302.13971) (section 6 Carbon footprint).">}}
 
 {{< callout warning >}}
 <i>The training of our models have consumed a massive quantity of energy, responsible for the emission of carbon dioxide</i> (section 6 Carbon footprint). <i>We plan to release larger models trained on larger pretraining corpora in the future</i> (section 8 Conclusion). [Arxiv](https://arxiv.org/abs/2302.13971).
@@ -77,4 +81,4 @@ The results underscore another growing problem in AI, too: <b>the sheer intensit
 Macron was re-elected President on April 24, 2022, two months after the invasion of Ukraine and the energy crisis ⚡. [Elysée](https://www.elysee.fr/emmanuel-macron).
 {{< /callout >}}
 
-<i>"Everyone has a role to play"</i>, announced the French president, calling for energy sobriety and believing that <i>"the best energy is that which we do not consume"</i>. The objective stated by <b>Emmanuel Macron</b> is <i>"to save 10% of what we currently consume"</i>. [Elysée](https://www.youtube.com/watch?v=XjC1NqzyGkc&ab_channel=%C3%89lys%C3%A9e).
+<i>"Everyone has a role to play"</i>, announced the French president, calling for energy sobriety and believing that <i>"the best energy is that which we do not consume"</i>. The objective stated by <b>Emmanuel Macron</b> is <i>"to save 10% of what we currently consume"</i>. [Elysée](https://www.youtube.com/watch?v=XjC1NqzyGkc&ab_channel=%C3%89lys%C3%A9e). [Sobriety plan ecologie.gouv.fr](https://www.ecologie.gouv.fr/plan-sobriete-acte-2-mobilisation-se-poursuit).
