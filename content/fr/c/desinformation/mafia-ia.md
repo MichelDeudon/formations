@@ -47,4 +47,4 @@ Participer/s’impliquer dans des conférences ou événements locaux.
 
 - 29-03 <b style="color:red;">BLAST</b>. Sommes-nous toujours en {{<hl>}}<b>démocratie</b>{{</hl>}}? [Le souffle de l'info](https://www.blast-info.fr/articles/2023/sommes-nous-toujours-en-democratie-AwJ1_TmlTM-ONwHybrhuqQ).  
 
-{{< youtube tlnDmGhnGq8 caption="Hi">}} 
+{{< youtube tlnDmGhnGq8>}} 

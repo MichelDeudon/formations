@@ -47,4 +47,4 @@ Participate/get involved in local conferences or events.
 
 - 03-29. <b style="color:red;">BLAST</b>. Are we still in {{<hl>}}<b>democracy</b>{{</hl>}}? [Le souffle de l'info](https://www.blast-info.fr/articles/2023/sommes-nous-toujours-en-democratie-AwJ1_TmlTM-ONwHybrhuqQ).
 
-{{< youtube tlnDmGhnGq8 caption="Hi">}} 
+{{< youtube tlnDmGhnGq8>}} 
