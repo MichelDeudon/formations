@@ -18,7 +18,7 @@ Spring 2019. Emma Strubell and MIT's alert.
 
 ## [Energy and Policy Considerations for Deep Learning in NLP](https://arxiv.org/abs/1906.02243)
 
-🚨 On June 5, 2019, Emma Strubell, PhD candidate and lead author of the paper [Energy and Policy Considerations for Deep Learning in NLP](https://arxiv.org/abs/1906.02243) gave the alert to the scientific and political community of the terrible ecological impact of deep learning models in linguistics at that time. Her article appeared in <b>ACL2019</b> 🇮🇹, the largest linguistics conference. The <b>Massachusetts Institute of Technology</b> 🇺🇸 shared her alert on energy consumption and carbon emissions of models with millions of parameters like [Transformers](https://arxiv.org/abs/1706.03762) (<b>Google</b>, 2017) and [BERT](https://arxiv.org/abs/1810.04805) (<b>Google</b>, 2018) in its technology review of June 6, 2019. At that time, the largest model had up to 65 million parameters (1/1000 [LLaMA](https://arxiv.org/abs/2302.13971), 2023).
+🚨 On June 5, 2019, Emma Strubell, PhD candidate and lead author of the paper [Energy and Policy Considerations for Deep Learning in NLP](https://arxiv.org/abs/1906.02243) gave the alert to the scientific and political community of the terrible ecological impact of deep learning models in linguistics at that time. Her article appeared in <b>ACL2019</b> 🇮🇹, the largest linguistics conference. The <b>Massachusetts Institute of Technology</b> shared her alert on energy consumption and carbon emissions of models with millions of parameters like [Transformers](https://arxiv.org/abs/1706.03762) (<b>Google</b>, 2017) and [BERT](https://arxiv.org/abs/1810.04805) (<b>Google</b>, 2018) in its technology review of June 6, 2019. At that time, large models had up to 65 million parameters (1/1000 [LLaMA](https://arxiv.org/abs/2302.13971), 2023).
 
 {{< callout warning >}}
 The day following [Emma Strubell](https://arxiv.org/abs/1906.02243) and the [MIT](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/)'s alert, BERT received the best long paper award at [NAACL19](https://aclanthology.org/N19-1423/) 🇺🇸.
@@ -26,7 +26,7 @@ The day following [Emma Strubell](https://arxiv.org/abs/1906.02243) and the [MIT
 
 ## [Training a single AI model can emit as much carbon as...](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/)
 
-6 juin 2019. [MIT Technology Review](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/) by Karen Hao.
+June 6, 2019. [MIT Technology Review](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/) by Karen Hao.
 
 {{< figure src="desinfo/2019-06 MIT.jpg" caption="MIT Technology Review, june 2019." numbered="true">}}
 

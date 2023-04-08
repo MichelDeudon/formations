@@ -8,7 +8,7 @@ tags:
   - artificial intelligence
   - energy
   - climate
-  - misinformation
+  - disinformation
   - environment and society
 ---
 
@@ -30,7 +30,7 @@ This course reviews 10 years of research and development (R&D) in artificial int
 
 {{< icon name="clock" pack="fas" >}} <b>Duration</b>: 6 hours. <br>
 {{< icon name="spell-check" pack="fas" >}} <b>Thèmes</b> : Disinformation, Attention, Society and the Environment. <br>
-{{< icon name="hands-asl-interpreting" pack="fas" >}} <b>Audience</b> (recommended): Bachelor students (L2/L3), language learning and development practitioners (speech therapist, psy, teacher, researcher, data scientist, etc.), associations fighting against misinformation, for the social and climate justice.
+{{< icon name="hands-asl-interpreting" pack="fas" >}} <b>Audience</b> (recommended): Bachelor students (L2/L3), language learning and development practitioners (speech therapist, psy, teacher, researcher, data scientist), non profits fighting against disinformation, for social and climate justice.
 
 ## Chapters overview
 
@@ -60,6 +60,6 @@ Continuously, at your own pace. Some events will be scheduled to foster a benevo
 Yes of course! Feel free to reach out to chat and co-create the course. Thanks!
 {{< /spoiler >}}
 
-{{< spoiler text="What are the knowledge check procedures?" >}}
-To validate the module, you must complete a final multiple choice (50% of the points) and carry out a disinformation awareness project (50% of the points), for example 2-3 interviews/testimonials for a summer without social networks, in the form audiovisual or written production. If you validate the module, you will obtain a certificate of completion.
+{{< spoiler text="Can I get a certificate of completion?" >}}
+Yes! To validate the course, you must complete a final multiple choice quizz (50% of the points) and carry out a disinformation awareness project (50% of the points), for example 2-3 interviews/testimonials for a summer without social networks, in the form of an audiovisual or written production. If you validate the module, you will obtain a certificate of completion.
 {{< /spoiler >}}
