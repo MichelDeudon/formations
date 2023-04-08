@@ -3,6 +3,12 @@ title: Tackling disinformation "par la formation", in practice
 date: '2023-02-26'
 type: book
 weight: 40
+tags:
+  - disinformation
+  - mental health
+  - summer without social networks
+  - solidary summer
+  - environment and society
 ---
 
 French spring and summer without social networks.
@@ -13,11 +19,9 @@ To fight disinformation, you have to <b>invest your time and energy</b> in other
 
 ## 1. Stop procrastinating on social networks
 
-To put an end to the virulent circulation of toxic information, you must above all not comment or share fake news or hateful messages (because more reactions, more views, more virulence...). Report/block these messages, quit the app, or better disable/delete his account and turn off his screen. During review periods and election periods, it is all the more important to limit your time on social networks - [Instagram](https://help.instagram.com/370452623149242), [Facebook](https://www.facebook.com/help/224562897555674), [Whatsapp](https://faq.whatsapp.com/2138577903196467/), [Twitter](https://help.twitter.com/en/managing-your-account/how-to-deactivate-twitter-account)...
+To put an end to the virulent circulation of toxic information, you must above all not comment or share fake news or hateful messages (because more reactions, more views, more virulence...). Report/block these messages, quit the app, or better disable/delete his account and turn off his screen. During review periods and election periods, it is all the more important to limit your time on social networks - find here the instructions to deactivate/delete your account on [Instagram](https://help.instagram.com/370452623149242), [Facebook](https://www.facebook.com/help/224562897555674), [Whatsapp](https://faq.whatsapp.com/2138577903196467/), [Twitter](https://help.twitter.com/en/managing-your-account/how-to-deactivate-twitter-account)...
 
 Prefer a phone call or text message, rather than Meta messaging services to communicate with your loved ones, and be more present. This approach was not proposed by the more than 1,700 signatories of the open letter to pause giant AI experiments. Yet it is the strongest signal that can be sent to investors and researchers in the world of AI.
-
-{{< figure src="desinfo/french-revolution.png">}}
 
 ## 2. Obtain information from reliable sources, exercise discernment and critical thinking
 
@@ -44,5 +48,7 @@ De-stigmatize social media addiction, talk about the mental health of young peop
 ## 6. Support real innovations
 
 Support frugal innovations, lowtech, agroecology, ecologistics, biomimicry, independent medias, reconversions, ecological redirection...
+
+## 7. Act locally
 
 Participate/get involved in local conferences or events.
