@@ -1,8 +1,8 @@
 ---
 title: English
 linkTitle: English
-summary: Tutoring in English. Support for professional and personal projects, university applications, CV and cover letters to travel, study or work abroad!
-date: '2015-01-04'
+summary: Tailor-made English courses, to learn and practice with a native American. Proofreading CVs, cover letters and scientific articles to study or work abroad!
+date: '2022-12-31'
 type: book
 tags:
   - Youth

@@ -1,8 +1,8 @@
 ---
 title: Anglais
 linkTitle: Anglais
-summary: Soutien scolaire en anglais par américain natif. Accompagnement des candidatures aux universités, CV et lettres de motivation pour étudier, travailler ou partir à l'étranger!
-date: '2015-01-04'
+summary: Stages d'anglais sur mesure, pour apprendre et pratiquer avec un américain natif. Relecture de CV, lettres de motivation et articles scientifiques pour étudier ou travailler à l'étranger!
+date: '2022-12-31'
 type: book
 tags:
   - Jeunes

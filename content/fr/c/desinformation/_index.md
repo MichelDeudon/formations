@@ -1,7 +1,7 @@
 ---
 title: Lutter contre la desinformation par la formation
 linkTitle: Desinformation et attention
-summary: L'intelligence artificielle est l'affaire de tout le monde. Cédric Villani.
+summary: Sensibilisation pédagogique à la désinformation et études de cas pratiques à destination d'enseignants, d'étudiants, de chercheurs et practiciens de l'apprentissage et développement des langues.
 date: '2023-03-21'
 type: book
 tags:
@@ -36,11 +36,11 @@ Ce dossier retrace 10 ans de recherche et développement (R&D) en intelligence a
 
 De 2014 à 2018, la France définissait [une feuille de route](https://www.mtpcours.fr/c/desinformation/rapport-villani/) pour les années à venir en intelligence artificielle (IA). De 2018 à 2022, des [alertes](https://www.mtpcours.fr/c/desinformation/emma-strubell/) se sont succédées pour informer les politiciens et scientifiques du terrible impact écologique du <i>deep learning</i> en IA.
 
-En août 2021, la <b>Convention citoyenne pour le climat</b> et ses 146 propositions sont en partie traduites dans la [loi n° 2021-1104 du 22 août 2021 portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets (V)](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043956924) et inclus l'[article L231-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043961211) du Code de l'environnement. La France a été condamnée pour inaction climatique en octobre 2021 par le tribunal administratif de Paris ⚖ suite à l'[affaire du siècle](https://www.vie-publique.fr/en-bref/282012-changement-climatique-la-france-condamnee-pour-prejudice-ecologique). <i>L'État a l’obligation de respecter sa trajectoire de réduction d’émissions de gaz à effet de serre et doit réparer tout dépassement, d’ici le <b>31 décembre 2022</b>. Chaque sortie de route sur la trajectoire climatique constitue à présent une faute qui DOIT être réparée.</i>
+En août 2021, la <b>Convention citoyenne pour le climat</b> et ses 146 propositions sont en partie traduites dans la [loi n° 2021-1104 portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043956924) du Code de l'Environnement. La France a été condamnée pour inaction climatique en octobre 2021 par le tribunal administratif de Paris suite à l'[affaire du siècle](https://www.vie-publique.fr/en-bref/282012-changement-climatique-la-france-condamnee-pour-prejudice-ecologique). <i>L'État a l’obligation de respecter sa trajectoire de réduction d’émissions de gaz à effet de serre et doit réparer tout dépassement, d’ici le <b>31 décembre 2022</b>. Chaque sortie de route sur la trajectoire climatique constitue à présent une faute qui DOIT être réparée.</i>
 
-Après une année 2022 [record de chaleur en France](https://meteofrance.com/actualites-et-dossiers/actualites/2022-annee-la-plus-chaude-en-france) et dans un contexte de crise énérgétique et guerre en Europe, l'hiver 2023 a été marqué par un [record de sécheresse en France](https://meteofrance.com/actualites-et-dossiers/actualites/climat/secheresse-32-jours-sans-pluie-en-france-record-battu) et des records de consommations énergétique avec ChatGPT3 d'Open AI (cofondée par Elon Musk), LLaMA de Facebook AI Research (FAIR Paris), ChatGPT4... au profit de quelques ingénieurs francais et investisseurs.
+Après une année 2022 [record de chaleur en France](https://meteofrance.com/actualites-et-dossiers/actualites/2022-annee-la-plus-chaude-en-france) et dans un contexte de crise énérgétique et guerre en Europe, l'hiver 2023 a été marqué par un [record de sécheresse en France](https://meteofrance.com/actualites-et-dossiers/actualites/climat/secheresse-32-jours-sans-pluie-en-france-record-battu) et des records de consommations énergétique avec ChatGPT3, LLaMA de Facebook AI Research (FAIR Paris), ChatGPT4... au profit de quelques ingénieurs francais et investisseurs.
 
-Dans ce cours vous apprendrez à repérer [le greenwashing, les conflits d'intérêt](https://www.mtpcours.fr/c/desinformation/greenwashing/), les fake news et à lutter contre la désinformation en réinvestissant durablement votre temps, énergie et attention. 
+Dans ce cours vous apprendrez à repérer [le greenwashing, les conflits d'intérêt](https://www.mtpcours.fr/c/desinformation/greenwashing/), les fake news et à lutter contre la désinformation en [réinvestissant durablement votre temps, énergie et attention](https://www.mtpcours.fr/c/desinformation/pratique/). 
 
 {{< list_children >}}
 

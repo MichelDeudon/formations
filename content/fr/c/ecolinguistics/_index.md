@@ -1,7 +1,7 @@
 ---
 title: Ecolinguistique et innovation frugale
 linkTitle: Ecolinguistique
-summary: Montée en compétence ou reconversion en écolinguistique, traitement automatique des langues et programmation neuro linguistique, pour des organisations publiques ou privées, des start-up ou des universités.
+summary: Introduction à l'écolinguistique, traitement automatique des langues et programmation neuro linguistique, en licence/master MIASHS ou en reconversion.
 date: '2021-01-24'
 type: book
 tags:

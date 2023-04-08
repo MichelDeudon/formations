@@ -19,7 +19,7 @@ To fight disinformation, you have to <b>invest your time and energy</b> in other
 
 ## 1. Stop procrastinating on social networks
 
-To put an end to the virulent circulation of toxic information, you must above all not comment or share fake news or hateful messages (because more reactions, more views, more virulence...). Report/block these messages, quit the app, or better disable/delete his account and turn off his screen. During review periods and election periods, it is all the more important to limit your time on social networks - find here the instructions to deactivate/delete your account on [Instagram](https://help.instagram.com/370452623149242), [Facebook](https://www.facebook.com/help/224562897555674), [Whatsapp](https://faq.whatsapp.com/2138577903196467/), [Twitter](https://help.twitter.com/en/managing-your-account/how-to-deactivate-twitter-account)...
+To put an end to the virulent circulation of toxic information, you must above all not comment or share fake news or hateful messages (because more reactions, more views, more virulence...). Report/block these messages, quit the app, or better <b>disable/delete your account</b> and <b>turn off your screen</b>. During review periods and election periods, it is all the more important to limit your time on social networks - find here the instructions to deactivate/delete your account on [Instagram](https://help.instagram.com/370452623149242), [Facebook](https://www.facebook.com/help/224562897555674), [Whatsapp](https://faq.whatsapp.com/2138577903196467/), [Twitter](https://help.twitter.com/en/managing-your-account/how-to-deactivate-twitter-account)...
 
 Prefer a phone call or text message, rather than Meta messaging services to communicate with your loved ones, and be more present. This approach was not proposed by the more than 1,700 signatories of the open letter to pause giant AI experiments. Yet it is the strongest signal that can be sent to investors and researchers in the world of AI.
 
@@ -35,15 +35,16 @@ De-stigmatize social media addiction, talk about the mental health of young peop
 
 ## 4. Reinvest your time to form a company
 
-- Learn a language, cook, do crafts… get out of your comfort zone.
-- Playing sports, volunteering, crafts...
+- Learn a language, cook, do crafts…
+- Playing sports, volunteering, crafts…
+- Get out of your comfort zone.
 - Create and share content (interviews, testimonials), visuals and an incentive approach to attract young audiences (quantify CO2 by participation and total). Show the benefits of taking a break.
 
 ## 5. Give meaning to the future and rewrite the future
 
-- Give impetus to new imaginations, for example during the first summer without social networks
+- Give impetus to new imaginations, for example during the first summer without social networks.
 - Propose alternatives for a summer of solidarity, love, mutual aid...
-- Support a cause through your actions (equal opportunities, social justice, climate justice, etc.)
+- Support a cause through your actions.
 
 ## 6. Support real innovations
 
@@ -51,4 +52,4 @@ Support frugal innovations, lowtech, agroecology, ecologistics, biomimicry, inde
 
 ## 7. Act locally
 
-Participate/get involved in local conferences or events.
+Participate/get involved in local conferences or events (short circuits, garage sales, associations, etc.)

@@ -57,7 +57,7 @@ The significance of those figures is colossal—especially when considering the 
 ### The privatization of AI research
 The results underscore another growing problem in AI, too: <b>the sheer intensity of resources now required to produce paper-worthy results</b> has made it increasingly challenging for people working in academia to continue contributing to research. “<b>This trend toward training huge models on tons of data is not feasible for academics</b> — grad students especially, because we don’t have the computational resources,” says Strubell. “So there’s <b>an issue of equitable access</b> between researchers in academia versus researchers in industry.”
 
-{{< figure src="desinfo/macron-lecun-zuckerberg.png" caption="Macron's government privatized AI research. <b>Zuckerberg</b>-<b>Macron</b> buzz at VivaTech. [Les echos](https://www.lesechos.fr/start-up/next40-vivatech/le-duo-zuckerberg-macron-fait-le-buzz-a-vivatech-132831), May 2018. <b>Mark Zuckerberg</b> and <b>Emmanuel Macron</b> met (again) at the Elysée. <i>Five days before the second edition of 'Tech for good'</i>. [Huffington post](https://www.huffingtonpost.fr/politique/article/mark-zuckerberg-et-emmanuel-macron-se-sont-encore-rencontres-a-l-elysee_144827.html), May 2019.">}}
+{{< figure src="desinfo/macron-lecun-zuckerberg.png" caption="Macron's government privatized AI research. <b>Zuckerberg</b>-<b>Macron</b> buzz at VivaTech. [Les echos](https://www.lesechos.fr/start-up/next40-vivatech/le-duo-zuckerberg-macron-fait-le-buzz-a-vivatech-132831), May 2018. <b>Zuckerberg</b>-<b>Macron</b> met (again) at the Elysée. <i>Five days before the second edition of 'Tech for good'</i>. [Huffington post](https://www.huffingtonpost.fr/politique/article/mark-zuckerberg-et-emmanuel-macron-se-sont-encore-rencontres-a-l-elysee_144827.html), May 2019.">}}
 
 {{< callout warning >}}
 April 2021. <i>The digital bluff is all the impacts that we do not see</i>, with <b>Laurie Marrauld</b> from <b>the Shift Project</b> and <b>Cédric Villani</b>. [Libération](https://www.youtube.com/watch?v=6kJYR0oG3GQ&ab_channel=Lib%C3%A9ration).
@@ -65,10 +65,10 @@ April 2021. <i>The digital bluff is all the impacts that we do not see</i>, with
 
 {{< figure src="desinfo/mafia-these-CIFRE.png">}}
 
-{{< figure src="desinfo/mafia-france-ia.png" caption="Source: @[Yann Lecun](https://twitter.com/ylecun/status/1629845738170597376?lang=en) reply to the French mafia of AI. February 2023.">}}
-
-{{< figure src="desinfo/meta-paper-hours-gpu.png" caption="Carbon footprint of training a Meta LLaMA once. [Arxiv](https://arxiv.org/abs/2302.13971) (section 6 Carbon footprint).">}}
+{{< figure src="desinfo/mafia-france-ia.png" caption="@[Yann Lecun](https://twitter.com/ylecun/status/1629845738170597376?lang=en) reply to the French mafia of AI. February 2023.">}}
 
 {{< callout warning >}}
 <i>The training of our models have consumed a massive quantity of energy, responsible for the emission of carbon dioxide</i> (section 6 Carbon footprint). <i>We plan to release larger models trained on larger pretraining corpora in the future</i> (Conclusion). [Arxiv](https://arxiv.org/abs/2302.13971).
 {{< /callout >}}
+
+{{< figure src="desinfo/meta-paper-hours-gpu.png" caption="Carbon footprint of training a Meta LLaMA once. [Arxiv](https://arxiv.org/abs/2302.13971).">}}

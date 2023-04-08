@@ -1,7 +1,7 @@
 ---
 title: Ecolinguistics and frugal innovation
 linkTitle: Ecolinguistics
-summary: Upskilling or reskilling in ecolinguistics and natural language processing, for public or private organizations, start-ups or universities.
+summary: Introduction to ecolinguistics, natural language processing and neuro linguistic programming, in MIASHS license / master or reskilling.
 date: '2021-01-24'
 type: book
 tags:
