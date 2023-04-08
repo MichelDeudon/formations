@@ -40,7 +40,7 @@ The paper specifically examines the model training process for [natural-language
 
 The researchers looked at four models in the field that have been responsible for the biggest leaps in performance: the Transformer, ELMo, [BERT](https://www.nytimes.com/2018/11/18/technology/artificial-intelligence-language.html), and GPT-2. They trained each on a single GPU for up to a day to measure its power draw. They then used the number of training hours listed in the model’s original papers to calculate the total energy consumed over the complete training process. That number was converted into pounds of carbon dioxide equivalent based on the average energy mix in the US, which closely matches the energy mix used by <b style="color:blue;">Amazon’s AWS</b>, the largest cloud services provider.
 
-{{< callout note >}}
+{{< callout warning >}}
 February 2023. <b>Macron</b> decorates <b style="color:blue;">Bezos</b> in secret. [Le Point](https://www.youtube.com/watch?v=kZPG9rmbdmw&ab_channel=LePoint).
 {{< /callout >}}
 
@@ -51,21 +51,21 @@ Strubell and her colleagues used a model they’d produced in a previous paper a
 
 The significance of those figures is colossal—especially when considering the current trends in AI research. “<i>This kind of analysis needed to be done to raise awareness about the resources being spent [...] and will spark a debate</i>.”, says <b>Gómez-Rodríguez</b>. “<i>What probably many of us did not comprehend is the scale of it until we saw these comparisons</i>,” echoed <b>Siva Reddy</b>, a postdoc at <b>Stanford University</b> who was not involved in the research.
 
-{{< figure src="desinfo/mit-review-2019 - costs.png">}}
+{{< figure src="desinfo/mit-review-2019-costs.png">}}
 
 ### The privatization of AI research
 The results underscore another growing problem in AI, too: <b>the sheer intensity of resources now required to produce paper-worthy results</b> has made it increasingly challenging for people working in academia to continue contributing to research. “<b>This trend toward training huge models on tons of data is not feasible for academics</b> — grad students especially, because we don’t have the computational resources,” says Strubell. “So there’s <b>an issue of equitable access</b> between researchers in academia versus researchers in industry.”
 
-{{< figure src="desinfo/macron-lecun-zuckerberg.png" caption="<b style='color:blue;'>Zuckerberg</b>-<b>Macron</b> buzz at VivaTech. [Les echos](https://www.lesechos.fr/start-up/next40-vivatech/le-duo-zuckerberg-macron-fait-le-buzz-a-vivatech-132831), May 2018. <b style='color:blue;'>Mark Zuckerberg</b> and <b>Emmanuel Macron</b> met (again) at the Elysée. <i>Five days before the second edition of 'Tech for good'</i>. [Huffington post](https://www.huffingtonpost.fr/politique/article/mark-zuckerberg-et-emmanuel-macron-se-sont-encore-rencontres-a-l-elysee_144827.html), May 2019.">}}
+{{< figure src="desinfo/macron-lecun-zuckerberg.png" caption="Macron's government privatized AI research. <b style='color:blue;'>Zuckerberg</b>-<b>Macron</b> buzz at VivaTech. [Les echos](https://www.lesechos.fr/start-up/next40-vivatech/le-duo-zuckerberg-macron-fait-le-buzz-a-vivatech-132831), May 2018. <b style='color:blue;'>Mark Zuckerberg</b> and <b>Emmanuel Macron</b> met (again) at the Elysée. <i>Five days before the second edition of 'Tech for good'</i>. [Huffington post](https://www.huffingtonpost.fr/politique/article/mark-zuckerberg-et-emmanuel-macron-se-sont-encore-rencontres-a-l-elysee_144827.html), May 2019.">}}
 
 {{< figure src="desinfo/mafia-these-CIFRE.png">}}
 
-{{< figure src="desinfo/mafia-france-ia.png" caption="Source: @[Yann Lecun](https://twitter.com/ylecun/status/1629845738170597376?lang=en).">}}
+{{< figure src="desinfo/mafia-france-ia.png" caption="Source: @[Yann Lecun](https://twitter.com/ylecun/status/1629845738170597376?lang=en) reply to the French mafia of AI. February 2023.">}}
 
-{{< figure src="desinfo/meta-paper-hours-gpu.png" caption="Carbon footprint of training different models in the same data center, from the paper LLaMA on [Arxiv](https://arxiv.org/abs/2302.13971) (section 6 Carbon footprint).">}}
+{{< figure src="desinfo/meta-paper-hours-gpu.png" caption="Carbon footprint of training a Meta LLaMA once. [Arxiv](https://arxiv.org/abs/2302.13971) (section 6 Carbon footprint).">}}
 
 {{< callout warning >}}
-<i>The training of our models have consumed a massive quantity of energy, responsible for the emission of carbon dioxide</i> (section 6 Carbon footprint). <i>We plan to release larger models trained on larger pretraining corpora in the future</i> (section 8 Conclusion). [Arxiv](https://arxiv.org/abs/2302.13971).
+<i>The training of our models have consumed a massive quantity of energy, responsible for the emission of carbon dioxide</i> (section 6 Carbon footprint). <i>We plan to release larger models trained on larger pretraining corpora in the future</i> (Conclusion). [Arxiv](https://arxiv.org/abs/2302.13971).
 {{< /callout >}}
 
 ## The case of the Century ⚖ (2021)

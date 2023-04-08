@@ -40,7 +40,7 @@ L'article examine spécifiquement le processus d'entraînement de modèles de li
 
 L'équipe a examiné quatre modèles qui ont été à l'origine des plus grandes avancées en matière de performances : le Transformer, ELMo, [BERT](https://www.nytimes.com/2018/11/18/technology/artificial-intelligence-language.html) et GPT-2. Ils les ont entraînés chacun sur un seul GPU pendant jusqu'à une journée pour mesurer sa consommation d'énergie. Ils ont ensuite utilisé le nombre d'heures d'entraînement indiqué dans les documents originaux du modèle pour calculer l'énergie totale consommée au cours du processus d'entraînement complet. Ce nombre a été converti en livres d'équivalent dioxyde de carbone sur la base du mix énergétique moyen aux États-Unis, qui correspond étroitement au mix énergétique utilisé par <b style="color:blue;">AWS d'Amazon</b>, le plus grand fournisseur de services cloud.
 
-{{< callout note >}}
+{{< callout warning >}}
 Février 2023 <b>Macron</b> décore <b style="color:blue;">Bezos</b> en secret. [Le Point](https://www.youtube.com/watch?v=kZPG9rmbdmw&ab_channel=LePoint).
 {{< /callout >}}
 
@@ -51,21 +51,21 @@ Strubell et ses collègues ont utilisé un modèle qu'ils avaient produit dans u
 
 L'importance de ces chiffres est colossale, surtout si l'on considère les tendances actuelles de la recherche en IA. "<i>Ce type d'analyse doit être fait pour sensibiliser sur les ressources dépensées [...] et susciter un débat</i>", explique Gómez-Rodríguez. "<i>Ce que beaucoup d'entre nous n'ont probablement pas compris, c'est son ampleur jusqu'à ce que nous ayons vu ces comparaisons</i>", a fait écho Siva Reddy, post-doctorant à l'<b>Université de Stanford</b> qui n'a pas participé à la recherche.
 
-{{< figure src="desinfo/mit-review-2019 - costs.png">}}
+{{< figure src="desinfo/mit-review-2019-costs.png">}}
 
 ### La privatisation de la recherche en IA
 Les résultats soulignent également un autre problème croissant dans le domaine de l'IA : <b>l'intensité des ressources désormais nécessaires pour produire des résultats dignes d'être publiés</b> rend de plus en plus difficile pour les personnes travaillant dans le milieu universitaire de continuer à contribuer à la recherche. "<b>Cette tendance à former d'énormes modèles sur des tonnes de données n'est pas réalisable pour les universitaires</b>, en particulier les étudiants diplômés, car nous n'avons pas les <b>ressources de calcul</b>", déclare Strubell. "Il y a donc un <b>problème d'accès équitable</b> entre les chercheurs du milieu universitaire et les chercheurs de l'industrie."
 
-{{< figure src="desinfo/macron-lecun-zuckerberg.png" caption="Macron Lecun Zuckerberg et Vivatech 2023. <b style='color:blue;'>Zuckerberg</b>-<b>Macron</b> fait le buzz à VivaTech. [Les echos](https://www.lesechos.fr/start-up/next40-vivatech/le-duo-zuckerberg-macron-fait-le-buzz-a-vivatech-132831), Mai 2018. <b style='color:blue;'>Zuckerberg</b> et <b>Macron</b> se sont (encore) rencontrés à l'Élysée. <i>Cinq jours avant la deuxième édition 'Tech for good'</i>. [Huffington post](https://www.huffingtonpost.fr/politique/article/mark-zuckerberg-et-emmanuel-macron-se-sont-encore-rencontres-a-l-elysee_144827.html), Mai 2019.">}}
+{{< figure src="desinfo/macron-lecun-zuckerberg.png" caption="Macron's government privatized AI research. Macron Lecun Zuckerberg et Vivatech 2023. <b style='color:blue;'>Zuckerberg</b>-<b>Macron</b> fait le buzz à VivaTech. [Les echos](https://www.lesechos.fr/start-up/next40-vivatech/le-duo-zuckerberg-macron-fait-le-buzz-a-vivatech-132831), Mai 2018. <b style='color:blue;'>Zuckerberg</b> et <b>Macron</b> se sont (encore) rencontrés à l'Élysée. <i>Cinq jours avant la deuxième édition 'Tech for good'</i>. [Huffington post](https://www.huffingtonpost.fr/politique/article/mark-zuckerberg-et-emmanuel-macron-se-sont-encore-rencontres-a-l-elysee_144827.html), Mai 2019.">}}
 
 {{< figure src="desinfo/mafia-these-CIFRE.png">}}
 
-{{< figure src="desinfo/mafia-france-ia.png" caption="Source: @[Yann Lecun](https://twitter.com/ylecun/status/1629845738170597376?lang=en).">}}
+{{< figure src="desinfo/mafia-france-ia.png" caption="Source: @[Yann Lecun](https://twitter.com/ylecun/status/1629845738170597376?lang=en) en réponse à la mafia française de l'IA. Février 2023.">}}
 
-{{< figure src="desinfo/meta-paper-hours-gpu.png" caption="Empreinte carbone de différents modèles entrainés dans le même centre de données, de l'article LLaMA sur [Arxiv](https://arxiv.org/abs/2302.13971) (section 6 Empreinte carbone).">}}
+{{< figure src="desinfo/meta-paper-hours-gpu.png" caption="Empreinte carbone pour entrainer un Meta LLaMA une fois. [Arxiv](https://arxiv.org/abs/2302.13971) (section 6 Empreinte carbone).">}}
 
 {{< callout warning >}}
-<i>L'entraînement de nos modèles a consommé une quantité massive d'énergie, responsable de l'émission de dioxyde de carbone.</i> (section 6 Empreinte carbone). <i>Nous prévoyons de publier à l'avenir des modèles plus grands, entrainés sur des corpus plus importants</i> (section 8 Conclusion). [Arxiv](https://arxiv.org/abs/2302.13971).
+<i>L'entraînement de nos modèles a consommé une quantité massive d'énergie, responsable de l'émission de dioxyde de carbone.</i> (section 6 Empreinte carbone). <i>Nous prévoyons de publier à l'avenir des modèles plus grands, entrainés sur des corpus plus importants</i> (Conclusion). [Arxiv](https://arxiv.org/abs/2302.13971).
 {{< /callout >}}
 
 ## L'affaire du Siècle ⚖ (2021)
