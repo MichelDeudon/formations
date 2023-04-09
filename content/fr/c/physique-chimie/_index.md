@@ -6,6 +6,7 @@ date: '2023-01-04'
 type: book
 tags:
   - Jeunes
+  - Biomimétisme
 ---
 
 {{< figure src="featured.jpg" >}}
@@ -23,6 +24,12 @@ Ma méthode est très pratique. On essaie, on voit où ça coince, on en discute
 - Programme en Physique Chimie au lycée général/technologique. [Eduscol](https://eduscol.education.fr/1648/programmes-et-ressources-en-physique-chimie-voie-gt).
 - Physique (forces, gravitation, force éléctrostatique, énergie, ondes, son et lumière, applications)
 - Chimie (structure de la matière, réaction d'oxydo-réduction, physique quantique, chimie organique)
+
+## Biomimicry
+
+Trouvez l'inspiration avec le biomimétisme, ou des histoires inspirées de la nature. 
+
+{{< youtube wRdIleKwT9Q >}}
 
 ## Enseignement supérieur
 

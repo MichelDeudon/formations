@@ -1,22 +1,24 @@
 ---
-title: Super conductivité
+title: Super conductivity
 date: '2023-01-29'
 type: book
-weight: 40
+weight: 20
 tags:
-  - Superconductivité
+  - Superconductivity
 ---
 
-Des paires de coopers aux basses températures
+Pairs of Coopers at low temperatures
 
 <!--more-->
 
-## Exemple de lévitation magnétique
+## Example of magnetic levitation
 
-Le matériau refroidit à une suffisament basse température (ici avec de l'azote liquide à 77,36 K (−195,79 °C)) agit comme un aimant.
+{{< figure src="super-conductivity/img1.jpg" caption="Meissner effect demo. The material cooled to a sufficiently low temperature (here with liquid nitrogen at 77.36 K) acts like a magnet. This is explained by the pairs of Coopers, unity is strength. [Paris-Saclay University](https://hebergement.universite-paris-saclay.fr/supraconductivite/supra/fr/supra-explication-cooper.php).">}}
 
-{{< figure src="super-conductivity/img1.jpg" >}}
+## Nanoscopic structure
 
-## Exemple de lévitation magnétique
+{{< figure src="super-conductivity/img2.jpg" caption="Observation of YBaCuO under a scanning electron microscope (SEM).">}}
 
-{{< figure src="super-conductivity/img2.jpg" >}}
+## Phase diagram
+
+{{< figure src="super-conductivity/supra-paris-saclay.jpg" caption="Figure from [Paris-Saclay University](https://hebergement.universite-paris-saclay.fr/supraconductivite/supra/fr/supra-levitation-phase-more.php). The phase diagram, the identity card of the supras.">}}

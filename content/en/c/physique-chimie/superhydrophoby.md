@@ -2,7 +2,7 @@
 title: Super hydrophobie
 date: '2023-01-29'
 type: book
-weight: 30
+weight: 10
 tags:
   - Superhydrophobie
 ---
@@ -21,28 +21,28 @@ Dans la suite, nous nous intéressons aux spores de lycopode, une plante de type
 
 ## Présentation des spores de Lycopodium
 
-{{< figure src="super-hydrophoby/img4.png" caption="Schéma du montage expérimental pour déterminer la taille des spores." numbered="true">}}
+{{< figure src="super-hydrophoby/img4.png" caption="Schéma du montage expérimental pour déterminer la taille des spores.">}}
 
 La diffraction de la lumière permet de déterminer la taille des spores. La mesure du diamètre apparent du disque d'Airy {{< math >}}$\theta${{< /math >}} illustré dans la Figure 1 permet de remonter à leur diamètre D par la relation {{< math >}}$\theta = 1,22 \frac{\lambda}{D}${{< /math >}}. Numériquement, on trouve {{< math >}}$D\approx 20 \mu m${{< /math >}}.
 
 Les spores de lycopode sont recouverts de deux enveloppes, l'une
 interne appelée endospore, l'autre externe appelée exospore. L'exospore est constitué de sporopollénine, un polymère naturel dont la composition exacte est toujours inconnue car la sporopollénine est très inerte. Cependant, des études ont montré que la structure de la sporopollénine est proche de celle de la {{< math >}}$\beta${{< /math >}} carotène, et obtenue à partir d'acide férulique et d'acide p-coumarique [1]. La présence de longues chaînes carbonées expliquerait leur hydrophobie.
 
-{{< figure src="super-hydrophoby/img2.png" caption="Représentation de l'acide férulique (gauche) et de l'acide p-coumarique (droite)." numbered="true">}}
+{{< figure src="super-hydrophoby/img2.png" caption="Représentation de l'acide férulique (gauche) et de l'acide p-coumarique (droite).">}}
 
 L'observation de spores au microscope optique (x100, x400, x600) suggère que leur surface n'est pas lisse.
 Des irrégularités distantes
 de quelques {{< math >}}$\mu m${{< /math >}} la rendent rugueuse et superhydrophobe. C'est l'effet Fakir: une goutte d'eau ne s'écrase pas sous l'effet de la pesanteur mais laisse sous elle des poches d'air, tel un fakir posé sur des clous. Ceci se produit lorsque la distance entre les irrégularités est inférieure à la longueur capillaire de l'eau {{< math >}}$L_c = \sqrt{\frac{\gamma}{\rho g}} \approx 3${{< /math >}} mm. 
 
-{{< figure src="super-hydrophoby/img3.jpg" caption="Spores de Lycopodium, vus au microscope." numbered="true">}}
+{{< figure src="super-hydrophoby/img3.jpg" caption="Spores de Lycopodium, vus au microscope.">}}
 
 ### Tracé d'un diagramme énergétique
 
-{{< figure src="super-hydrophoby/img1.jpg" caption="Illustration du phénomène de coalescence" numbered="true">}}
+{{< figure src="super-hydrophoby/img1.jpg" caption="Illustration du phénomène de coalescence">}}
 
 Deux gouttes enrobées de spores de lycopode ne coalescent pas, une propriété qui peut servir pour transporter un liquide dans un fluide [2]. En revanche, si une goutte dispose de suffisamment d'énergie, la coalescence peut se produire. Dans [3], les auteurs déterminent la vitesse d'impact critique pour qu'une goutte de rayon variable R traverse une couche de spore. Nous étudierons ici la barrière énergétique que représentent des spores pour la coalescence de gouttes d'eau. Nous considérons des gouttes d'eau de volume constant {{< math >}}$\approx \mu m^3 ${{< /math >}}. On note {{< math >}}$R${{< /math >}} leur rayon.
 
-{{< figure src="super-hydrophoby/img5.png" caption="Schéma du dispositif expérimental pour étudier l'énergie nécessaire à une goutte d'eau pour traverser une surface recouverte de spores." numbered="true">}}
+{{< figure src="super-hydrophoby/img5.png" caption="Schéma du dispositif expérimental pour étudier l'énergie nécessaire à une goutte d'eau pour traverser une surface recouverte de spores.">}}
 
 ### Montage et protocole
 
@@ -71,7 +71,7 @@ Sinon la goutte ne traverse pas. Le cas limite {{< math >}}$\sigma^*=\sigma_c${{
 
 #### Modélisation du domaine linéaire
 
-{{< figure src="super-hydrophoby/img7.png" caption="Exemple dans le domaine linéaire du diagramme énergétique." numbered="true">}}
+{{< figure src="super-hydrophoby/img7.png" caption="Exemple dans le domaine linéaire du diagramme énergétique.">}}
 
 Les séquences photos montrent que dans ce domaine, il
 n'y a pas de projections de spores. La conservation de la matière se traduit par

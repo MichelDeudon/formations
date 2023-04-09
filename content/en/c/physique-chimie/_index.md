@@ -6,6 +6,7 @@ date: '2023-01-04'
 type: book
 tags:
   - Youth
+  - Biomimicry
 ---
 
 {{< figure src="featured.jpg" >}}
@@ -23,6 +24,12 @@ My method is very practical. We try, we see where it gets stuck, we discuss. We 
 - <i>Au programme</i> in physics and chemistry in general and technological high school. [Eduscol](https://eduscol.education.fr/1648/programmes-et-ressources-en-physique-chimie-voie-gt).
 - Physics (forces, gravitation, electrostatic force, energy, waves, sound and light, applications)
 - Chemistry (structure of matter, oxidation-reduction reaction, quantum physics, organic chemistry)
+
+## Biomimicry
+
+Find inspiration with biomimicry, or stories inspired by Nature.
+
+{{< youtube V2GvQXvjhLA >}}
 
 ## Higher education
 
