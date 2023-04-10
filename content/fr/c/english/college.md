@@ -9,22 +9,23 @@ weight: 10
 
 <!--more-->
 
-## Climate change and biodiversity
+## Changement climatique et biodiversité
 
-### The Life of Greta Thunberg
+### La vie de Greta Thunberg
 
 {{< youtube tdDasG3ruRU>}}
 
 Brut India video
 <br> 
 
-### The 17 Sustainable Development Goals
+### Les 17 Objectifs de Développement Durable
 
+{{< figure src="UNESCO SDG.png">}}
 
-### The 6-Rs games
+### The jeu des 6R
 
-Find examples with the verbs to refuse, reduce, reuse, repair, recycle and upcycle. For example, instead of buying a car, I will repair my bike 🚲, or I will reduce the heating to save energy. We also learned and discussed the quote 
+Trouver des exemples avec les verbes refuser, réduire, réutiliser, réparer, recycler et recycler. Par exemple, au lieu d'acheter une voiture, je réparerai mon vélo 🚲, ou je réduirai le chauffage pour économiser de l'énergie. Nous avons également appris et discuté de la citation
 
-### Vocabulary
+### Vocabulaire
 
-climate change; climate action; biodiversity;
+changement climatique; action climatique; biodiversité;

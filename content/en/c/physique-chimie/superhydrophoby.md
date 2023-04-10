@@ -1,10 +1,10 @@
 ---
-title: Super hydrophobie
+title: Super hydrophoby
 date: '2023-01-29'
 type: book
 weight: 10
 tags:
-  - Superhydrophobie
+  - Superhydrophoby
 ---
 
 From Young's angle to the Fakir effect (BSc/Undergraduate).

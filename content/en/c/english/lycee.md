@@ -29,3 +29,8 @@ Lose Yourself by Eminem
 ### Vocabulary
 
 socialjustice; feminism;
+
+### Useful ressources to teach/learn
+- [Ted](https://www.ted.com/)
+- [British Council](https://www.britishcouncil.org/climate-connection/get-involved/resources-school-teachers)
+- [ISL Collective](https://en.islcollective.com/)

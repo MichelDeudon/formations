@@ -9,23 +9,28 @@ weight: 20
 
 <!--more-->
 
-## Feminism and social justice
+## Féminisme et justice sociale
 
-### Emma Watson at the UN (2014)
+### Emma Watson aux Nations Unies (2014)
 
 {{< youtube gkjW9PZBRfk>}}
 
 > _If not me, who? If not now, when?_ - Emma Watson
 <br> 
 
-### Who's who?
+### Qui est qui?
 
 Marie-Curie, Anne Frank, Sophie Adenot
 
-### Rap lyrics
+### Paroles de rap
 
-Lose Yourself by Eminem
+Lose Yourself d'Eminem
 
-### Vocabulary
+### Vocabulaire
 
-socialjustice; feminism;
+justice sociale; féminisme;
+
+### Ressources utiles pour enseigner/apprendre
+- [Ted](https://www.ted.com/)
+- [British Council](https://www.britishcouncil.org/climate-connection/get-involved/resources-school-teachers)
+- [ISL Collective](https://en.islcollective.com/)

@@ -20,6 +20,7 @@ Brut India video
 
 ### The 17 Sustainable Development Goals
 
+{{< figure src="UNESCO SDG.png">}}
 
 ### The 6-Rs games
 
