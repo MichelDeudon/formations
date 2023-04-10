@@ -11,7 +11,7 @@ tags:
 
 {{< figure src="featured.jpg" >}}
 
-> <i> You cannot hope to build a better world without improving the individuals. To that end each of us must work for his own improvement, and at the same time share a general responsibility for all humanity, our particular duty being to aid those to whom we think we can be most useful. </i> - Marie Curie, double nobel laureate (physics and chemistry)
+> <i> You cannot hope to build a better world without improving the individuals. To that end each of us must work for his own improvement, and at the same time share a general responsibility for all humanity, our particular duty being to aid those to whom we think we can be most useful. </i> - Marie Curie, double Nobel laureate (physics and chemistry)
 
 ## Program overview
 

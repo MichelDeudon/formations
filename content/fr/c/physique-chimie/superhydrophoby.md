@@ -7,7 +7,7 @@ tags:
   - Superhydrophobie
 ---
 
-De l'angle d'Young à l'effet Fakir
+De l'angle d'Young à l'effet Fakir (L2/L3)
 
 <!--more-->
 

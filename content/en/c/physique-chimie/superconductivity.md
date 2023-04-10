@@ -7,17 +7,17 @@ tags:
   - Superconductivity
 ---
 
-Pairs of Coopers at low temperatures
+Pairs of Coopers at low temperatures (BSc/MSc).
 
 <!--more-->
 
 ## Example of magnetic levitation
 
-{{< figure src="super-conductivity/img1.jpg" caption="Meissner effect demo. The material cooled to a sufficiently low temperature (here with liquid nitrogen at 77.36 K) acts like a magnet. This is explained by the pairs of Coopers, unity is strength. [Paris-Saclay University](https://hebergement.universite-paris-saclay.fr/supraconductivite/supra/fr/supra-explication-cooper.php).">}}
+{{< figure src="super-conductivity/img1.jpg" caption="Meissner effect demo. The material cooled to a sufficiently low temperature (here with liquid nitrogen at 77.3K) acts like a magnet. This is explained by the pairs of Coopers. [Paris-Saclay University](https://hebergement.universite-paris-saclay.fr/supraconductivite/supra/fr/supra-explication-cooper.php).">}}
 
 ## Nanoscopic structure
 
-{{< figure src="super-conductivity/img2.jpg" caption="Observation of YBaCuO under a scanning electron microscope (SEM).">}}
+{{< figure src="super-conductivity/img2.jpg" caption="Observation of a supra conductor, using a scanning electron microscope (SEM).">}}
 
 ## Phase diagram
 

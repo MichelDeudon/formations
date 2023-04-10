@@ -11,7 +11,7 @@ tags:
 
 {{< figure src="featured.jpg" >}}
 
-> <i> Vous ne pouvez espérer construire un monde meilleur sans améliorer les individus. À cette fin, chacun de nous doit travailler à sa propre amélioration et, en même temps, partager une responsabilité générale pour toute l'humanité, notre devoir particulier étant d'aider ceux pour qui nous pensons être le plus utile. </i> - Marie Curie, double prix nobel (physique et chimie)
+> <i> Vous ne pouvez espérer construire un monde meilleur sans améliorer les individus. À cette fin, chacun de nous doit travailler à sa propre amélioration et, en même temps, partager une responsabilité générale pour toute l'humanité, notre devoir particulier étant d'aider ceux pour qui nous pensons être le plus utile. </i> - Marie Curie, double prix Nobel (physique et chimie)
 
 ## Présentation
 
@@ -25,7 +25,7 @@ Ma méthode est très pratique. On essaie, on voit où ça coince, on en discute
 - Physique (forces, gravitation, force éléctrostatique, énergie, ondes, son et lumière, applications)
 - Chimie (structure de la matière, réaction d'oxydo-réduction, physique quantique, chimie organique)
 
-## Biomimicry
+## Biomimétisme
 
 Trouvez l'inspiration avec le biomimétisme, ou des histoires inspirées de la nature. 
 

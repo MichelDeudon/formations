@@ -7,17 +7,17 @@ tags:
   - Superconductivité
 ---
 
-Des paires de Coopers aux basses températures
+Des paires de Coopers aux basses températures (L3/M1)
 
 <!--more-->
 
 ## Exemple de lévitation magnétique
 
-{{< figure src="super-conductivity/img1.jpg" caption="Exemple de l'effet Meissner. Le matériau refroidit à une suffisament basse température (ici avec de l'azote liquide à 77,36 K agit comme un aimant. Ceci s'explique par les paires de Coopers, l'union fait la force. [Université Paris-Saclay](https://hebergement.universite-paris-saclay.fr/supraconductivite/supra/fr/supra-explication-cooper.php).">}}
+{{< figure src="super-conductivity/img1.jpg" caption="Exemple de l'effet Meissner. Le matériau refroidit à une suffisament basse température (ici avec de l'azote liquide à 77,3K) agit comme un aimant. Ceci s'explique par les paires de Coopers. [Université Paris-Saclay](https://hebergement.universite-paris-saclay.fr/supraconductivite/supra/fr/supra-explication-cooper.php).">}}
 
 ## Structure nanoscopique
 
-{{< figure src="super-conductivity/img2.jpg" caption="Observation d'YBaCuO au microscope électronique à balayage (MEB).">}}
+{{< figure src="super-conductivity/img2.jpg" caption="Observation d'un supra conducteur au microscope électronique à balayage (MEB).">}}
 
 ## Diagramme de phase
 

@@ -7,7 +7,7 @@ tags:
   - Superhydrophobie
 ---
 
-From Young's angle to the Fakir effect
+From Young's angle to the Fakir effect (BSc/Undergraduate).
 
 <!--more-->
 
