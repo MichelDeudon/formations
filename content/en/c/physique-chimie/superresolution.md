@@ -13,7 +13,7 @@ From nuclear fusion to Sentinel-2 (MSc/PhD).
 
 {{< figure src="super-resolution/ESA Idea of the Week 2020-04-16.png">}}
 
-<blockquote> The first winner of the weekly <a href="https://twitter.com/EuroDataCube?ref_src=twsrc%5Etfw">@EuroDataCube</a> <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> Custom Script Contest has been announced<br>Michel Deudon from @TelecomParis_ <a href="https://twitter.com/Polytechnique?ref_src=twsrc%5Etfw">@Polytechnique</a> uses unsupervised machine learning to extract boat traffic from Sentinel-2 🇪🇺🛰imagery &amp; monitor shifts in transportation patterns <a href="https://twitter.com/hashtag/AI?src=hash&amp;ref_src=twsrc%5Etfw">#AI</a> - 🇪🇺 @[defis_eu](https://twitter.com/defis_eu/status/1250769302577389568) April 16, 2020
+<blockquote> The first winner of the weekly <a href="https://twitter.com/EuroDataCube?ref_src=twsrc%5Etfw">@EuroDataCube</a> <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> Custom Script Contest has been announced<br>Michel Deudon from @TelecomParis_ <a href="https://twitter.com/Polytechnique?ref_src=twsrc%5Etfw">@Polytechnique</a> uses unsupervised machine learning to extract boat traffic from Sentinel-2 🇪🇺🛰imagery &amp; monitor shifts in transportation patterns <a href="https://twitter.com/hashtag/AI?src=hash&amp;ref_src=twsrc%5Etfw">#AI</a> - 🇪🇺 <a href="https://twitter.com/defis_eu/status/1250769302577389568">@defis_eu</a> April 16, 2020
 </blockquote>
 
 ## V for Vegetation
@@ -24,7 +24,7 @@ In March 2019, I joined Element AI, <i>AI for Good</i>, on a permanent contract 
 
 {{< figure src="super-resolution/ESA Kelvin Day - 2019-09-16.png">}}
 
-<blockquote>Throwback to <a href="https://twitter.com/esa?ref_src=twsrc%5Etfw">@ESA</a>&#39;s first Kelvins Day where the finalists of the <a href="https://twitter.com/hashtag/ProbaV?src=hash&amp;ref_src=twsrc%5Etfw">#ProbaV</a> super resolution challenge presented their achievements with mixtures of classical &amp; <a href="https://twitter.com/hashtag/AI?src=hash&amp;ref_src=twsrc%5Etfw">#AI</a> image processing techniques to upscale <a href="https://twitter.com/hashtag/ProbaV?src=hash&amp;ref_src=twsrc%5Etfw">#ProbaV</a> data.<br>Congrats to Polytecnico di Torino for their winning solution.🛰️👏 - @[PROBAVegetation](https://twitter.com/PROBAVegetation/status/1173540928600117248) September 16, 2019
+<blockquote>Throwback to <a href="https://twitter.com/esa?ref_src=twsrc%5Etfw">@ESA</a>&#39;s first Kelvins Day where the finalists of the <a href="https://twitter.com/hashtag/ProbaV?src=hash&amp;ref_src=twsrc%5Etfw">#ProbaV</a> super resolution challenge presented their achievements with mixtures of classical &amp; <a href="https://twitter.com/hashtag/AI?src=hash&amp;ref_src=twsrc%5Etfw">#AI</a> image processing techniques to upscale <a href="https://twitter.com/hashtag/ProbaV?src=hash&amp;ref_src=twsrc%5Etfw">#ProbaV</a> data.<br>Congrats to Polytecnico di Torino for their winning solution.🛰️👏 - <a href="https://twitter.com/PROBAVegetation/status/1173540928600117248">@PROBAVegetation</a> September 16, 2019
 </blockquote>
 
 In September 2019, after the [Series B fundraising with McKinsey and Co](https://www.cdpq.com/fr/actualites/communiques/element-ai-recueille-200m-ca-1514m-us-de-serie-b-pour-transformer-les), I was layed off, for economic reasons. One year later, [ServiceNow](https://techcrunch.com/2020/11/30/servicenow-is-acquiring-element-ai-the-canadian-startup-building-ai-services-for-enterprises/) acquired Element AI. Several colleagues experienced depression, as Manon Gruaz talks about in her talk [CTRL+ALT+DEPRESSION](https://www.youtube.com/watch?v=MN3D0uLEERU&ab_channel=GDGFrance) at DevFest de Nantes 2022.
@@ -44,24 +44,23 @@ Without taking into account the real costs, the complexity of the algorithms, th
 
 With Brexit and the Covid, I returned to France. On 06/04/2020, the European Space Agency (ESA) launched a competition on the use of satellite images in connection with the COVID-19 crisis. Each week, a prize of €1,000 was awarded.
 
-> <i>My goal was to reveal more details from public imagery to raise awareness of the marine environment and its protection.</i>. Venise sans les bateaux. [Cnes.fr](https://spacegate.cnes.fr/fr/covid-19-venise-sans-les-bateaux)
+> <i>My goal was to reveal more details from public imagery to raise awareness of the marine environment and its protection.</i>. Venise sans les bateaux. [Cnes.fr](https://spacegate.cnes.fr/fr/covid-19-venise-sans-les-bateaux) May 6, 2020.
 
 The idea finished [3rd in the final ranking](https://medium.com/sentinel-hub/race-upscaling-competition-results-8a339bb8c942), and was therefore not retained, only the first two projects have been selected for the final dashboard for the European Commission. The favorite project was developed by Henrik Fisser at the end of his internship at Brockmann Consult, with the help of [Euro Data Cube](https://github.com/hfisser/Truck_Detection_Sentinel2_COVID19/commit/48bc8ab4cc431d8a044093cbd8c0385aff5511be), partner organizations of the competition for ESA (conflicts of interest?).
 
-My idea and algorithms were initially motivated by the United Nations Decade of Ocean Science for Sustainable Development ({{< icon name="calendar" pack="fas" >}} 2021-2030, [UNESCO](https://fr.unesco.org/ocean-decade)) and the need to raise awareness / protect maritime areas and the Oceans, but Covid has diverted attention from ecological concerns. I ended up returning to studies in September 2020, at the College des Ingénieurs, to have a minimum source of income.
+My idea and algorithms were initially motivated by the United Nations Decade of Ocean Science for Sustainable Development (2021-2030, [UNESCO](https://fr.unesco.org/ocean-decade)) and the need to raise awareness / protect maritime areas and the Oceans, but Covid has diverted attention from ecological concerns. I ended up returning to studies in September 2020, at the College des Ingénieurs, to have a minimum source of income.
 
-{{< figure src="super-resolution/img4.png" caption="Venise sans les bateaux. [Cnes.fr](https://spacegate.cnes.fr/fr/covid-19-venise-sans-les-bateaux).">}}
+{{< figure src="super-resolution/img4.png" caption="Venise sans les bateaux. [Cnes.fr](https://spacegate.cnes.fr/fr/covid-19-venise-sans-les-bateaux). May 6, 2020.">}}
 
-<blockquote><a href="https://twitter.com/hashtag/Covid19?src=hash&amp;ref_src=twsrc%5Etfw">#Covid19</a> Venise sans les bateaux, observée par les satellites européens <a href="https://twitter.com/hashtag/Sentinel2?src=hash&amp;ref_src=twsrc%5Etfw">#Sentinel2</a> 🛰️🇪🇺 <a href="https://twitter.com/CopernicusEU?ref_src=twsrc%5Etfw">@copernicuseu</a> - @[CNES](https://twitter.com/CNES/status/1261594992839208960) May 16, 2020
+<blockquote><a href="https://twitter.com/hashtag/Covid19?src=hash&amp;ref_src=twsrc%5Etfw">#Covid19</a> Venise sans les bateaux, observée par les satellites européens <a href="https://twitter.com/hashtag/Sentinel2?src=hash&amp;ref_src=twsrc%5Etfw">#Sentinel2</a> 🛰️🇪🇺 <a href="https://twitter.com/CopernicusEU?ref_src=twsrc%5Etfw">@copernicuseu</a> - <a href="https://twitter.com/CNES/status/1261594992839208960">@CNES</a> May 16, 2020
 </blockquote>
 
 ## Acknowledgments
-Grateful to [Manon Gruaz](https://manongruaz.com/), [Elena Aversa](https://densitydesign.org/person/elena-aversa/) for the communication and information design and Gaëlle Lahoreau.
+Grateful to [Manon Gruaz](https://manongruaz.com/), [Elena Aversa](https://densitydesign.org/person/elena-aversa/) for the information design, as well as [Gaëlle Lahoreau](https://www.centre-valdeloire.fr/comprendre/lassemblee-regionale/annuaire-des-elus/lahoreau-gaelle), [Sabina Dolenc](https://medium.com/sentinel-hub/race-upscaling-competition-results-8a339bb8c942) and [Carre4](https://medium.com/carre4/monitoring-boat-traffic-with-public-satellites-be1c48d87802) for communications.
 
 ## Références
-- Medium. @[Carre4](https://medium.com/carre4/monitoring-boat-traffic-with-public-satellites-be1c48d87802) @[sentinel-hub](https://medium.com/sentinel-hub/race-upscaling-competition-results-8a339bb8c942)
-- CNES. [Venise sans les bateaux](https://spacegate.cnes.fr/fr/covid-19-venise-sans-les-bateaux).
-- UN. [Sustainable Development Goal 14](https://sdgs.un.org/fr/goals/goal14): Conserve and sustainably use the oceans, seas and marine resources for sustainable development. 2015–2030.
-- WWF. [Failing SDG14](https://www.wwf.eu/?uNewsID=360550): EU on a cliff edge for ensuring a sustainable ocean.
-- Convention on Biological Diversity. [Aichi Biodiversity Targets](https://www.cbd.int/sp/targets/). 2011–2020.
-- The use of the Normalized Difference Water Index (NDWI) in the delineation of open water features. International Journal of Remote Sensing. [Harvard](https://ui.adsabs.harvard.edu/abs/1996IJRS...17.1425M/abstract) May 1996.
+- CNES. [Venise sans les bateaux](https://spacegate.cnes.fr/fr/covid-19-venise-sans-les-bateaux). May 2020.
+- WWF. [Failing SDG14](https://www.wwf.eu/?uNewsID=360550): EU on a cliff edge for ensuring a sustainable ocean. March 2020.
+- UN. [Sustainable Development Goal 14](https://sdgs.un.org/fr/goals/goal14): Conserve and sustainably use the oceans, seas and marine resources for sustainable development. 2015.
+- Convention on Biological Diversity. [Aichi Biodiversity Targets](https://www.cbd.int/sp/targets/). 2011.
+- The use of the Normalized Difference Water Index (NDWI) in the delineation of open water features. International Journal of Remote Sensing. [Harvard](https://ui.adsabs.harvard.edu/abs/1996IJRS...17.1425M/abstract). 1996.
