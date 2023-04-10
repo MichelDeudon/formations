@@ -13,7 +13,7 @@ De la fusion nucléaire à Sentinel-2 (M1/M2).
 
 {{< figure src="super-resolution/ESA Idea of the Week 2020-04-16.png">}}
 
-<blockquote> Le premier gagnant du concours hebdomadaire <a href="https://twitter.com/EuroDataCube?ref_src=twsrc%5Etfw">@EuroDataCube</a> <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> de script personnalisé a été annoncé <br>Michel Deudon de @TelecomParis_ <a href="https://twitter.com/Polytechnique?ref_src=twsrc%5Etfw">@Polytechnique</a> utilise l'apprentissage non supervisé pour extraire le trafic de bateaux à partir d'images Sentinel-2 🇪🇺🛰 &amp; surveiller les changements dans les habitudes de transport <a href="https://twitter.com/hashtag/AI?src=hash&amp;ref_src=twsrc%5Etfw">#IA</a> - 🇪🇺 <a href="https://twitter.com/defis_eu/status/1250769302577389568">@defis_eu</a> 16 avril 2020
+<blockquote> Le premier gagnant du concours hebdomadaire <a href="https://twitter.com/EuroDataCube?ref_src=twsrc%5Etfw">@EuroDataCube</a> #COVID19 de script personnalisé a été annoncé <br>Michel Deudon de <a href="https://twitter.com/telecomparis">@TelecomParis_</a> <a href="https://twitter.com/Polytechnique?ref_src=twsrc%5Etfw">@Polytechnique</a> utilise l'apprentissage non supervisé pour extraire le trafic de bateaux à partir d'images Sentinel-2 🇪🇺🛰 &amp; surveiller les changements dans les habitudes de transport #IA - 🇪🇺 <a href="https://twitter.com/defis_eu/status/1250769302577389568">@defis_eu</a> 16 avril 2020
 </blockquote>
 
 ## V pour Végétation
@@ -24,7 +24,7 @@ En mars 2019, j'ai rejoint Element AI, <i>AI for Good</i>, en CDI à Londres, st
 
 {{< figure src="super-resolution/ESA Kelvin Day - 2019-09-16.png">}}
 
-<blockquote> Retour sur <a href="https://twitter.com/esa?ref_src=twsrc%5Etfw">@ESA</a>&#39;s premier jour Kelvin où les finalistes du défi de super résolution <a href="https://twitter.com/hashtag/ProbaV?src=hash&amp;ref_src=twsrc%5Etfw">#ProbaV</a> ont présenté leurs réalisations avec des mélanges de techniques de traitement d'image classiques &amp; de traitement d'images <a href="https://twitter.com/hashtag/AI?src=hash&amp;ref_src=twsrc%5Etfw">#IA</a> pour améliorer les données <a href="https://twitter.com/hashtag/ProbaV?src=hash&amp;ref_src=twsrc%5Etfw">#ProbaV</a>.<br>Félicitations à Polytecnico di Torino pour leur solution gagnante.🛰️👏 - <a href="https://twitter.com/PROBAVegetation/status/1173540928600117248">@PROBAVegetation</a> 16 septembre 2019
+<blockquote> Retour sur <a href="https://twitter.com/esa?ref_src=twsrc%5Etfw">@ESA</a>&#39; premier jour Kelvin où les finalistes du défi de super résolution <a href="https://twitter.com/hashtag/ProbaV?src=hash&amp;ref_src=twsrc%5Etfw">#ProbaV</a> ont présenté leurs réalisations avec des mélanges de techniques de traitement d'image classiques &amp; de traitement d'images #IA pour améliorer les données <a href="https://twitter.com/hashtag/ProbaV?src=hash&amp;ref_src=twsrc%5Etfw">#ProbaV</a>.<br>Félicitations à Polytecnico di Torino pour leur solution gagnante.🛰️👏 - <a href="https://twitter.com/PROBAVegetation/status/1173540928600117248">@PROBAVegetation</a> 16 septembre 2019
 </blockquote>
 
 En septembre 2019, après la [levée de fonds avec McKinsey et Co](https://www.cdpq.com/fr/actualites/communiques/element-ai-recueille-200m-ca-1514m-us-de-serie-b-pour-transformer-les), j'ai été licencié, pour motif économique. Un an plus tard, [ServiceNow](https://techcrunch.com/2020/11/30/servicenow-is-acquiring-element-ai-the-canadian-startup-building-ai-services-for-enterprises/) a fait l'acquisition d'Element AI. Plusieurs collègues sont tombés en dépressions comme en parle Manon Gruaz dans [CTRL+ALT+DEPRESSION](https://www.youtube.com/watch?v=MN3D0uLEERU&ab_channel=GDGFrance) au DevFest de Nantes 2022.
@@ -52,7 +52,7 @@ Mon idée et mes algorithmes étaient initialement motivés par la décennie des
 
 {{< figure src="super-resolution/img4.png" caption="Venise sans les bateaux. [Cnes.fr](https://spacegate.cnes.fr/fr/covid-19-venise-sans-les-bateaux). 6 mai 2020.">}}
 
-<blockquote><a href="https://twitter.com/hashtag/Covid19?src=hash&amp;ref_src=twsrc%5Etfw">#Covid19</a> Venise sans les bateaux, observée par les satellites européens <a href="https://twitter.com/hashtag/Sentinel2?src=hash&amp;ref_src=twsrc%5Etfw">#Sentinel2</a> 🛰️🇪🇺 <a href="https://twitter.com/CopernicusEU?ref_src=twsrc%5Etfw">@copernicuseu</a> <a href="https://t.co/0nqgYFQikl">https://t.co/0nqgYFQikl</a> - <a href="https://twitter.com/CNES/status/1261594992839208960">@CNES</a> 16 mai 2020
+<blockquote>#Covid19 Venise sans les bateaux, observée par les satellites européens <a href="https://twitter.com/hashtag/Sentinel2?src=hash&amp;ref_src=twsrc%5Etfw">#Sentinel2</a> 🛰️🇪🇺 <a href="https://twitter.com/CopernicusEU?ref_src=twsrc%5Etfw">@copernicuseu</a> <a href="https://t.co/0nqgYFQikl">https://t.co/0nqgYFQikl</a> - <a href="https://twitter.com/CNES/status/1261594992839208960">@CNES</a> 16 mai 2020
 </blockquote>
 
 ## Remerciements

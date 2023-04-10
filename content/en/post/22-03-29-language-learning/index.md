@@ -9,7 +9,7 @@ The most chill, adventurous, social, in rhythm and intellectual
 
 Learning languages, practicing with friends, colleagues, people in a restaurant, at a market or on travel is simply amazing and totally worth the experience. Saying <i>hi</i> or <i>thank you</i> in someone’s language is usually enough to trigger a conversation and the more you know that language, some jokes or rhymes, the more that conversation can go deep and get intimate.
 
-{{< figure src="blog-lang-1.jpeg" caption="lang/Photo by Lady Escabia from Pexels" numbered="true" >}}
+{{< figure src="lang/blog-lang-1.jpeg" caption="lang/Photo by Lady Escabia from Pexels" numbered="true" >}}
 
 Learning a new language will help you make connections and be more empathic. It’s one of the best investments you could make today and which will pay off tomorrow. It will broaden your horizon, open you up to a new culture, challenge your beliefs and make you see society and life in a new way.
 
@@ -19,7 +19,7 @@ Before diving into these different approaches, I’d like to highlight that lear
 
 ## The most chill: Netflix, podcasts & series
 
-{{< figure src="blog-lang-2.jpeg" caption="lang/Photo by Johann Pictures from Pexels" numbered="true" >}}
+{{< figure src="lang/blog-lang-2.jpeg" caption="lang/Photo by Johann Pictures from Pexels" numbered="true" >}}
 
 This is maybe the most obvious one.
 
@@ -31,7 +31,7 @@ All you need to do is switch the language.
 
 ## The most adventurous: Travel & work abroad
 
-{{< figure src="blog-lang-3.jpeg" caption="lang/Photo by Rattasat from Pexels" numbered="true" >}}
+{{< figure src="lang/blog-lang-3.jpeg" caption="lang/Photo by Rattasat from Pexels" numbered="true" >}}
 
 Working on a farm, for example through the World of Opportunities on Organic Farms network (WOOF), is by far one of the best way to travel and immerse yourself in another culture, practice the local language and more. Of course, this can be extended to other kind of volunteering, working or educative experiences.
 
@@ -41,7 +41,7 @@ Ready to pack your bag?
 
 ## The most social: Meet some friends or a partner
 
-{{< figure src="blog-lang-4.jpeg" caption="lang/Photo by cottonbro from Pexels" numbered="true" >}}
+{{< figure src="lang/blog-lang-4.jpeg" caption="lang/Photo by cottonbro from Pexels" numbered="true" >}}
 
 Having somebody to speak with just makes learning a language totally worth it and after a glass or two, speaking another language seems easier.
 
@@ -53,7 +53,7 @@ Check what’s going on in your city, look around and be curious!
 
 ## The most in rhythm: Sing, sing, sing
 
-{{< figure src="blog-lang-5.jpeg" caption="lang/Photo by Andrea Piacquadio from Pexels" numbered="true" >}}
+{{< figure src="lang/blog-lang-5.jpeg" caption="lang/Photo by Andrea Piacquadio from Pexels" numbered="true" >}}
 
 This is my favorite one. Singing and dancing makes me feel happy. It makes me smile. In a group, it gets funnier. Karaoke nights are hilarious and in Japan it’s really famous to spend your night there before trains open in the morning. So with friends we compiled a few artists by languages you might want to check to warm up your day and your voice.
 
@@ -68,7 +68,7 @@ This is my favorite one. Singing and dancing makes me feel happy. It makes me sm
 
 ## The most intellectual: Translate a book
 
-{{< figure src="blog-lang-6.jpeg" caption="lang/Photo by Wendelin Jacober from Pexels" numbered="true" >}}
+{{< figure src="lang/blog-lang-6.jpeg" caption="lang/Photo by Wendelin Jacober from Pexels" numbered="true" >}}
 
 Why not? I gave it a try, picking up the first chapter from Simone de Beauvoir’s autobiography in Italian, Memoria di una ragazza perbene, and I struggled.
 

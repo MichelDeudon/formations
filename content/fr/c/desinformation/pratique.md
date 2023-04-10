@@ -25,30 +25,30 @@ Privilégier un appel téléphonique ou des sms, plutôt que les messageries de 
 
 ## 2. S'informer auprès de sources fiables, faire preuve de discernement et d’esprit critique
 
-Être attentif aux conflits d’intérêts et greenwashing (en R&D, santé, médias…), aux biais, et aux non dits. D'où vient l’argent? Quel est le but? Quels chiffres ne sont pas reportés? Qui est oublié ou invisibilisé? Par exemple, vous pouvez vous informer sur [Météo France](https://meteofrance.com/actualites-et-dossiers/actualites/climat/secheresse-32-jours-sans-pluie-en-france-record-battu) et [le CNRS](https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox), ou suivre des médias indépendants comme [Blast](https://www.blast-info.fr/articles/2023/sommes-nous-toujours-en-democratie-AwJ1_TmlTM-ONwHybrhuqQ) ou [Mediapart](https://www.mediapart.fr/).
+Être attentif aux [conflits d’intérêts et greenwashing](https://www.mtpcours.fr/c/desinformation/greenwashing/) (en R&D, santé, médias…), aux biais, et aux non dits. D'où vient l’argent? Quel est le but? Quels chiffres ne sont pas reportés? Qui est oublié ou invisibilisé? Par exemple, vous pouvez vous informer sur [Météo France](https://meteofrance.com/actualites-et-dossiers/actualites/climat/secheresse-32-jours-sans-pluie-en-france-record-battu) et [le CNRS](https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox), ou suivre des médias indépendants comme [Blast](https://www.blast-info.fr/articles/2023/sommes-nous-toujours-en-democratie-AwJ1_TmlTM-ONwHybrhuqQ) ou [Mediapart](https://www.mediapart.fr/).
 
 {{< youtube tlnDmGhnGq8>}} 
 
 ## 3. Recentrer l’attention et les débats de société
 
-Déstigmatiser les addictions aux réseaux sociaux, parler de la santé mentale des jeunes, de la dépression, de la précarité étudiante, de l’éco anxiété… de l’utilisation de l’argent public, de la redistribution des richesses, du rapport au travail, de l’urgence écologique.
+Déstigmatiser les addictions aux réseaux sociaux, parler de la [santé mentale](https://www.lajauneetlarouge.com/petit-bambou-lappli-de-meditation-cofondee-par-un-polytechnicien/) des jeunes, de [la dépression](https://www.youtube.com/watch?v=MN3D0uLEERU&ab_channel=GDGFrance), de la précarité étudiante, de l’éco anxiété… de l’utilisation de l’argent public, de la [redistribution des richesses](https://www.mtpcours.fr/c/desinformation/rapport-villani/), du rapport au travail, de l’urgence écologique.
 
 ## 4. Réinvestir son temps pour se former en société
 
-- Apprendre une langue, cuisiner, bricoler… 
+- [Apprendre une langue](https://www.mtpcours.fr/post/22-03-29-language-learning/), cuisiner, bricoler… 
 - Faire du sport, du bénévolat, de l’artisanat…
 - Sortir de sa zone de confort.
 - Créer et partager du contenu (entretiens, témoignages), du visuel et une démarche incitative pour attirer le jeune public (quantifier CO2 par participation et total). Montrer les bienfaits de faire une pause.
 
 ## 5. Donner du sens à l’avenir et réécrire le futur
 
-- Donner l’impulsion de nouveaux imaginaires par exemple à l’occasion du premier été sans réseaux sociaux.
+- Donner l’impulsion de nouveaux imaginaires à l’occasion du premier été sans réseaux sociaux.
 - Proposer des alternatives pour un été solidaire, d’amour, d’entraide…
 - Soutenir une cause par vos actions.
 
 ## 6. Soutenir les vraies innovations
 
-Soutenir les innovations frugales, la lowtech, l’agroécologie, l’écoliguistique, le biomimétisme, les médias indépendants, les reconversions, redirection écologique… 
+Soutenir les innovations frugales, la lowtech, l’agroécologie, l’écoliguistique, le [biomimétisme](https://www.mtpcours.fr/c/physique-chimie/#biomimicry), les médias indépendants, les reconversions, redirection écologique… 
 
 ## 7. Agir localement
 

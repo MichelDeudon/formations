@@ -9,7 +9,7 @@ De A à Z, tout ce que vous devez savoir
 
 J'ai toujours eu un syndrome de l'imposteur en travaillant sur Github, jusqu'à récemment. Je me souviens de la première fois que j'ai ouvert un terminal, j'avais l'impression d'être sur le point de pirater le monde 🐱‍💻 Avec le temps et la pratique, j'ai finalement compris les concepts clés derrière Github. Maintenant, je me sens plus à l'aise de travailler avec des ingénieurs et des développeurs ou d'encadrer des pairs, et c'est amusant. J'ai écrit ce tuto au moment où j'ai postulé chez Vinted pour un poste en science des données et j'ai décidé de le partager car c'est peut-être ce que vous recherchez 😊. Super, alors qu'est-ce que Github ?
 
-{{< figure src="blog-git-1.jpg" caption="git/Photo de Tatiana Syrikova sur Pexels" numbered="true" >}}
+{{< figure src="git/blog-git-1.jpg" caption="git/Photo de Tatiana Syrikova sur Pexels" numbered="true" >}}
 
 Git est un système de contrôle de version, open source, distribué et Github est une plate-forme d'hébergement et de collaboration sur les projets Git. <b>Github aide les gens à collaborer à travers le monde</b> - apprendre, partager, contribuer et construire ensemble en synchronisant le travail sur différentes machines pour résoudre divers types de problèmes liés à l'intelligence artificielle, à l'apprentissage automatique ou à des applications. En d'autres termes, Github est comme un bac à sable distribué et c'est gratuit !
 
@@ -68,7 +68,7 @@ git diff
 
 Cela montrera les changements par rapport au commit précédent (ce qui a été ajouté, supprimé ou modifié). Vous pouvez en outre spécifier des branches ou des commits pour modifier le résultat par défaut.
 
-{{< figure src="blog-git-2.jpg" caption="git/Photo de James Wheeler sur Pexels" numbered="true" >}}
+{{< figure src="git/blog-git-2.jpg" caption="git/Photo de James Wheeler sur Pexels" numbered="true" >}}
 
 ### 4. Apporter des modifications et les valider
 
@@ -123,7 +123,7 @@ git checkout feature/x
 git checkout commit_id
 ```
 
-{{< figure src="blog-git-3.jpg" caption="git/Photo de Leah Kelley sur Pexels" numbered="true" >}}
+{{< figure src="git/blog-git-3.jpg" caption="git/Photo de Leah Kelley sur Pexels" numbered="true" >}}
 
 Chaque branche a tendance à diverger naturellement avec des caractéristiques différentes. Vous pouvez reconstituer leur historique de développement en « fusionnant » les branches, c'est-à-dire en incorporant les changements d'une branche à l'autre. Par défaut,
 
@@ -189,7 +189,7 @@ git tag [label] [commit]
 
 Vous avez terminé avec ce cours, bravo ! Vous êtes prêt à collaborer avec des personnes du monde entier. N'oubliez pas qu'il faut du temps et de la pratique pour maîtriser un outil comme Github et si vous souhaitez aller plus loin, consultez la référence ci-dessous ou demandez simplement de l'aide autour de vous.
 
-{{< figure src="blog-git-4.png" caption="git/Visual Git Cheatsheet par Andrew Perterson" numbered="true" >}}
+{{< figure src="git/blog-git-4.png" caption="git/Visual Git Cheatsheet par Andrew Perterson" numbered="true" >}}
 
 [1] [Documentation Git](https://git-scm.com/doc) <br>
 [2] [GitHub Git Cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet/) <br>

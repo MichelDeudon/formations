@@ -17,7 +17,7 @@ En tant que mentor et enseignant, mon travail consiste souvent à déconstruire 
 
 ## Astuce #1 — Commencer par poser des questions
 
-{{< figure src="blog-math-1.jpg" caption="maths/Photo de Frans van Heerden sur Pexels" numbered="true" >}}
+{{< figure src="maths/blog-math-1.jpg" caption="maths/Photo de Frans van Heerden sur Pexels" numbered="true" >}}
 
 La science ne consiste pas à résoudre des problèmes, mais à poser des questions.
 
@@ -50,7 +50,7 @@ Commencez à poser des questions et soyez curieux.
 
 ## Astuce #2 — Commencer à dessiner, quelque part
 
-{{< figure src="blog-math-2.jpg" caption="maths/Photo de Tanvir Khondokar sur Pexels" numbered="true" >}}
+{{< figure src="maths/blog-math-2.jpg" caption="maths/Photo de Tanvir Khondokar sur Pexels" numbered="true" >}}
 
 Une image vaut 1000 mots.
 
@@ -78,7 +78,7 @@ Ne vous demandez pas quelle est la réponse, c'est le problème. Commencez à de
 
 ## Astuce #3 — Connaitre ses points forts
 
-{{< figure src="blog-math-3.jpg" caption="maths/Photo de Jon Tyson sur Unsplash" numbered="true" >}}
+{{< figure src="maths/blog-math-3.jpg" caption="maths/Photo de Jon Tyson sur Unsplash" numbered="true" >}}
 
 Comment vous souvenez-vous d'un numéro de téléphone ? Est-il écrit ou enregistré quelque part dans votre tête ou est-il sur le bout de vos doigts ? Votre mémoire est-elle visuelle, auditive, tactile ou les trois ?
 
@@ -102,7 +102,7 @@ Cela ne nécessite pas de longs efforts, mais des contrôles et des exercices r�
 
 ## Astuce #4 — Faire confiance à son intuition
 
-{{< figure src="blog-math-4.jpg" caption="maths/Photo d'Alina Vilchenko sur Pexels" numbered="true" >}}
+{{< figure src="maths/blog-math-4.jpg" caption="maths/Photo d'Alina Vilchenko sur Pexels" numbered="true" >}}
 
 Les comportements rationnels sont utilisés dans Eco 101 (chapitre 1) pour enseigner l'économie. En pratique, les prévisions ne correspondent pas à la réalité.
 
@@ -123,7 +123,7 @@ Peu importe que vous soyez rationnel ou non !
 
 ## Astuce #5 — Enseigner pour apprendre
 
-{{< figure src="blog-math-5.jpg" caption="maths/Photo de Monstera sur Pexels" numbered="true" >}}
+{{< figure src="maths/blog-math-5.jpg" caption="maths/Photo de Monstera sur Pexels" numbered="true" >}}
 
 Vous n'avez pas besoin d'être un expert pour enseigner. Commencez par votre famille, vos amis, vos camarades de classe, des personnes de votre âge, plus jeunes ou plus âgées.
 
@@ -140,7 +140,7 @@ Le travail d'équipe et les collaborations sont nécessaires dans la vraie vie.
 
 ## Astuce #6 — Se relire attentivement
 
-{{< figure src="blog-math-6.jpg" caption="maths/Photo de Dmitry Ratushny sur Unsplash" numbered="true" >}}
+{{< figure src="maths/blog-math-6.jpg" caption="maths/Photo de Dmitry Ratushny sur Unsplash" numbered="true" >}}
 
 Les mathématiques sont une langue à part entière, avec son propre jeu de caractères, son alphabet, sa grammaire donc il est normal de se demander si son travail est lisible ?
 
@@ -152,7 +152,7 @@ L'astuce que j'utilise pour en faire une bonne habitude est de leur demander de 
 
 ## Astuce #7 — Se méfier des experts
 
-{{< figure src="blog-math-7.jpg" caption="maths/Photo de Thomas T sur Unsplash" numbered="true" >}}
+{{< figure src="maths/blog-math-7.jpg" caption="maths/Photo de Thomas T sur Unsplash" numbered="true" >}}
 
 Les physiciens, chimistes, économistes, mathématiciens, informaticiens utilisent des mots différents pour les mêmes concepts. A titre d'exemple, dans un modèle linéaire y=ax+b, les mathématiciens appelleront "a" le "taux d'accroissement", tandis que les chimistes l'appelleront "coefficient de proportionnalité". Les physiciens et les informaticiens ont un concept appelé entropie, lié au désordre et à la théorie de l'information, mais ils utilisent des symboles différents pour cela, S ou H.
 

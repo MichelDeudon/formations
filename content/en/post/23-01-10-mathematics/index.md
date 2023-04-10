@@ -17,7 +17,7 @@ As a mentor and teacher, my work often consists in deconstructing biases, stereo
 
 ## Trick #1 — Start asking questions
 
-{{< figure src="blog-math-1.jpg" caption="maths/Photo by Frans van Heerden on Pexels" numbered="true" >}}
+{{< figure src="maths/blog-math-1.jpg" caption="maths/Photo by Frans van Heerden on Pexels" numbered="true" >}}
 
 Science isn't about solving problems, it's about asking questions.
 
@@ -50,7 +50,7 @@ Start asking questions and be curious.
 
 ## Trick #2 — Start drawing, somewhere
 
-{{< figure src="blog-math-2.jpg" caption="maths/Photo by Tanvir Khondokar on Pexels" numbered="true" >}}
+{{< figure src="maths/blog-math-2.jpg" caption="maths/Photo by Tanvir Khondokar on Pexels" numbered="true" >}}
 
 A picture is worth 1000 words.
 
@@ -78,7 +78,7 @@ Don't ask yourself what's the answer, that's the problem. Start drawing.
 
 ## Trick #3 — Know your strengths
 
-{{< figure src="blog-math-3.jpg" caption="maths/Photo by Jon Tyson on Unsplash" numbered="true" >}}
+{{< figure src="maths/blog-math-3.jpg" caption="maths/Photo by Jon Tyson on Unsplash" numbered="true" >}}
 
 How do you remember a phone number? Is it written or recorded somewhere in your head or is it on the tip of your fingers? Is your memory visual, auditive, tactile or all three?
 
@@ -102,7 +102,7 @@ It doesn't require long efforts but regular checks and exercising, just like gym
 
 ## Trick #4 — Trust your intuition
 
-{{< figure src="blog-math-4.jpg" caption="maths/Photo by Alina Vilchenko on Pexels" numbered="true" >}}
+{{< figure src="maths/blog-math-4.jpg" caption="maths/Photo by Alina Vilchenko on Pexels" numbered="true" >}}
 
 Rational behaviors are used in Eco 101 (chapter 1) to teach economy. In practice the predictions don't match reality.
 
@@ -123,7 +123,7 @@ It doesn't matter if you are rational or not!
 
 ## Trick #5 — Teach to learn
 
-{{< figure src="blog-math-5.jpg" caption="maths/Photo by Monstera on Pexels" numbered="true" >}}
+{{< figure src="maths/blog-math-5.jpg" caption="maths/Photo by Monstera on Pexels" numbered="true" >}}
 
 You don't need to be an expert to teach. Start with your family, your friends, classmates, people your age, younger or older.
 
@@ -141,7 +141,7 @@ Team work and collaborations are needed in real life.
 
 ## Trick #6 — Proofread yourself
 
-{{< figure src="blog-math-6.jpg" caption="maths/Photo by Dmitry Ratushny on Unsplash" numbered="true" >}}
+{{< figure src="maths/blog-math-6.jpg" caption="maths/Photo by Dmitry Ratushny on Unsplash" numbered="true" >}}
 
 Mathematics is a language on its own, with its own set of characters, alphabet, grammar so it's normal to ask yourself if your work is readable?
 
@@ -153,7 +153,7 @@ The trick I use to make it a good habit is to ask them to correct themselves as 
 
 ## Trick #7 — Beware of experts
 
-{{< figure src="blog-math-7.jpg" caption="maths/Photo by Thomas T on Unsplash" numbered="true" >}}
+{{< figure src="maths/blog-math-7.jpg" caption="maths/Photo by Thomas T on Unsplash" numbered="true" >}}
 
 Physicists, chemists, economists, mathematicians, computer scientists use differents words for the same concepts. As an example, in a linear model y=ax+b, mathematicians will refer to "a" as "taux d'accroissement", while chemists will call it "coefficient de proportionnalité". Both physicists and computer scientists have a concept called entropy, related to disorder and information theory, but they use different symbols for it, S or H.
 

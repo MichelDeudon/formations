@@ -25,30 +25,30 @@ Prefer a phone call or text message, rather than Meta messaging services to comm
 
 ## 2. Obtain information from reliable sources, exercise discernment and critical thinking
 
-Be attentive to conflicts of interest and greenwashing (in R&D, health, media, etc.), biases, and what is left unsaid. Where does the money come from? What is the goal? What numbers are not reported? Who is forgotten or invisible? For example, you can follow [Météo France](https://meteofrance.com/actualites-et-dossiers/actualites/climat/secheresse-32-jours-sans-pluie-en-france-record-battu) and [the CNRS](https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox), or independant medias such as [Blast](https://www.blast-info.fr/articles/2023/sommes-nous-toujours-en-democratie-AwJ1_TmlTM-ONwHybrhuqQ) and [Mediapart](https://www.mediapart.fr/).
+Be attentive to [conflicts of interest and greenwashing](https://www.mtpcours.fr/en/c/desinformation/greenwashing/) (in R&D, health, media, etc.), biases, and what is left unsaid. Where does the money come from? What is the goal? What numbers are not reported? Who is forgotten or invisible? For example, you can follow [Météo France](https://meteofrance.com/actualites-et-dossiers/actualites/climat/secheresse-32-jours-sans-pluie-en-france-record-battu) and [the CNRS](https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox), or independant medias such as [Blast](https://www.blast-info.fr/articles/2023/sommes-nous-toujours-en-democratie-AwJ1_TmlTM-ONwHybrhuqQ) and [Mediapart](https://www.mediapart.fr/).
 
 {{< youtube tlnDmGhnGq8>}} 
 
 ## 3. Refocus attention and debates in society
 
-De-stigmatize social media addiction, talk about the mental health of young people, depression, student precariousness, eco-anxiety... the use of public money, the redistribution of wealth, the relationship to work, the ecological emergency.
+De-stigmatize social media addiction, talk about the [mental health](https://www.lajauneetlarouge.com/petit-bambou-lappli-de-meditation-cofondee-par-un-polytechnicien/) of young people, [depression](https://www.youtube.com/watch?v=MN3D0uLEERU&ab_channel=GDGFrance), student precariousness, eco-anxiety... the use of public money, the [redistribution of wealth](https://www.mtpcours.fr/en/c/desinformation/rapport-villani/), the relationship to work, the ecological emergency.
 
 ## 4. Reinvest your time wisely
 
-- Learn a language, cook, do crafts…
+- [Learn a language](https://www.mtpcours.fr/en/post/22-03-29-language-learning/), cook, do crafts…
 - Playing sports, volunteering, crafts…
 - Get out of your comfort zone.
 - Create and share content (interviews, testimonials), visuals and an incentive approach to attract young people (quantify CO2 by participation and total). Show the benefits of taking a break.
 
 ## 5. Give meaning to the future and rewrite the future
 
-- Give impetus to new imaginations, for example during the first summer without social networks.
+- Give impetus to new imaginations during the first summer without social networks.
 - Propose alternatives for a summer of solidarity, love, mutual aid...
 - Support a cause through your actions.
 
 ## 6. Support real innovations
 
-Support frugal innovations, lowtech, agroecology, ecologistics, biomimicry, independent medias, reconversions, ecological redirection...
+Support frugal innovations, lowtech, agroecology, ecologistics, [biomimicry](https://www.mtpcours.fr/en/c/physique-chimie/#biomimicry), independent medias, reconversions, ecological redirection...
 
 ## 7. Act locally
 
