@@ -31,9 +31,9 @@ In September 2019, after the [Series B fundraising with McKinsey and Co](https:/
 
 ### From low to high resolution
 
-{{< figure src="super-resolution/img3.png" caption="Deudon, Michel, Alfredo Kalaitzis, Israel Goytom, Md Rifat Arefin, Zhichao Lin, Kris Sankaran, Vincent Michalski, Samira E. Kahou, Julien Cornebise, and Yoshua Bengio. HighRes-net: Multi Frame Super Resolution by Recursive Fusion. [arxiv preprint arXiv:2002.06460 (2020)](https://arxiv.org/abs/2002.06460).">}}
+{{< figure src="super-resolution/img3.png" caption="Deudon, Michel, Alfredo Kalaitzis, Israel Goytom, Md Rifat Arefin, Zhichao Lin, Kris Sankaran, Vincent Michalski, Samira E. Kahou, Julien Cornebise, and Yoshua Bengio. HighRes-net: Multi Frame Super Resolution by Recursive Fusion. [arxiv preprint arXiv:2002.06460 (2020)](https://arxiv.org/abs/2002.06460). Design by [Manon Gruaz](https://manongruaz.com/).">}}
 
-Without taking into account the real costs, the complexity of the algorithms, the consumption of the models, the research optimizes to gain a few points without real added value or innovation. To gain 1% you need 10 to 100 times more energy. On the example of the [European Space Agency competition](https://kelvins.esa.int/proba-v-super-resolution/leaderboard/results),
+Without taking into account the real costs, the complexity of the algorithms, the consumption of the models, AI research helps gain a few points without real added value or innovation. To gain 1% you need 10 to 100 times more energy. On the example of the [European Space Agency competition](https://kelvins.esa.int/proba-v-super-resolution/leaderboard/results),
 - Baseline without AI. rating 1.0
 - Model without AI. score 0.95 @ledzeppelin
 - [HighResNet](https://arxiv.org/abs/2002.06460). score 0.94 @rarefin (logarithmic complexity)
@@ -44,7 +44,7 @@ Without taking into account the real costs, the complexity of the algorithms, th
 
 With Brexit and the Covid, I returned to France. On 06/04/2020, the European Space Agency (ESA) launched a competition on the use of satellite images in connection with the COVID-19 crisis. Each week, a prize of €1,000 was awarded.
 
-> <i>My goal was to reveal more details from public imagery to raise awareness of the marine environment and its protection.</i>. Venise sans les bateaux. [Cnes.fr](https://spacegate.cnes.fr/fr/covid-19-venise-sans-les-bateaux) May 6, 2020.
+> <i>My goal was to reveal more details from public imagery to raise awareness of the marine environment and its protection.</i> Venise sans les bateaux. [Cnes.fr](https://spacegate.cnes.fr/fr/covid-19-venise-sans-les-bateaux) May 6, 2020.
 
 The idea finished [3rd in the final ranking](https://medium.com/sentinel-hub/race-upscaling-competition-results-8a339bb8c942), and was therefore not retained, only the first two projects have been selected for the final dashboard for the European Commission. The favorite project was developed by Henrik Fisser at the end of his internship at Brockmann Consult, with the help of [Euro Data Cube](https://github.com/hfisser/Truck_Detection_Sentinel2_COVID19/commit/48bc8ab4cc431d8a044093cbd8c0385aff5511be), partner organizations of the competition for ESA (conflicts of interest?).
 

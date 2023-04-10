@@ -31,9 +31,9 @@ En septembre 2019, après la [levée de fonds avec McKinsey et Co](https://www.c
 
 ### De basse à haute résolution
 
-{{< figure src="super-resolution/img3.png" caption="Deudon, Michel, Alfredo Kalaitzis, Israel Goytom, Md Rifat Arefin, Zhichao Lin, Kris Sankaran, Vincent Michalski, Samira E. Kahou, Julien Cornebise, et Yoshua Bengio. HighRes-net: Multi Images Super Resolution par Fusion Récursive. [arxiv preprint arXiv:2002.06460 (2020)](https://arxiv.org/abs/2002.06460).">}}
+{{< figure src="super-resolution/img3.png" caption="Deudon, Michel, Alfredo Kalaitzis, Israel Goytom, Md Rifat Arefin, Zhichao Lin, Kris Sankaran, Vincent Michalski, Samira E. Kahou, Julien Cornebise, et Yoshua Bengio. HighRes-net: Multi Images Super Resolution par Fusion Récursive. [arxiv preprint arXiv:2002.06460 (2020)](https://arxiv.org/abs/2002.06460). Design par [Manon Gruaz](https://manongruaz.com/).">}}
 
-Sans prendre en compte les coûts réels, la complexité des algorithmes, la consommation des modèles, la recherche optimise pour gagner quelques points sans vraie valeur ajoutée ou innovation. Pour gagner 1% il faut 10 à 100 fois plus d'énergie. Sur l'exemple du [concours de l'Agence Spatiale Européenne](https://kelvins.esa.int/proba-v-super-resolution/leaderboard/results),
+Sans prendre en compte les coûts réels, la complexité des algorithmes, la consommation des modèles, la recherche en IA permet de gagner quelques points sans vraie valeur ajoutée ou innovation. Pour gagner 1% il faut 10 à 100 fois plus d'énergie. Sur l'exemple du [concours de l'Agence Spatiale Européenne](https://kelvins.esa.int/proba-v-super-resolution/leaderboard/results),
 - Baseline sans IA. score 1.0
 - Modèle sans IA. score 0.95 @ledzeppelin
 - [HighResNet](https://arxiv.org/abs/2002.06460). score 0.94 @rarefin (complexité logarithmique)
