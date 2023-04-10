@@ -13,52 +13,50 @@ From nuclear fusion to Sentinel-2 (MSc/PhD).
 
 {{< figure src="super-resolution/ESA Idea of the Week 2020-04-16.png">}}
 
-<blockquote> The first winner of the weekly <a href="https://twitter.com/EuroDataCube?ref_src=twsrc%5Etfw">@EuroDataCube</a> <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> Custom Script Contest has been announced<br>Michel Deudon from @TelecomParis_ <a href="https://twitter.com/Polytechnique?ref_src=twsrc%5Etfw">@Polytechnique</a> uses unsupervised machine learning to extract boat traffic from Sentinel-2 🇪🇺🛰imagery &amp; monitor shifts in transportation patterns <a href="https://twitter.com/hashtag/AI?src=hash&amp;ref_src=twsrc%5Etfw">#AI</a> - 🇪🇺 DG DEFIS (@[defis_eu](https://twitter.com/defis_eu/status/1250769302577389568)) April 16, 2020
+<blockquote> The first winner of the weekly <a href="https://twitter.com/EuroDataCube?ref_src=twsrc%5Etfw">@EuroDataCube</a> <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> Custom Script Contest has been announced<br>Michel Deudon from @TelecomParis_ <a href="https://twitter.com/Polytechnique?ref_src=twsrc%5Etfw">@Polytechnique</a> uses unsupervised machine learning to extract boat traffic from Sentinel-2 🇪🇺🛰imagery &amp; monitor shifts in transportation patterns <a href="https://twitter.com/hashtag/AI?src=hash&amp;ref_src=twsrc%5Etfw">#AI</a> - 🇪🇺 @[defis_eu](https://twitter.com/defis_eu/status/1250769302577389568) April 16, 2020
 </blockquote>
 
-## Proba-V, V for Vegetation
+## V for Vegetation
 
 {{< icon name="calendar" pack="fas" >}} Nov 1, 2018 - June 1, 2019. Proba-V super resolution challenge. [kelvins.esa.int](https://kelvins.esa.int/proba-v-super-resolution/problem/).
 
-En mars 2019, j'ai rejoint Element AI, <i>AI for Good</i>, en CDI à Londres, startup co-fondée par Yoshua Bengio, après avoir fait un stage en 2017 à Montréal en [optimisation combinatoire](https://hanalog.ca/wp-content/uploads/2018/11/cpaior-learning-heuristics-6.pdf) et y être retourné en 2018 pour présenter mon [mémoire en linguistique](https://proceedings.neurips.cc/paper_files/paper/2018/file/97e8527feaf77a97fc38f34216141515-Paper.pdf) et passer mes entretiens.
+In March 2019, I joined Element AI, <i>AI for Good</i>, on a permanent contract in London, a startup co-founded by Yoshua Bengio, after doing an internship in 2017 in Montreal in [combinatorial optimization]( https://hanalog.ca/wp-content/uploads/2018/11/cpaior-learning-heuristics-6.pdf) and returning there in 2018 to present an article in [linguistics](https://proceedings.neurips.cc/paper_files/paper/2018/file/97e8527feaf77a97fc38f34216141515-Paper.pdf) and have my interviews.
 
 {{< figure src="super-resolution/ESA Kelvin Day - 2019-09-16.png">}}
 
-<blockquote>Throwback to <a href="https://twitter.com/esa?ref_src=twsrc%5Etfw">@ESA</a>&#39;s first Kelvins Day where the finalists of the <a href="https://twitter.com/hashtag/ProbaV?src=hash&amp;ref_src=twsrc%5Etfw">#ProbaV</a> super resolution challenge presented their achievements with mixtures of classical &amp; <a href="https://twitter.com/hashtag/AI?src=hash&amp;ref_src=twsrc%5Etfw">#AI</a> image processing techniques to upscale <a href="https://twitter.com/hashtag/ProbaV?src=hash&amp;ref_src=twsrc%5Etfw">#ProbaV</a> data.<br>Congrats to Polytecnico di Torino for their winning solution.🛰️👏 - PROBA-V (@[PROBAVegetation](https://twitter.com/PROBAVegetation/status/1173540928600117248)) September 16, 2019
+<blockquote>Throwback to <a href="https://twitter.com/esa?ref_src=twsrc%5Etfw">@ESA</a>&#39;s first Kelvins Day where the finalists of the <a href="https://twitter.com/hashtag/ProbaV?src=hash&amp;ref_src=twsrc%5Etfw">#ProbaV</a> super resolution challenge presented their achievements with mixtures of classical &amp; <a href="https://twitter.com/hashtag/AI?src=hash&amp;ref_src=twsrc%5Etfw">#AI</a> image processing techniques to upscale <a href="https://twitter.com/hashtag/ProbaV?src=hash&amp;ref_src=twsrc%5Etfw">#ProbaV</a> data.<br>Congrats to Polytecnico di Torino for their winning solution.🛰️👏 - @[PROBAVegetation](https://twitter.com/PROBAVegetation/status/1173540928600117248) September 16, 2019
 </blockquote>
 
-En septembre 2019, après la [levée de fonds avec McKinsey et Co](https://www.cdpq.com/fr/actualites/communiques/element-ai-recueille-200m-ca-1514m-us-de-serie-b-pour-transformer-les), j'ai été licencié, pour motif économique. Un an plus tard, [ServiceNow](https://techcrunch.com/2020/11/30/servicenow-is-acquiring-element-ai-the-canadian-startup-building-ai-services-for-enterprises/) fait l'acquisition d'Element AI. Plusieurs collègues sont restés tombés en dépressions comme en parle Manon Gruaz dans son talk [CTRL+ALT+DEPRESSION](https://www.youtube.com/watch?v=MN3D0uLEERU&ab_channel=GDGFrance) au DevFest de Nantes 2022.
+In September 2019, after the [Series B fundraising with McKinsey and Co](https://www.cdpq.com/fr/actualites/communiques/element-ai-recueille-200m-ca-1514m-us-de-serie-b-pour-transformer-les), I was layed off, for economic reasons. One year later, [ServiceNow](https://techcrunch.com/2020/11/30/servicenow-is-acquiring-element-ai-the-canadian-startup-building-ai-services-for-enterprises/) acquired Element AI. Several colleagues experienced depression, as Manon Gruaz talks about in her talk [CTRL+ALT+DEPRESSION](https://www.youtube.com/watch?v=MN3D0uLEERU&ab_channel=GDGFrance) at DevFest de Nantes 2022.
 
-### From low to high resolution, using multiple snapshots
+### From low to high resolution
 
-{{< figure src="super-resolution/img3.png" caption="HighRes-net: Multi Frame Super Resolution by Recursive Fusion. [arxiv](https://arxiv.org/abs/2002.06460).">}}
+{{< figure src="super-resolution/img3.png" caption="Deudon, Michel, Alfredo Kalaitzis, Israel Goytom, Md Rifat Arefin, Zhichao Lin, Kris Sankaran, Vincent Michalski, Samira E. Kahou, Julien Cornebise, and Yoshua Bengio. HighRes-net: Multi Frame Super Resolution by Recursive Fusion. [arxiv preprint arXiv:2002.06460 (2020)](https://arxiv.org/abs/2002.06460).">}}
 
-Sans prendre en compte les coûts réels, la complexité des algorithmes, la consommation des modèles, la recherche optimise pour gagner quelques points sans vraie valeur ajoutée ou innovation. Pour gagner 1% il faut 10 à 100 fois plus d'énergie. Sur l'exemple du [concours de l'Agence Spatiale Européenne](https://kelvins.esa.int/proba-v-super-resolution/leaderboard/results),
-- Baseline sans IA. score 1.0
-- Modèle sans IA. score 0.95 @ledzeppelin
-- HighResNet. score 0.94 @rarefin (complexité logarithmique)
-- DeepSUM. score 0.94 @superpip (complexité linéaire, 1er en 2019)
-- TR-MISM. score 0.93 (complexité quadratique, 1er en 2022)
+Without taking into account the real costs, the complexity of the algorithms, the consumption of the models, the research optimizes to gain a few points without real added value or innovation. To gain 1% you need 10 to 100 times more energy. On the example of the [European Space Agency competition](https://kelvins.esa.int/proba-v-super-resolution/leaderboard/results),
+- Baseline without AI. rating 1.0
+- Model without AI. score 0.95 @ledzeppelin
+- [HighResNet](https://arxiv.org/abs/2002.06460). score 0.94 @rarefin (logarithmic complexity)
+- DeepSUM. score 0.94 @superpip (linear complexity, 1st in 2019)
+- TR-MISM. score 0.93 (quadratic complexity, 1st in 2022)
 
-## From Londres to Paris, from Proba-V to Sentinel-2
+## From Proba-V to Sentinel-2
 
-Avec le Brexit et le Covid, je suis rentré en France. Le 06/04/2020, l’agence spatiale européenne (ESA) a lancé un concours sur l’utilisation des images satellites en lien avec la crise COVID-19. Chaque semaine, un prix de 1 000 € était décerné.
+With Brexit and the Covid, I returned to France. On 06/04/2020, the European Space Agency (ESA) launched a competition on the use of satellite images in connection with the COVID-19 crisis. Each week, a prize of €1,000 was awarded.
 
-> <i>Mon objectif était de révéler plus de détails à partir de l'imagerie publique pour sensibiliser à l’environnement marin et sa protection</i>. Venise sans les bateaux. [Cnes.fr](https://spacegate.cnes.fr/fr/covid-19-venise-sans-les-bateaux)
+> <i>My goal was to reveal more details from public imagery to raise awareness of the marine environment and its protection.</i>. Venise sans les bateaux. [Cnes.fr](https://spacegate.cnes.fr/fr/covid-19-venise-sans-les-bateaux)
 
-L'idée a fini [3e dans le classement final](https://medium.com/sentinel-hub/race-upscaling-competition-results-8a339bb8c942), et n'a en conséquence pas été retenu, seul les deux premiers projets ont été séléctionnés pour le dashboard final pour la Commission Européenne. Le projet coup de coeur a été développé par Henrik Fisser à la fin de son stage chez Brockmann Consult, avec l'aide d'[Euro Data Cube](https://github.com/hfisser/Truck_Detection_Sentinel2_COVID19/commit/48bc8ab4cc431d8a044093cbd8c0385aff5511be), organisations partenaires du concours pour ESA (conflits d'intérêts?).
+The idea finished [3rd in the final ranking](https://medium.com/sentinel-hub/race-upscaling-competition-results-8a339bb8c942), and was therefore not retained, only the first two projects have been selected for the final dashboard for the European Commission. The favorite project was developed by Henrik Fisser at the end of his internship at Brockmann Consult, with the help of [Euro Data Cube](https://github.com/hfisser/Truck_Detection_Sentinel2_COVID19/commit/48bc8ab4cc431d8a044093cbd8c0385aff5511be), partner organizations of the competition for ESA (conflicts of interest?).
 
-Mon idée et mes algorithmes étaient initialement motivés par la décennie des Nations Unies sur les sciences océaniques pour le développement durable ({{< icon name="calendar" pack="fas" >}}  2021-2030, [UNESCO](https://fr.unesco.org/ocean-decade)) et le besoin de sensibiliser / protéger les zones maritimes et les Océans, mais le Covid a détourné l'attention des préoccupations écologiques. J'ai fini par reprendre des études en septembre 2020, au Collège des Ingénieurs, pour m'assurer une source de revenues minimum.
+My idea and algorithms were initially motivated by the United Nations Decade of Ocean Science for Sustainable Development ({{< icon name="calendar" pack="fas" >}} 2021-2030, [UNESCO](https://fr.unesco.org/ocean-decade)) and the need to raise awareness / protect maritime areas and the Oceans, but Covid has diverted attention from ecological concerns. I ended up returning to studies in September 2020, at the College des Ingénieurs, to have a minimum source of income.
 
-{{< figure src="super-resolution/img4.png" caption="Venise sans les bateaux. [spacegate.cnes.fr](https://spacegate.cnes.fr/fr/covid-19-venise-sans-les-bateaux).">}}
+{{< figure src="super-resolution/img4.png" caption="Venise sans les bateaux. [Cnes.fr](https://spacegate.cnes.fr/fr/covid-19-venise-sans-les-bateaux).">}}
 
-<blockquote><a href="https://twitter.com/hashtag/Covid19?src=hash&amp;ref_src=twsrc%5Etfw">#Covid19</a> Venise sans les bateaux, observée par les satellites européens <a href="https://twitter.com/hashtag/Sentinel2?src=hash&amp;ref_src=twsrc%5Etfw">#Sentinel2</a> 🛰️🇪🇺 <a href="https://twitter.com/CopernicusEU?ref_src=twsrc%5Etfw">@copernicuseu</a> - CNES (@[CNES](https://twitter.com/CNES/status/1261594992839208960)) May 16, 2020
+<blockquote><a href="https://twitter.com/hashtag/Covid19?src=hash&amp;ref_src=twsrc%5Etfw">#Covid19</a> Venise sans les bateaux, observée par les satellites européens <a href="https://twitter.com/hashtag/Sentinel2?src=hash&amp;ref_src=twsrc%5Etfw">#Sentinel2</a> 🛰️🇪🇺 <a href="https://twitter.com/CopernicusEU?ref_src=twsrc%5Etfw">@copernicuseu</a> - @[CNES](https://twitter.com/CNES/status/1261594992839208960) May 16, 2020
 </blockquote>
 
 ## Acknowledgments
-Grateful to Manon and Elena for the <b>communication and information design</b>.
-- [Manon Gruaz](https://manongruaz.com/)
-- [Elena Aversa](https://densitydesign.org/person/elena-aversa/)
+Grateful to [Manon Gruaz](https://manongruaz.com/), [Elena Aversa](https://densitydesign.org/person/elena-aversa/) for the communication and information design and Gaëlle Lahoreau.
 
 ## Références
 - Medium. @[Carre4](https://medium.com/carre4/monitoring-boat-traffic-with-public-satellites-be1c48d87802) @[sentinel-hub](https://medium.com/sentinel-hub/race-upscaling-competition-results-8a339bb8c942)
