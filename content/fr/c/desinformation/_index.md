@@ -66,45 +66,39 @@ Pour valider le module, il faut compléter un QCM final (50% des points) et réa
 
 ## References
 
-> [Sommes-nous toujours en démocratie ?](https://www.blast-info.fr/articles/2023/sommes-nous-toujours-en-democratie-AwJ1_TmlTM-ONwHybrhuqQ). Blast, le souffle de l'info. 2023.
+> [Sommes-nous toujours en démocratie ?](https://www.blast-info.fr/articles/2023/sommes-nous-toujours-en-democratie-AwJ1_TmlTM-ONwHybrhuqQ) Blast. 2023.
 
-> [Publication du 6e rapport de synthèse du GIEC](https://www.ecologie.gouv.fr/publication-du-6e-rapport-synthese-du-giec). ecologie.gouv.fr. 2023.
-
-> [La France fait face à un fort regain de climatoscepticisme sur Twitter](https://www.lemonde.fr/planete/article/2023/02/13/la-france-fait-face-a-un-fort-regain-de-climatoscepticisme-sur-twitter_6161691_3244.html). Le Monde. 2023.
+> [6e rapport de synthèse du GIEC](https://www.ecologie.gouv.fr/publication-du-6e-rapport-synthese-du-giec). ecologie.gouv.fr. 2023.
 
 > David Chavalarias, Paul Bouchaud, Victor Chomel et Maziyar Panahi. [Climatosceptiques : sur Twitter, enquête sur les mercenaires de l’intox](https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox). CNRS. 2023.
 
 > [Sécheresse : 32 jours sans pluie en France, record battu](https://meteofrance.com/actualites-et-dossiers/actualites/climat/secheresse-32-jours-sans-pluie-en-france-record-battu). Meteo France. 2023.
 
-> Rae CL, Farley M, Jeffery KJ, Urai AE. [Climate crisis and ecological emergency: Why they concern (neuro) scientists, and what we can do](https://journals.sagepub.com/doi/pdf/10.1177/23982128221075430). Brain and Neuroscience Advances. 2022.
+> [Le déreglement climatique: perception, information et désinformation](https://www.fondationdescartes.org/2023/01/revivez-le-colloque-le-dereglement-climatique-perception-information-et-desinformation/). Fondation Descartes. 2023.
+
+> Rae CL, Farley M, Jeffery KJ, Urai AE. [Crise climatique et urgence écologique : pourquoi elles concernent les (neuro)scientifiques, et ce que nous pouvons faire](https://journals.sagepub.com/doi/pdf/10.1177/23982128221075430). Brain and Neuroscience Advances. 2022.
 
 > Manon Gruaz. [Ctrl+Alt+Depression](https://www.youtube.com/watch?v=MN3D0uLEERU&ab_channel=GDGFrance). DevFest Nantes. 2022. 
 
+> Philippe Testard-Vaillant et Charline Zeitoun. [Internet, l’autoroute de la désinformation ?](https://lejournal.cnrs.fr/articles/internet-lautoroute-de-la-desinformation). CNRS. 2022.
+
 > David Chavalarias. [Toxic Data. Comment les réseaux manipulent nos opinions](https://editions.flammarion.com/toxic-data/9782080274946). Éditions Flammarion. 2022.
 
-> [Google and France’s Engie Team Up to Accelerate Wind Power](https://www.bloomberg.com/news/articles/2022-06-01/google-and-france-s-engie-team-up-to-accelerate-wind-power#xj4y7vzkg?leadSource=uverify%20wall). Bloomberg. 2022.
+> [Synthèse de la Commission Broner: Les Lumières à l'ère numérique.](https://www.fondationdescartes.org/wp-content/uploads/2022/01/Synthe%CC%80se_Commission_Bronner-copie.pdf). Fondation Descartes. 2022.
 
-> Michel, Paul, Omer Levy, and Graham Neubig. [Are sixteen heads really better than one?](https://proceedings.neurips.cc/paper/2019/hash/2c601ad9d2ff9bc8b282670cdd54f69f-Abstract.html) NeurIPS. 2019.
+> Kate Jeffery. [La psychologie de l'inaction climatique](https://www.ucl.ac.uk/play/ucl-talks/ucl-minds-lunch-hour-lectures/lunch-hour-lecture-psychology-climate-inaction). UCL. 2019.
 
-> Kate Jeffery. [Lunch Hour Lecture: The Psychology of Climate Inaction](https://www.ucl.ac.uk/play/ucl-talks/ucl-minds-lunch-hour-lectures/lunch-hour-lecture-psychology-climate-inaction). UCL. 2019.
+> Karen Hao. [L'entraînement d'un seul modèle d'IA peut émettre autant de carbone que cinq voitures au cours de leur vie](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/). MIT Technology Review. 2019.
 
-> Karen Hao. [Training a single AI model can emit as much carbon as five cars in their lifetimes](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/). MIT Technology Review. 2019.
+> Emma Strubell, Ganesh Ananya and Andrew McCallum. [Considérations énergétiques et politiques pour l'apprentissage en profondeur en PNL](https://arxiv.org/abs/1906.02243). In the 57th Annual Meeting of the Association for Computational Linguistics (ACL). Florence, Italy. 2019.
 
-> Emma Strubell, Ganesh Ananya and Andrew McCallum. [Energy and policy considerations for deep learning in NLP](https://arxiv.org/abs/1906.02243). arXiv preprint arXiv:1906.02243 (2019). Published in the 57th Annual Meeting of the Association for Computational Linguistics (ACL). Florence, Italy. 2019.
+> [Une IA qui écrit une prose convaincante risque de produire en masse de fausses nouvelles](https://www.technologyreview.com/2019/02/14/137426/an-ai-tool-auto-generates-fake-news-bogus-tweets-and-plenty-of-gibberish/). MIT Technology Review. 2019
 
-> [An AI that writes convincing prose risks mass-producing fake news](https://www.technologyreview.com/2019/02/14/137426/an-ai-tool-auto-generates-fake-news-bogus-tweets-and-plenty-of-gibberish/). MIT Technology Review. 2019
+> Laure Delisle et al. [Une analyse participative à grande échelle des abus contre les femmes journalistes et politiciennes sur Twitter](https://arxiv.org/abs/1902.03093). NeurIPS. 2018.
 
-> Laure Delisle et al. [A large-scale crowdsourced analysis of abuse against women journalists and politicians on Twitter](https://arxiv.org/abs/1902.03093). NeurIPS. 2018.
-
-> Garg Nikhil, Londa Schiebinger, Dan Jurafsky and James Zou. [Word embeddings quantify 100 years of gender and ethnic stereotypes](https://www.pnas.org/doi/10.1073/pnas.1720347115). Proceedings of the National Academy of Sciences 115, no. 16 (2018): E3635-E3644.
-
-> [Rencontres économiques d’Aix-en-Provence : un regard sur le monde Demain](https://www.bpifrance.fr/nos-actualites/rencontres-economiques-daix-en-provence-un-regard-sur-le-monde-demain). BPI. 2018.
-
-> Morgane Tual et Vincent Fagot. [Intelligence artificielle : ce qu’il faut retenir du rapport de Cédric Villani](https://www.lemonde.fr/pixels/article/2018/03/28/intelligence-artificielle-ce-qu-il-faut-retenir-du-rapport-de-cedric-villani_5277697_4408996.html). Le Monde. 2018.
+> Garg Nikhil, Londa Schiebinger, Dan Jurafsky and James Zou. [Les plongements de mots quantifient 100 ans de stéréotypes de genre et ethniques](https://www.pnas.org/doi/10.1073/pnas.1720347115). Proceedings of the National Academy of Sciences. 2018.
 
 > [Rapport Cédric Villani : Donner un sens à l'intelligence artificielle](https://www.enseignementsup-recherche.gouv.fr/fr/rapport-de-cedric-villani-donner-un-sens-l-intelligence-artificielle-ia-49194). enseignementsup-recherche.gouv.fr. 2018.
-
-> Morgane Tual. [Cédric Villani : « L’intelligence artificielle est l’affaire de tout le monde »](https://www.lemonde.fr/pixels/article/2017/09/09/cedric-villani-l-intelligence-artificielle-est-l-affaire-de-tout-le-monde_5183163_4408996.html). Le Monde. 2017
 
 > [Rapport Stratégie France I.A., pour le développement des technologies d'intelligence artificielle](https://www.enseignementsup-recherche.gouv.fr/fr/rapport-strategie-france-ia-pour-le-developpement-des-technologies-d-intelligence-artificielle-47691). enseignementsup-recherche.gouv.fr. 2017.
 
@@ -117,5 +111,7 @@ Pour valider le module, il faut compléter un QCM final (50% des points) et réa
 > [Loi relative à l'accélération des énergies renouvelables](https://www.ecologie.gouv.fr/publication-loi-relative-lacceleration-des-energies-renouvelables). ecologie.gouv.fr. 2023
 
 > [Loi n° 2021-1104 portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043956924). legifrance.gouv.fr. 2021.
+
+> [Loi n° 2018-1202 relative à la lutte contre la manipulation de l'information](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037847559). legifrance.gouv.fr. 2018.
 
 > [Règlement Général sur la Protection des Données](https://www.cnil.fr/fr/rgpd-de-quoi-parle-t-on). CNIL. 2018.
