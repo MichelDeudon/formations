@@ -68,49 +68,47 @@ Pour valider le module, il faut compléter un QCM final (50% des points) et réa
 
 ### 2023
 
-> [Sommes-nous toujours en démocratie ?](https://www.blast-info.fr/articles/2023/sommes-nous-toujours-en-democratie-AwJ1_TmlTM-ONwHybrhuqQ) Blast. 2023.
+> [Sommes-nous toujours en démocratie ?](https://www.blast-info.fr/articles/2023/sommes-nous-toujours-en-democratie-AwJ1_TmlTM-ONwHybrhuqQ) Blast.
 
-> [6e rapport de synthèse du GIEC](https://www.ecologie.gouv.fr/publication-du-6e-rapport-synthese-du-giec). ecologie.gouv.fr. 2023.
+> [6e rapport de synthèse du GIEC](https://www.ecologie.gouv.fr/publication-du-6e-rapport-synthese-du-giec). ecologie.gouv.fr.
 
-> David Chavalarias, Paul Bouchaud, Victor Chomel et Maziyar Panahi. [Climatosceptiques : sur Twitter, enquête sur les mercenaires de l’intox](https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox). CNRS. 2023.
+> David Chavalarias, Paul Bouchaud, Victor Chomel et Maziyar Panahi. [Climatosceptiques : sur Twitter, enquête sur les mercenaires de l’intox](https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox). CNRS.
 
-> [Sécheresse : 32 jours sans pluie en France, record battu](https://meteofrance.com/actualites-et-dossiers/actualites/climat/secheresse-32-jours-sans-pluie-en-france-record-battu). Meteo France. 2023.
+> [Sécheresse : 32 jours sans pluie en France, record battu](https://meteofrance.com/actualites-et-dossiers/actualites/climat/secheresse-32-jours-sans-pluie-en-france-record-battu). Meteo France.
 
-> [Le déreglement climatique: perception, information et désinformation](https://www.fondationdescartes.org/2023/01/revivez-le-colloque-le-dereglement-climatique-perception-information-et-desinformation/). Fondation Descartes. 2023.
+> [Le déreglement climatique: perception, information et désinformation](https://www.fondationdescartes.org/2023/01/revivez-le-colloque-le-dereglement-climatique-perception-information-et-desinformation/). Fondation Descartes.
 
 ### 2022
 
-> Rae CL, Farley M, Jeffery KJ, Urai AE. [Crise climatique et urgence écologique : pourquoi elles concernent les (neuro)scientifiques, et ce que nous pouvons faire](https://journals.sagepub.com/doi/pdf/10.1177/23982128221075430). Brain and Neuroscience Advances. 2022.
+> Rae CL, Farley M, Jeffery KJ, Urai AE. [Crise climatique et urgence écologique : pourquoi elles concernent les (neuro)scientifiques, et ce que nous pouvons faire](https://journals.sagepub.com/doi/pdf/10.1177/23982128221075430). Brain and Neuroscience Advances.
 
-> Manon Gruaz. [Ctrl+Alt+Depression](https://www.youtube.com/watch?v=MN3D0uLEERU&ab_channel=GDGFrance). DevFest Nantes. 2022. 
+> Philippe Testard-Vaillant et Charline Zeitoun. [Internet, l’autoroute de la désinformation ?](https://lejournal.cnrs.fr/articles/internet-lautoroute-de-la-desinformation) CNRS.
 
-> Philippe Testard-Vaillant et Charline Zeitoun. [Internet, l’autoroute de la désinformation ?](https://lejournal.cnrs.fr/articles/internet-lautoroute-de-la-desinformation) CNRS. 2022.
+> David Chavalarias. [Toxic Data. Comment les réseaux manipulent nos opinions](https://editions.flammarion.com/toxic-data/9782080274946). Éditions Flammarion.
 
-> David Chavalarias. [Toxic Data. Comment les réseaux manipulent nos opinions](https://editions.flammarion.com/toxic-data/9782080274946). Éditions Flammarion. 2022.
-
-> [Synthèse de la Commission Broner: Les Lumières à l'ère numérique.](https://www.fondationdescartes.org/wp-content/uploads/2022/01/Synthe%CC%80se_Commission_Bronner-copie.pdf) Fondation Descartes. 2022.
+> [Synthèse de la Commission Broner: Les Lumières à l'ère numérique.](https://www.fondationdescartes.org/wp-content/uploads/2022/01/Synthe%CC%80se_Commission_Bronner-copie.pdf) Fondation Descartes.
 
 ### 2019
 
-> Kate Jeffery. [La psychologie de l'inaction climatique](https://www.ucl.ac.uk/play/ucl-talks/ucl-minds-lunch-hour-lectures/lunch-hour-lecture-psychology-climate-inaction). UCL. 2019.
+> Kate Jeffery. [La psychologie de l'inaction climatique](https://www.ucl.ac.uk/play/ucl-talks/ucl-minds-lunch-hour-lectures/lunch-hour-lecture-psychology-climate-inaction). UCL.
 
-> Karen Hao. [L'entraînement d'un seul modèle d'IA peut émettre autant de carbone que cinq voitures au cours de leur vie](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/). MIT Revue Technologique. 2019.
+> Karen Hao. [L'entraînement d'un seul modèle d'IA peut émettre autant de carbone que cinq voitures au cours de leur vie](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/). MIT Revue Technologique.
 
-> Emma Strubell, Ganesh Ananya et Andrew McCallum. [Considérations énergétiques et politiques pour l'apprentissage en profondeur en PNL](https://arxiv.org/abs/1906.02243). 57e réunion annuelle de l'Association for Computational Linguistics (ACL). Florence, Italie. 2019.
+> Emma Strubell, Ganesh Ananya et Andrew McCallum. [Considérations énergétiques et politiques pour l'apprentissage en profondeur en PNL](https://arxiv.org/abs/1906.02243). 57e réunion annuelle de l'Association for Computational Linguistics (ACL). Florence, Italie.
 
-> [Une IA qui écrit une prose convaincante risque de produire en masse de fausses nouvelles](https://www.technologyreview.com/2019/02/14/137426/an-ai-tool-auto-generates-fake-news-bogus-tweets-and-plenty-of-gibberish/). MIT Revue Technologique. 2019
+> [Une IA qui écrit une prose convaincante risque de produire en masse de fausses nouvelles](https://www.technologyreview.com/2019/02/14/137426/an-ai-tool-auto-generates-fake-news-bogus-tweets-and-plenty-of-gibberish/). MIT Revue Technologique.
 
 ### 2018
 
-> Laure Delisle et al. [Une analyse participative à grande échelle des abus contre les femmes journalistes et politiciennes sur Twitter](https://arxiv.org/abs/1902.03093). NeurIPS. 2018.
+> Laure Delisle et al. [Une analyse participative à grande échelle des abus contre les femmes journalistes et politiciennes sur Twitter](https://arxiv.org/abs/1902.03093). NeurIPS.
 
-> Garg Nikhil, Londa Schiebinger, Dan Jurafsky et James Zou. [Les plongements de mots quantifient 100 ans de stéréotypes de genre et ethniques](https://www.pnas.org/doi/10.1073/pnas.1720347115). Proceedings of the National Academy of Sciences. 2018.
+> Garg Nikhil, Londa Schiebinger, Dan Jurafsky et James Zou. [Les plongements de mots quantifient 100 ans de stéréotypes de genre et ethniques](https://www.pnas.org/doi/10.1073/pnas.1720347115). Proceedings of the National Academy of Sciences.
 
-> [Rapport Cédric Villani : Donner un sens à l'intelligence artificielle](https://www.enseignementsup-recherche.gouv.fr/fr/rapport-de-cedric-villani-donner-un-sens-l-intelligence-artificielle-ia-49194). gouv.fr. 2018.
+> [Rapport Cédric Villani : Donner un sens à l'intelligence artificielle](https://www.enseignementsup-recherche.gouv.fr/fr/rapport-de-cedric-villani-donner-un-sens-l-intelligence-artificielle-ia-49194). gouv.fr.
 
 ### 2017
 
-> [Rapport Stratégie France I.A., pour le développement des technologies d'intelligence artificielle](https://www.enseignementsup-recherche.gouv.fr/fr/rapport-strategie-france-ia-pour-le-developpement-des-technologies-d-intelligence-artificielle-47691). gouv.fr. 2017.
+> [Rapport Stratégie France I.A., pour le développement des technologies d'intelligence artificielle](https://www.enseignementsup-recherche.gouv.fr/fr/rapport-strategie-france-ia-pour-le-developpement-des-technologies-d-intelligence-artificielle-47691). gouv.fr.
 
 > [L'outil en ligne anti greenwashing](https://communication-responsable.ademe.fr/antigreenwashing). Ademe. 
 
