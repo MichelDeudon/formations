@@ -33,7 +33,7 @@ In September 2019, after the [Series B fundraising with McKinsey and Co](https:/
 
 {{< figure src="super-resolution/img3.png" caption="Deudon, Michel, Alfredo Kalaitzis, Israel Goytom, Md Rifat Arefin, Zhichao Lin, Kris Sankaran, Vincent Michalski, Samira E. Kahou, Julien Cornebise, and Yoshua Bengio. HighRes-net: Multi Frame Super Resolution by Recursive Fusion. [arxiv preprint arXiv:2002.06460 (2020)](https://arxiv.org/abs/2002.06460). Design by [Manon Gruaz](https://manongruaz.com/).">}}
 
-Without taking into account the real costs, the complexity of the algorithms, the consumption of the models, AI research helps gain a few points without real added value or innovation. To gain 1% you need 10 to 100 times more energy. On the example of the [European Space Agency competition](https://kelvins.esa.int/proba-v-super-resolution/leaderboard/results),
+Without taking into account the real costs, the complexity of the algorithms, the consumption of the models, AI research helps gain 1% with 10 to 100 times more energy. On the example of the [European Space Agency competition](https://kelvins.esa.int/proba-v-super-resolution/leaderboard/results),
 - Baseline without AI. rating 1.0
 - Model without AI. score 0.95 @ledzeppelin
 - [HighResNet](https://arxiv.org/abs/2002.06460). score 0.94 @rarefin (logarithmic complexity)
