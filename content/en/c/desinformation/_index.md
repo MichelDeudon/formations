@@ -80,11 +80,11 @@ Yes! To validate the course, you must complete a final multiple choice quizz (50
 
 > Manon Gruaz. [Ctrl+Alt+Depression](https://www.youtube.com/watch?v=MN3D0uLEERU&ab_channel=GDGFrance). DevFest Nantes. 2022.
 
-> Philippe Testard-Vaillant and Charline Zeitoun. [Internet, the disinformation highway?](https://lejournal.cnrs.fr/articles/internet-lautoroute-de-la-desinformation). CNRS. 2022.
+> Philippe Testard-Vaillant and Charline Zeitoun. [Internet, the disinformation highway?](https://lejournal.cnrs.fr/articles/internet-lautoroute-de-la-desinformation) CNRS. 2022.
 
 > David Chavalarias. [Toxic Data. How networks manipulate our opinions](https://editions.flammarion.com/toxic-data/9782080274946). Editions Flammarion. 2022.
 
-> [Synthesis of the Broner Commission: Enlightenment in the digital age.](https://www.fondationdescartes.org/wp-content/uploads/2022/01/Synthe%CC%80se_Commission_Bronner-copie.pdf). Descartes Foundation. 2022.
+> [Synthesis of the Broner Commission: Enlightenment in the digital age.](https://www.fondationdescartes.org/wp-content/uploads/2022/01/Synthe%CC%80se_Commission_Bronner-copie.pdf) Descartes Foundation. 2022.
 
 > Kate Jeffery. [The Psychology of Climate Inaction](https://www.ucl.ac.uk/play/ucl-talks/ucl-minds-lunch-hour-lectures/lunch-hour-lecture-psychology-climate- inaction). UCL. 2019.
 
@@ -98,17 +98,15 @@ Yes! To validate the course, you must complete a final multiple choice quizz (50
 
 > Garg Nikhil, Londa Schiebinger, Dan Jurafsky and James Zou. [Word embeddings quantify 100 years of gender and ethnic stereotypes](https://www.pnas.org/doi/10.1073/pnas.1720347115). Proceedings of the National Academy of Sciences. 2018.
 
-> [Cédric Villani report: Giving meaning to artificial intelligence](https://www.enseignementsup-recherche.gouv.fr/fr/rapport-de-cedric-villani-donner-un-sens-l-intelligence- artificial-ia-49194). teachingsup-recherche.gouv.fr. 2018.
+> [Cédric Villani report: Giving meaning to artificial intelligence](https://www.enseignementsup-recherche.gouv.fr/fr/rapport-de-cedric-villani-donner-un-sens-l-intelligence- artificial-ia-49194). gouv.fr. 2018.
 
-> [France I.A. Strategy Report, for the development of artificial intelligence technologies](https://www.enseignementsup-recherche.gouv.fr/fr/rapport-strategie-france-ia-pour-le-developpement-des- artificial-intelligence-technologies-47691). teachingsup-recherche.gouv.fr. 2017.
+> [France I.A. Strategy Report, for the development of artificial intelligence technologies](https://www.enseignementsup-recherche.gouv.fr/fr/rapport-strategie-france-ia-pour-le-developpement-des- artificial-intelligence-technologies-47691). gouv.fr. 2017.
 
 > [The online anti-greenwashing tool](https://communication-responsable.ademe.fr/antigreenwashing). Ademe.
 
 > [Anti greenwashing guide](https://pour-un-reveil-ecologique.org/fr/les-entreprises-nous-repondent/#guide-anti-greenwashing). For an Ecological Awakening.
 
 ## Legislation
-
-> [Law on the acceleration of renewable energies](https://www.ecologie.gouv.fr/publication-loi-relative-acceleration-des-energies-renouvelables). ecologie.gouv.fr. 2023
 
 > [Law No. 2021-1104 on tackling climate change and strengthening resilience to its effects](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043956924). legifrance.gouv.fr. 2021.
 

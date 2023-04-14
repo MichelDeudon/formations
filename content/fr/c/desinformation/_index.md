@@ -80,35 +80,33 @@ Pour valider le module, il faut compléter un QCM final (50% des points) et réa
 
 > Manon Gruaz. [Ctrl+Alt+Depression](https://www.youtube.com/watch?v=MN3D0uLEERU&ab_channel=GDGFrance). DevFest Nantes. 2022. 
 
-> Philippe Testard-Vaillant et Charline Zeitoun. [Internet, l’autoroute de la désinformation ?](https://lejournal.cnrs.fr/articles/internet-lautoroute-de-la-desinformation). CNRS. 2022.
+> Philippe Testard-Vaillant et Charline Zeitoun. [Internet, l’autoroute de la désinformation ?](https://lejournal.cnrs.fr/articles/internet-lautoroute-de-la-desinformation) CNRS. 2022.
 
 > David Chavalarias. [Toxic Data. Comment les réseaux manipulent nos opinions](https://editions.flammarion.com/toxic-data/9782080274946). Éditions Flammarion. 2022.
 
-> [Synthèse de la Commission Broner: Les Lumières à l'ère numérique.](https://www.fondationdescartes.org/wp-content/uploads/2022/01/Synthe%CC%80se_Commission_Bronner-copie.pdf). Fondation Descartes. 2022.
+> [Synthèse de la Commission Broner: Les Lumières à l'ère numérique.](https://www.fondationdescartes.org/wp-content/uploads/2022/01/Synthe%CC%80se_Commission_Bronner-copie.pdf) Fondation Descartes. 2022.
 
 > Kate Jeffery. [La psychologie de l'inaction climatique](https://www.ucl.ac.uk/play/ucl-talks/ucl-minds-lunch-hour-lectures/lunch-hour-lecture-psychology-climate-inaction). UCL. 2019.
 
-> Karen Hao. [L'entraînement d'un seul modèle d'IA peut émettre autant de carbone que cinq voitures au cours de leur vie](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/). MIT Technology Review. 2019.
+> Karen Hao. [L'entraînement d'un seul modèle d'IA peut émettre autant de carbone que cinq voitures au cours de leur vie](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/). MIT Revue Technologique. 2019.
 
-> Emma Strubell, Ganesh Ananya and Andrew McCallum. [Considérations énergétiques et politiques pour l'apprentissage en profondeur en PNL](https://arxiv.org/abs/1906.02243). In the 57th Annual Meeting of the Association for Computational Linguistics (ACL). Florence, Italy. 2019.
+> Emma Strubell, Ganesh Ananya et Andrew McCallum. [Considérations énergétiques et politiques pour l'apprentissage en profondeur en PNL](https://arxiv.org/abs/1906.02243). 57e réunion annuelle de l'Association for Computational Linguistics (ACL). Florence, Italie. 2019.
 
-> [Une IA qui écrit une prose convaincante risque de produire en masse de fausses nouvelles](https://www.technologyreview.com/2019/02/14/137426/an-ai-tool-auto-generates-fake-news-bogus-tweets-and-plenty-of-gibberish/). MIT Technology Review. 2019
+> [Une IA qui écrit une prose convaincante risque de produire en masse de fausses nouvelles](https://www.technologyreview.com/2019/02/14/137426/an-ai-tool-auto-generates-fake-news-bogus-tweets-and-plenty-of-gibberish/). MIT Revue Technologique. 2019
 
 > Laure Delisle et al. [Une analyse participative à grande échelle des abus contre les femmes journalistes et politiciennes sur Twitter](https://arxiv.org/abs/1902.03093). NeurIPS. 2018.
 
-> Garg Nikhil, Londa Schiebinger, Dan Jurafsky and James Zou. [Les plongements de mots quantifient 100 ans de stéréotypes de genre et ethniques](https://www.pnas.org/doi/10.1073/pnas.1720347115). Proceedings of the National Academy of Sciences. 2018.
+> Garg Nikhil, Londa Schiebinger, Dan Jurafsky et James Zou. [Les plongements de mots quantifient 100 ans de stéréotypes de genre et ethniques](https://www.pnas.org/doi/10.1073/pnas.1720347115). Proceedings of the National Academy of Sciences. 2018.
 
-> [Rapport Cédric Villani : Donner un sens à l'intelligence artificielle](https://www.enseignementsup-recherche.gouv.fr/fr/rapport-de-cedric-villani-donner-un-sens-l-intelligence-artificielle-ia-49194). enseignementsup-recherche.gouv.fr. 2018.
+> [Rapport Cédric Villani : Donner un sens à l'intelligence artificielle](https://www.enseignementsup-recherche.gouv.fr/fr/rapport-de-cedric-villani-donner-un-sens-l-intelligence-artificielle-ia-49194). gouv.fr. 2018.
 
-> [Rapport Stratégie France I.A., pour le développement des technologies d'intelligence artificielle](https://www.enseignementsup-recherche.gouv.fr/fr/rapport-strategie-france-ia-pour-le-developpement-des-technologies-d-intelligence-artificielle-47691). enseignementsup-recherche.gouv.fr. 2017.
+> [Rapport Stratégie France I.A., pour le développement des technologies d'intelligence artificielle](https://www.enseignementsup-recherche.gouv.fr/fr/rapport-strategie-france-ia-pour-le-developpement-des-technologies-d-intelligence-artificielle-47691). gouv.fr. 2017.
 
 > [L'outil en ligne anti greenwashing](https://communication-responsable.ademe.fr/antigreenwashing). Ademe. 
 
 > [Guide anti greenwashing](https://pour-un-reveil-ecologique.org/fr/les-entreprises-nous-repondent/#guide-anti-greenwashing). Pour un Réveil Écologique.
 
 ## Textes de loi
-
-> [Loi relative à l'accélération des énergies renouvelables](https://www.ecologie.gouv.fr/publication-loi-relative-lacceleration-des-energies-renouvelables). ecologie.gouv.fr. 2023
 
 > [Loi n° 2021-1104 portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043956924). legifrance.gouv.fr. 2021.
 
