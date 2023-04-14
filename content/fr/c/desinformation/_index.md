@@ -21,7 +21,7 @@ tags:
 À la fin de cette formation, les participants seront capables d'{{<hl>}}identifier et lutter contre la désinformation{{</hl>}} et {{<hl>}}recentrer l'attention pour débattre en société{{</hl>}}. Les participants seront capable d'{{<hl>}}expliquer ce qu'est la pollution invisible{{</hl>}}, les liens entre IA, énergie et climat, en s'appuyant sur des travaux scientifiques et observations.
 
 {{< callout warning >}}
-Mars 2023. ChatGPT : pourquoi la ville de Montpellier interdit à ses agents d’utiliser l'intelligence artificielle. [France-3 Regions](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/chatgpt-revolutionnaire-mais-qui-inquiete-pourquoi--2742446.html).
+Mars 2023. La ville de Montpellier interdit à ses agents d’utiliser ChatGPT. [France-3 Regions](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/chatgpt-revolutionnaire-mais-qui-inquiete-pourquoi--2742446.html).
 {{< /callout >}}
 
 ## Présentation
@@ -38,7 +38,7 @@ De 2014 à 2018, la France définissait [une feuille de route](https://www.mtpco
 
 En août 2021, la <b>Convention citoyenne pour le climat</b> et ses 146 propositions sont en partie traduites dans la [loi n° 2021-1104 portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043956924) du Code de l'Environnement. La France a été condamnée pour inaction climatique en octobre 2021 par le tribunal administratif de Paris suite à l'[affaire du siècle](https://www.vie-publique.fr/en-bref/282012-changement-climatique-la-france-condamnee-pour-prejudice-ecologique). <i>L'État a l’obligation de respecter sa trajectoire de réduction d’émissions de gaz à effet de serre et doit réparer tout dépassement, d’ici le <b>31 décembre 2022</b>. Chaque sortie de route sur la trajectoire climatique constitue à présent une faute qui DOIT être réparée.</i>
 
-Après une année 2022 [record de chaleur en France](https://meteofrance.com/actualites-et-dossiers/actualites/2022-annee-la-plus-chaude-en-france) et dans un contexte de crise énérgétique et guerre en Europe, l'hiver 2023 a été marqué par un [record de sécheresse en France](https://meteofrance.com/actualites-et-dossiers/actualites/climat/secheresse-32-jours-sans-pluie-en-france-record-battu) et des records de consommations énergétique avec ChatGPT3, LLaMA de Facebook AI Research (FAIR Paris), ChatGPT4... au profit de quelques ingénieurs francais et investisseurs.
+Après une année 2022 [record de chaleur en France](https://meteofrance.com/actualites-et-dossiers/actualites/2022-annee-la-plus-chaude-en-france) et dans un contexte de crise énérgétique et guerre en Europe, l'hiver 2023 a été marqué par un [record de sécheresse en France](https://meteofrance.com/actualites-et-dossiers/actualites/climat/secheresse-32-jours-sans-pluie-en-france-record-battu) et des records de consommations énergétique avec ChatGPT3, LLaMA de Facebook AI Research (FAIR Paris), ChatGPT4... au profit de quelques ingénieurs francais et investisseurs. L'hiver s'est achevé sur la faillite de Silicon Valley Bank, l'acquisition du Crédit Suisse par UBS et une crise sociale en France.
 
 Dans ce cours vous apprendrez à repérer [le greenwashing, les conflits d'intérêt](https://www.mtpcours.fr/c/desinformation/greenwashing/), les fake news et à lutter contre la désinformation en [réinvestissant durablement votre temps, énergie et attention](https://www.mtpcours.fr/c/desinformation/pratique/). 
 
@@ -65,6 +65,18 @@ Pour valider le module, il faut compléter un QCM final (50% des points) et réa
 {{< /spoiler >}}
 
 ## References
+
+### Textes de loi
+
+{{< callout warning >}}
+Avril 2023. La start-up française Doctrine rachetée par un fonds américain.
+{{< /callout >}}
+
+> [Loi n° 2021-1104 portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043956924). legifrance.gouv.fr. 2021.
+
+> [Loi n° 2018-1202 relative à la lutte contre la manipulation de l'information](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037847559). legifrance.gouv.fr. 2018.
+
+> [Règlement Général sur la Protection des Données](https://www.cnil.fr/fr/rgpd-de-quoi-parle-t-on). CNIL. 2018.
 
 ### 2023
 
@@ -113,11 +125,3 @@ Pour valider le module, il faut compléter un QCM final (50% des points) et réa
 > [L'outil en ligne anti greenwashing](https://communication-responsable.ademe.fr/antigreenwashing). Ademe. 
 
 > [Guide anti greenwashing](https://pour-un-reveil-ecologique.org/fr/les-entreprises-nous-repondent/#guide-anti-greenwashing). Pour un Réveil Écologique.
-
-## Textes de loi
-
-> [Loi n° 2021-1104 portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043956924). legifrance.gouv.fr. 2021.
-
-> [Loi n° 2018-1202 relative à la lutte contre la manipulation de l'information](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037847559). legifrance.gouv.fr. 2018.
-
-> [Règlement Général sur la Protection des Données](https://www.cnil.fr/fr/rgpd-de-quoi-parle-t-on). CNIL. 2018.

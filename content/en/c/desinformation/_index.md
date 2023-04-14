@@ -38,7 +38,7 @@ From 2014 to 2018, France defined [a roadmap](https://www.mtpcours.fr/en/c/desin
 
 In August 2021, the <b>Citizen's Climate Convention</b> and 146 proposals were in part translated in the [law n° 2021-1104 on the fight against climate change and strengthening resilience to its effects](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043956924) of the Code of the Environment. France was sentenced for climate inaction in October 2021 by the administrative court of Paris following the [case of the century](https://www.vie-publique.fr/en-bref/282012-changement-climatique-la-france-condamnee-pour-prejudice-ecologique). <i>The State has an obligation to respect its greenhouse gas emissions reduction trajectory and must repair any overrun by <b>December 31, 2022</b>. Each departure from the road on the climate trajectory now constitutes a fault which MUST be repaired</i>.
 
-After a [heat record in France](https://meteofrance.com/actualites-et-dossiers/actualites/2022-annee-la-plus-chaude-en-france) in 2022 and in a context of energy crisis and war in Europe, the winter 2023 was marked by a [drought record in France](https://meteofrance.com/actualites-et-dossiers/actualites/climat/secheresse-32-jours-sans-pluie-en-france-record-battu) and energy consumption records with ChatGPT3, LLaMA from Facebook AI Research (FAIR Paris), ChatGPT4... for the benefit of a few French engineers and investors.
+After a [heat record in France](https://meteofrance.com/actualites-et-dossiers/actualites/2022-annee-la-plus-chaude-en-france) in 2022 and in a context of energy crisis and war in Europe, the winter 2023 was marked by a [drought record in France](https://meteofrance.com/actualites-et-dossiers/actualites/climat/secheresse-32-jours-sans-pluie-en-france-record-battu) and energy consumption records with ChatGPT3, LLaMA from Facebook AI Research (FAIR Paris), ChatGPT4... for the benefit of a few French engineers and investors. The winter ended with the bankruptcy of Silicon Valley Bank, the acquisition of Credit Suisse by UBS and a social crisis in France.
 
 In this course, you will learn how to spot [greenwashing, conflicts of interest](https://www.mtpcours.fr/en/c/desinformation/greenwashing/), fake news and fight against disinformation by [reinvesting your time, energy and attention in sustainable development](https://www.mtpcours.fr/en/c/desinformation/pratique/).
 
@@ -66,13 +66,25 @@ Yes! To validate the course, you must complete a final multiple choice quizz (50
 
 ## References
 
+### Legislation
+
+{{< callout warning >}}
+April 2023. An American fund acquired the French start-up Doctrine.
+{{< /callout >}}
+
+> [Law No. 2021-1104 on tackling climate change and strengthening resilience to its effects](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043956924). legifrance.gouv.fr. 2021.
+
+> [Law No. 2018-1202 on the fight against the manipulation of information](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037847559). legifrance.gouv.fr. 2018.
+
+> [General Data Protection Regulation](https://www.cnil.fr/fr/rgpd-de-quoi-parle-t-on). CNIL. 2018.
+
 ### 2023
 
 > [Are we still in democracy?](https://www.blast-info.fr/articles/2023/sommes-nous-toujours-en-democratie-AwJ1_TmlTM-ONwHybrhuqQ) Blast.
 
 > [6th IPCC summary report](https://www.ecologie.gouv.fr/publication-du-6e-rapport-synthese-du-giec). ecologie.gouv.fr.
 
-> David Chavalarias, Paul Bouchaud, Victor Chomel and Maziyar Panahi. [Climatosceptiques: on Twitter, investigation of the intox mercenaries](https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox). CNRS.
+> David Chavalarias, Paul Bouchaud, Victor Chomel and Maziyar Panahi. [Climatosceptics: on Twitter, investigation of the intox mercenaries](https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox). CNRS.
 
 > [Drought: 32 days without rain in France, record broken](https://meteofrance.com/actualites-et-dossiers/actualites/climat/secheresse-32-jours-sans-pluie-en-france-record-battu ). Meteo France.
 
@@ -113,11 +125,3 @@ Yes! To validate the course, you must complete a final multiple choice quizz (50
 > [The online anti-greenwashing tool](https://communication-responsable.ademe.fr/antigreenwashing). Ademe.
 
 > [Anti greenwashing guide](https://pour-un-reveil-ecologique.org/fr/les-entreprises-nous-repondent/#guide-anti-greenwashing). For an Ecological Awakening.
-
-## Legislation
-
-> [Law No. 2021-1104 on tackling climate change and strengthening resilience to its effects](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043956924). legifrance.gouv.fr. 2021.
-
-> [Law No. 2018-1202 on the fight against the manipulation of information](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037847559). legifrance.gouv.fr. 2018.
-
-> [General Data Protection Regulation](https://www.cnil.fr/fr/rgpd-de-quoi-parle-t-on). CNIL. 2018.
