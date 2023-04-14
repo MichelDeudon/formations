@@ -66,6 +66,8 @@ Yes! To validate the course, you must complete a final multiple choice quizz (50
 
 ## References
 
+### 2023
+
 > [Are we still in democracy?](https://www.blast-info.fr/articles/2023/sommes-nous-toujours-en-democratie-AwJ1_TmlTM-ONwHybrhuqQ) Blast. 2023.
 
 > [6th IPCC summary report](https://www.ecologie.gouv.fr/publication-du-6e-rapport-synthese-du-giec). ecologie.gouv.fr. 2023.
@@ -75,6 +77,8 @@ Yes! To validate the course, you must complete a final multiple choice quizz (50
 > [Drought: 32 days without rain in France, record broken](https://meteofrance.com/actualites-et-dossiers/actualites/climat/secheresse-32-jours-sans-pluie-en-france-record-battu ). Meteo France. 2023.
 
 > [Climate change: perception, information and disinformation](https://www.fondationdescartes.org/2023/01/revivez-le-colloque-le-dereglement-climatique-perception-information-et-desinformation/). Descartes Foundation. 2023.
+
+### 2022
 
 > Rae CL, Farley M, Jeffery KJ, Urai AE. [Climate crisis and ecological emergency: Why they concern (neuro) scientists, and what we can do](https://journals.sagepub.com/doi/pdf/10.1177/23982128221075430). Brain and Neuroscience Advances. 2022.
 
@@ -86,6 +90,8 @@ Yes! To validate the course, you must complete a final multiple choice quizz (50
 
 > [Synthesis of the Broner Commission: Enlightenment in the digital age.](https://www.fondationdescartes.org/wp-content/uploads/2022/01/Synthe%CC%80se_Commission_Bronner-copie.pdf) Descartes Foundation. 2022.
 
+### 2019
+
 > Kate Jeffery. [The Psychology of Climate Inaction](https://www.ucl.ac.uk/play/ucl-talks/ucl-minds-lunch-hour-lectures/lunch-hour-lecture-psychology-climate- inaction). UCL. 2019.
 
 > Karen Hao. [Training a single AI model can emit as much carbon as five cars in their lifetimes](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit -as-much-carbon-as-five-cars-in-their-lifetimes/). MIT Technology Review. 2019.
@@ -94,11 +100,15 @@ Yes! To validate the course, you must complete a final multiple choice quizz (50
 
 > [An AI that writes convincing prose risks mass-producing fake news](https://www.technologyreview.com/2019/02/14/137426/an-ai-tool-auto-generates-fake-news-bogus- tweets-and-plenty-of-gibberish/). MIT Technology Review. 2019
 
+### 2018
+
 > Laure Delisle et al. [A large-scale crowdsourced analysis of abuse against women journalists and politicians on Twitter](https://arxiv.org/abs/1902.03093). NeurIPS. 2018.
 
 > Garg Nikhil, Londa Schiebinger, Dan Jurafsky and James Zou. [Word embeddings quantify 100 years of gender and ethnic stereotypes](https://www.pnas.org/doi/10.1073/pnas.1720347115). Proceedings of the National Academy of Sciences. 2018.
 
 > [Cédric Villani report: Giving meaning to artificial intelligence](https://www.enseignementsup-recherche.gouv.fr/fr/rapport-de-cedric-villani-donner-un-sens-l-intelligence- artificial-ia-49194). gouv.fr. 2018.
+
+### 2017
 
 > [France I.A. Strategy Report, for the development of artificial intelligence technologies](https://www.enseignementsup-recherche.gouv.fr/fr/rapport-strategie-france-ia-pour-le-developpement-des- artificial-intelligence-technologies-47691). gouv.fr. 2017.
 
