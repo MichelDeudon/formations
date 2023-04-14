@@ -69,7 +69,7 @@ Yes! To validate the course, you must complete a final multiple choice quizz (50
 ### Legislation
 
 {{< callout warning >}}
-April 2023. An American fund acquired the French start-up Doctrine.
+April 2023. An American fund acquired the start-up Doctrine.
 {{< /callout >}}
 
 > [Law No. 2021-1104 on tackling climate change and strengthening resilience to its effects](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043956924). legifrance.gouv.fr. 2021.

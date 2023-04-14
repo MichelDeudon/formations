@@ -69,7 +69,7 @@ Pour valider le module, il faut compléter un QCM final (50% des points) et réa
 ### Textes de loi
 
 {{< callout warning >}}
-Avril 2023. La start-up française Doctrine rachetée par un fonds américain.
+Avril 2023. La start-up Doctrine rachetée par un fonds américain.
 {{< /callout >}}
 
 > [Loi n° 2021-1104 portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043956924). legifrance.gouv.fr. 2021.
