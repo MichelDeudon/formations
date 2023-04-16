@@ -17,13 +17,13 @@ Le printemps francais et l'été sans réseaux sociaux.
 
 Pour lutter contre la désinformation, il faut <b>investir son temps et énergie</b> autrement, sur le <b>long terme</b>.
 
-## 1. Prendre soin de sa santé physique et mentale 🎗
+## 1. Prendre soin de sa santé physique et mentale 🎗️
 
 Pour mettre fin à la circulation virulente d’information toxique, il ne faut surtout pas commenter ou partager de fausses nouvelles ou messages haineux (car plus de réactions, plus de vues, plus de virulence...). Signaler/bloquer ces messages, quitter l'application, ou mieux <b>désactiver/supprimer ses comptes</b> et <b>éteindre ses écrans</b> pour le printemps/été 2023. 
 
 Arrêter de procrastiner sur les réseaux sociaux, en particulier en période d'élections ou d’examens. Retrouver ici les instructions pour désactiver ou supprimer son compte sur [Instagram](https://help.instagram.com/370452623149242), [Facebook](https://www.facebook.com/help/224562897555674), [Whatsapp](https://faq.whatsapp.com/2138577903196467/), [Twitter](https://help.twitter.com/en/managing-your-account/how-to-deactivate-twitter-account), [Linkedin](https://www.linkedin.com/help/linkedin/answer/a1379064/close-your-linkedin-account?lang=fr)... [ChatGPT](https://help.openai.com/en/articles/6378407-how-can-i-delete-my-account).
 
-Demander de l’aide si besoin.
+Demander de l’aide si besoin. <br>
 {{% staticref "uploads/Guide_Vinted_wellbeing.pdf" %}}Voir le guide de Vinted{{% /staticref %}}.
 
 Privilégier un appel téléphonique pour communiquer avec son entourage, plutôt que les messageries de Meta. 
@@ -50,6 +50,6 @@ Apprendre à méditer, se concentrer, être davatange présent et exprimer de la
 
 Investir son temps/énergie sur le long terme. [Apprendre une langue](https://www.mtpcours.fr/post/22-03-29-language-learning/), à cuisiner, à bricoler… Faire du sport, de la musique, du bénévolat, de l’artisanat… Sortir de sa zone de confort. Réécrire le futur avec de [nouveaux imaginaires](https://www.lajauneetlarouge.com/potamai-energie-autonomie-et-resilience-pour-les-femmes-africaines/), un été solidaire, sans réseaux sociaux.
 
-## 5. Soutenir les innovations locales
+## 5. Soutenir les innovations locales ✨
 
 Frugales, solidaires, sociales, la low-tech, l’agroécologie, l’écoliguistique, le biomimétisme, les médias indépendants, les redirections écologiques… Agir localement (asso, presse, conférences, événements...).

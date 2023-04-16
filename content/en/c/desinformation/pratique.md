@@ -17,13 +17,13 @@ French spring and summer without social networks.
 
 To fight disinformation, you have to <b>invest your time and energy</b> in other ways, in the <b>long term</b>.
 
-## 1. Take care of your physical and mental health 🎗
+## 1. Take care of your physical and mental health 🎗️
 
 To put an end to the viral circulation of toxic information, you must above all not comment or share false news or hateful messages (because more reactions, more views, more virulence...). Report/block these messages, quit the application, or better <b>deactivate/delete your account</b> and <b>turn off your screen</b> during the Spring/Summer 2023.
 
 Stop procrastinating on social media, especially during elections or exams. Find here instructions to deactivate or delete your account on [Instagram](https://help.instagram.com/370452623149242), [Facebook](https: //www.facebook.com/help/224562897555674), [Whatsapp](https://faq.whatsapp.com/2138577903196467/), [Twitter](https://help.twitter.com/en/managing-your-account/how-to-deactivate-twitter-account), [Linkedin](https://www.linkedin.com/help/linkedin/answer/a1379064/close-your-linkedin-account?lang=en).. [ChatGPT](https://help.openai.com/en/articles/6378407-how-can-i-delete-my-account).
 
-Ask for help if needed.
+Ask for help if needed. <br>
 {{% staticref "uploads/Guide_Vinted_wellbeing.pdf" %}}See Vinted's guide{{% /staticref %}}.
 
 Prefer a phone call to communicate with your beloved, rather than Meta messaging services.
@@ -50,6 +50,6 @@ Learn to meditate, concentrate, be more present and grateful, for example with [
 
 Invest your time/energy on the long term. [Learn a language](https://www.mtpcours.fr/en/post/22-03-29-language-learning/), cook, do crafts... sports, play music, volunteer. Get out of your comfort zone. Rewrite the future with [new narratives](https://www.lajauneetlarouge.com/potamai-energie-autonomie-et-resilience-pour-les-femmes-africaines/), a solidarity Summer, without social networks.
 
-## 5. Support local innovations
+## 5. Support local innovations ✨
 
 Frugal, solidarity, social, low-tech, agroecology, ecologistics, biomimicry, independent media, ecological redirection... Act locally (non profits, press, conferences, events...).
