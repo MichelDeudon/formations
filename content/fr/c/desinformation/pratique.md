@@ -15,7 +15,7 @@ Le printemps francais et l'été sans réseaux sociaux.
 
 <!--more-->
 
-{{< figure src="desinfo/JO 2023 ETE Sans Reseaux Sociaux.png" caption="2023, l'été sans réseaux sociaux">}}
+{{< figure src="desinfo/JO 2023 ETE Sans Reseaux Sociaux.png" caption="2023, l'été sans réseaux sociaux.">}}
 
 ## 1. Prendre soin de sa santé physique et mentale 🎗️
 
@@ -40,7 +40,7 @@ Faire preuve de <b>discernement</b> et d’<b>esprit critique</b>. Privilégier 
 
 ## 3. Recentrer l’attention en société ✨
 
-Déstigmatiser les addictions aux réseaux sociaux, [la dépression](https://www.youtube.com/watch?v=MN3D0uLEERU&ab_channel=GDGFrance). Parler de la <b>santé mentale</b>, des <b>émotions</b>, de la précarité étudiante, de l’éco anxiété… de l’utilisation de l’argent public, de la [redistribution des richesses](https://www.mtpcours.fr/c/desinformation/rapport-villani/), notre rapport au travail, de l’urgence écologique.
+Déstigmatiser les addictions aux réseaux sociaux, [la dépression](https://www.youtube.com/watch?v=MN3D0uLEERU&ab_channel=GDGFrance). Parler de <b>santé mentale</b>, des <b>émotions</b>... de l’utilisation de l’argent public, de la [redistribution des richesses](https://www.mtpcours.fr/c/desinformation/rapport-villani/), notre rapport au travail, de l’urgence écologique, de la précarité étudiante, de l’éco anxiété.
 
 Apprendre à méditer, se concentrer, être davatange présent et exprimer de la gratitude, par exemple avec [Petit Bambou](https://www.lajauneetlarouge.com/petit-bambou-lappli-de-meditation-cofondee-par-un-polytechnicien/).
 
@@ -52,4 +52,4 @@ Investir son temps/énergie sur le long terme. [Apprendre une langue](https://ww
 
 ## 5. Soutenir les innovations locales 🌸
 
-Frugales, [solidaires, sociales](https://flavi.fr/index.php/about/), la low-tech, l’[agroécologie](https://wwoof.fr/fr/), l’écoliguistique, les médias indépendants, les redirections écologiques… Agir [localement](https://www.local-seasonal.org/fr/on-the-menu?name=Soup) (asso, presse, conférences, événements...).
+Frugales, [solidaires, sociales](https://flavi.fr/index.php/about/), la low-tech, l’[agroécologie](https://wwoof.fr/fr/), l’[écoliguistique](https://plantnet.org/), les médias indépendants, les redirections écologiques… Agir [localement](https://www.local-seasonal.org/fr/on-the-menu?name=Soup) avec des asso, la presse, les [conférences](https://www.univ-montp3.fr/fr/actualit%C3%A9s/appel-%C3%A0-communication-colloque-international-les-mots-du-pouvoir-1), événements...

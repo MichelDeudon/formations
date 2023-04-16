@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 'MTP Cours' # Website name
+title: 'Mtp Cours' # Website name
 baseURL: 'https://michel-deudon.netlify.app/' # Website URL
 date: 2023-03-21
 share: true
