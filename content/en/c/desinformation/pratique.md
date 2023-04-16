@@ -21,8 +21,7 @@ To fight disinformation and put an end to the viral circulation of toxic informa
 
 Stop procrastinating on social media, especially during elections or exams. Find here instructions to deactivate or delete your account on [Instagram](https://help.instagram.com/370452623149242), [Facebook](https: //www.facebook.com/help/224562897555674), [Whatsapp](https://faq.whatsapp.com/2138577903196467/), [Twitter](https://help.twitter.com/en/managing-your-account/how-to-deactivate-twitter-account), [Linkedin](https://www.linkedin.com/help/linkedin/answer/a1379064/close-your-linkedin-account?lang=en).. [ChatGPT](https://help.openai.com/en/articles/6378407-how-can-i-delete-my-account).
 
-Prefer a phone call to communicate with your beloved, rather than Meta messaging services.
-
+Prefer a phone call to communicate with your beloved. <br>
 Ask for help if needed. <br>
 {{% staticref "uploads/Guide_Vinted_wellbeing.pdf" %}}See Vinted's guide{{% /staticref %}}.
 
@@ -37,18 +36,18 @@ Be attentive to [conflicts of interest and greenwashing](https://www.mtpcours.fr
 
 <b>Call for contribution</b>: Co-create this [course on disinformation](https://www.mtpcours.fr/c/desinformation/). Create and share content (interviews, testimonials), visuals, an incentive approach to attract young people (impact by participation and total).
 
-## 3. Refocus attention in society
+## 3. Refocus attention in society ✨
 
 Destigmatize addictions to social networks, [depression](https://www.youtube.com/watch?v=MN3D0uLEERU&ab_channel=GDGFrance). Talk about mental health, emotions, student precariousness, eco-anxiety... about the use of public money, the [redistribution of wealth](https://www.mtpcours.fr/en/c/desinformation/rapport-villani/), our relationship to work, the ecological emergency.
 
 Learn to meditate, concentrate, be more present and grateful, for example with [Petit Bambou](https://www.lajauneetlarouge.com/petit-bambou-lappli-de-meditation-cofondee-par-un-polytechnicien/).
 
-<b>Call for contribution</b>: [Testify](https://annuel2.framapad.org/p/reseaux-sociaux-sante-mentale-a0fk?lang=en), social networks and mental health.
+<b>Call for contribution</b>: [Testify](https://annuel2.framapad.org/p/reseaux-sociaux-sante-mentale-a0fk?lang=en) on social networks and mental health.
 
 ## 4. Make sense of the future
 
-Invest your time/energy on the long term. [Learn a language](https://www.mtpcours.fr/en/post/22-03-29-language-learning/), cook, do crafts... sports, play music, volunteer. Get out of your comfort zone. Rewrite the future with [new narratives](https://www.lajauneetlarouge.com/potamai-energie-autonomie-et-resilience-pour-les-femmes-africaines/), a solidarity Summer, without social networks.
+Invest your time/energy on the long term. [Learn a language](https://www.mtpcours.fr/en/post/22-03-29-language-learning/), cook, do [crafts](https://wecandoo.fr/)... sports, play music, volunteer. Get out of your comfort zone. Rewrite the future with [new narratives](https://www.lajauneetlarouge.com/potamai-energie-autonomie-et-resilience-pour-les-femmes-africaines/), a solidarity Summer, without social networks.
 
-## 5. Support local innovations ✨
+## 5. Support local innovations 🌸
 
-Frugal, solidarity, social, low-tech, agroecology, ecologistics, biomimicry, independent media, ecological redirection... Act locally (non profits, press, conferences, events...).
+Frugal, [social](https://flavi.fr/index.php/about/), low-tech, [agroecology](https://wwoof.fr/en/), ecologistics, independent media, ecological redirection... Act [locally](https://www.local-seasonal.org/en/on-the-menu?name=Soup) (non profits, press, conferences, events...).
