@@ -6,8 +6,8 @@ weight: 40
 tags:
   - disinformation
   - mental health
-  - summer without social networks
   - solidary summer
+  - summer without social networks
   - environment and society
 ---
 
@@ -17,39 +17,40 @@ French spring and summer without social networks.
 
 To fight disinformation, you have to <b>invest your time and energy</b> in other ways, in the <b>long term</b>.
 
-## 1. Stop procrastinating on social networks
+## 1. Take care of your physical and mental health 🎗
 
-To put an end to the viral circulation of toxic information, you must above all not comment or share fake news or hateful messages (because more reactions, more views, more virulence...). Report/block these messages, quit the app, or better <b>disable/delete your account</b> and <b>turn off your screen</b>. During exams and election periods, it is all the more important to limit your time on social networks - find here the instructions to deactivate/delete your account on [Instagram](https://help.instagram.com/370452623149242), [Facebook](https://www.facebook.com/help/224562897555674), [Whatsapp](https://faq.whatsapp.com/2138577903196467/), [Twitter](https://help.twitter.com/en/managing-your-account/how-to-deactivate-twitter-account), [Linkedin](https://www.linkedin.com/help/linkedin/answer/a1379064/close-your-linkedin-account?lang=en)...
+To put an end to the viral circulation of toxic information, you must above all not comment or share false news or hateful messages (because more reactions, more views, more virulence...). Report/block these messages, quit the application, or better <b>deactivate/delete your account</b> and <b>turn off your screen</b>.
 
-Prefer a phone call or text message, rather than Meta messaging services to communicate with your loved ones, and be more present. This approach was not proposed by the more than 1,700 signatories of the open letter to pause giant AI experiments. Yet it is the strongest signal that can be sent to investors and researchers in the world of AI.
+Stop procrastinating on social media, especially during elections or exams. Deactivate/delete your accounts and turn off your screen during the Spring/Summer 2023. Find here instructions to deactivate or delete your account on [Instagram](https://help.instagram.com/370452623149242), [Facebook](https: //www.facebook.com/help/224562897555674), [Whatsapp](https://faq.whatsapp.com/2138577903196467/), [Twitter](https://help.twitter.com/en/managing-your-account/how-to-deactivate-twitter-account), [Linkedin](https://www.linkedin.com/help/linkedin/answer/a1379064/close-your-linkedin-account?lang=en).. [ChatGPT](https://help.openai.com/en/articles/6378407-how-can-i-delete-my-account).
 
-## 2. Obtain information from reliable sources, exercise discernment and critical thinking
+Ask for help if needed.
 
-Be attentive to [conflicts of interest and greenwashing](https://www.mtpcours.fr/en/c/desinformation/greenwashing/) (in R&D, health, media, etc.), biases, and what is left unsaid. Where does the money come from? What is the goal? What numbers are not reported? Who is forgotten or invisible? For example, you can follow [Météo France](https://meteofrance.com/actualites-et-dossiers/actualites/climat/secheresse-32-jours-sans-pluie-en-france-record-battu) and [the CNRS](https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox), or independant medias such as [Blast](https://www.blast-info.fr/articles/2023/sommes-nous-toujours-en-democratie-AwJ1_TmlTM-ONwHybrhuqQ) and [Mediapart](https://www.mediapart.fr/).
+{{% staticref "uploads/Guide_Vinted_wellbeing.pdf" %}}See Vinted's guide.{{% /staticref %}}.
+
+Prefer a phone call to communicate with your beloved, rather than Meta messaging services.
+
+## 2. Obtain information from reliable sources
+
+Exercise discernment and critical thinking. Prioritize quality over quantity.
+
+Be attentive to [conflicts of interest and greenwashing](https://www.mtpcours.fr/en/c/desinformation/greenwashing/), biases and what is left unsaid. Where does the money come from? What is the goal? What numbers are not reported? Who is invisibilised? For example, you can follow [Météo France](https://meteofrance.com/actualites-et-dossiers/actualites/climat/secheresse-32-jours-sans-pluie-en-france-record-battu) and [the CNRS](https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox), or independant medias such as [Blast](https://www.blast-info.fr/articles/2023/sommes-nous-toujours-en-democratie-AwJ1_TmlTM-ONwHybrhuqQ) and [Mediapart](https://www.mediapart.fr/).
 
 {{< youtube tlnDmGhnGq8>}} 
 
-## 3. Refocus attention and debates in society
+Call for contribution: Co-create this course on disinformation. Create and share content (interviews, testimonials), visuals, an incentive approach to attract young people (impact by participation and total).
 
-De-stigmatize social media addiction, talk about the [mental health](https://www.lajauneetlarouge.com/petit-bambou-lappli-de-meditation-cofondee-par-un-polytechnicien/) of young people, [depression](https://www.youtube.com/watch?v=MN3D0uLEERU&ab_channel=GDGFrance), student precariousness, eco-anxiety... the use of public money, the [redistribution of wealth](https://www.mtpcours.fr/en/c/desinformation/rapport-villani/), the relationship to work, the ecological emergency.
+## 3. Refocus attention in society
 
-## 4. Reinvest your time wisely
+Destigmatize addictions to social networks, [depression](https://www.youtube.com/watch?v=MN3D0uLEERU&ab_channel=GDGFrance). Talk about [mental health](https://www.lajauneetlarouge.com/petit-bambou-lappli-de-meditation-cofondee-par-un-polytechnicien/), emotions, student precariousness, eco-anxiety... about the use of public money, the [redistribution of wealth](https://www.mtpcours.fr/en/c/desinformation/rapport-villani/), our relationship to work, the ecological emergency.
 
-- [Learn a language](https://www.mtpcours.fr/en/post/22-03-29-language-learning/), cook, do crafts…
-- Playing sports, volunteering, crafts…
-- Get out of your comfort zone.
-- Create and share content (interviews, testimonials), visuals and an incentive approach to attract young people (quantify CO2 by participation and total). Show the benefits of taking a break.
+Learn to meditate, concentrate, be more present and grateful, for example with Petit Bambou.
 
-## 5. Give meaning to the future and rewrite the future
+Call for contribution: Testify, social networks and mental health.
 
-- Give impetus to new imaginations during the first summer without social networks.
-- Propose alternatives for a summer of solidarity, love, mutual aid...
-- Support a cause through your actions.
+## 4. Make sense of the future
 
-## 6. Support real innovations
+Invest your time/energy on the long term. [Learn a language](https://www.mtpcours.fr/en/post/22-03-29-language-learning/), cook, do crafts... sports, play music, volunteer. Get out of your comfort zone. Rewrite the future with new narratives, a solidarity Summer, without social networks.
 
-Support frugal innovations, lowtech, agroecology, ecologistics, [biomimicry](https://www.mtpcours.fr/en/c/physique-chimie/#biomimicry), independent medias, reconversions, ecological redirection...
+## 5. Support local innovations
 
-## 7. Act locally
-
-Participate/get involved in local conferences or events (short circuits, garage sales, non profits, etc.)
+Frugal, solidarity, social, low-tech, agroecology, ecologistics, biomimicry, independent media, ecological redirection... Act locally (non profits, press, conferences, events...).
