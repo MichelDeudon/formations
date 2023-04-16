@@ -11,9 +11,11 @@ tags:
   - environment and society
 ---
 
-French spring and summer without social networks.
+French Spring and Summer without social networks.
 
 <!--more-->
+
+{{< figure src="desinfo/JO 2023 ETE Sans Reseaux Sociaux.png" caption="2023 Summer without social networks">}}
 
 ## 1. Take care of your physical and mental health 🎗️
 

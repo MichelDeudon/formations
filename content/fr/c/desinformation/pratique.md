@@ -15,6 +15,8 @@ Le printemps francais et l'été sans réseaux sociaux.
 
 <!--more-->
 
+{{< figure src="desinfo/JO 2023 ETE Sans Reseaux Sociaux.png" caption="2023, l'été sans réseaux sociaux">}}
+
 ## 1. Prendre soin de sa santé physique et mentale 🎗️
 
 Pour lutter contre la désinformation et mettre fin à la circulation virulente d’information toxique, il ne faut surtout pas commenter ou partager de fausses nouvelles ou messages haineux (car plus de réactions, plus de vues, plus de virulence...). Signaler/bloquer ces messages, quitter l'application, ou mieux <b>désactiver/supprimer ses comptes</b> et <b>éteindre ses écrans</b> pour le printemps/été 2023. 
