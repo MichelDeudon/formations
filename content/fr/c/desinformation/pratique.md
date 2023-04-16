@@ -37,7 +37,7 @@ Privilégier la qualité sur la quantité.
 {{< youtube tlnDmGhnGq8>}} 
 <br>
 
-<b>Appel à contributions</b>: Co-construire la [formation sur la désinformation](https://www.mtpcours.fr/c/desinformation/). Créer et partager du contenu (entretiens, témoignages), du visuel, une démarche incitative pour attirer les jeunes (impact par participation et total).
+<b>Appel à contributions</b>: Co-construire la [formation sur la désinformation](https://www.mtpcours.fr/c/desinformation/). Créer et partager du contenu (entretiens, témoignages), du visuel, une démarche incitative pour attirer les jeunes (impact par participation et au total).
 
 ## 3. Recentrer l’attention en société ✨
 
@@ -49,8 +49,8 @@ Apprendre à méditer, se concentrer, être davatange présent et exprimer de la
 
 ## 4. Donner du sens à l’avenir
 
-Investir son temps/énergie sur le long terme. [Apprendre une langue](https://www.mtpcours.fr/post/22-03-29-language-learning/), à cuisiner, à bricoler… Faire du sport, de la musique, du bénévolat, de l’[artisanat](https://wecandoo.fr/). Sortir de sa zone de confort. Réécrire le futur avec de [nouveaux imaginaires](https://www.lajauneetlarouge.com/potamai-energie-autonomie-et-resilience-pour-les-femmes-africaines/), un été solidaire, sans réseaux sociaux.
+Investir son temps et énergie sur le long terme. [Apprendre une langue](https://www.mtpcours.fr/post/22-03-29-language-learning/), à cuisiner, à bricoler… Faire du sport, de la musique, du bénévolat, de l’[artisanat](https://wecandoo.fr/). Sortir de sa zone de confort. Réécrire le futur avec de [nouveaux imaginaires](https://www.lajauneetlarouge.com/potamai-energie-autonomie-et-resilience-pour-les-femmes-africaines/), un été solidaire, sans réseaux sociaux.
 
 ## 5. Soutenir les innovations locales 🌸
 
-Frugales, [solidaires, sociales](https://flavi.fr/index.php/about/), la low-tech, l’[agroécologie](https://wwoof.fr/fr/), la [biodiversité](https://plantnet.org/), les médias indépendants, les redirections écologiques… Agir [localement](https://www.local-seasonal.org/fr/on-the-menu?name=Soup) avec des asso, la presse, des [conférences](https://www.univ-montp3.fr/fr/actualit%C3%A9s/appel-%C3%A0-communication-colloque-international-les-mots-du-pouvoir-1) et événements locaux.
+Frugales, [solidaires et sociales](https://flavi.fr/index.php/about/), la low-tech, l’[agroécologie](https://wwoof.fr/fr/), la [biodiversité](https://plantnet.org/), les [médias indépendants](https://www.blast-info.fr/), les redirections écologiques… Agir [localement](https://www.local-seasonal.org/fr/on-the-menu?name=Soup) avec des asso, la [presse](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/chatgpt-revolutionnaire-mais-qui-inquiete-pourquoi-la-ville-de-montpellier-interdit-a-ses-agents-d-utiliser-l-intelligence-artificielle-2742446.html), des [conférences](https://www.univ-montp3.fr/fr/actualit%C3%A9s/appel-%C3%A0-communication-colloque-international-les-mots-du-pouvoir-1) et événements locaux.

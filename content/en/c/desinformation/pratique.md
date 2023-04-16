@@ -49,8 +49,8 @@ Learn to meditate, concentrate, be more present and grateful, for example with [
 
 ## 4. Make sense of the future
 
-Invest your time/energy on the long term. [Learn a language](https://www.mtpcours.fr/en/post/22-03-29-language-learning/), cook, do [crafts](https://wecandoo.fr/)... sports, play music, volunteer. Get out of your comfort zone. Rewrite the future with [new narratives](https://www.lajauneetlarouge.com/potamai-energie-autonomie-et-resilience-pour-les-femmes-africaines/), a solidarity Summer, without social networks.
+Invest your time and energy on the long term. [Learn a language](https://www.mtpcours.fr/en/post/22-03-29-language-learning/), cook, do [crafts](https://wecandoo.fr/)... sports, play music, volunteer. Get out of your comfort zone. Rewrite the future with [new narratives](https://www.lajauneetlarouge.com/potamai-energie-autonomie-et-resilience-pour-les-femmes-africaines/), a solidarity Summer, without social networks.
 
 ## 5. Support local innovations 🌸
 
-Frugal, [social](https://flavi.fr/index.php/about/), low-tech, [agroecology](https://wwoof.fr/en/), [biodiversity](https://plantnet.org/en/), independent media, ecological redirection... Act [locally](https://www.local-seasonal.org/en/on-the-menu?name=Soup) with non profits, the press, [conferences](https://www.univ-montp3.fr/fr/actualit%C3%A9s/appel-%C3%A0-communication-colloque-international-les-mots-du-pouvoir-1) and local events.
+Frugal, [social](https://flavi.fr/index.php/about/), low-tech, [agroecology](https://wwoof.fr/en/), [biodiversity](https://plantnet.org/en/), [independent media](https://www.blast-info.fr/), ecological redirection... Act [locally](https://www.local-seasonal.org/en/on-the-menu?name=Soup) with non profits, the [press](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/chatgpt-revolutionnaire-mais-qui-inquiete-pourquoi-la-ville-de-montpellier-interdit-a-ses-agents-d-utiliser-l-intelligence-artificielle-2742446.html), [conferences](https://www.univ-montp3.fr/fr/actualit%C3%A9s/appel-%C3%A0-communication-colloque-international-les-mots-du-pouvoir-1) and local events.
