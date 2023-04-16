@@ -15,18 +15,16 @@ French spring and summer without social networks.
 
 <!--more-->
 
-To fight disinformation, you have to <b>invest your time and energy</b> in other ways, in the <b>long term</b>.
-
 ## 1. Take care of your physical and mental health 🎗️
 
-To put an end to the viral circulation of toxic information, you must above all not comment or share false news or hateful messages (because more reactions, more views, more virulence...). Report/block these messages, quit the application, or better <b>deactivate/delete your account</b> and <b>turn off your screen</b> during the Spring/Summer 2023.
+To fight disinformation and put an end to the viral circulation of toxic information, you must above all not comment or share false news or hateful messages (because more reactions, more views, more virulence...). Report/block these messages, quit the application, or better <b>deactivate/delete your account</b> and <b>turn off your screen</b> during the Spring/Summer 2023.
 
 Stop procrastinating on social media, especially during elections or exams. Find here instructions to deactivate or delete your account on [Instagram](https://help.instagram.com/370452623149242), [Facebook](https: //www.facebook.com/help/224562897555674), [Whatsapp](https://faq.whatsapp.com/2138577903196467/), [Twitter](https://help.twitter.com/en/managing-your-account/how-to-deactivate-twitter-account), [Linkedin](https://www.linkedin.com/help/linkedin/answer/a1379064/close-your-linkedin-account?lang=en).. [ChatGPT](https://help.openai.com/en/articles/6378407-how-can-i-delete-my-account).
 
+Prefer a phone call to communicate with your beloved, rather than Meta messaging services.
+
 Ask for help if needed. <br>
 {{% staticref "uploads/Guide_Vinted_wellbeing.pdf" %}}See Vinted's guide{{% /staticref %}}.
-
-Prefer a phone call to communicate with your beloved, rather than Meta messaging services.
 
 ## 2. Obtain information from reliable sources
 
@@ -35,6 +33,7 @@ Exercise <b>discernment</b> and <b>critical thinking</b>. Prioritize quality ove
 Be attentive to [conflicts of interest and greenwashing](https://www.mtpcours.fr/en/c/desinformation/greenwashing/), biases and what is left unsaid. Where does the money come from? What is the goal? What numbers are not reported? Who is invisibilised? For example, you can follow [Météo France](https://meteofrance.com/actualites-et-dossiers/actualites/climat/secheresse-32-jours-sans-pluie-en-france-record-battu) and [the CNRS](https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox), or independant medias such as [Blast](https://www.blast-info.fr/articles/2023/sommes-nous-toujours-en-democratie-AwJ1_TmlTM-ONwHybrhuqQ) and [Mediapart](https://www.mediapart.fr/).
 
 {{< youtube tlnDmGhnGq8>}} 
+<br>
 
 <b>Call for contribution</b>: Co-create this [course on disinformation](https://www.mtpcours.fr/c/desinformation/). Create and share content (interviews, testimonials), visuals, an incentive approach to attract young people (impact by participation and total).
 
