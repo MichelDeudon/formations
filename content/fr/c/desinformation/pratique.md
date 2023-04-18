@@ -5,9 +5,9 @@ type: book
 weight: 40
 tags:
   - désinformation
+  - média
   - santé mentale
   - été solidaire
-  - été sans réseaux sociaux
   - environnement et société
 ---
 
@@ -19,9 +19,9 @@ Le printemps francais et l'été sans réseaux sociaux.
 
 ## 1. Prendre soin de sa santé physique et mentale 🎗️
 
-Pour lutter contre la désinformation et mettre fin à la circulation virulente d’information toxique, il ne faut surtout pas commenter ou partager de fausses nouvelles ou messages haineux (car plus de réactions, plus de vues, plus de virulence). Signaler/bloquer ces messages, quitter l'application, ou mieux <b>désactiver/supprimer ses comptes</b> et <b>éteindre ses écrans</b> pour le printemps/été 2023. 
+Pour lutter contre la désinformation et mettre fin à la circulation virulente d’information toxique, il ne faut surtout pas commenter ou partager de fausses nouvelles ou messages haineux (car plus de réactions, plus de vues, plus de virulence). Signaler/bloquer ces messages, quitter l'application, ou mieux {{<hl>}}<b>désactiver/supprimer ses comptes le 1er mai</b>{{</hl>}} et <b>éteindre ses écrans</b> pour le printemps/été 2023. 
 
-Arrêter de procrastiner sur les réseaux sociaux, en particulier en période d'élections ou d’examens. Retrouver ici les instructions pour désactiver ou supprimer son compte sur [Instagram](https://help.instagram.com/370452623149242), [Facebook](https://www.facebook.com/help/224562897555674), [Whatsapp](https://faq.whatsapp.com/2138577903196467/), [Twitter](https://help.twitter.com/en/managing-your-account/how-to-deactivate-twitter-account), [Linkedin](https://www.linkedin.com/help/linkedin/answer/a1379064/close-your-linkedin-account?lang=fr)... [ChatGPT](https://help.openai.com/en/articles/6378407-how-can-i-delete-my-account).
+Arrêter de procrastiner sur les réseaux sociaux, en particulier en période de débats, d'élections ou d’examens. Retrouver ici les instructions pour désactiver ou supprimer son compte sur [Instagram](https://help.instagram.com/370452623149242)/[Facebook](https://www.facebook.com/help/224562897555674), [Whatsapp](https://faq.whatsapp.com/2138577903196467/), [Twitter](https://help.twitter.com/en/managing-your-account/how-to-deactivate-twitter-account)/[ChatGPT](https://help.openai.com/en/articles/6378407-how-can-i-delete-my-account), [Linkedin](https://www.linkedin.com/help/linkedin/answer/a1379064/close-your-linkedin-account?lang=fr)... [Tiktok](https://support.tiktok.com/en/account-and-privacy/deleting-an-account).
 
 Privilégier un appel téléphonique pour communiquer avec son entourage. <br>
 Demander de l’aide si besoin. <br>
@@ -38,9 +38,9 @@ Privilégier la qualité sur la quantité.
 
 ## 3. Recentrer l’attention en société ✨
 
-Déstigmatiser les addictions aux réseaux sociaux, [la dépression](https://www.youtube.com/watch?v=MN3D0uLEERU&ab_channel=GDGFrance). Parler de <b>santé mentale</b>, des <b>émotions</b>... de notre [rapport au travail](https://www.mtpcours.fr/c/desinformation/rapport-villani/), de l’urgence écologique.
+Déstigmatiser les addictions aux réseaux sociaux, [la dépression](https://www.youtube.com/watch?v=MN3D0uLEERU&ab_channel=GDGFrance). Parler de <b>santé physique</b>, de <b>santé mentale</b>, des <b>émotions</b>... de notre [rapport au travail](https://www.mtpcours.fr/c/desinformation/rapport-villani/), de l’urgence écologique.
 
-<b>Appel à contributions</b>: {{<hl>}}[Témoigner](https://annuel2.framapad.org/p/reseaux-sociaux-sante-mentale-a0fk?lang=fr) sur les réseaux sociaux et la santé physique/mentale{{</hl>}}. Créer et partager du contenu, entretiens, du visuel, une démarche incitative pour attirer les jeunes (impact par participation et au total).
+<b>Appel à contributions</b>: {{<hl>}}[Témoigner](https://annuel2.framapad.org/p/reseaux-sociaux-sante-mentale-a0fk?lang=fr) de l'impact des réseaux sociaux{{</hl>}}. Créer et partager du contenu, des entretiens, du visuel, une démarche incitative pour attirer les jeunes (impact par participation et au total).
 
 ## 4. Donner du sens à l’avenir
 
@@ -48,4 +48,4 @@ Apprendre à méditer, se concentrer, être davatange présent et exprimer de la
 
 ## 5. Soutenir les innovations locales 🌸
 
-Frugales, [solidaires et sociales](https://flavi.fr/index.php/about/), la low-tech, l’[agroécologie](https://wwoof.fr/fr/), la [biodiversité](https://plantnet.org/), les [médias indépendants](https://www.blast-info.fr/), les alternatives de [Framasoft](https://www.youtube.com/watch?v=g_UR5FlOLKA&ab_channel=BLAST%2CLesouffledel%27info) aux GAFAMs… Agir localement avec des asso, la [presse](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/chatgpt-revolutionnaire-mais-qui-inquiete-pourquoi-la-ville-de-montpellier-interdit-a-ses-agents-d-utiliser-l-intelligence-artificielle-2742446.html), des [conférences](https://www.univ-montp3.fr/fr/actualit%C3%A9s/appel-%C3%A0-communication-colloque-international-les-mots-du-pouvoir-1) et événements locaux.
+Frugales, [solidaires et sociales](https://flavi.fr/index.php/about/), la low-tech, l’[agroécologie](https://wwoof.fr/fr/), la [biodiversité](https://plantnet.org/), les [médias indépendants](https://www.blast-info.fr/), les alternatives de [Framasoft](https://degooglisons-internet.org/en/) aux GAFAMs… Agir localement avec des asso, la [presse](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/chatgpt-revolutionnaire-mais-qui-inquiete-pourquoi-la-ville-de-montpellier-interdit-a-ses-agents-d-utiliser-l-intelligence-artificielle-2742446.html), des [conférences](https://www.univ-montp3.fr/fr/actualit%C3%A9s/appel-%C3%A0-communication-colloque-international-les-mots-du-pouvoir-1) et événements locaux.
