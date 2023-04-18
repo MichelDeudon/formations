@@ -35,22 +35,17 @@ Prioritize quality over quantity.
 Be attentive to [conflicts of interest and greenwashing](https://www.mtpcours.fr/en/c/desinformation/greenwashing/), biases and what is left unsaid. Where does the money come from? What is the goal? Who is invisibilised? For example, you can follow [Météo France](https://meteofrance.com/actualites-et-dossiers/actualites/climat/secheresse-32-jours-sans-pluie-en-france-record-battu) and [the CNRS](https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox), or independant medias such as [Blast](https://www.blast-info.fr/articles/2023/sommes-nous-toujours-en-democratie-AwJ1_TmlTM-ONwHybrhuqQ) and [Mediapart](https://www.mediapart.fr/).
 
 {{< youtube tlnDmGhnGq8>}} 
-<br>
-
-<b>Call for contribution</b>: Co-create this [course on disinformation](https://www.mtpcours.fr/c/desinformation/). Create and share content (interviews, testimonials), visuals, an incentive approach to attract young people (individual impact and total).
 
 ## 3. Refocus attention in society ✨
 
-Destigmatize addictions to social networks, [depression](https://www.youtube.com/watch?v=MN3D0uLEERU&ab_channel=GDGFrance). Talk about <b>mental health</b>, <b>emotions</b>... about the use of public money, the [redistribution of wealth](https://www.mtpcours.fr/en/c/desinformation/rapport-villani/), our relationship to work, the ecological emergency, student precariousness, eco-anxiety.
+Destigmatize addictions to social networks, [depression](https://www.youtube.com/watch?v=MN3D0uLEERU&ab_channel=GDGFrance). Talk about <b>mental health</b>, <b>emotions</b>... about our [relationship to work](https://www.mtpcours.fr/en/c/desinformation/rapport-villani/), the ecological emergency.
 
-Learn to meditate, concentrate, be more present and grateful, for example with [Petit Bambou](https://www.lajauneetlarouge.com/petit-bambou-lappli-de-meditation-cofondee-par-un-polytechnicien/).
-
-<b>Call for contribution</b>: [Testify](https://annuel2.framapad.org/p/reseaux-sociaux-sante-mentale-a0fk?lang=en) on social networks and mental health.
+<b>Call for contribution</b>: {{<hl>}}[Testify](https://annuel2.framapad.org/p/reseaux-sociaux-sante-mentale-a0fk?lang=en) on social networks and mental/physical health{{</hl>}}. Create and share content, interviews, visuals, an incentive approach to attract young people (individual impact and total).
 
 ## 4. Make sense of the future
 
-Invest your time and energy on the long term. [Learn a language](https://www.mtpcours.fr/en/post/22-03-29-language-learning/), cook, do [crafts](https://wecandoo.fr/)... sports, play music, volunteer. Get out of your comfort zone. Rewrite the future with [new narratives](https://www.lajauneetlarouge.com/potamai-energie-autonomie-et-resilience-pour-les-femmes-africaines/), a solidarity Summer, without social networks.
+Learn to meditate, concentrate, be more present and grateful, for example with [Petit Bambou](https://www.lajauneetlarouge.com/petit-bambou-lappli-de-meditation-cofondee-par-un-polytechnicien/). Invest your time and energy on the long term. [Learn a language](https://www.mtpcours.fr/en/post/22-03-29-language-learning/), cook, do [crafts](https://wecandoo.fr/)... sports, play music, volunteer. Support a cause. Rewrite the future with [new narratives](https://www.youtube.com/watch?v=Y8SpcxR6FjQ&ab_channel=BLAST%2CLesouffledel%27info), a solidarity Summer, without social networks.
 
 ## 5. Support local innovations 🌸
 
-Frugal, [social](https://flavi.fr/index.php/about/), low-tech, [agroecology](https://wwoof.fr/en/), [biodiversity](https://plantnet.org/en/), [independent media](https://www.blast-info.fr/), ecological redirection... Act [locally](https://www.local-seasonal.org/en/on-the-menu?name=Soup) with non profits, the [press](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/chatgpt-revolutionnaire-mais-qui-inquiete-pourquoi-la-ville-de-montpellier-interdit-a-ses-agents-d-utiliser-l-intelligence-artificielle-2742446.html), [conferences](https://www.univ-montp3.fr/fr/actualit%C3%A9s/appel-%C3%A0-communication-colloque-international-les-mots-du-pouvoir-1) and local events.
+Frugal, [social](https://flavi.fr/index.php/about/), low-tech, [agroecology](https://wwoof.fr/en/), [biodiversity](https://plantnet.org/en/), [independent media](https://www.blast-info.fr/), [Framasoft](https://www.youtube.com/watch?v=g_UR5FlOLKA&ab_channel=BLAST%2CLesouffledel%27info) alternatives to GAFAMs... Act locally with non profits, the [press](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/chatgpt-revolutionnaire-mais-qui-inquiete-pourquoi-la-ville-de-montpellier-interdit-a-ses-agents-d-utiliser-l-intelligence-artificielle-2742446.html), [conferences](https://www.univ-montp3.fr/fr/actualit%C3%A9s/appel-%C3%A0-communication-colloque-international-les-mots-du-pouvoir-1) and local events.
