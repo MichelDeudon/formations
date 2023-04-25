@@ -7,7 +7,7 @@ It's a symptom of a social and ecological emergency
 
 <!--more-->
 
-Ecole Polytechnique, <i>the leading French science & technology institution</i> on social networks, was co-founded in 1794 by the mathematician Gaspard Monge 🥖, during the French Revolution 🇫🇷. It was later militarized under Napoleon in 1804.
+Ecole Polytechnique, <i>the leading French science & technology institution</i> according to social networks, was co-founded in 1794 by the mathematician Gaspard Monge 🥖, during the French Revolution 🇫🇷. It was later militarized under Napoleon in 1804.
 
 Macron, France's Minister of the Economy and Digital in 2014, was first elected President and therefore <i>head of the army</i> in 2017. His party for the Presidential campain, La République en Marche, had a mathematician and French Fields Medal as MP for Essonne (where Polytechnique is), Cédric Villani, known like Gaspard Monge for his seminal work on Optimal Transport.
 
@@ -15,21 +15,21 @@ Macron, France's Minister of the Economy and Digital in 2014, was first elected 
 
 A year later, in 2018, Eric Labaye (X87), senior partner at [McKinsey & Company](https://www.bpifrance.fr/nos-actualites/rencontres-economiques-daix-en-provence-un-regard-sur-le-monde-demain), was appointed executive President of Polytechnique and later President of the newly created Institut Polytechnique de Paris.
 
-Jacques Biot (X71), Polytechnique's previous executive President, joined Huawei.
+Jacques Biot (X71), Polytechnique's previous executive President, joined Huawei with the head of the Paris-Saclay Center for Data Science.
 
-The divorce between Polytechnique and the University Paris-Saclay, Mc Kinsey and Huawei, the USA and China was announced by Macron in October 2017, the year of his first election.
+The divorce between Polytechnique and the University Paris-Saclay, the USA and China was [announced by Macron in 2017](https://www.lemonde.fr/campus/article/2017/10/25/emmanuel-macron-met-fin-au-projet-de-pole-universitaire-et-scientifique-unique-a-saclay_5205975_4401467.html), the year of his first election.
 
 ## Polytechnique is a symbolic French institution
 
-Polytechnique is tied to the history of the French Revolution. With a budget in 2019 of €192 million, the Court of Auditors wrote in February 2020
+Polytechnique is tied to the history of the French Revolution. With a budget of €192 million in 2019, the Court of Auditors wrote in February 2020
 
 > <i>École Polytechnique: an uncertain strategy, management to be rectified</i>. [2020 annual report](https://www.ccomptes.fr/system/files/2020-02/20200225-12-TomeI-ecole-polytechnique.pdf).
 
-Macron's McKinseyGate was disclosed in 2022.
+Macron's [McKinseyGate](https://www.youtube.com/watch?v=4ciN_0BNOzQ&ab_channel=BLAST%2CLesouffledel%27info) was disclosed in 2022.
 
-Yet, after Macron asked French citizens to reduce their individual energy consumption by 10% in September 2022, in the context of an energy crisis in Europe, 7 polytechniciens in Paris, co-authored one of Facebook's largest artificial intelligence model in February 2023, requiring 449 MWh to train a single model on NVIDIA hardware.
+Yet, after Macron asked French citizens to reduce their individual energy consumption by 10% in September 2022, in the context of an energy crisis in Europe, 7 polytechniciens in Paris, co-authored one of Facebook's largest artificial intelligence model in February 2023, requiring [449 MWh to train a single model](https://www.mtpcours.fr/en/c/desinformation/emma-strubell/) on NVIDIA hardware.
 
-<i>Training a single model is the minimum amount of work you can do (…) This trend toward training huge models on tons of data is not feasible for academics. There's an issue of equitable access between researchers in academia versus researchers in industry.</i> - Emma Strubell, lead author of the paper [Energy and Policy Considerations for Deep Learning in NLP](https://www.mtpcours.fr/en/c/desinformation/emma-strubell/) (ACL 2019).
+<i>Training a single model is the minimum amount of work you can do (…) This trend toward training huge models on tons of data is not feasible for academics. There's an issue of equitable access between researchers in academia versus researchers in industry.</i> - Emma Strubell, lead author of the paper [Energy and Policy Considerations for Deep Learning in NLP](https://www.mtpcours.fr/en/c/desinformation/emma-strubell/).
 
 Two weeks later, on March 7, 2023, France went on a historical strike and ten days later, the executive duo Macron/Borne (X81) used the article 49.3 of the Constitution to force a reform through Parliament without a vote, for the 100th time of the fifth Republic.
 
@@ -54,15 +54,11 @@ With women representing 10% of French computer science engineering schools, Vill
 
 Racism, sexism and social risks are mentioned in his 2018 report, as well as <i>"new methods of production and distribution of value"</i>. More broadly, the MP recommended the establishment of an AI ethics committee, responsible for organizing public debate and providing opinions and recommendations <i>"in complete independence"</i>. 
 
-Yet, in 2023, Polytechnique's strategy is to disinform people. [This article](https://www.lajauneetlarouge.com/ia-de-confiance-enjeux-et-solutions-pour-un-traitement-ethique-des-donnees/) by Vincent LUCIANI (X05) explicitly highlights conflicts of interest (Consulting companies, Artefact, the AI Infrastructure Alliance, the MLOps Community, etc). Related articles by Alain (X79), Didier (X82), David (X97), Thierry (X84), Robert (X72), Gérard (X67), Paul... underline the lack of diversity at Polytechnique in artificial intelligence (all authors are white male, between 38 years and 80 years old). 
+Yet, in 2023, Polytechnique alumnis' strategy is to disinform people. [This article](https://www.lajauneetlarouge.com/ia-de-confiance-enjeux-et-solutions-pour-un-traitement-ethique-des-donnees/) by Vincent LUCIANI (X05) explicitly highlights conflicts of interest (Consulting companies, Artefact, the AI Infrastructure Alliance, the MLOps Community, etc). Related articles by Alain (X79), Didier (X82), David (X97), Thierry (X84), Robert (X72), Gérard (X67), Paul... underline a lack of diversity at Polytechnique (all authors are white male, between 38 and 80 years old). 
 
-I remember, at the time when I studied at Polytechnique, <i>"leaders"</i> were invited to inspire us. Carlos Ghosn was invited a few months before ending in prison following the disclosure of a scam. The French billionaire Patrick Drahi gave his name to Polytechnique's center for entrepreneurship and innovation, today he's involved in a huge scam, the [DrahiLeaks](https://www.blast-info.fr/articles/2023/drahileaks-la-methode-de-patrick-drahi-pour-devenir-riche-P5NfCE1qRt6QgwnJRKpMtA). Polytechnique's management, responsible for a greenwashing culture and toxic environment, [needs to be rectified](https://www.ccomptes.fr/system/files/2020-02/20200225-12-TomeI-ecole-polytechnique.pdf) the Court of Auditors wrote in 2020. What has been done?
+I remember, at the time when I studied at Polytechnique, <i>"leaders"</i> were invited to inspire us. Carlos Ghosn was invited a few months before ending in prison. The French billionaire Patrick Drahi gave his name to Polytechnique's center for entrepreneurship and innovation, today he's publicly known for the [DrahiLeaks](https://www.blast-info.fr/articles/2023/drahileaks-la-methode-de-patrick-drahi-pour-devenir-riche-P5NfCE1qRt6QgwnJRKpMtA). Polytechnique's management [needed to be rectified](https://www.ccomptes.fr/system/files/2020-02/20200225-12-TomeI-ecole-polytechnique.pdf) the Court of Auditors wrote in 2020. What has been done since?
 
-According to Villani in 2018, a priority in France should be to ensure that artificial intelligence benefits everyone, is associated with a strengthening of democracy and not the opposite ⚖️.
-
-Cathy O'Neil's book Weapons of Math Destruction (2016) shows that AI benefits very strong companies, leads to social regressions, errors, is used for advertising targeting for purposes that are not acceptable…
-
-Six months earlier, in another interview in Le Monde in September 2017, Villani mentions Putin, law and revolution, talks about World War III and Elon Musk's business model. French institutions like the CNRS are mentioned, which published in February 2023 an article on Climatosceptiscism and Twitter (owned by Elon Musk). The privatization of AI research is mentionned, Yann Le Cun, Macron… Google, Amazon, Facebook, Europe, governance problems.
+Six months earlier, in another interview in Le Monde in September 2017, Villani mentions Putin, law and revolution, talks about World War III and Elon Musk's business model. The privatization of AI research is mentionned, Yann Le Cun, Macron… Google, Amazon, Facebook, Europe, governance problems.
 
 ## The deeptech bubble bursted
 
