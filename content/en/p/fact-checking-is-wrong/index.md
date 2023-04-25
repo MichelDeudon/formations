@@ -11,7 +11,7 @@ Ecole Polytechnique, <i>the leading French science & technology institution</i> 
 
 Macron, France's Minister of the Economy and Digital in 2014, was first elected President and therefore <i>head of the army</i> in 2017. His party for the Presidential campain, La République en Marche, had a mathematician and French Fields Medal as MP for Essonne (where Polytechnique is), Cédric Villani, known like Gaspard Monge for his seminal work on Optimal Transport.
 
-{{< figure src="fact-checking/optimal-transport.png" caption="Illustration of Optimal Transport. <i>"In this paper, we point out that the evaluation in the original study (2015) could be misleading"</i>. - Ryoma Sato, Makoto Yamada and Hisashi Kashima. [Re-evaluating Word Mover's Distance](https://proceedings.mlr.press/v162/sato22b.html). ICML 2022.">}}
+{{< figure src="fact-checking/optimal-transport.png" caption="Illustration of Optimal Transport. <i>In this paper, we point out that the evaluation in the original study (2015) could be misleading</i>. - Ryoma Sato, Makoto Yamada and Hisashi Kashima. [Re-evaluating Word Mover's Distance](https://proceedings.mlr.press/v162/sato22b.html). ICML 2022.">}}
 
 A year later, in 2018, Eric Labaye (X87), senior partner at [McKinsey & Company](https://www.bpifrance.fr/nos-actualites/rencontres-economiques-daix-en-provence-un-regard-sur-le-monde-demain), was appointed executive President of Polytechnique and later President of the newly created Institut Polytechnique de Paris.
 
