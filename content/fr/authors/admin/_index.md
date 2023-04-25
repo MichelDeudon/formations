@@ -45,4 +45,4 @@ user_groups:
   - Teachers
 ---
 
-Bonjour! Je m'appelle Michel, je suis né à New York et j'ai vécu plus de 10 ans à l'étranger. Je suis passionné par l'écologie et la psychologie. J'enseigne les mathématiques, sciences et l'anglais, au lycée et supérieur depuis 2012. J'offre aussi des opportunités de reconversion pour les adultes en écolinguistique et innovation frugale. En 2020, j'ai co-fondé [Local Seasonal](https://www.local-seasonal.org/fr/), une association pour célébrer la diversité au fil des saisons. Dans mon temps libre, j'aime danser, faire du roller et les activités de plein air.
+Bonjour! Je m'appelle Michel, je suis né à New York et j'ai vécu plus de 10 ans à l'étranger. Je suis passionné par l'écologie et la psychologie. J'enseigne les mathématiques, sciences et l'anglais, au lycée et supérieur depuis 2012. J'offre aussi des opportunités de reconversion pour les adultes en écolinguistique et innovation frugale. En 2020, j'ai co-fondé [Local Seasonal](https://www.mtpcours.fr/c/local-seasonal/), une association pour célébrer la diversité au fil des saisons. Dans mon temps libre, j'aime danser, faire du roller et les activités de plein air.

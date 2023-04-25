@@ -2,13 +2,13 @@
 title: Ateliers Local Seasonal
 linkTitle: Local Seasonal
 summary: Ateliers arts & science, sur mesure, pour célébrer la biodiversité au fil des saisons, à destinations de jeunes et grand public.
-date: '2023-04-25'
+date: '2020-04-25'
 type: book
 tags:
   - Jeunes
 ---
 
-{{< figure src="featured.png" caption="Une Rencontre Local Seasonal par Louise Lavaud">}}
+{{< figure src="featured.png" caption="Une rencontre Local Seasonal par Louise Lavaud.">}}
 
 ## Présentation
 
@@ -24,7 +24,7 @@ Distribution de graines [Kokopelli](https://kokopelli-semences.fr/fr/) et de sem
 
 ### Des données en accès libre
 
-Contribution en accès libre: [Pyfood](https://pyfood.readthedocs.io/fr/latest/) et Chocapi (à venir) pour sensibiliser aux bienfaits d'une alimentation végé, locale et de saison.
+Contribution en accès libre: [Pyfood](https://pyfood.readthedocs.io/fr/latest/) pour sensibiliser aux bienfaits d'une alimentation végé, locale et de saison.
 
 Nous soutenons
 - Ⓥ Des créations végétales, respectant les écosystèmes vivants et favorisant une empreinte carbone faible.
@@ -41,8 +41,8 @@ Organisation d'activitiés ludiques, artistiques et éducatives, par exemple d'e
 
 ## Nous soutenir
 
-Offrir un calendrier de saison (7 pages recto verso, format A5, édition France métropolitaine) et nous sountenir via [HelloAsso](https://www.helloasso.com/associations/local-seasonal).
+Offrir un calendrier de saison (7 pages recto verso, format A5, édition France métropolitaine) et nous soutenir via [HelloAsso](https://www.helloasso.com/associations/local-seasonal).
 
 Prix libre, prix conseillé 15 euros.
 
-{{% staticref "uploads/Calendrier de saison A5.pdf" %}}Calendrier de saison A5{{% /staticref %}}.
+Télécharger notre {{% staticref "uploads/Calendrier de saison A5.pdf" %}}calendrier de saison{{% /staticref %}}.
