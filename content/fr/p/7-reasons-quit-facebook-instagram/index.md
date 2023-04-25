@@ -7,9 +7,9 @@ Et Linkedin, Twitter, Tiktok
 
 <!--more-->
 
-## Mai est un mois symbolique
+## Mai est un mois symbolique
 
-Dans de nombreux pays du monde, le 1er mai est la Journée internationale des droits des travailleurs, aussi connue sous le nom de la fête du travail. C'est une journée d'action sociale pour célébrer la classe ouvrière et mettre en lumière les problèmes actuels des droits des travailleurs.
+Dans de nombreux pays, le 1er mai est la Journée internationale des droits des travailleurs, aussi connue sous le nom de la fête du travail. C'est une journée d'action sociale pour célébrer la classe ouvrière et mettre en lumière les problèmes actuels des droits des travailleurs.
 
 Cette année, un mouvement historique est attendu en France.
 
@@ -39,7 +39,7 @@ Ils concentrent des billions de capitaux entre les mains de quelques hommes et, 
 
 <b>Tout ce pouvoir provient de nos données personnelles.</b>
 
-Faire une pause (ou quitter) et convaincre les autres de faire de même est le maximum que nous puissions faire en tant qu'individus. Cependant, <b>cet effet ricochet peut suffire à les faire tomber</b>.
+Faire une pause (ou quitter) et convaincre les autres de faire de même est le maximum que nous puissions faire en tant qu'individus. Cependant, <b>cet effet ricochet peut suffire à les renverser</b>.
 
 De plus, quitter les réseaux sociaux nous offre généralement une bonne quantité de temps libre, que nous pouvons investir dans la résolution de problèmes sociaux et environnementaux, ou pour réimaginer le type de monde dans lequel nous voulons vivre.
 
@@ -55,9 +55,9 @@ Les biais humains sont renforcés par les algorithmes de Machine Learning.
 
 Les opinions ne sont pas correctement représentées.
 
-Certaines voix sont réduites au silence, les gens tenus dans l'ombre.
+Certaines voix sont réduites au silence et des personnes sont invisibilisées.
 
-Les réseaux sociaux viraux aident les personnalités politiques à diviser pour mieux régner.
+Les réseaux sociaux viraux aident les personnalités politiques à <i>diviser pour mieux régner</i>.
 
 Laure Delisle, une collègue d'Element AI, a publié un article à NeurIPS en 2018 avec Amnesty International [quantifiant les abus dirigés contre les femmes journalistes et politiques sur Twitter](https://aiforsocialgood.github.io/2018/pdfs/track1/19_aisg_neurips2018.pdf).
 
@@ -69,7 +69,7 @@ Regardez autour de vous et demandez-vous : Facebook, Instagram, Linkedin, Twitte
 
 Après trois années de crise sanitaire, énergétique, politique, écologique et sociale, il est temps de <b>prendre soin de nous, de notre santé mentale et physique</b>, de nos proches et de la planète Terre.
 
-Nous devons arrêter de procrastiner, de s'isoler et nous devons déstigmatiser les addictions, la dépression…
+Nous devons arrêter de procrastiner, nous isoler et nous enfermer dans des bulles. Nous devons déstigmatiser les addictions, la dépression…
 
 [Facebook sait qu'Instagram est toxique pour les adolescentes](https://www.wsj.com/articles/the-facebook-files-11631713039?mod=bigtop-breadcrumb). Ses propres recherches approfondies montrent un important problème de santé mentale chez les adolescents que Facebook minimise en public (Wall Street Journal, 2021). Selon le document de l'entreprise :
 - 40% des utilisateurs qui se trouvent peu attractifs pensent que c'est particulièrement lié à Instagram.
@@ -77,7 +77,7 @@ Nous devons arrêter de procrastiner, de s'isoler et nous devons déstigmatiser 
 
 Nous devons nous (re)connecter avec nous-mêmes et les uns avec les autres, et <b>recentrer l'attention dans la société</b>.
 
-Nous devons agir de manière solidaire, soutenir ceux qui nous entourent, localement, dans notre quartier, et <b>créer des espaces sûrs pour les émotions</b>.
+Nous devons agir de manière solidaire, soutenir celles et ceux qui nous entourent, localement, dans notre quartier, et <b>créer des espaces bienveillants pour accueillir nos émotions</b>.
 
 J'ai supprimé mon compte sur Linkedin/Instagram après avoir reçu une explosion d'attaques de phishing, suite à une alerte que j'ai partagée avec mon réseau en février/mars.
 
@@ -89,7 +89,7 @@ Comme l'a clairement indiqué une députée dans une interview accordée à [Bla
 
 Mon expérience de consultant pour le gouvernement (SGDSN), pour préparer la France à une crise majeure, confirme le constat de cette députée.
 
-Facebook/Instagram, Twitter, les algorithmes de Linkedin et les publications des politiciens sont optimisés pour générer des réactions.
+Facebook/Instagram, Twitter, les algorithmes de Linkedin et les mensonges du gouvernement sont optimisés pour générer des réactions.
 
 Les publications virales servent leurs affaires, pas votre avenir.
 
@@ -103,9 +103,9 @@ Des méthodes alternatives existent en fonction de vos besoins et de votre utili
 
 <b>Pour rester informé et apprendre de manière proactive</b>, je recommanderais des médias indépendants comme Blast, des chaînes scientifiques comme Météo France et le CNRS, ou la presse locale.
 
-<b>Pour rester connecté et communiquer</b>, des appels téléphoniques, des SMS ou une marche et une conversation fonctionnent très bien.
+<b>Pour rester connecté et communiquer</b>, des appels téléphoniques, des SMS ou une promenade et discussion fonctionnent très bien.
 
-Framasoft, une association française à but non lucratif, propose également une suite d'alternatives à Facebook comme Mobilizon.
+[Framasoft](https://framasoft.org/fr/), une association française à but non lucratif, propose également une suite d'alternatives à Facebook comme Mobilizon.
 
 Enfin, les associations et clubs (sport, art, etc.) permettent de rencontrer des personnes de votre <b>réseau local</b>, partageant les mêmes centres d'intérêt.
 
@@ -121,7 +121,7 @@ Et vous?
 
 {{< figure src="quit-fb/climate-strike.jpg" caption="Photo de Robin Erino sur Pexels">}}
 
-## 7. Cela ne prend que 2 minutes
+## 7. Cela ne prend que 2 minutes
 
 Visitez [mtpcours.fr/c/desinformation/pratique/](https://www.mtpcours.fr/c/desinformation/pratique/) pour trouver des instructions pour désactiver/supprimer vos comptes de médias sociaux et en savoir plus sur la désinformation.
 
@@ -137,4 +137,5 @@ En résumé, voici 7 raisons de quitter les réseaux sociaux viraux en mai :
 7. Cela ne prend que 2 minutes
 
 Merci de relayer le message ! 🌸
+
 Merci de répandre l'amour 💖

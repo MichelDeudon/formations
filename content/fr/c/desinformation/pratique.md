@@ -21,6 +21,10 @@ Le printemps francais et l'été sans réseaux sociaux.
 
 Pour lutter contre la désinformation et mettre fin à la circulation virulente d’information toxique, il ne faut surtout pas commenter ou partager de fausses nouvelles ou messages haineux (car plus de réactions, plus de vues, plus de virulence). Signaler/bloquer ces messages, quitter l'application, ou mieux {{<hl>}}<b>désactiver/supprimer ses comptes le 1er mai</b>{{</hl>}} et <b>éteindre ses écrans</b> pour le printemps/été 2023. 
 
+{{< callout note >}}
+Voir aussi [7 raisons de quitter Facebook et Instagram en mai](https://www.mtpcours.fr/p/7-reasons-quit-facebook-instagram/)
+{{< /callout >}}
+
 Arrêter de procrastiner sur les réseaux sociaux, en particulier en période de débats, d'élections ou d’examens. Retrouver ici les instructions pour désactiver ou supprimer son compte sur [Instagram](https://help.instagram.com/370452623149242)/[Facebook](https://www.facebook.com/help/224562897555674), [Whatsapp](https://faq.whatsapp.com/2138577903196467/), [Twitter](https://help.twitter.com/en/managing-your-account/how-to-deactivate-twitter-account)/[ChatGPT](https://help.openai.com/en/articles/6378407-how-can-i-delete-my-account), [Linkedin](https://www.linkedin.com/help/linkedin/answer/a1379064/close-your-linkedin-account?lang=fr)... [Tiktok](https://support.tiktok.com/en/account-and-privacy/deleting-an-account).
 
 Privilégier un appel téléphonique pour communiquer avec son entourage. <br>

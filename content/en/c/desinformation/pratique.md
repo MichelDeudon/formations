@@ -21,6 +21,10 @@ French Spring and Summer without social networks.
 
 To fight disinformation and put an end to the viral circulation of toxic information, you must above all not comment or share fake news or hateful messages (because more reactions, more views, more virulence). Report/block these messages, quit the application, or better {{<hl>}}<b>deactivate/delete your account on May 1st</b>{{</hl>}}, and <b>turn off your screen</b> during the Spring/Summer 2023.
 
+{{< callout note >}}
+See also [7 reasons to quit Facebook and Instagram in May](https://www.mtpcours.fr/en/p/7-reasons-quit-facebook-instagram/)
+{{< /callout >}}
+
 Stop procrastinating on social media, especially during elections or exams. Find here instructions to deactivate or delete your account on [Instagram](https://help.instagram.com/370452623149242)/[Facebook](https://www.facebook.com/help/224562897555674), [Whatsapp](https://faq.whatsapp.com/2138577903196467/), [Twitter](https://help.twitter.com/en/managing-your-account/how-to-deactivate-twitter-account)/[ChatGPT](https://help.openai.com/en/articles/6378407-how-can-i-delete-my-account), [Linkedin](https://www.linkedin.com/help/linkedin/answer/a1379064/close-your-linkedin-account?lang=en)... [Tiktok](https://support.tiktok.com/en/account-and-privacy/deleting-an-account).
 
 Prefer a call to catch up with your beloved. <br>

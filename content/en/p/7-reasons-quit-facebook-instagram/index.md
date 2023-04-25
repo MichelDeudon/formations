@@ -55,7 +55,7 @@ Opinions are misrepresented.
 
 Some voices are silenced, people kept in the shadow.
 
-Viral social networks help political figures to divide and conquer.
+Viral social networks help political figures to <i>divide and conquer</i>.
 
 Laure Delisle, a colleague at Element AI, published an article at NeurIPS in 2018 with Amnesty International [quantifying the abuse directed against female journalists and politicians on Twitter](https://aiforsocialgood.github.io/2018/pdfs/track1/19_aisg_neurips2018.pdf).
 
@@ -103,7 +103,7 @@ Alternative methods exist depending on your needs and usage.
 
 <b>To stay connected and communicate</b>, regular phone calls, sms or a walk and talk work fine.
 
-Framasoft, a French non profit, also offers a suite of alternatives to Facebook like Mobilizon.
+[Framasoft](https://framasoft.org/en/), a French non profit, also offers a suite of alternatives to Facebook like Mobilizon.
 
 Finally, non profits and clubs (sport, art, etc) give the opportunity to meet people in your <b>local network</b>, sharing the same interests.
 
@@ -135,4 +135,5 @@ Below is a summary of the 7 reasons to quit:
 7. It only takes 2 minutes
 
 Thanks for spreading the word! 🌸
+
 Thanks for spreading love 💖
