@@ -44,7 +44,7 @@ Déstigmatiser les addictions aux réseaux sociaux, [la dépression](https://www
 
 ## 4. Donner du sens à l’avenir
 
-Apprendre à méditer, se concentrer, être davatange présent et exprimer de la gratitude, par exemple avec [Petit Bambou](https://www.lajauneetlarouge.com/petit-bambou-lappli-de-meditation-cofondee-par-un-polytechnicien/). Investir son temps et énergie sur le long terme. [Apprendre une langue](https://www.mtpcours.fr/post/22-03-29-language-learning/), à cuisiner, à bricoler… Faire du sport, de la musique, du bénévolat, de l’[artisanat](https://wecandoo.fr/). Soutenir une cause. Réécrire le futur avec de [nouveaux imaginaires](https://www.youtube.com/watch?v=Y8SpcxR6FjQ&ab_channel=BLAST%2CLesouffledel%27info), un été solidaire, sans réseaux sociaux.
+Apprendre à méditer, se concentrer, être davatange présent et exprimer de la gratitude, par exemple avec [Petit Bambou](https://www.lajauneetlarouge.com/petit-bambou-lappli-de-meditation-cofondee-par-un-polytechnicien/). Investir son temps et énergie sur le long terme. [Apprendre une langue](https://www.mtpcours.fr/p/language-learning/), à cuisiner, à bricoler… Faire du sport, de la musique, du bénévolat, de l’[artisanat](https://wecandoo.fr/). Soutenir une cause. Réécrire le futur avec de [nouveaux imaginaires](https://www.youtube.com/watch?v=Y8SpcxR6FjQ&ab_channel=BLAST%2CLesouffledel%27info), un été solidaire, sans réseaux sociaux.
 
 ## 5. Soutenir les innovations locales 🌸
 

@@ -33,19 +33,6 @@ education:
       institution: Lycée Pasteur
       year: 2012
 
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-social:
-  - icon_pack: fab
-    icon: medium
-    link: 'https://medium.com/@micheldeudon'
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/MichelDeudon
-  - icon: "google-scholar"
-    icon_pack: "ai"
-    link: "https://scholar.google.fr/citations?user=p4RP5SoAAAAJ&hl=fr"
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 

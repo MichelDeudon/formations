@@ -58,6 +58,10 @@ March 2023. Are we still in a {{<hl>}}<b>democracy</b>{{</hl>}}? [Blast, le souf
 <i>How can France compete against giants like <b>GAFAM</b>, which are investing massively in AI and hiring the best experts, particularly French?</i> France is at the forefront in artificial intelligence research. We also have institutions like <b>Inria</b>, <b>CNRS</b>, researchers like <b>Yann LeCun</b>... I have other colleagues who went to <b>Facebook</b>, <b>Google</b>... It will be one of the major questions in the report... <b>There is also a question of sovereignty, which concerns all of Europe</b>... who leads projects...
 
 {{< callout warning >}}
+March 2023. ChatGPT: Why the city of Montpellier prohibits its agents from using artificial intelligence. [France-3 Regions](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/chatgpt-revolutionnaire-mais-qui-inquiete-pourquoi--2742446.html).
+{{< /callout >}}
+
+{{< callout warning >}}
 March 2023. ChatGPT banned in Italy: the first domino falls in Europe. [La Tribune](https://www.latribune.fr/technos-medias/informatique/chatgpt-interdit-en-italie-le-premier-domino-tombe-en-europe-957429.html)
 {{< /callout >}}
 

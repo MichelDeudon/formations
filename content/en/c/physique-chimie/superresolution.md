@@ -29,26 +29,13 @@ In March 2019, I joined Element AI, <i>AI for Good</i>, on a permanent contract 
 
 In September 2019, after the [Series B fundraising with McKinsey and Co](https://www.cdpq.com/fr/actualites/communiques/element-ai-recueille-200m-ca-1514m-us-de-serie-b-pour-transformer-les), I was layed off, for economic reasons. One year later, [ServiceNow](https://techcrunch.com/2020/11/30/servicenow-is-acquiring-element-ai-the-canadian-startup-building-ai-services-for-enterprises/) acquired Element AI. Several colleagues experienced depression, as Manon Gruaz talks about in her talk [CTRL+ALT+DEPRESSION](https://www.youtube.com/watch?v=MN3D0uLEERU&ab_channel=GDGFrance) at DevFest de Nantes 2022.
 
-### From low to high resolution
-
-{{< figure src="super-resolution/img3.png" caption="Deudon, Michel, Alfredo Kalaitzis, Israel Goytom, Md Rifat Arefin, Zhichao Lin, Kris Sankaran, Vincent Michalski, Samira E. Kahou, Julien Cornebise, and Yoshua Bengio. HighRes-net: Multi Frame Super Resolution by Recursive Fusion. [arxiv preprint arXiv:2002.06460 (2020)](https://arxiv.org/abs/2002.06460). Design by [Manon Gruaz](https://manongruaz.com/).">}}
-
-Without taking into account the real costs, the complexity of the algorithms, the consumption of the models, AI research helps gain 1% with 10 to 100 times more energy. On the example of the [European Space Agency competition](https://kelvins.esa.int/proba-v-super-resolution/leaderboard/results),
-- Baseline without AI. rating 1.0
-- Model without AI. score 0.95 @ledzeppelin
-- [HighResNet](https://arxiv.org/abs/2002.06460). score 0.94 @rarefin (logarithmic complexity)
-- DeepSUM. score 0.94 @superpip (linear complexity, 1st in 2019)
-- TR-MISM. score 0.93 (quadratic complexity, 1st in 2022)
-
 ## From Proba-V to Sentinel-2
 
-With Brexit and the Covid, I returned to France. On 06/04/2020, the European Space Agency (ESA) launched a competition on the use of satellite images in connection with the COVID-19 crisis. Each week, a prize of €1,000 was awarded.
+With Brexit and the Covid, I returned to France. On 06/04/2020, the European Space Agency (ESA) launched a competition on the use of satellite images in connection with the COVID-19 crisis. Each week, a prize of €1,000 was awarded and the winners had to opportunity to scaleup.
 
-> <i>My goal was to reveal more details from public imagery to raise awareness of the marine environment and its protection.</i> Venise sans les bateaux. [Cnes.fr](https://spacegate.cnes.fr/fr/covid-19-venise-sans-les-bateaux) May 6, 2020.
+My proof of concept finished [3rd in the final ranking](https://medium.com/sentinel-hub/race-upscaling-competition-results-8a339bb8c942), and was therefore not retained, only the first two projects have been selected for the final dashboard for the European Commission. The favorite project was developed by Henrik Fisser at the end of his internship at Brockmann Consult, partner organization of the competition for ESA (potential conflict of interests).
 
-The idea finished [3rd in the final ranking](https://medium.com/sentinel-hub/race-upscaling-competition-results-8a339bb8c942), and was therefore not retained, only the first two projects have been selected for the final dashboard for the European Commission. The favorite project was developed by Henrik Fisser at the end of his internship at Brockmann Consult, with the help of [Euro Data Cube](https://github.com/hfisser/Truck_Detection_Sentinel2_COVID19/commit/48bc8ab4cc431d8a044093cbd8c0385aff5511be), partner organizations of the competition for ESA (conflicts of interest?).
-
-My idea and algorithms were initially motivated by the United Nations Decade of Ocean Science for Sustainable Development (2021-2030, [UNESCO](https://fr.unesco.org/ocean-decade)) and the need to raise awareness / protect maritime areas and the Oceans, but Covid has diverted attention from ecological concerns. I ended up returning to studies in September 2020, at the College des Ingénieurs, to have a minimum source of income.
+My idea and algorithms were initially motivated by the United Nations Decade of Ocean Science for Sustainable Development (2021-2030, [UNESCO](https://fr.unesco.org/ocean-decade)), the need to raise awareness of the marine environment and protect maritime areas and the Oceans, but Covid has diverted attention from ecological concerns. I ended up returning to studies in September 2020, at the College des Ingénieurs, to have a minimum source of income.
 
 {{< figure src="super-resolution/img4.png" caption="Venise sans les bateaux. [Cnes.fr](https://spacegate.cnes.fr/fr/covid-19-venise-sans-les-bateaux). May 6, 2020.">}}
 
@@ -56,7 +43,7 @@ My idea and algorithms were initially motivated by the United Nations Decade of 
 </blockquote>
 
 ## Acknowledgments
-Grateful to [Manon Gruaz](https://manongruaz.com/), [Elena Aversa](https://densitydesign.org/person/elena-aversa/) for the information design, as well as [Gaëlle Lahoreau](https://www.centre-valdeloire.fr/comprendre/lassemblee-regionale/annuaire-des-elus/lahoreau-gaelle), [Sabina Dolenc](https://medium.com/sentinel-hub/race-upscaling-competition-results-8a339bb8c942) and [Carre4](https://medium.com/carre4/monitoring-boat-traffic-with-public-satellites-be1c48d87802) for communications.
+Grateful to [Manon Gruaz](https://manongruaz.com/), [Elena Aversa](https://densitydesign.org/person/elena-aversa/) for the information design, as well as [Gaëlle Lahoreau](https://www.centre-valdeloire.fr/comprendre/lassemblee-regionale/annuaire-des-elus/lahoreau-gaelle) and [Sabina Dolenc](https://medium.com/sentinel-hub/race-upscaling-competition-results-8a339bb8c942).
 
 ## Références
 - CNES. [Venise sans les bateaux](https://spacegate.cnes.fr/fr/covid-19-venise-sans-les-bateaux). May 2020.

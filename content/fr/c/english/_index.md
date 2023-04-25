@@ -12,7 +12,7 @@ tags:
 
 ## Présentation
 
-Apprendre l'anglais est l'[un des meilleurs investissements](https://www.mtpcours.fr/post/22-03-29-language-learning/) que vous puissiez faire aujourd'hui pour devenir indépendant. Cela vous donnera accès à des tonnes de ressources pour apprendre, vous apportera des opportunités de travail, et des amitiés à travers le monde. 
+Apprendre l'anglais est l'[un des meilleurs investissements](https://www.mtpcours.fr/p/language-learning/) que vous puissiez faire aujourd'hui pour devenir indépendant. Cela vous donnera accès à des tonnes de ressources pour apprendre, vous apportera des opportunités de travail, et des amitiés à travers le monde. 
 
 La meilleure façon d'apprendre l'anglais se résume à trois mots - <i>"Pratiquer, pratiquer, pratiquer"</i>. Dans ce cours particulier, vous aurez de nombreuses occasions de pratiquer avec un américain, né à New York. C'est l'occassion d'approfondir son vocabulaire, la grammaire et l'orthographe, apprendre à parler et prononcer des mots comme un natif, et l'occassion d'élargir sa culture, y compris de proverbes et d'histoire américaine/britannique. 
 

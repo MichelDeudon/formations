@@ -12,7 +12,7 @@ tags:
 
 ## Program overview
 
-Learning English is [one of the best investment](https://www.mtpcours.fr/en/post/22-03-29-language-learning/) you can make today to become independent. It will give you access to tons of ressources to learn from, bring you work opportunities, and friendships across the world. 
+Learning English is [one of the best investment](https://www.mtpcours.fr/en/p/language-learning/) you can make today to become independent. It will give you access to tons of ressources to learn from, bring you work opportunities, and friendships across the world. 
 
 The best way to learn English boils down to three words - <i>"Practice, practice, practice"</i>. In this course, you will have many opportunities to practice with a native American born in New York. It's an opportunity to deepen your vocabulary, grammar and spelling, learn to speak and pronounce words like a native, and an opportunity to expand your culture, including proverbs and American / British history.
 

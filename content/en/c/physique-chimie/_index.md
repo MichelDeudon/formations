@@ -15,7 +15,7 @@ tags:
 
 ## Program overview
 
-I have been teaching physics and chemistry for 10 years, with passion, patience and empathy, seeking to give to my students the [confidence, intuition and good reflexes](https://www.mtpcours.fr/en/post/23-01-10-mathematics/) necessary to become autonomous. In particular, I help my students to ask themselves the right questions to solve problems, to visualize them well, to own them through concrete examples and to develop automatisms to solve exercises more effectively.
+I have been teaching physics and chemistry for 10 years, with passion, patience and empathy, seeking to give to my students the [confidence, intuition and good reflexes](https://www.mtpcours.fr/en/p/mathematics/) necessary to become autonomous. In particular, I help my students to ask themselves the right questions to solve problems, to visualize them well, to own them through concrete examples and to develop automatisms to solve exercises more effectively.
 
 My method is very practical. We try, we see where it gets stuck, we discuss. We make sure we won't get stuck in similar situations again. We transform each error to gain in efficiency and effectiveness.
 

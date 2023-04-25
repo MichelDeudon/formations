@@ -44,7 +44,7 @@ Destigmatize addictions to social networks, [depression](https://www.youtube.com
 
 ## 4. Make sense of the future
 
-Learn to meditate, concentrate, be more present and grateful, for example with [Petit Bambou](https://www.lajauneetlarouge.com/petit-bambou-lappli-de-meditation-cofondee-par-un-polytechnicien/). Invest your time and energy on the long term. [Learn a language](https://www.mtpcours.fr/en/post/22-03-29-language-learning/), cook, do [crafts](https://wecandoo.fr/)... sports, play music, volunteer. Support a cause. Rewrite the future with [new narratives](https://www.youtube.com/watch?v=Y8SpcxR6FjQ&ab_channel=BLAST%2CLesouffledel%27info), a solidarity Summer, without social networks.
+Learn to meditate, concentrate, be more present and grateful, for example with [Petit Bambou](https://www.lajauneetlarouge.com/petit-bambou-lappli-de-meditation-cofondee-par-un-polytechnicien/). Invest your time and energy on the long term. [Learn a language](https://www.mtpcours.fr/en/p/language-learning/), cook, do [crafts](https://wecandoo.fr/)... sports, play music, volunteer. Support a cause. Rewrite the future with [new narratives](https://www.youtube.com/watch?v=Y8SpcxR6FjQ&ab_channel=BLAST%2CLesouffledel%27info), a solidarity Summer, without social networks.
 
 ## 5. Support local innovations 🌸
 
