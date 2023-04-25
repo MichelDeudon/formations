@@ -1,186 +1,140 @@
 ---
-title: 7 tricks to get better at Maths
-date: 2022-03-29
+title: 7 raisons de quitter Facebook et Instagram en mai
+date: 2023-03-24
 ---
 
-For beginners to advanced
+Et Linkedin, Twitter, Tiktok
 
 <!--more-->
 
-With 13 medal fields in mathematics in 2022, France is ranked second worldwide. Yet, looking closer to individuals, from primary to high school, France ranks among the worst countries in Europe and the OCDE, according to the annual study Trends in International Mathematics and Science Study. <i>Why?</i>
+## Mai est un mois symbolique
 
-A lot of students are discouraged to learn mathematics in France. In high school, the share of women in maths dropped by 8 points in the last two years, since the latest education reform, dropping below 1994 levels! (source: [L'Etudiant](https://www.letudiant.fr/lycee/infographies-comment-la-reforme-du-lycee-penalise-les-filles.html))
+Dans de nombreux pays du monde, le 1er mai est la Journée internationale des droits des travailleurs, aussi connue sous le nom de la fête du travail. C'est une journée d'action sociale pour célébrer la classe ouvrière et mettre en lumière les problèmes actuels des droits des travailleurs.
 
-My little sister was told in 2020 in high school she wasn't good in mathematics, she shouldn't pursue studies in mathematics but she did. In 2022 she majored her course in statistics at university.
+Cette année, un mouvement historique est attendu en France.
 
-As a mentor and teacher, my work often consists in deconstructing biases, stereotypes and helping students gain confidence. This short story aims to share some tricks to help students change perspective on mathematics and science. I've learned these by mentoring students, from primary to high school, and beyond.
+En tant qu'utilisateurs des réseaux sociaux, beaucoup d'entre nous <b>travaillons gratuitement</b> pour Facebook, Instagram ou Twitter. Ceci est un appel à l'action pour désactiver/supprimer ses comptes pour le mois de mai, à partir du 1er mai et se poursuivant jusqu'au printemps 🌸 et été ☀️.
 
-## Trick #1 — Start asking questions
+La question qui se pose n'est pas la technologie elle-même, mais les intentions humaines qui la sous-tendent, ainsi que ce qu'elles représentent et défendent : le capitalisme, le patriarcat, la désinformation, la répression et l'inaction climatique.
 
-{{< figure src="maths/blog-math-1.jpg" caption="maths/Photo by Frans van Heerden on Pexels" numbered="true" >}}
+<b>Une pause définitive ou temporaire</b>, d'une journée, d'un mois ou de l'été, peut avoir <b>un impact énorme</b> tout en nécessitant <b>un effort relativement faible</b> de chaque individu.
 
-Science isn't about solving problems, it's about asking questions.
+En effet, du 14 au 17 juin aura lieu l'événement signature de Macron : le Salon Vivatech. Lors de cet événement, Zuckerberg et des ingénieurs, des investisseurs, des gens du monde entier s'envolent pour Paris pour pitcher/investir dans des gadgets techniques et des licornes (des startups valorisées à plus d'un milliard de dollars) 🦄.
 
-Remember when you were a kid and asked the question <i>why?</i>
-<i>Why is the ocean blue?</i>
+{{< figure src="quit-fb/vivatech.jpg">}}
 
-Adults would answer <i>because</i>… and you would ask <i>why</i> again
-<i>Why is the sky blue?</i>
+Supprimer Facebook/Instagram et autres réseaux sociaux viraux est le signal le plus fort qui puisse être envoyé à Macron et Zuckerberg pour Vivatech 2023.
 
-That's maybe when the conversation would end.
+Alors, en tant qu'utilisateur et "travailleur" de ces entreprises de réseaux sociaux, quelles sont les bonnes raisons de faire une courte (ou longue) pause à partir de ce 1er mai ?
 
-Here's a quote I love from Richard Feynman, which summarizes the idea:
+## 1. Facebook mène le capitalisme patriarcal
 
-> I would rather have questions that can't be answered than answers that can't be questioned.
+Facebook, Instagram, Twitter et d'autres réseaux sociaux viraux sont le talon d'Achille d'un système capitaliste patriarcal.
 
-I've been using the 4 questions below since mid school to pass exams, carry out research and projects:
+Ils génèrent des bénéfices grâce aux publicités d'Uber Eats et Zalando.
 
-- <i> What do we want? </i>
-- <i> What do we have or need? </i>
-- <i> What do we know? </i>
-- <i> What can we conclude? </i>
+Ils font de nous des consommateurs passifs plutôt que des citoyens actifs.
 
-These questions aren't the solution to a problem (if any!) but a way to it. A simple solution would look like
+Ils concentrent des billions de capitaux entre les mains de quelques hommes et, par conséquent, aggravent les inégalités entre les sexes.
 
-- <i> J'observe que… (what we have) </i>
-- <i> Or, on sait que… (what we know) </i>
-- <i> Donc… (what we conclude) </i>
+<b>Tout ce pouvoir provient de nos données personnelles.</b>
 
-Start asking questions and be curious.
+Faire une pause (ou quitter) et convaincre les autres de faire de même est le maximum que nous puissions faire en tant qu'individus. Cependant, <b>cet effet ricochet peut suffire à les faire tomber</b>.
 
-## Trick #2 — Start drawing, somewhere
+De plus, quitter les réseaux sociaux nous offre généralement une bonne quantité de temps libre, que nous pouvons investir dans la résolution de problèmes sociaux et environnementaux, ou pour réimaginer le type de monde dans lequel nous voulons vivre.
 
-{{< figure src="maths/blog-math-2.jpg" caption="maths/Photo by Tanvir Khondokar on Pexels" numbered="true" >}}
+{{< figure src="quit-fb/ripple-effect.jpg" caption="Illustration de l'effet ricochet par Linus Nylund sur Unsplash.">}}
 
-A picture is worth 1000 words.
+## 2. Facebook alimente la haine, la désinformation et la répression
 
-If you don't know how to start, drawing a picture will spark your creativity and trigger your intuition.
+L'idée que les réseaux sociaux favorisent la communication est un mythe.
 
-Try to reformulate, summarize the question. For example if you have a problem with three random points A, B, C, start drawing three points randomly.
+<b>Nous sommes submergés d'informations</b>, de greenwashing et de conflits d'intérêts.
 
-You could just list the known information to start. What distances and durations are given?
+Les biais humains sont renforcés par les algorithmes de Machine Learning.
 
-Craft a solution from your drawing or your notes. Write it down when you have a plan (a plan is enough, you don't need to have the full solution at this point).
+Les opinions ne sont pas correctement représentées.
 
-A drawing is the easiest way to communicate a problem or a solution.
+Certaines voix sont réduites au silence, les gens tenus dans l'ombre.
 
-Having a starting point can help you avoid the blank page syndrome, negative to build self confidence:
- 
-- <i> I don't know how to start </i>
-- <i> I don't know what to solve </i>
-- <i> I give up </i>
+Les réseaux sociaux viraux aident les personnalités politiques à diviser pour mieux régner.
 
-Use your environment, your creativity, your own words, your symbols to reformulate problems and understand them.
+Laure Delisle, une collègue d'Element AI, a publié un article à NeurIPS en 2018 avec Amnesty International [quantifiant les abus dirigés contre les femmes journalistes et politiques sur Twitter](https://aiforsocialgood.github.io/2018/pdfs/track1/19_aisg_neurips2018.pdf).
 
-Failure isn't about doing mistakes. You don't fail when you try to understand a problem.
+Pourquoi celles et ceux qui travaillent pour ces entreprises éduquent-ils leurs enfants à rester à l'écart de ces plateformes ?
 
-Don't ask yourself what's the answer, that's the problem. Start drawing.
+Regardez autour de vous et demandez-vous : Facebook, Instagram, Linkedin, Twitter et les réseaux sociaux viraux aident-ils vraiment à la communication et au débat ?
 
-## Trick #3 — Know your strengths
+## 3. Il est temps de prendre soin 🎗️
 
-{{< figure src="maths/blog-math-3.jpg" caption="maths/Photo by Jon Tyson on Unsplash" numbered="true" >}}
+Après trois années de crise sanitaire, énergétique, politique, écologique et sociale, il est temps de <b>prendre soin de nous, de notre santé mentale et physique</b>, de nos proches et de la planète Terre.
 
-How do you remember a phone number? Is it written or recorded somewhere in your head or is it on the tip of your fingers? Is your memory visual, auditive, tactile or all three?
+Nous devons arrêter de procrastiner, de s'isoler et nous devons déstigmatiser les addictions, la dépression…
 
-Know your strengths and focus on them before working on your weaknesses.
+[Facebook sait qu'Instagram est toxique pour les adolescentes](https://www.wsj.com/articles/the-facebook-files-11631713039?mod=bigtop-breadcrumb). Ses propres recherches approfondies montrent un important problème de santé mentale chez les adolescents que Facebook minimise en public (Wall Street Journal, 2021). Selon le document de l'entreprise :
+- 40% des utilisateurs qui se trouvent peu attractifs pensent que c'est particulièrement lié à Instagram.
+- 32% des jeunes filles ont déclaré qu'Instagram les faisait se sentir encore plus mal dans leur peau.
 
-Finding the right combination of visual, auditive and tactile memory could help you learn way more effectively. Depending on what works best for you, you might want to:
+Nous devons nous (re)connecter avec nous-mêmes et les uns avec les autres, et <b>recentrer l'attention dans la société</b>.
 
-- Color and highlight your courses, for example green to learn definitions, red or blue for properties and purple or black for proofs. 🎨
-- Use rhymes and memo, for example I remember that a question that starts with "Montrer que pour tout x …" can be solved starting with "Soit x…". It's wired in my brain like a rhyme. 🎶
-- Read your course or exercices out loud to stimulate and activate different parts of your brain together. This will strengthen your long term memory. It's called Hebbian learning in neuroscience. Cells that fire together, wire together. ✨
-- Use or introduce notations that connect your problem to what you learned and know, for example mu and sigma in statistics or p for a probability.
+Nous devons agir de manière solidaire, soutenir ceux qui nous entourent, localement, dans notre quartier, et <b>créer des espaces sûrs pour les émotions</b>.
 
-Avoid working 12 hours the day before an exam. It's important to rest.
+J'ai supprimé mon compte sur Linkedin/Instagram après avoir reçu une explosion d'attaques de phishing, suite à une alerte que j'ai partagée avec mon réseau en février/mars.
 
-Try as much as possible to be regular.
+J'ai décidé de prendre soin de ma santé mentale et j'ai plus de temps et d'énergie maintenant pour <b>aider les autres à libérer leur esprit et leur attention</b>.
 
-Work less but more often, for example one to two hours, twice a week. Take 15–30 minutes to review your courses within 24h of a lecture.
+## 4. Il est temps d'anticiper et non de réagir
 
-Working with your long term memory will save you time and efforts.
-It doesn't require long efforts but regular checks and exercising, just like gym.
+Comme l'a clairement indiqué une députée dans une interview accordée à [Blast media](https://www.blast-info.fr/emissions/2022/les-revelations-dune-deputee-au-coeur-du-systeme-macron-avec-frederique-dumas-9VNRlqrPSdaQKULTrvie5A), Macron peine à anticiper par manque de vision.
 
-## Trick #4 — Trust your intuition
+Mon expérience de consultant pour le gouvernement (SGDSN), pour préparer la France à une crise majeure, confirme le constat de cette députée.
 
-{{< figure src="maths/blog-math-4.jpg" caption="maths/Photo by Alina Vilchenko on Pexels" numbered="true" >}}
+Facebook/Instagram, Twitter, les algorithmes de Linkedin et les publications des politiciens sont optimisés pour générer des réactions.
 
-Rational behaviors are used in Eco 101 (chapter 1) to teach economy. In practice the predictions don't match reality.
+Les publications virales servent leurs affaires, pas votre avenir.
 
-Dan Ariely's book Predictibly Irrational presents some experiments and concrete examples. My favorite one is the free cookie experiment. The rational theory predicts people would take all the cookies for free (maximizing their individual utility function), when in reality people just have one or two.
+Alors la prochaine fois que vous voyez des données toxiques, ne commentez pas, ne partagez pas et ne réagissez pas.
 
-The world in which we live isn't rational.
+Désactivez/supprimez simplement votre compte et <b>apprenez à investir votre temps et votre énergie sur le long terme</b> : [apprennez une langue](https://www.mtpcours.fr/en/p/language-learning/), apprenez à cuisiner, faites de l'artisanat, de l'art, du sport, jouez de la musique, faites du bénévolat... réécrivez l'avenir avec de <b>nouveaux imaginaires</b> et un été solidaire.
 
-I don't consider myself to be rational, rather intuitive. I use my imagination to ask questions and experiment ideas.
+## 5. Des alternatives existent
 
-That's why I chose to study physics and chemistry as an undergraduate before studying applied mathematics.
+Des méthodes alternatives existent en fonction de vos besoins et de votre utilisation.
 
-You don't need to be rational to be good at maths. There are other types of intelligences — intuition, spatial, kinesthesic, empathy…
+<b>Pour rester informé et apprendre de manière proactive</b>, je recommanderais des médias indépendants comme Blast, des chaînes scientifiques comme Météo France et le CNRS, ou la presse locale.
 
-Language, music, art have an important role in understanding mathematics. The golden ratio (nombre d'or in French) has inspired thinkers of all disciplines - biologists, artists, musicians, historians, architects, psychologists… - like no other number in the history of mathematics.
+<b>Pour rester connecté et communiquer</b>, des appels téléphoniques, des SMS ou une marche et une conversation fonctionnent très bien.
 
-Diversity is needed in mathematics and scientific fields.
-It doesn't matter if you are rational or not!
+Framasoft, une association française à but non lucratif, propose également une suite d'alternatives à Facebook comme Mobilizon.
 
-## Trick #5 — Teach to learn
+Enfin, les associations et clubs (sport, art, etc.) permettent de rencontrer des personnes de votre <b>réseau local</b>, partageant les mêmes centres d'intérêt.
 
-{{< figure src="maths/blog-math-5.jpg" caption="maths/Photo by Monstera on Pexels" numbered="true" >}}
+## 6. Un nombre croissant de personnes ont déjà quitté
 
-You don't need to be an expert to teach. Start with your family, your friends, classmates, people your age, younger or older.
+Les Français ont déjà commencé à passer à l'ACTION et supprimé leurs comptes Tiktok, Facebook, Instagram, Twitter ou Linkedin pendant le printemps 🌸.
 
-Consider specific chapters, for example Pythagore or Thales in geometry.
+De nombreux étudiants en sciences humaines et en écologie à qui j'ai parlé ont déjà supprimé Tiktok car ils sentaient qu'ils avaient des problèmes d'attention et avaient du mal à se concentrer.
 
-You could also start with yourself.
-It's called self supervision.
-For instance, hide some words, definitions or properties in your course and learn how to fill the gaps.
+<b>Les élèves du secondaire et de l'université</b> avec qui j'ai parlé, ainsi que <b>les femmes dans les sciences, la santé et les parents</b> sont favorables et prêts à relever le défi en mai.
 
-Teaching is the best way to master a subject. Helping others reformulate, understand through examples, will help you learn more advanced topics.
+Et vous?
 
-We all have something to teach to and learn from others, we just don't realize it sometimes.
+{{< figure src="quit-fb/climate-strike.jpg" caption="Photo de Robin Erino sur Pexels">}}
 
-Team work and collaborations are needed in real life.
+## 7. Cela ne prend que 2 minutes
 
-## Trick #6 — Proofread yourself
-
-{{< figure src="maths/blog-math-6.jpg" caption="maths/Photo by Dmitry Ratushny on Unsplash" numbered="true" >}}
-
-Mathematics is a language on its own, with its own set of characters, alphabet, grammar so it's normal to ask yourself if your work is readable?
-
-The same way a story has a narrative, does your work have a story line? Did you lose any information from a line to another one? For example, are your signs consistent, coherent? Can you read the story the other way round, from the conclusion back to your starting point?
-
-Some students often lose points because of these mistakes. It has nothing to do with being logic or not. Proofreading helps them increase their grades, from 60% to 90% (18/20).
-
-The trick I use to make it a good habit is to ask them to correct themselves as if it wasn't their answers and try to spot errors.
-
-## Trick #7 — Beware of experts
-
-{{< figure src="maths/blog-math-7.jpg" caption="maths/Photo by Thomas T on Unsplash" numbered="true" >}}
-
-Physicists, chemists, economists, mathematicians, computer scientists use differents words for the same concepts. As an example, in a linear model y=ax+b, mathematicians will refer to "a" as "taux d'accroissement", while chemists will call it "coefficient de proportionnalité". Both physicists and computer scientists have a concept called entropy, related to disorder and information theory, but they use different symbols for it, S or H.
-
-It can get confusing.
-
-Experts tend to use jargon and make errors with high confidence. The rational theory of economy doesn't match reality, neither do many theories.
-
-Assumptions are proven wrong.
-
-Be pragmatic.
-
-Take the opportunity of school to learn to learn.
+Visitez [mtpcours.fr/c/desinformation/pratique/](https://www.mtpcours.fr/c/desinformation/pratique/) pour trouver des instructions pour désactiver/supprimer vos comptes de médias sociaux et en savoir plus sur la désinformation.
 
 ## Conclusion
 
-As Richard Feynman said
+En résumé, voici 7 raisons de quitter les réseaux sociaux viraux en mai :
+1. Facebook / Instagram mène le capitalisme patriarcal
+2. Facebook / Instagram alimente la haine, la désinformation et la répression
+3. Il est temps de prendre soin de vous 🎗️
+4. Il est temps d'anticiper, pas de réagir
+5. Des alternatives existent
+6. Un nombre croissant de personnes ont déjà quitté
+7. Cela ne prend que 2 minutes
 
-> Science is the belief in the ignorance of experts
-
-You can learn mathematics at any age.
-
-Below is a summary of the 7 tricks to get better at Maths. Let me know which one works best for you? 😊
-
-1. Start asking question
-2. Start drawing, somewhere
-3. Know your strengths
-4. Trust your intuition
-5. Teach to learn
-6. Proofread yourself
-7. Beware of experts
+Merci de relayer le message ! 🌸
+Merci de répandre l'amour 💖

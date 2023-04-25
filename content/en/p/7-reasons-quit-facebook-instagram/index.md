@@ -1,186 +1,138 @@
 ---
-title: 7 tricks to get better at Maths
-date: 2022-03-29
+title: 7 reasons to quit Facebook and Instagram in May
+date: 2023-03-24
 ---
 
-For beginners to advanced
+And Linkedin, Twitter, Tiktok
 
 <!--more-->
 
-With 13 medal fields in mathematics in 2022, France is ranked second worldwide. Yet, looking closer to individuals, from primary to high school, France ranks among the worst countries in Europe and the OCDE, according to the annual study Trends in International Mathematics and Science Study. <i>Why?</i>
+## May is a symbolic month
 
-A lot of students are discouraged to learn mathematics in France. In high school, the share of women in maths dropped by 8 points in the last two years, since the latest education reform, dropping below 1994 levels! (source: [L'Etudiant](https://www.letudiant.fr/lycee/infographies-comment-la-reforme-du-lycee-penalise-les-filles.html))
+In many countries around the world, May 1st is International Workers' Rights Day. It is a day of social action to celebrate the working class and highlight ongoing workers' rights issues.
 
-My little sister was told in 2020 in high school she wasn't good in mathematics, she shouldn't pursue studies in mathematics but she did. In 2022 she majored her course in statistics at university.
+This year, a historical movement is expected in France.
 
-As a mentor and teacher, my work often consists in deconstructing biases, stereotypes and helping students gain confidence. This short story aims to share some tricks to help students change perspective on mathematics and science. I've learned these by mentoring students, from primary to high school, and beyond.
+As social media users, many of us <b>work for free</b> for Facebook, Instagram or Twitter. This is a call to action to deactivate/delete these accounts for the month of May, starting May 1st and continuing into the French Spring 🌸 and Summer ☀️.
 
-## Trick #1 — Start asking questions
+The issue at hand is not the technology itself, but the Human intents behind it, as well as what they represent and defend: capitalism, the patriarchy, disinformation, repression, and climate inaction.
 
-{{< figure src="maths/blog-math-1.jpg" caption="maths/Photo by Frans van Heerden on Pexels" numbered="true" >}}
+<b>A definite or temporary pause</b>, for a day, a month or the Summer, can have <b>a huge impact</b> while requiring <b>a relatively low amount of effort</b> from each individual.
 
-Science isn't about solving problems, it's about asking questions.
+Indeed, on June 14–17th, Macron's signature event will take place: the Salon Vivatech. During this event, Zuckerberg and engineers, investors, people from around the world fly to Paris to pitch/invest in technical gadgets and unicorns (startups valued at a billion plus dollars) 🦄.
 
-Remember when you were a kid and asked the question <i>why?</i>
-<i>Why is the ocean blue?</i>
+{{< figure src="quit-fb/vivatech.jpg">}}
 
-Adults would answer <i>because</i>… and you would ask <i>why</i> again
-<i>Why is the sky blue?</i>
+Deleting Facebook/Instagram and other viral social networks is the strongest signal that can be sent to Macron and Zuckerberg for Vivatech 2023.
 
-That's maybe when the conversation would end.
+So, as a user and "worker" for these social network corporations, what are some good reasons to take a short (or long) break starting this May Day ?
 
-Here's a quote I love from Richard Feynman, which summarizes the idea:
+## 1. Facebook leads patriarcal capitalism
 
-> I would rather have questions that can't be answered than answers that can't be questioned.
+Facebook, Instagram, Twitter and other viral social networks generate profits from Uber Eats and Zalando ads.
 
-I've been using the 4 questions below since mid school to pass exams, carry out research and projects:
+They make us passive consumers rather than active citizens.
 
-- <i> What do we want? </i>
-- <i> What do we have or need? </i>
-- <i> What do we know? </i>
-- <i> What can we conclude? </i>
+They concentrate trillions in capital in the hands of a few men and as a consequence deepen gender inequalities.
 
-These questions aren't the solution to a problem (if any!) but a way to it. A simple solution would look like
+<b>All of this power comes from our personal data.</b>
 
-- <i> J'observe que… (what we have) </i>
-- <i> Or, on sait que… (what we know) </i>
-- <i> Donc… (what we conclude) </i>
+Taking a break (or quitting) and convincing others to do the same is the maximum we can do as individuals. However, <b>this ripple effect can be enough to bring them down</b>.
 
-Start asking questions and be curious.
+As a plus, quitting social media usually gifts us with a fair amount of free time, which we can invest in tackling social and environmental issues, or reimagining the kind of world we want to live in.
 
-## Trick #2 — Start drawing, somewhere
+{{< figure src="quit-fb/ripple-effect.jpg" caption="Illustration of the ripple effect by Linus Nylund on Unsplash.">}}
 
-{{< figure src="maths/blog-math-2.jpg" caption="maths/Photo by Tanvir Khondokar on Pexels" numbered="true" >}}
+## 2. Facebook fuels hate, disinformation and repression
 
-A picture is worth 1000 words.
+The idea that social networks promote communication is a myth.
 
-If you don't know how to start, drawing a picture will spark your creativity and trigger your intuition.
+<b>We are inundated and overwhelmed with information</b>, greenwashing and conflicts of interest.
 
-Try to reformulate, summarize the question. For example if you have a problem with three random points A, B, C, start drawing three points randomly.
+Human biases are reinforced by Machine Learning algorithms.
 
-You could just list the known information to start. What distances and durations are given?
+Opinions are misrepresented.
 
-Craft a solution from your drawing or your notes. Write it down when you have a plan (a plan is enough, you don't need to have the full solution at this point).
+Some voices are silenced, people kept in the shadow.
 
-A drawing is the easiest way to communicate a problem or a solution.
+Viral social networks help political figures to divide and conquer.
 
-Having a starting point can help you avoid the blank page syndrome, negative to build self confidence:
- 
-- <i> I don't know how to start </i>
-- <i> I don't know what to solve </i>
-- <i> I give up </i>
+Laure Delisle, a colleague at Element AI, published an article at NeurIPS in 2018 with Amnesty International [quantifying the abuse directed against female journalists and politicians on Twitter](https://aiforsocialgood.github.io/2018/pdfs/track1/19_aisg_neurips2018.pdf).
 
-Use your environment, your creativity, your own words, your symbols to reformulate problems and understand them.
+Why do those who work for these companies educate their kids to stay away from these platforms?
 
-Failure isn't about doing mistakes. You don't fail when you try to understand a problem.
+Look around and ask yourself: do Facebook, Instagram, Linkedin, Twitter and viral social networks really help with communication and debate?
 
-Don't ask yourself what's the answer, that's the problem. Start drawing.
+## 3. It is time to take care 🎗️
 
-## Trick #3 — Know your strengths
+After three years of sanitary, energetic, political, ecological and social crisis, it is time to <b>take care of ourselves, of our mental and physical health</b>, of our loved ones and planet Earth.
 
-{{< figure src="maths/blog-math-3.jpg" caption="maths/Photo by Jon Tyson on Unsplash" numbered="true" >}}
+We need to stop procrastinating, isolating ourselves and destigmatize addictions, depression…
 
-How do you remember a phone number? Is it written or recorded somewhere in your head or is it on the tip of your fingers? Is your memory visual, auditive, tactile or all three?
+[Facebook knows Instagram is toxic for teen girls](https://www.wsj.com/articles/the-facebook-files-11631713039?mod=bigtop-breadcrumb). Its own in-depth research shows a significant teen mental-health issue that Facebook plays down in public (Wall Street Journal, 2021). According to the company's document:
+- 40% of users that find themselves unattractive believe that it is particularly related to Instagram.
+- 32% of young girls said Instagram made them feel even worse about themselves.
 
-Know your strengths and focus on them before working on your weaknesses.
+We need to truely (re)connect with ourselves and each other, and <b>refocus attention in society</b>.
 
-Finding the right combination of visual, auditive and tactile memory could help you learn way more effectively. Depending on what works best for you, you might want to:
+We need to act in solidarity, support those around us, locally, in our neighborhood, and <b>create safe spaces for emotions</b>.
 
-- Color and highlight your courses, for example green to learn definitions, red or blue for properties and purple or black for proofs. 🎨
-- Use rhymes and memo, for example I remember that a question that starts with "Montrer que pour tout x …" can be solved starting with "Soit x…". It's wired in my brain like a rhyme. 🎶
-- Read your course or exercices out loud to stimulate and activate different parts of your brain together. This will strengthen your long term memory. It's called Hebbian learning in neuroscience. Cells that fire together, wire together. ✨
-- Use or introduce notations that connect your problem to what you learned and know, for example mu and sigma in statistics or p for a probability.
+I deleted my account on Linkedin/Instagram after receiving an explosion of phishing attacks, following an alert I shared with my network in February/March.
 
-Avoid working 12 hours the day before an exam. It's important to rest.
+I decided to take care of my mental health, and have more time and energy now to <b>help others free their mind and attention</b>.
 
-Try as much as possible to be regular.
+## 4. It is time to anticipate, not react
 
-Work less but more often, for example one to two hours, twice a week. Take 15–30 minutes to review your courses within 24h of a lecture.
+As a member of parliament clearly stated in an interview with [Blast media](https://www.blast-info.fr/emissions/2022/les-revelations-dune-deputee-au-coeur-du-systeme-macron-avec-frederique-dumas-9VNRlqrPSdaQKULTrvie5A), Macron struggles to anticipate because of a lack of vision.
 
-Working with your long term memory will save you time and efforts.
-It doesn't require long efforts but regular checks and exercising, just like gym.
+My experience working as a consultant for the Government (SGDSN), to prepare France to major crisis, confirms this MP's observation.
 
-## Trick #4 — Trust your intuition
+Facebook/Instagram, Twitter, Linkedin's algorithms and politicians' posts are optimised to generate reactions.
 
-{{< figure src="maths/blog-math-4.jpg" caption="maths/Photo by Alina Vilchenko on Pexels" numbered="true" >}}
+Viral posts serve their business, not your future.
 
-Rational behaviors are used in Eco 101 (chapter 1) to teach economy. In practice the predictions don't match reality.
+So the next time you see toxic data, don't comment, share or react.
 
-Dan Ariely's book Predictibly Irrational presents some experiments and concrete examples. My favorite one is the free cookie experiment. The rational theory predicts people would take all the cookies for free (maximizing their individual utility function), when in reality people just have one or two.
+Simply deactivate/delete your account and <b>learn to invest your time and energy in the long term</b>: [learn a language](https://www.mtpcours.fr/en/p/language-learning/), learn to cook, do crafts, arts, sports, play music, volunteer… rewrite the future with <b>new narratives</b> and a Summer in solidarity.
 
-The world in which we live isn't rational.
+## 5. Alternatives exist
 
-I don't consider myself to be rational, rather intuitive. I use my imagination to ask questions and experiment ideas.
+Alternative methods exist depending on your needs and usage.
 
-That's why I chose to study physics and chemistry as an undergraduate before studying applied mathematics.
+<b>To stay informed and learn pro-actively</b>, I would recommend independant medias like Blast, scientific channels like Météo France and the CNRS, or the local press.
 
-You don't need to be rational to be good at maths. There are other types of intelligences — intuition, spatial, kinesthesic, empathy…
+<b>To stay connected and communicate</b>, regular phone calls, sms or a walk and talk work fine.
 
-Language, music, art have an important role in understanding mathematics. The golden ratio (nombre d'or in French) has inspired thinkers of all disciplines - biologists, artists, musicians, historians, architects, psychologists… - like no other number in the history of mathematics.
+Framasoft, a French non profit, also offers a suite of alternatives to Facebook like Mobilizon.
 
-Diversity is needed in mathematics and scientific fields.
-It doesn't matter if you are rational or not!
+Finally, non profits and clubs (sport, art, etc) give the opportunity to meet people in your <b>local network</b>, sharing the same interests.
 
-## Trick #5 — Teach to learn
+## 6. An increasing number of people have already quit
 
-{{< figure src="maths/blog-math-5.jpg" caption="maths/Photo by Monstera on Pexels" numbered="true" >}}
+People in France have already started to take the ACTION of deleting their Tiktok, Facebook, Instagram, Twitter or Linkedin accounts during the Spring 🌸.
 
-You don't need to be an expert to teach. Start with your family, your friends, classmates, people your age, younger or older.
+Many students in humanities and ecology I spoke to have already deleted Tiktok because they felt they were having attention issues and struggled to concentrate.
 
-Consider specific chapters, for example Pythagore or Thales in geometry.
+<b>High school and university students</b> with whom I spoke, as well as <b>women in science, healthcare and parents</b> are supportive and ready to take the challenge in May.
 
-You could also start with yourself.
-It's called self supervision.
-For instance, hide some words, definitions or properties in your course and learn how to fill the gaps.
+What about you?
 
-Teaching is the best way to master a subject. Helping others reformulate, understand through examples, will help you learn more advanced topics.
+{{< figure src="quit-fb/climate-strike.jpg" caption="Photo by Robin Erino on Pexels">}}
 
-We all have something to teach to and learn from others, we just don't realize it sometimes.
+## 7. It only takes 2 minutes
 
-Team work and collaborations are needed in real life.
-
-## Trick #6 — Proofread yourself
-
-{{< figure src="maths/blog-math-6.jpg" caption="maths/Photo by Dmitry Ratushny on Unsplash" numbered="true" >}}
-
-Mathematics is a language on its own, with its own set of characters, alphabet, grammar so it's normal to ask yourself if your work is readable?
-
-The same way a story has a narrative, does your work have a story line? Did you lose any information from a line to another one? For example, are your signs consistent, coherent? Can you read the story the other way round, from the conclusion back to your starting point?
-
-Some students often lose points because of these mistakes. It has nothing to do with being logic or not. Proofreading helps them increase their grades, from 60% to 90% (18/20).
-
-The trick I use to make it a good habit is to ask them to correct themselves as if it wasn't their answers and try to spot errors.
-
-## Trick #7 — Beware of experts
-
-{{< figure src="maths/blog-math-7.jpg" caption="maths/Photo by Thomas T on Unsplash" numbered="true" >}}
-
-Physicists, chemists, economists, mathematicians, computer scientists use differents words for the same concepts. As an example, in a linear model y=ax+b, mathematicians will refer to "a" as "taux d'accroissement", while chemists will call it "coefficient de proportionnalité". Both physicists and computer scientists have a concept called entropy, related to disorder and information theory, but they use different symbols for it, S or H.
-
-It can get confusing.
-
-Experts tend to use jargon and make errors with high confidence. The rational theory of economy doesn't match reality, neither do many theories.
-
-Assumptions are proven wrong.
-
-Be pragmatic.
-
-Take the opportunity of school to learn to learn.
+Visit [mtpcours.fr/en/c/desinformation/pratique/](https://www.mtpcours.fr/en/c/desinformation/pratique/) to find instructions to deactivate/delete your social media accounts and learn more about disinformation.
 
 ## Conclusion
 
-As Richard Feynman said
+Below is a summary of the 7 reasons to quit:
+1. Facebook / Instagram leads patriarcal capitalism
+2. Facebook / Instagram fuels hate, disinformation and repression
+3. It is time to take care 🎗️
+4. It is time to anticipate, not react
+5. Alternatives exist
+6. An increasing number of people already quit
+7. It only takes 2 minutes
 
-> Science is the belief in the ignorance of experts
-
-You can learn mathematics at any age.
-
-Below is a summary of the 7 tricks to get better at Maths. Let me know which one works best for you? 😊
-
-1. Start asking question
-2. Start drawing, somewhere
-3. Know your strengths
-4. Trust your intuition
-5. Teach to learn
-6. Proofread yourself
-7. Beware of experts
+Thanks for spreading the word! 🌸
+Thanks for spreading love 💖
