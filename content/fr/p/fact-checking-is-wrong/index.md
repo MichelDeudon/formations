@@ -19,11 +19,11 @@ Jacques Biot (X71), l'ancien président exécutif de l'école Polytechnique, a r
 
 Le divorce entre Polytechnique et l'Université Paris-Saclay, les USA et la Chine a été [annoncé par Macron en 2017](https://www.lemonde.fr/campus/article/2017/10/25/emmanuel-macron-met-fin-au-project-de-pole-universitaire-scientifique-unique-a-saclay_5205975_4401467.html), l'année de sa première élection.
 
-## Polytechnique est une institution française symbolique
+## Polytechnique est une institution symbolique
 
 Polytechnique est liée à l'histoire de la Révolution française. Dotée d'un budget de 192 millions d'euros en 2019, la Cour des comptes écrivait en février 2020
 
-> <i>L’École polytechnique : une stratégie incertaine, une gestion à redresser</i>. [rapport annuel 2020](https://www.ccomptes.fr/system/files/2020-02/20200225-12-TomeI-ecole-polytechnique.pdf).
+> <i>L’École polytechnique : une stratégie incertaine, une gestion à redresser</i>. [Rapport annuel 2020](https://www.ccomptes.fr/system/files/2020-02/20200225-12-TomeI-ecole-polytechnique.pdf).
 
 À cause du Covid-19 et des confinements, aucun débat public n'a vraiment eu lieu sur ce que devrait être la mission de Polytechnique au 21e siècle.
 
@@ -48,7 +48,7 @@ Le racisme, le sexisme et les risques sociaux sont évoqués dans son rapport, a
 
 Malgré ces recommendations, Polytechnique continue de désinformer les français en 2023. [Cet article](https://www.lajauneetlarouge.com/ia-de-confiance-enjeux-et-solutions-pour-un-traitement-ethique-des-donnees/) de Vincent Luciani (X05) met en lumière des conflits d'intérêt évidents (Artefact, l'AI Infrastructure Alliance, la communauté MLOps). Les articles connexes d'Alain (X79), Didier (X82), David (X97), Thierry (X84), Robert (X72), Gérard (X67), Paul... soulignent un manque de diversité à Polytechnique et des biais d'opinions (tous les auteurs sont des hommes blancs, âgés de 38 à 80 ans).
 
-Je me souviens, à l'époque où j'étudiais à Polytechnique, des <i>leaders</i> étaient invités à nous inspirer. Carlos Ghosn a été invité quelques mois avant de finir en prison. Le milliardaire français Patrick Drahi a donné son nom au centre d'entrepreneuriat et d'innovation de Polytechnique, aujourd'hui il est publiquement connu pour ses fraudes et les [DrahiLeaks](https://www.blast-info.fr/articles/2023/drahileaks-la-methode-de-patrick-drahi-pour-devenir-riche-P5NfCE1qRt6QgwnJRKpMtA).
+Je me souviens, à l'époque où j'étudiais à Polytechnique, des <i>leaders</i> étaient invités pour nous inspirer. Carlos Ghosn a été invité quelques mois avant de finir en prison. Le milliardaire français Patrick Drahi a donné son nom au centre d'entrepreneuriat et d'innovation de Polytechnique, aujourd'hui il est publiquement connu pour ses fraudes et les [DrahiLeaks](https://www.blast-info.fr/articles/2023/drahileaks-la-methode-de-patrick-drahi-pour-devenir-riche-P5NfCE1qRt6QgwnJRKpMtA).
 
 <i>L’École polytechnique : une stratégie incertaine, une gestion à redresser</i> écrivait [la cour des comptes](https://www.ccomptes.fr/system/files/2020-02/20200225-12-TomeI-ecole-polytechnique.pdf) en 2020. Qu'est ce qui a été fait depuis?
 
@@ -70,7 +70,7 @@ Les gens sont désinformés à court terme, mais un principe scientifique ne res
 
 La désinformation et la répression ne génèrent pas de valeur à long terme.
 
-## Le fact-checking est obsolète
+## Le fact-checking est obsolète
 
 - Il s'agit d'une vision binaire, 0/1, vrai/faux... dépassée par la physique quantique et l'idée que deux idées contradictoires peuvent être vraies simultanément. De plus, [certaines questions nécessitent de débattre](https://www.blast-info.fr/articles/2023/sommes-nous-toujours-en-democratie-AwJ1_TmlTM-ONwHybrhuqQ).
 - La vérification des faits des messages viraux détourne l'attention de conclusions importantes, comme l'article d'Emma Strubell [Considérations énergétiques et politiques pour le Deep Learning en NLP](https://www.mtpcours.fr/c/desinformation/emma-strubell/).
@@ -78,7 +78,7 @@ La désinformation et la répression ne génèrent pas de valeur à long terme.
 
 Qu'est-ce qu'on ne sait pas débattre ?
 
-## Technologie et intentions humaines
+## Technologie et intentions humaines
 
 Les médias et les réseaux sociaux français appartiennent à des milliardaires. Le gouvernement est contrôlé par une [mafia française](https://www.youtube.com/watch?v=EveWWX3fB2M&ab_channel=BLAST%2CLesouffledel%27info). La recherche en IA est corrompue par les GAFAM et NVIDIA.
 
@@ -103,6 +103,7 @@ Yann Le Cun et 7 polytechniciens en France (Hugo Touvron, Thibaut Lavril, Gautie
 {{< figure src="fact-checking/facebook-cifre.png">}}
 
 Les modèles <i>ont consommé une quantité massive d'énergie, responsable d'émissions de dioxyde de carbone</i> (source : Arxiv). Ils ont <i>des milliards de paramètres</i>, pour <i>des milliards de personnes</i> (source : blog Meta AI). <i>Les risques et les préjudices incluent la génération de contenu nuisible, offensant ou biaisé… d'informations incorrectes</i>. (source : carte modèle Github).
+
 - Pourquoi le système CIFRE français est-il utilisé pour créer de la désinformation pour Meta et concurrencer le modèle ChatGPT d'Elon Musk ?
 - Pourquoi les [consommations d'énergie](https://www.mtpcours.fr/c/desinformation/emma-strubell/) et les risques/dommages, les fuites, les considérations éthiques des modèles ne sont-ils pas communiqués clairement sur le blog de Meta AI ou sur les réseaux sociaux ?
 - Pourquoi Meta AI utilise des techniques de [greenwashing](https://www.mtpcours.fr/c/desinformation/greenwashing/) (par exemple, <i>"plus petit"</i>), dans son blog de recherche et sur les réseaux sociaux (Linkedin, Twitter) ?
@@ -117,8 +118,8 @@ Voici ce que vous pouvez faire
 
 1. Préparez et posez vos questions à Vivatech (14-17 juin 2023).
 2. Faites une pause sur les réseaux sociaux ce printemps/été pour [prendre soin de votre santé physique et mentale](https://www.mtpcours.fr/fr/c/desinformation/pratique/) 🎗️, et chère planète.
-3. Formez vous pour lutter contre la [désinformation](https://www.mtpcours.fr/c/desinformation/) sur mon cours.
+3. Formez vous pour lutter contre la [désinformation](https://www.mtpcours.fr/c/desinformation/).
 
 {{< figure src="fact-checking/quit-facebook.jpg" caption="Photo de mohamed abdelghaffar sur Pexels.">}}
 
-Merci de partager!
+Merci de partager! 🌸

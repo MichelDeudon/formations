@@ -135,5 +135,3 @@ Below is a summary of the 7 reasons to quit:
 7. It only takes 2 minutes
 
 Thanks for spreading the word! 🌸
-
-Thanks for spreading love 💖

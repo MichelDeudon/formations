@@ -137,5 +137,3 @@ En résumé, voici 7 raisons de quitter les réseaux sociaux viraux en mai :
 7. Cela ne prend que 2 minutes
 
 Merci de relayer le message ! 🌸
-
-Merci de répandre l'amour 💖

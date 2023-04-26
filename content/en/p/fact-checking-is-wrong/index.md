@@ -103,6 +103,7 @@ Yann Le Cun and 7 polytechniciens in France (Hugo Touvron, Thibaut Lavril, Gauti
 {{< figure src="fact-checking/facebook-cifre.png">}}
 
 The models <i>consumed a massive quantity of energy, responsible for the emission of carbon dioxide</i> (source: Arxiv). They have <i>billions of parameters</i>, for <i>billions of people</i> (source: Meta AI blog). <i>Risks and harms include the generation of harmful, offensive or biased content… incorrect information</i>. (source: Github Model Card).
+
 - Why is the French CIFRE system used to create disinformation for Meta and compete with Elon Musk's ChatGPT ?
 - Why are the [energy consumption](https://www.mtpcours.fr/en/c/desinformation/emma-strubell/) and models' risks/harms, leak, ethical concerns, not communicated clearly on Meta AI's blog or on social networks?
 - Why does Meta AI use [greenwashing](https://www.mtpcours.fr/en/c/desinformation/greenwashing/) techniques (e.g., smaller, smallest), in its research blog and on social networks (Linkedin, Twitter) ? 
@@ -117,8 +118,8 @@ Here's what you can do
 
 1. Prepare and ask your questions for Vivatech (June 14–17, 2023).
 2. Take a pause from social networks this Spring/Summer to [take care of your physical and mental health](https://www.mtpcours.fr/en/c/desinformation/pratique/) 🎗️, and beloved, planet.
-3. Stayed informed about [disinformation](https://www.mtpcours.fr/en/c/desinformation/) on my course.
+3. Stayed informed about [disinformation](https://www.mtpcours.fr/en/c/desinformation/).
 
 {{< figure src="fact-checking/quit-facebook.jpg" caption="Photo by mohamed abdelghaffar on Pexels.">}}
 
-Thanks for sharing!
+Thanks for sharing! 🌸
