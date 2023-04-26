@@ -40,7 +40,7 @@ Voir aussi
 
 ## La désinformation est utilisée pour détourner l'attention, et diviser pour régner
 
-Dans une interview dans le Monde, le 28 mars 2018, le Médaille Fields [Cédric Villani](https://www.mtpcours.fr/en/c/desinformation/rapport-villani/) a déclaré <i>"L'IA ne peut pas être une nouvelle machine à exclure"</i>.
+Dans une interview dans le Monde, le 28 mars 2018, le Médaille Fields [Cédric Villani](https://www.mtpcours.fr/c/desinformation/rapport-villani/) a déclaré <i>"L'IA ne peut pas être une nouvelle machine à exclure"</i>.
 
 Alors que les femmes représentent 10 % des écoles d'ingénieurs en informatique françaises, Villani préconisait une <i>"politique incitative"</i> visant à atteindre un taux de 40 % d'étudiantes d'ici 2020. Comme il l'a écrit dans son rapport, <i> "ce manque de diversité peut conduire les algorithmes à reproduire des biais"</i>.
 
@@ -52,7 +52,7 @@ Je me souviens, à l'époque où j'étudiais à Polytechnique, des <i>leaders</i
 
 <i>L’École polytechnique : une stratégie incertaine, une gestion à redresser</i> écrivait [la cour des comptes](https://www.ccomptes.fr/system/files/2020-02/20200225-12-TomeI-ecole-polytechnique.pdf) en 2020. Qu'est ce qui a été fait depuis?
 
-Dans [une autre interview](https://www.mtpcours.fr/en/c/desinformation/rapport-villani/#excerpts-from-ai-is-everyones-businesshttpswwwlemondefrpixelsarticle20170909cedric-villani-l-intelligence-artificielle-est-l-affaire-de-tout-le-monde_5183163_4408996html) dans Le Monde de septembre 2017, Villani parle de Poutine, du droit et de la révolution, ainsi que de la troisième Guerre mondiale et du business model d'Elon Musk. La privatisation de la recherche en IA est évoquée, Yann Le Cun, Macron… Google, Amazon, Facebook, l'Europe, des problèmes de gouvernance.
+Dans [une autre interview](https://www.mtpcours.fr/c/desinformation/rapport-villani/#excerpts-from-ai-is-everyones-businesshttpswwwlemondefrpixelsarticle20170909cedric-villani-l-intelligence-artificielle-est-l-affaire-de-tout-le-monde_5183163_4408996html) dans Le Monde de septembre 2017, Villani parle de Poutine, du droit et de la révolution, ainsi que de la troisième Guerre mondiale et du business model d'Elon Musk. La privatisation de la recherche en IA est évoquée, Yann Le Cun, Macron… Google, Amazon, Facebook, l'Europe, des problèmes de gouvernance.
 
 ## La bulle de la deeptech a éclaté
 
@@ -64,7 +64,7 @@ Cela crée plus d'inégalités et met en danger les femmes et les groupes ethniq
 
 Les robots et les faux profils peuvent propager des messages viraux sur les réseaux sociaux, mais la bulle générée artificiellement a commencé à éclater.
 
-Silicon Valley Bank a fermé ses portes en février 2023, cinq ans après [le rapport de Villani](https://www.mtpcours.fr/en/c/desinformation/rapport-villani/). UBS a racheté le Crédit Suisse 🇨🇭 pour éviter la faillite.
+Silicon Valley Bank a fermé ses portes en février 2023, cinq ans après [le rapport de Villani](https://www.mtpcours.fr/c/desinformation/rapport-villani/). UBS a racheté le Crédit Suisse 🇨🇭 pour éviter la faillite.
 
 Les gens sont désinformés à court terme, mais un principe scientifique ne reste jamais secret.
 
@@ -104,8 +104,8 @@ Yann Le Cun et 7 polytechniciens en France (Hugo Touvron, Thibaut Lavril, Gautie
 
 Les modèles <i>ont consommé une quantité massive d'énergie, responsable d'émissions de dioxyde de carbone</i> (source : Arxiv). Ils ont <i>des milliards de paramètres</i>, pour <i>des milliards de personnes</i> (source : blog Meta AI). <i>Les risques et les préjudices incluent la génération de contenu nuisible, offensant ou biaisé… d'informations incorrectes</i>. (source : carte modèle Github).
 - Pourquoi le système CIFRE français est-il utilisé pour créer de la désinformation pour Meta et concurrencer le modèle ChatGPT d'Elon Musk ?
-- Pourquoi les [consommations d'énergie](https://www.mtpcours.fr/en/c/desinformation/emma-strubell/) et les risques/dommages, les fuites, les considérations éthiques des modèles ne sont-ils pas communiqués clairement sur le blog de Meta AI ou sur les réseaux sociaux ?
-- Pourquoi Meta AI utilise des techniques de [greenwashing](https://www.mtpcours.fr/en/c/desinformation/greenwashing/) (par exemple, <i>"plus petit"</i>), dans son blog de recherche et sur les réseaux sociaux (Linkedin, Twitter) ?
+- Pourquoi les [consommations d'énergie](https://www.mtpcours.fr/c/desinformation/emma-strubell/) et les risques/dommages, les fuites, les considérations éthiques des modèles ne sont-ils pas communiqués clairement sur le blog de Meta AI ou sur les réseaux sociaux ?
+- Pourquoi Meta AI utilise des techniques de [greenwashing](https://www.mtpcours.fr/c/desinformation/greenwashing/) (par exemple, <i>"plus petit"</i>), dans son blog de recherche et sur les réseaux sociaux (Linkedin, Twitter) ?
 
 ## Appel à l'action
 
@@ -117,7 +117,7 @@ Voici ce que vous pouvez faire
 
 1. Préparez et posez vos questions à Vivatech (14-17 juin 2023).
 2. Faites une pause sur les réseaux sociaux ce printemps/été pour [prendre soin de votre santé physique et mentale](https://www.mtpcours.fr/fr/c/desinformation/pratique/) 🎗️, et chère planète.
-3. Formez vous pour lutter contre la [désinformation](https://www.mtpcours.fr/en/c/desinformation/) sur mon cours.
+3. Formez vous pour lutter contre la [désinformation](https://www.mtpcours.fr/c/desinformation/) sur mon cours.
 
 {{< figure src="fact-checking/quit-facebook.jpg" caption="Photo de mohamed abdelghaffar sur Pexels.">}}
 
