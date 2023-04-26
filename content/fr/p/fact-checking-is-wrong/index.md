@@ -84,7 +84,7 @@ Les médias et les réseaux sociaux français appartiennent à des milliardaires
 
 Dans la théorie des jeux, si les gens cherchent à maximiser leur profit individuel et perçoivent l'écologie comme un coût plutôt qu'une valeur, personne dans le groupe ci-dessus n'a intérêt à s'attaquer sérieusement au changement climatique.
 
-{{< figure src="fact-checking/Lecun-disinformation.png" caption="La science est utilisée par les 'leaders' pour créer de la désinformation, détourner l'attention, diviser pour régner en politique.">} }
+{{< figure src="fact-checking/Lecun-disinformation.png" caption="La science est utilisée par les <i>'leaders'</i> pour créer de la désinformation, détourner l'attention, diviser pour régner en politique.">}}
 
 Depuis l'article de Google de 2017 <i>attention is all you need</i>, Meta AI, Open AI… utilise et renomme, et réutilise et renomme le même modèle, consommant en 2022/2023 plus d'énergie à un prix plus élevé, comme un avantage compétitif financé par la recherche public française.
 
