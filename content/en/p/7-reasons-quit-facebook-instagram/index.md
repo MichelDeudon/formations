@@ -65,7 +65,7 @@ Look around and ask yourself: do Facebook, Instagram, Linkedin, Twitter and vira
 
 ## 3. It is time to take care 🎗️
 
-After three years of sanitary, energetic, political, ecological and social crisis, it is time to <b>take care of ourselves, of our mental and physical health</b>, of our loved ones and planet Earth.
+After three years of sanitary, energetic, political, ecological and social crisis, it is time to <b>take care</b> of ourselves, of our [mental and physical health](https://www.youtube.com/watch?v=OUZpHO9JXbE&ab_channel=ComprendreetAgir), of our loved ones and planet Earth.
 
 We need to stop procrastinating, isolating ourselves and destigmatize addictions, depression…
 

@@ -62,6 +62,12 @@ Yes! To validate the course, you must complete a final multiple choice quizz (50
 
 <b>2023</b>
 
+> [Screens: health threats](https://ecoinfo.cnrs.fr/2023/02/27/conf-ecoinfo-ecrans-menaces-sur-la-sante-09-mai-2023/). CNRS.
+
+> [Screens and health: it is urgent to act!](https://blogs.mediapart.fr/emmanuel-prados/blog/020323/ecrans-et-sante-il-est-urgent-d-agir). Mediapart.
+
+> Servane Mouton. [Screens: our health in danger?](https://www.youtube.com/watch?v=OUZpHO9JXbE&ab_channel=ComprendreetAgir). STEEP research team at INRIA Grenoble.
+
 > David Chavalarias, Paul Bouchaud, Victor Chomel and Maziyar Panahi. [Climatosceptics: on Twitter, investigation of the intox mercenaries](https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox). CNRS.
 
 > [6th IPCC summary report](https://www.ecologie.gouv.fr/publication-du-6e-rapport-synthese-du-giec). ecologie.gouv.fr.
@@ -79,6 +85,8 @@ Yes! To validate the course, you must complete a final multiple choice quizz (50
 > [Synthesis of the Broner Commission: Enlightenment in the digital age.](https://www.fondationdescartes.org/wp-content/uploads/2022/01/Synthe%CC%80se_Commission_Bronner-copie.pdf) Descartes Foundation.
 
 <b>2021</b>
+
+> [The Facebook files](https://www.wsj.com/articles/the-facebook-files-11631713039). A Wall Street Journal investigation.
 
 > Citizen's Climate Convention and the [Case of the Century](https://www.vie-publique.fr/en-bref/282012-changement-climatique-la-france-condamnee-pour-prejudice-ecologique).
 

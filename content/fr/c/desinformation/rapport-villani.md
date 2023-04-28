@@ -52,14 +52,14 @@ Le rapport France IA 🇫🇷 est publié en mars 2017 par le [ministère de l'�
 <i>Avez-vous déjà en tête des priorités pour l'action de la France dans ce domaine?</i> Un enjeu très important est <b>comment faire en sorte que l'intelligence artificielle profite à tout le monde</b>, soit associée à un renforcement de la {{<hl>}}<b>démocratie</b>{{</hl>}} et pas le contraire. Un certain nombre d'exemples montrent que dans certains cas l'utilisation de l'IA peut avoir des effets ravageurs sur les questions économiques et le tissu démocratique. Un ouvrage m'a beaucoup marqué, celui de <b>Cathy O'Neil</b>, Weapons of Math Destruction (2016, non traduit), qui montre que <b>l'IA profite déjà à des entreprises très fortes, aboutit à des régressions sociales, des erreurs</b>, est utilisée pour le ciblage publicitaire à des fins qui ne sont pas acceptables...
 
 {{< callout warning >}}
-Mars 2023. La ville de Montpellier interdit à ses agents d’utiliser ChatGPT. [France-3 Regions](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/chatgpt-revolutionnaire-mais-qui-inquiete-pourquoi--2742446.html).
-{{< /callout >}}
-
-{{< callout warning >}}
 Mars 2023. Sommes-nous toujours en {{<hl>}}<b>démocratie</b>{{</hl>}} ? [Blast, le souffle de l'info](https://www.blast-info.fr/articles/2023/sommes-nous-toujours-en-democratie-AwJ1_TmlTM-ONwHybrhuqQ).
 {{< /callout >}}
 
 <i>Comment la France peut-elle rivaliser face aux géants comme les <b>GAFAM</b>, qui investissent massivement dans l'IA et débauchent les meilleurs experts, notamment français?</i> La France est en pointe dans la recherche en intelligence artificielle. Nous avons aussi des institutions comme l'<b>Inria</b>, le <b>CNRS</b>, des chercheurs comme <b>Yann LeCun</b>... J'en ai d'autres, des collègues qui sont partis chez <b>Facebook</b>, chez <b>Google</b>... Ce sera une des grandes questions dans le rapport... <b>Il y a aussi une question de souveraineté, qui concerne toute l'Europe</b>... de qui on met à la tête des projets...
+
+{{< callout warning >}}
+Mars 2023. La ville de Montpellier interdit à ses agents d’utiliser ChatGPT. [France-3 Regions](https://france3-regions.francetvinfo.fr/occitanie/herault/montpellier/chatgpt-revolutionnaire-mais-qui-inquiete-pourquoi--2742446.html).
+{{< /callout >}}
 
 {{< callout warning >}}
 Mars 2023. ChatGPT interdit en Italie: le premier domino tombe en Europe. [La Tribune](https://www.latribune.fr/technos-medias/informatique/chatgpt-interdit-en-italie-le-premier-domino-tombe-en-europe-957429.html).

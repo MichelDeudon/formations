@@ -27,9 +27,7 @@ Polytechnique is tied to the history of the French Revolution. With a budget of 
 
 Because of Covid-19 and lockdowns, no public debate really took place on what should be Polytechnique's mission in the 21th century.
 
-Macron's [McKinseyGate](https://www.youtube.com/watch?v=4ciN_0BNOzQ&ab_channel=BLAST%2CLesouffledel%27info) was disclosed in 2022.
-
-Villani left Macron and joined France's ecological party for the 2022 election. The second round opposed Le Pen (Rassemblement National) to Macron, leading to the creation of the New Union of Popular, Ecological and Social parties (NUPES).
+Macron's [McKinseyGate](https://www.youtube.com/watch?v=4ciN_0BNOzQ&ab_channel=BLAST%2CLesouffledel%27info) was disclosed in 2022. Villani left Macron and joined France's ecological party for the presidential election. The second round opposed Le Pen (Rassemblement National) to Macron, leading to the creation of the New Union of Popular, Ecological and Social parties (NUPES).
 
 A year later, in March 2023, Olivier Véran, Macron's Minister of Health appointed during the Covid-19 crisis, compared France historical social movement on March 7 to <i>"an ecological disaster"</i> 😷. Gérald Darmanin, Macron's Minister of the Interior, compared his opponents on the left wing to <i>"terrorists"</i> after the executive duo Macron/Borne (X81) used the article 49.3 of the Constitution to force a reform through Parliament without a vote, for the 100th time of the fifth Republic.
 
@@ -73,7 +71,7 @@ Disinformation and repression don't generate long term value.
 ## Fact checking is outdated
 
 - It is a binary vision, 0/1, true/false... outdated by quantum physics and the idea that two contradictory ideas can be true simulatenously. Plus, [some questions require to debate](https://www.blast-info.fr/articles/2023/sommes-nous-toujours-en-democratie-AwJ1_TmlTM-ONwHybrhuqQ). 
-- Fact checking of viral messages diverts attention from key findings, like Emma Strubell's article [Energy and Policy Considerations for Deep Learning in NLP](https://www.mtpcours.fr/en/c/desinformation/emma-strubell/).
+- Fact checking of viral messages diverts attention from key findings, like [Emma Strubell](https://www.mtpcours.fr/c/desinformation/emma-strubell/)'s article in 2019 or [Servane Mouton](https://www.youtube.com/watch?v=OUZpHO9JXbE&ab_channel=ComprendreetAgir)'s talk in 2023.
 - Fact checking puts voices under silence. It paves the way to censorship. See [AREVA / MAUREEN KEARNEY CASE: BACK ON A STATE SCANDAL](https://www.youtube.com/watch?v=kRyriD9iLZY&ab_channel=BLAST%2CLesouffledel%27info).
 
 What don't we don't know to debate?

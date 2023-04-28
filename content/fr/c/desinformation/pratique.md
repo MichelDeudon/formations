@@ -36,9 +36,11 @@ Demander de l’aide si besoin. <br>
 Faire preuve de <b>discernement</b> et d’<b>esprit critique</b>. 
 Privilégier la qualité sur la quantité.
 
-Être attentif aux [conflits d’intérêts et greenwashing](https://www.mtpcours.fr/c/desinformation/greenwashing/), aux biais et aux non dits. D'où vient l’argent? Quel est le but? Qui est invisibilisé? Par exemple, vous pouvez vous informer sur [Météo France](https://meteofrance.com/actualites-et-dossiers/actualites/climat/secheresse-32-jours-sans-pluie-en-france-record-battu) et [le CNRS](https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox), ou suivre des médias indépendants comme [Blast](https://www.blast-info.fr/articles/2023/sommes-nous-toujours-en-democratie-AwJ1_TmlTM-ONwHybrhuqQ) et [Mediapart](https://www.mediapart.fr/).
+Être attentif aux [conflits d’intérêts et greenwashing](https://www.mtpcours.fr/c/desinformation/greenwashing/), aux biais et aux non dits. D'où vient l’argent? Quel est le but? Qui est invisibilisé? Par exemple, vous pouvez vous informer sur [Météo France](https://meteofrance.com/actualites-et-dossiers/actualites/climat/secheresse-32-jours-sans-pluie-en-france-record-battu), l'[INRIA](https://steep.inria.fr/comprendreagir/impacts-des-ecrans-sur-la-sante-servane-mouton/) et le [CNRS](https://ecoinfo.cnrs.fr/2023/02/27/conf-ecoinfo-ecrans-menaces-sur-la-sante-09-mai-2023/), ou suivre des médias indépendants comme [Blast](https://www.blast-info.fr/articles/2023/sommes-nous-toujours-en-democratie-AwJ1_TmlTM-ONwHybrhuqQ) et [Mediapart](https://blogs.mediapart.fr/emmanuel-prados/blog/020323/ecrans-et-sante-il-est-urgent-d-agir).
 
-{{< youtube tlnDmGhnGq8>}}
+{{< youtube OUZpHO9JXbE>}}
+
+Écrans: notre santé en danger ? © Servane Mouton / Équipe de recherche STEEP de l'INRIA Grenoble.
 
 ## 3. Recentrer l’attention en société ✨
 

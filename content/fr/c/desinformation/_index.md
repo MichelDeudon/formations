@@ -62,6 +62,12 @@ Pour valider le module, il faut compléter un QCM final (50% des points) et réa
 
 <b>2023</b>
 
+> [Ecrans : menaces sur la santé](https://ecoinfo.cnrs.fr/2023/02/27/conf-ecoinfo-ecrans-menaces-sur-la-sante-09-mai-2023/). CNRS.
+
+> [Écrans et santé : il est urgent d’agir !](https://blogs.mediapart.fr/emmanuel-prados/blog/020323/ecrans-et-sante-il-est-urgent-d-agir). Médiapart.
+
+> Servane Mouton. [Écrans : notre santé en danger ?](https://www.youtube.com/watch?v=OUZpHO9JXbE&ab_channel=ComprendreetAgir). Equipe de recherche STEEP de l'INRIA Grenoble.
+
 > David Chavalarias, Paul Bouchaud, Victor Chomel et Maziyar Panahi. [Climatosceptiques : sur Twitter, enquête sur les mercenaires de l’intox](https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox). CNRS.
 
 > [6e rapport de synthèse du GIEC](https://www.ecologie.gouv.fr/publication-du-6e-rapport-synthese-du-giec). ecologie.gouv.fr.
@@ -79,6 +85,8 @@ Pour valider le module, il faut compléter un QCM final (50% des points) et réa
 > [Synthèse de la Commission Broner: Les Lumières à l'ère numérique.](https://www.fondationdescartes.org/wp-content/uploads/2022/01/Synthe%CC%80se_Commission_Bronner-copie.pdf) Fondation Descartes.
 
 <b>2021</b>
+
+> [Les fichiers Facebook](https://www.wsj.com/articles/the-facebook-files-11631713039). Une enquête du Wall Street Journal.
 
 > Convention citoyenne pour le climat et l'[Affaire du Siècle](https://www.vie-publique.fr/en-bref/282012-changement-climatique-la-france-condamnee-pour-prejudice-ecologique).
 

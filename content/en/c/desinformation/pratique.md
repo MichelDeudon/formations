@@ -36,9 +36,11 @@ Ask for help if needed. <br>
 Exercise <b>critical thinking</b>.  <br>
 Prioritize quality over quantity.
 
-Be attentive to [conflicts of interest and greenwashing](https://www.mtpcours.fr/en/c/desinformation/greenwashing/), biases and what is left unsaid. Where does the money come from? What is the goal? Who is invisibilised? For example, you can follow [Météo France](https://meteofrance.com/actualites-et-dossiers/actualites/climat/secheresse-32-jours-sans-pluie-en-france-record-battu) and [the CNRS](https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox), or independant medias such as [Blast](https://www.blast-info.fr/articles/2023/sommes-nous-toujours-en-democratie-AwJ1_TmlTM-ONwHybrhuqQ) and [Mediapart](https://www.mediapart.fr/).
+Be attentive to [conflicts of interest and greenwashing](https://www.mtpcours.fr/en/c/desinformation/greenwashing/), biases and what is left unsaid. Where does the money come from? What is the goal? Who is invisibilised? For example, you can follow [Météo France](https://meteofrance.com/actualites-et-dossiers/actualites/climat/secheresse-32-jours-sans-pluie-en-france-record-battu), [INRIA](https://steep.inria.fr/comprendreagir/impacts-des-ecrans-sur-la-sante-servane-mouton/) and [the CNRS](https://ecoinfo.cnrs.fr/2023/02/27/conf-ecoinfo-ecrans-menaces-sur-la-sante-09-mai-2023/), or independant medias such as [Blast](https://www.blast-info.fr/articles/2023/sommes-nous-toujours-en-democratie-AwJ1_TmlTM-ONwHybrhuqQ) and [Mediapart](https://blogs.mediapart.fr/emmanuel-prados/blog/020323/ecrans-et-sante-il-est-urgent-d-agir).
 
-{{< youtube tlnDmGhnGq8>}} 
+{{< youtube OUZpHO9JXbE>}} 
+
+Screens: our health in danger? © Servane Mouton / STEEP research team at INRIA Grenoble.
 
 ## 3. Refocus attention in society ✨
 

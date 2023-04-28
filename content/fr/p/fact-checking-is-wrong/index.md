@@ -27,11 +27,9 @@ Polytechnique est liée à l'histoire de la Révolution française. Dotée d'un 
 
 À cause du Covid-19 et des confinements, aucun débat public n'a vraiment eu lieu sur ce que devrait être la mission de Polytechnique au 21e siècle.
 
-Le [McKinseyGate](https://www.youtube.com/watch?v=4ciN_0BNOzQ&ab_channel=BLAST%2CLesouffledel%27info) de Macron a été divulgué en 2022.
+L'affaire [McKinseyGate](https://www.youtube.com/watch?v=4ciN_0BNOzQ&ab_channel=BLAST%2CLesouffledel%27info) de Macron a été divulguée en 2022. Villani a quitté Macron et a rejoint le parti écologiste français pour les élections présidentielles. Le second tour a opposé Le Pen (Rassemblement national) à Macron, conduisant à la création de la Nouvelle Union des partis Populaires, Écologistes et Sociaux (NUPES).
 
-Villani a quitté Macron et a rejoint le parti écologiste français pour les élections de 2022. Le second tour a opposé Le Pen (Rassemblement national) à Macron, conduisant à la création de la Nouvelle Union des partis Populaires, Écologistes et Sociaux (NUPES).
-
-Un an plus tard, en mars 2023, Olivier Véran, ministre de la Santé de Macron nommé pendant la crise du Covid-19, comparait le mouvement social historique de la France du 7 mars à <i>"une catastrophe écologique"</i> 😷. Gérald Darmanin, ministre de l'Intérieur de Macron, a comparé ses opposants à gauche à des <i>"terroristes"</i> après que le duo exécutif Macron/Borne (X81) ait utilisé l'article 49.3 de la Constitution pour imposer une réforme au Parlement sans vote, pour la 100e fois de la Ve République.
+Un an plus tard, en mars 2023, Olivier Véran, ministre de la Santé de Macron nommé pendant la crise du Covid-19, comparait le mouvement social historique du 7 mars à <i>"une catastrophe écologique"</i> 😷. Gérald Darmanin, ministre de l'Intérieur de Macron, a comparé ses opposants à gauche à des <i>"terroristes"</i> après que le duo exécutif Macron/Borne (X81) ait utilisé l'article 49.3 de la Constitution pour imposer une réforme au Parlement sans vote, pour la 100e fois de la Ve République.
 
 Voir aussi
 - [SAINTE-SOLINE : LE RÉCIT DE NOTRE REPORTER FACE AUX MENSONGES DU GVT](https://www.youtube.com/watch?v=87iB6gnttAw&ab_channel=BLAST%2CLesouffledel%27info)
@@ -46,7 +44,7 @@ Alors que les femmes représentent 10 % des écoles d'ingénieurs en informatiq
 
 Le racisme, le sexisme et les risques sociaux sont évoqués dans son rapport, ainsi que des <i>"nouveaux modes de production et de répartition de la valeur"</i>. Plus largement, le député a recommandé la mise en place d'un comité d'éthique en IA, chargé d'organiser le débat public et de fournir des avis et recommandations <i>"en toute indépendance"</i>.
 
-Malgré ces recommendations, Polytechnique continue de désinformer les français en 2023. [Cet article](https://www.lajauneetlarouge.com/ia-de-confiance-enjeux-et-solutions-pour-un-traitement-ethique-des-donnees/) de Vincent Luciani (X05) met en lumière des conflits d'intérêt évidents (Artefact, l'AI Infrastructure Alliance, la communauté MLOps). Les articles connexes d'Alain (X79), Didier (X82), David (X97), Thierry (X84), Robert (X72), Gérard (X67), Paul... soulignent un manque de diversité à Polytechnique et des biais d'opinions (tous les auteurs sont des hommes blancs, âgés de 38 à 80 ans).
+Malgré ces recommendations, Polytechnique continue de désinformer les français en 2023. [Cet article](https://www.lajauneetlarouge.com/ia-de-confiance-enjeux-et-solutions-pour-un-traitement-ethique-des-donnees/) de Vincent Luciani (X05) met en lumière des conflits d'intérêt évidents (Artefact, l'AI Infrastructure Alliance, la communauté MLOps). Les articles connexes d'Alain (X79), Didier (X82), David (X97), Thierry (X84), Robert (X72), Gérard (X67), Paul... soulignent un manque de diversité à Polytechnique, responsable de biais dans les prises de décisions (tous les auteurs sont des hommes blancs, âgés de 38 à 80 ans).
 
 Je me souviens, à l'époque où j'étudiais à Polytechnique, des <i>leaders</i> étaient invités pour nous inspirer. Carlos Ghosn a été invité quelques mois avant de finir en prison. Le milliardaire français Patrick Drahi a donné son nom au centre d'entrepreneuriat et d'innovation de Polytechnique, aujourd'hui il est publiquement connu pour ses fraudes et les [DrahiLeaks](https://www.blast-info.fr/articles/2023/drahileaks-la-methode-de-patrick-drahi-pour-devenir-riche-P5NfCE1qRt6QgwnJRKpMtA).
 
@@ -73,7 +71,7 @@ La désinformation et la répression ne génèrent pas de valeur à long terme.
 ## Le fact-checking est obsolète
 
 - Il s'agit d'une vision binaire, 0/1, vrai/faux... dépassée par la physique quantique et l'idée que deux idées contradictoires peuvent être vraies simultanément. De plus, [certaines questions nécessitent de débattre](https://www.blast-info.fr/articles/2023/sommes-nous-toujours-en-democratie-AwJ1_TmlTM-ONwHybrhuqQ).
-- La vérification des faits des messages viraux détourne l'attention de conclusions importantes, comme l'article d'Emma Strubell [Considérations énergétiques et politiques pour le Deep Learning en NLP](https://www.mtpcours.fr/c/desinformation/emma-strubell/).
+- La vérification des faits des messages viraux détourne l'attention de conclusions importantes, comme l'article d'[Emma Strubell](https://www.mtpcours.fr/c/desinformation/emma-strubell/) en 2019 ou la conférence de [Servane Mouton](https://www.youtube.com/watch?v=OUZpHO9JXbE&ab_channel=ComprendreetAgir) en 2023.
 - La vérification des faits invisibilise des personnes. Le fact checking ouvre la voie à la censure. Voir [AFFAIRE AREVA / MAUREEN KEARNEY : RETOUR SUR UN SCANDALE D'ETAT](https://www.youtube.com/watch?v=kRyriD9iLZY&ab_channel=BLAST%2CLesouffledel%27info).
 
 Qu'est-ce qu'on ne sait pas débattre ?
@@ -104,7 +102,7 @@ Yann Le Cun et 7 polytechniciens en France (Hugo Touvron, Thibaut Lavril, Gautie
 
 Les modèles <i>ont consommé une quantité massive d'énergie, responsable d'émissions de dioxyde de carbone</i> (source : Arxiv). Ils ont <i>des milliards de paramètres</i>, pour <i>des milliards de personnes</i> (source : blog Meta AI). <i>Les risques et les préjudices incluent la génération de contenu nuisible, offensant ou biaisé… d'informations incorrectes</i>. (source : carte modèle Github).
 
-- Pourquoi le système CIFRE français est-il utilisé pour créer de la désinformation pour Meta et concurrencer le modèle ChatGPT d'Elon Musk ?
+- Pourquoi le système CIFRE français est-il utilisé pour créer de la désinformation pour Meta et concurrencer le modèle ChatGPT d'Elon Musk ?
 - Pourquoi les [consommations d'énergie](https://www.mtpcours.fr/c/desinformation/emma-strubell/) et les risques/dommages, les fuites, les considérations éthiques des modèles ne sont-ils pas communiqués clairement sur le blog de Meta AI ou sur les réseaux sociaux ?
 - Pourquoi Meta AI utilise des techniques de [greenwashing](https://www.mtpcours.fr/c/desinformation/greenwashing/) (par exemple, <i>"plus petit"</i>), dans son blog de recherche et sur les réseaux sociaux (Linkedin, Twitter) ?
 

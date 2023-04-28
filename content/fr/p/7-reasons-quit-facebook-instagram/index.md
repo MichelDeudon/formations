@@ -67,7 +67,7 @@ Regardez autour de vous et demandez-vous : Facebook, Instagram, Linkedin, Twitte
 
 ## 3. Il est temps de prendre soin 🎗️
 
-Après trois années de crise sanitaire, énergétique, politique, écologique et sociale, il est temps de <b>prendre soin de nous, de notre santé mentale et physique</b>, de nos proches et de la planète Terre.
+Après trois années de crise sanitaire, énergétique, politique, écologique et sociale, il est temps de <b>prendre soin</b> de nous, de notre [santé physique et mentale](https://www.youtube.com/watch?v=OUZpHO9JXbE&ab_channel=ComprendreetAgir), de nos proches et de la planète Terre.
 
 Nous devons arrêter de procrastiner, nous isoler et nous enfermer dans des bulles. Nous devons déstigmatiser les addictions, la dépression…
 
@@ -87,7 +87,7 @@ J'ai décidé de prendre soin de ma santé mentale et j'ai plus de temps et d'é
 
 Comme l'a clairement indiqué une députée dans une interview accordée à [Blast media](https://www.blast-info.fr/emissions/2022/les-revelations-dune-deputee-au-coeur-du-systeme-macron-avec-frederique-dumas-9VNRlqrPSdaQKULTrvie5A), Macron peine à anticiper par manque de vision.
 
-Mon expérience de consultant pour le gouvernement (SGDSN), pour préparer la France à une crise majeure, confirme le constat de cette députée.
+Mon expérience de consultant pour le gouvernement (SGDSN), pour préparer la France aux crises majeures, confirme le constat de cette députée.
 
 Facebook/Instagram, Twitter, les algorithmes de Linkedin et les mensonges du gouvernement sont optimisés pour générer des réactions.
 
