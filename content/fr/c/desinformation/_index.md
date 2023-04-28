@@ -64,9 +64,9 @@ Pour valider le module, il faut compléter un QCM final (50% des points) et réa
 
 > [Ecrans : menaces sur la santé](https://ecoinfo.cnrs.fr/2023/02/27/conf-ecoinfo-ecrans-menaces-sur-la-sante-09-mai-2023/). CNRS.
 
-> [Écrans et santé : il est urgent d’agir !](https://blogs.mediapart.fr/emmanuel-prados/blog/020323/ecrans-et-sante-il-est-urgent-d-agir). Médiapart.
+> [Écrans et santé : il est urgent d’agir !](https://blogs.mediapart.fr/emmanuel-prados/blog/020323/ecrans-et-sante-il-est-urgent-d-agir) Médiapart.
 
-> Servane Mouton. [Écrans : notre santé en danger ?](https://www.youtube.com/watch?v=OUZpHO9JXbE&ab_channel=ComprendreetAgir). Equipe de recherche STEEP de l'INRIA Grenoble.
+> Servane Mouton. [Écrans : notre santé en danger ?](https://www.youtube.com/watch?v=OUZpHO9JXbE&ab_channel=ComprendreetAgir) Equipe de recherche STEEP de l'INRIA Grenoble.
 
 > David Chavalarias, Paul Bouchaud, Victor Chomel et Maziyar Panahi. [Climatosceptiques : sur Twitter, enquête sur les mercenaires de l’intox](https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox). CNRS.
 

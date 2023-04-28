@@ -64,9 +64,9 @@ Yes! To validate the course, you must complete a final multiple choice quizz (50
 
 > [Screens: health threats](https://ecoinfo.cnrs.fr/2023/02/27/conf-ecoinfo-ecrans-menaces-sur-la-sante-09-mai-2023/). CNRS.
 
-> [Screens and health: it is urgent to act!](https://blogs.mediapart.fr/emmanuel-prados/blog/020323/ecrans-et-sante-il-est-urgent-d-agir). Mediapart.
+> [Screens and health: it is urgent to act!](https://blogs.mediapart.fr/emmanuel-prados/blog/020323/ecrans-et-sante-il-est-urgent-d-agir) Mediapart.
 
-> Servane Mouton. [Screens: our health in danger?](https://www.youtube.com/watch?v=OUZpHO9JXbE&ab_channel=ComprendreetAgir). STEEP research team at INRIA Grenoble.
+> Servane Mouton. [Screens: our health in danger?](https://www.youtube.com/watch?v=OUZpHO9JXbE&ab_channel=ComprendreetAgir) STEEP research team at INRIA Grenoble.
 
 > David Chavalarias, Paul Bouchaud, Victor Chomel and Maziyar Panahi. [Climatosceptics: on Twitter, investigation of the intox mercenaries](https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox). CNRS.
 
