@@ -77,7 +77,7 @@ each document vector
 
 - **Theory**: Message passing. How to transform and pass some information with minimum loss and efforts? Ideas from statistical physics, psychology and other fields. No need to be a computer scientist to study computational linguistics.
 - **Tip**: Simpler models are better. Ask the right question. Einstein, Feynman
-- **Homework**: Setup your environment (Github, Python) for the course use cases
+- **Homework**: Setup your environment (Framagit, Python) for the course use cases
 - Use case: Mispellt words
 
 ## Quiz

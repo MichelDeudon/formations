@@ -24,7 +24,7 @@ Distribution of [Kokopelli](https://kokopelli-semences.fr/fr/) seeds to initiate
 
 ### Open source data
 
-Open source contribution - [Pyfood](https://pyfood.readthedocs.io/fr/latest/) to raise awareness of the benefits of a vegetarian diet, local and seasonal.
+Open source contribution - [Pyfood](https://pyfood.readthedocs.io/en/latest/) to raise awareness of the benefits of a vegetarian diet, local and seasonal.
 
 We promote
 - Ⓥ Plant-based artwork. Respecting living ecosystems and favoring low climate impact.

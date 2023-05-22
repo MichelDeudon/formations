@@ -42,11 +42,11 @@ Linear algebra and Principal Component Analysis
 
 ### TP / Pratique
 
-{{< icon name="github" pack="fab" >}} [te62mi-algebre-bilineaire](https://github.com/MichelDeudon/te62mi-algebre-bilineaire)
+{{< icon name="github" pack="fab" >}} [te62mi-algebre-bilineaire](https://framagit.org/MichelDeudon/te62mi-algebre-bilineaire)
 
-#### TP1. [SVD](https://github.com/MichelDeudon/te62mi-algebre-bilineaire/blob/main/tp/SVD.ipynb).
-#### TP2. [PCA](https://github.com/MichelDeudon/te62mi-algebre-bilineaire/blob/main/tp/PCA.ipynb).
-#### TP3. [MDS](https://github.com/MichelDeudon/te62mi-algebre-bilineaire/blob/main/tp/MDS.ipynb).
+#### TP1. [SVD](https://framagit.org/MichelDeudon/te62mi-algebre-bilineaire/blob/main/tp/SVD.ipynb).
+#### TP2. [PCA](https://framagit.org/MichelDeudon/te62mi-algebre-bilineaire/blob/main/tp/PCA.ipynb).
+#### TP3. [MDS](https://framagit.org/MichelDeudon/te62mi-algebre-bilineaire/blob/main/tp/MDS.ipynb).
 
 ### TD / Exercices
 

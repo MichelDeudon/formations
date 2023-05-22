@@ -13,6 +13,6 @@ Use language for environmental protection.
 
 ## Carbonfact entity and relationship extraction
 
-{{< icon name="github" pack="fab" >}} [nlp201-clothing-composition-parsing](https://github.com/MichelDeudon/nlp201-clothing-composition-parsing)
+{{< icon name="github" pack="fab" >}} [nlp201-clothing-composition-parsing](https://framagit.org/MichelDeudon/nlp201-clothing-composition-parsing)
 
 {{< figure src="linguistics/img8.png" >}}

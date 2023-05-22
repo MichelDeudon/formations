@@ -49,11 +49,11 @@ Optimisation and Regularisation
 
 ### TP / Pratique 
 
-{{< icon name="github" pack="fab" >}} [tw233mi-regularisation-optimisation](https://github.com/MichelDeudon/tw233mi-regularisation-optimisation)
+{{< icon name="github" pack="fab" >}} [tw233mi-regularisation-optimisation](https://framagit.org/MichelDeudon/tw233mi-regularisation-optimisation)
 
-#### TP1. [Logistic regression, A to Z](https://github.com/MichelDeudon/tw233mi-regularisation-optimisation/blob/main/td/td1-logistic-regression-az.ipynb)
-#### TP2. [First order methods for logistic regression](https://github.com/MichelDeudon/tw233mi-regularisation-optimisation/blob/main/td/td2-regularized-logistic-regression.ipynb)
-#### TP3. [Regularized Logistic regression, A to Z](https://github.com/MichelDeudon/tw233mi-regularisation-optimisation/blob/main/td/td3-regularized-logistic-regression.ipynb)
+#### TP1. [Logistic regression, A to Z](https://framagit.org/MichelDeudon/tw233mi-regularisation-optimisation/blob/main/td/td1-logistic-regression-az.ipynb)
+#### TP2. [First order methods for logistic regression](https://framagit.org/MichelDeudon/tw233mi-regularisation-optimisation/blob/main/td/td2-regularized-logistic-regression.ipynb)
+#### TP3. [Regularized Logistic regression, A to Z](https://framagit.org/MichelDeudon/tw233mi-regularisation-optimisation/blob/main/td/td3-regularized-logistic-regression.ipynb)
 
 ### TD / Exercices
 

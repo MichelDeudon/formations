@@ -33,7 +33,7 @@ tags:
 ## FAQs
 
 {{< spoiler text="Y a-t-il des prérequis?" >}}
-Il n'y a pas de prérequis pour le premier cours. Un ordinateur avec Python installé et un compte Github sont requis si vous souhaitez expérimenter les cas pratiques. Les bibliothèques de Python seront introduites au long du cours avec les cas pratiques.
+Il n'y a pas de prérequis pour le premier cours. Un ordinateur avec Python installé et un compte Framagit sont requis si vous souhaitez expérimenter les cas pratiques. Les bibliothèques de Python seront introduites au long du cours avec les cas pratiques.
 {{< /spoiler >}}
 
 {{< spoiler text="À quelle fréquence les cours ont-ils lieu?" >}}

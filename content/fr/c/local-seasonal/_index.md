@@ -24,7 +24,7 @@ Distribution de graines [Kokopelli](https://kokopelli-semences.fr/fr/) et de sem
 
 ### Des données en accès libre
 
-Contribution en accès libre: [Pyfood](https://pyfood.readthedocs.io/fr/latest/) pour sensibiliser aux bienfaits d'une alimentation végé, locale et de saison.
+Contribution en accès libre: [Pyfood](https://pyfood.readthedocs.io/en/latest/) pour sensibiliser aux bienfaits d'une alimentation végé, locale et de saison.
 
 Nous soutenons
 - Ⓥ Des créations végétales, respectant les écosystèmes vivants et favorisant une empreinte carbone faible.

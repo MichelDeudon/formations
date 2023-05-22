@@ -13,7 +13,7 @@ Utiliser le langage pour l'innovation sociale.
 
 ## Dénominations des voies à Montpellier et taux de féminisation 
 
-{{< icon name="github" pack="fab" >}} [nlp201-street-names-gender-analysis](https://github.com/MichelDeudon/nlp201-street-names-gender-analysis)
+{{< icon name="github" pack="fab" >}} [nlp201-street-names-gender-analysis](https://framagit.org/MichelDeudon/nlp201-street-names-gender-analysis)
 
 {{< figure src="linguistics/img9.png" >}}
 

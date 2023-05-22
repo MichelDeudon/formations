@@ -48,12 +48,11 @@ Optimisation et régularisation des modèles
 #### 7 Méthodes bayésiennes
 
 ### TP / Pratique 
+{{< icon name="github" pack="fab" >}} [tw233mi-regularisation-optimisation](https://framagit.org/MichelDeudon/tw233mi-regularisation-optimisation)
 
-{{< icon name="github" pack="fab" >}} [tw233mi-regularisation-optimisation](https://github.com/MichelDeudon/tw233mi-regularisation-optimisation)
-
-#### TP1. [Régression logistique, de A à Z](https://github.com/MichelDeudon/tw233mi-regularisation-optimisation/blob/main/td/td1-logistic-regression-az.ipynb)
-#### TP2. [Méthodes du premier ordre pour la régression logistique](https://github.com/MichelDeudon/tw233mi-regularisation-optimisation/blob/main/td/td2-regularized-logistic-regression.ipynb)
-#### TP3. [Régression logistique régularisée, de A à Z](https://github.com/MichelDeudon/tw233mi-regularisation-optimisation/blob/main/td/td3-regularized-logistic-regression.ipynb)
+#### TP1. [Régression logistique, de A à Z](https://framagit.org/MichelDeudon/tw233mi-regularisation-optimisation/blob/main/td/td1-logistic-regression-az.ipynb)
+#### TP2. [Méthodes du premier ordre pour la régression logistique](https://framagit.org/MichelDeudon/tw233mi-regularisation-optimisation/blob/main/td/td2-regularized-logistic-regression.ipynb)
+#### TP3. [Régression logistique régularisée, de A à Z](https://framagit.org/MichelDeudon/tw233mi-regularisation-optimisation/blob/main/td/td3-regularized-logistic-regression.ipynb)
 
 ### TD / Exercices
 

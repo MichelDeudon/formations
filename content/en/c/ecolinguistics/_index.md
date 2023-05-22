@@ -33,7 +33,7 @@ At the end of the course, participants will be able to {{<hl>}}apply NLP for res
 ## FAQs
 
 {{< spoiler text="Are there prerequisites?" >}}
-There are no prerequisites for the first course. A computer with Python installed and a Github account is required if you wish to experiment with the use cases. Statistics, maths and python libraries will be introduced along the course with practical use cases.
+There are no prerequisites for the first course. A computer with Python installed and a Framagit account is required if you wish to experiment with the use cases. Statistics, maths and python libraries will be introduced along the course with practical use cases.
 {{< /spoiler >}}
 
 {{< spoiler text="How often do the courses run?" >}}
