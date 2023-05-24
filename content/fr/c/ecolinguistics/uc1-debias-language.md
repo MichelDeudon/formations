@@ -23,7 +23,7 @@ Utiliser le langage pour l'innovation sociale.
 
 {{< icon name="github" pack="fab" >}} [nlp201-street-names-gender-analysis](https://framagit.org/MichelDeudon/nlp201-street-names-gender-analysis)
 
-Plus de 93% des boulevards en France et sur data.gouv.fr portent le nom d'un homme parmi les noms de célébrités (Victor Hugo, De Gaulle, Leclerc, Foch, etc). Par comparaison, 60% des jardins portent le nom d'une femme, dont certains correspondent aux noms d'arbres ou de fleurs comme Rose, Magnolia ou Capucine. Des études ont permis de quantifier le taux de  représentativité des femmes, dans la dénomination de voies publiques, dans différentes villes ou secteurs, à différentes dates, par différentes méthodes. Nous proposons des indicateurs dérivés de la Base Adresse Nationale [5] pour estimer le taux de représentativité des femmes dans la dénomination des voies publiques, localement et à l'échelle de villes, départements et régions en France (plus de 2 millions de voies en Métropole et en Outre-Mer). Nous retrouvons un taux de féminisation des voies et espaces publics proche de 12% à Paris [6] et dans des villes comme Nantes et Montpellier. Nous analysons les corrélations avec certaines professions, filières, et comparons nos résultats avec des pages publiques Wikipedia. Notre analyse suggère que l'imaginaire associé à certaines professions (docteur, professeur, capitaine, colonel) et filières en France (mathématiques, médaille Fields, informatique, prix Turing) induit un biais de genre dans nos représentations sociales et cultive les stéréotypes, amplifiés par les modèles LLaMA d'intelligence artificielle de Facebook AI Research (FAIR) Paris [4], conduisant à des formes de régressions sociales. Nous mettons en accès libre notre implémentation pour suivre l'évolution de ces biais dans le temps.
+Plus de 93% des boulevards en France et sur [data.gouv.fr](https://adresse.data.gouv.fr/) portent le nom d'un homme parmi les noms de célébrités (Victor Hugo, De Gaulle, Leclerc, Foch, etc). Par comparaison, 60% des jardins portent le nom d'une femme, dont certains correspondent aux noms d'arbres ou de fleurs comme Rose, Magnolia ou Capucine. Des études ont permis de quantifier le taux de  représentativité des femmes, dans la dénomination de voies publiques, dans différentes villes ou secteurs, à différentes dates, par différentes méthodes. Nous proposons des indicateurs dérivés de la Base Adresse Nationale [5] pour estimer le taux de représentativité des femmes dans la dénomination des voies publiques, localement et à l'échelle de villes, départements et régions en France (plus de 2 millions de voies en Métropole et en Outre-Mer). Nous retrouvons un taux de féminisation des voies et espaces publics proche de 12% à Paris [6] et dans des villes comme Nantes et Montpellier. Nous analysons les corrélations avec certaines professions, filières, et comparons nos résultats avec des pages publiques Wikipedia. Notre analyse suggère que l'imaginaire associé à certaines professions (docteur, professeur, capitaine, colonel) et filières en France (mathématiques, médaille Fields, informatique, prix Turing) induit un biais de genre dans nos représentations sociales et cultive les stéréotypes, amplifiés par les modèles LLaMA d'intelligence artificielle de Facebook AI Research (FAIR) Paris [4], conduisant à des formes de régressions sociales. Nous mettons en accès libre notre implémentation pour suivre l'évolution de ces biais dans le temps.
 
 ### Introduction
 
@@ -45,7 +45,7 @@ Nous annotons les noms de voie de la Base Adresse Nationale [5] avec un label ('
 
 #### Analyse spatiale
 
-{{< figure src="linguistics/france-map-2023.png" caption="Noms de voie et genre aggrégé par communes en France métropole. Le label 1 en bleu (resp. 2 en rouge) correspond à 100% de voies portant des noms d'hommes (resp. de femmes). Le taux de féminisation des voies publiques à l'échelle nationale se situe entre 8 et 15%, ce qui correspond à un label entre 1.08 et 1.15.">}}
+{{< figure src="linguistics/france-map-2023.png" caption="Noms de voie et genre aggrégé par communes en France métropole. Le label 1 en bleu (resp. 2 en rouge) correspond à 100% de voies portant des noms d'hommes (resp. de femmes). Le taux de féminisation des voies publiques à l'échelle nationale se situe entre 8 et 15%, ce qui correspond à un label entre 1.08 et 1.15." numbered="true">}}
 
 Les données aggrégées par communes en France métropolitaine sont illustrées dans la Figure 2. Pour chaque commune, nous calculons un label compris entre 1 et 2, et qui correspond au ratio de voies portant un prénom féminin/masculin. Nous reportons dans la Table en Annexe cet indicateur calculé à l'échelle nationale et pour les 10 plus grandes villes francaises, et comparons nos résultats à d'autres indicateurs comme la proportion de voies contenant le mot "Sainte" versus "Saint", ou la proportion de prénoms féminins parmi les $k$ plus populaires. Nos résultats soulignent les disproportionalités entre dénominations d'espaces publics et genre, globalement et avec des disparités locales.
 
@@ -53,7 +53,7 @@ Les données aggrégées par communes en France métropolitaine sont illustrées
 
 Parmi les 50 prenoms les plus courants dans les noms de voies, 4 sont féminins: Marie, Blanche, Jeanne et Anne. La distribution des prénoms est biaisée vers une représentation masculine de l'histoire et de ses héros, comme illustrée dans la Figure 3.
 
-{{< figure src="linguistics/word_pyramid.png" caption="NClassement des 25 prénoms masculins et féminins les plus populaires dans la dénominations des voies en France. La distribution des prénoms suit la loi de Zipf \cite{zipf}: une minorité de prénoms (ici à plus de 92\% masculins) apparaissent très fréquemment tandis que la majorité des prénoms (mixtes) sont rarement employés.">}}
+{{< figure src="linguistics/word_pyramid.png" caption="Classement des 25 prénoms masculins et féminins les plus populaires dans la dénominations des voies en France. La distribution des prénoms suit la loi de Zipf [23]: une minorité de prénoms (ici à plus de 92\% masculins) apparaissent très fréquemment tandis que la majorité des prénoms (mixtes) sont rarement employés." numbered="true">}}
 
 La représentation des femmes varie d'un type de voie à un autre. On observe que les jardins sont connotés à des divinités de la Nature, à des noms de fleurs et prénoms féminins, alors que les avenues et les boulevards sont à dominante masculine et connotés à des chefs de guerre et des chars ou armes de guerre. Les tunnels quant à eux sont exclusivement masculins.
 Nous reportons dans la Table 1 les taux de représentation F/H associées à quatres professions.
@@ -64,11 +64,11 @@ Nous reportons dans la Table 1 les taux de représentation F/H associées à qua
 |Capitaine | 971 | 217 | 8 | 3.6 |
 |Professeur  | 616  | 241 |  4 | 1.6 |
 |Colonel | 1298 | 469 | 2 | 0.4 |
-: Représentativité F/H des noms de voies en France, pour différentes professions en 2023 (dernière colonne). Ces valeurs sont nettement inférieures à la moyenne nationale de 12\%. Avec ces biais de genre et un modèle statistique naif, il faut générer plus de 25 prénoms de docteurs (Albert Tomey, Paul Pezet, Albert Schweitzer, Robert Koch...) pour obtenir un prénom féminin aléatoirement, en moyenne, et plus de 60 prénoms de professeurs pour obtenir un prénom féminin. Des exemples de ces biais peuvent être obtenus en écrivant "rue du docteur..." dans un moteur de recherche, sur Google Maps ou en se promenant, curieux, la tête levée.
+[Représentativité F/H des noms de voies en France, pour différentes professions en 2023 (dernière colonne). Ces valeurs sont nettement inférieures à la moyenne nationale de 12\%. Avec ces biais de genre et un modèle statistique naif, il faut générer plus de 25 prénoms de docteurs (Albert Tomey, Paul Pezet, Albert Schweitzer, Robert Koch...) pour obtenir un prénom féminin aléatoirement, en moyenne, et plus de 60 prénoms de professeurs pour obtenir un prénom féminin. Des exemples de ces biais peuvent être obtenus en écrivant "rue du docteur..." dans un moteur de recherche, sur Google Maps ou en se promenant, curieux, la tête levée.]
 
 ### De la Base Adresse Nationale à Wikipedia
 
-Les dénominations des voies et espaces publics en France et sur data.gouv.fr quantifient des siècles de stéréotypes de genre, comme les représentations de mots apprises sur Wikipedia [13].
+Les dénominations des voies et espaces publics en France et sur [data.gouv.fr](https://adresse.data.gouv.fr/) quantifient des siècles de stéréotypes de genre, comme les représentations de mots apprises sur Wikipedia [13].
 Facebook AI Research (FAIR) Paris a publié en 2023 des modèles statistiques entrainés sur Wikipédia, appelés LLaMA [4], financés en partie par le système CIFRE. Ces modèles ont été développés pendant l'hiver 2022/23 par 13 hommes sur 14 auteurs, dont 3 normaliens et 7 polytechniciens. Les modèles, dangereux (sexistes, racistes, générateur de fausses nouvelles) selon les auteurs, a été fuité entre le 24 février et le 7 mars 2023, dans un contexte de crise sanitaire, sociale et écologique [3].
 
 À la question "Quelles sont les 5 personnes que vous aimeriez rencontrer?", les LLaMA de FAIR Paris répondent 5 personnalités masculines du monde occidental: Albert Einstein, Leonardo da Vinci, Socrates, William Shakespeare et Abraham Lincoln [4]. 
@@ -87,7 +87,7 @@ En 2023, les mêmes modèles d'IA sont utilisés qu'en 2017 [14], avec plus de p
 |Parrains du deep learning | 0/3 | 
 |Auteurs des LLaMA de FAIR Paris | 1/13 | 
 |Personnalités les LLaMA souhaiteraient rencontrer | 0/5 | 
-: Biais de genre dans le développement d'artillerie lourde en IA (modèles avec des <i>milliards de paramètres</i> pour des <i>milliards d'êtres humains</i>).
+[Biais de genre dans le développement d'artillerie lourde en IA (modèles avec des <i>milliards de paramètres</i> pour des <i>milliards d'êtres humains</i>).]
 
 ### Imaginaires et idéologies
 
@@ -97,7 +97,7 @@ Si le terme de <i>régression (statistique)</i>, omniprésent dans l'intelligenc
 
 #### L'IA, un fantasme colonnial d'hommes blancs, d'Occident?
 
-Dans les films de sciences fictions (2001 l'Odyssée de l'Espace, Her, etc), l'IA est représentée par un humanoide ou une voix, robotique ou feminine. Siri, Alexa, les assistants vocaux de smartphones ont en réalité des noms et voix d'assistantes, tandis que la page Wikipedia sur la <i>beauté</i> des mathématiques fait référence à 26 hommes\footnote{Mandelbrot, Russel, Erdos, Beethoven, Dirac, Euler, Harris, Leibniz, Pythagore, Gauss, Andrew Wiles, Robert Langl,  Richard Borcherds, Alexandre Grothendieck, Claude Chevalley, Georges Théodule Guilbaud, Hermann Weyl, Bourbaki, Jean Dieudonné, Hermann Weyl, Platon, Aristote, Galilée, Alain Badiou, Kepler, Watson.}, aucune femme [7]. La page mentionne des résultats "profonds",  qui rappele l'apprentissage "profond" des trois prix Turing 2019 et parrains du deep learning. La page cite ce qui <i>"fait bander"</i>.
+Dans les films de sciences fictions (2001 l'Odyssée de l'Espace, Her, etc), l'IA est représentée par un humanoide ou une voix, robotique ou feminine. Siri, Alexa, les assistants vocaux de smartphones ont en réalité des noms et voix d'assistantes, tandis que la page Wikipedia sur la <i>beauté</i> des mathématiques fait référence à 26 hommes, dont Mandelbrot, Russel, Erdos, Beethoven, Dirac, Euler, Harris, Leibniz, Pythagore, Gauss, Andrew Wiles, Robert Langl,  Richard Borcherds, Alexandre Grothendieck, Claude Chevalley, Georges Théodule Guilbaud, Hermann Weyl, Bourbaki, Jean Dieudonné, Hermann Weyl, Platon, Aristote, Galilée, Alain Badiou, Kepler, Watson, aucune femme [7]. La page mentionne des résultats <i>"profonds"</i>,  qui rappele l'apprentissage <i>"profond"</i> des trois prix Turing 2019 et parrains du deep learning. La page cite ce qui <i>"fait bander"</i>.
 La légende dit qu'il n'y a pas de prix Nobel en mathématiques et en informatique pour une raison.
 Sous/sur-échantilloner certains noms de voies ou pages Wikipedia peut permettre de débiaiser simplement des modèles de langages statistiques et de linguistique computationnelle, pour éviter les régréssions sociales sans recourir à de l'artillerie lourde. Il faut se méfier des <i>experts</i>, qui ne sont pas directement victimes des armes produites et dont les conflits d'intérêts peuvent pousser à omettre certaines vérités et détourner l'attention. Nous émettons l'hypothèse que des <i>experts</i> appellant à plus d'<i>IA au secours de l'IA</i> sont de bonne foi, mais cela remet en question la place des formations aux impacts sociales et écologiques du numérique dans les <i>grandes écoles</i>. Cela vient aussi questionner la place des régressions statistiques et des biais cognitifs pour contrer le recul de la culture scientifique dans nos écoles, au sein de l'état et dans nos politiques publiques [2]: de 2019 à aujourd'hui, le nombre d'élèves en terminale avec plus de 6h de mathématiques par semaine, est passé de 200.000, dont 96.000 filles, à 100.000, dont 33.000 filles.
 Finalement, le nom donné à la commission Bronner, <i>les Lumières à l'ère du numérique</i> [8] suffira peut-être pour certains de faire le lien entre les formes d'esclavages modernes, l'idéologie coloniale [9] et la désinformation qui caractérise les modèles d'IA sexistes et racistes de FAIR Paris [4], financés en partie par le ministère de l'enseignement supérieur et de la recherche, par le système de [thèses CIFRE](https://twitter.com/ylecun/status/1629845738170597376?lang=en).
@@ -112,78 +112,50 @@ Alain Damasio dans un interview pour BLAST en mai 2023 explique comment sa visio
 ### Reference
 
 > 1. Blast. [Comment vivre et lutter face au capitalisme de surveillance?](https://www.youtube.com/watch?v=zBIHx0BqpNU&ab_channel=BLAST%2CLesouffledel%27info) 05/2023.
-
 > 2. Assemblee Nationale. [Contrer le recul de la culture scientifique a l’école, au sein de
 l’état et dans nos politiques publiques](https://videos.assemblee-nationale.fr/video.13235920_642dc8e35fd44.2eme-seance--debat-sur-le-theme--contrer-le-recul-de-la-culture-scientifique-a-l-ecole-au-sein-de-5-avril-2023). 2eme seance de debat. 04/2023.
-
 > 3. Mediapart. [Écrans et Santé : Il est urgent d’agir!](https://blogs.mediapart.fr/emmanuel-prados/blog/020323/ecrans-et-sante-il-est-urgent-d-agir) 03/2023.
-
 > 4. Touvron, H., Lavril, T. et al. [LLaMA: Open and efficient foundation language models.](https://arxiv.org/abs/2302.13971) arXiv preprint arXiv:2302.13971. 02/2023.
-
 > 5. Data.gouv.fr. [Base Adresse Nationale](https://adresse.data.gouv.fr/). 2022.
-
 > 6. Ville de Paris. [Féminisons les noms des rues!](https://www.paris.fr/pages/feminisons-les-noms-des-rues-6538) 2021.
-
 > 7. Loose, F., Belghiti-Mahut, S., et Lafont A.L. [”L’informatique, c’est pas pour les filles!”: Impacts du stéréotype de genre sur celles qui choisissent des études dans ce
 secteur.](https://www.researchgate.net/publication/355269388_L'informatique_c'est_pas_pour_les_filles_Impacts_du_stereotype_de_genre_sur_celles_qui_choisissent_des_etudes_dans_ce_secteur) 32ème Congrès de l’AGRH. 2021.
-
 > 8. Macron, E., Bronner, G. et al. [Les Lumières a l’ère numérique.](https://www.elysee.fr/admin/upload/default/0001/12/127ff0d2978ad3ebf10be0881ccf87573fc0ec11.pdf) 2020.
-
 > 9. Pellerin, P. [Les Lumières, l’esclavage et l’idéologie coloniale, XVIIIe-XXe siècles.](https://journals.openedition.org/studifrancesi/50454) Garnier, collection Rencontres XVIIIe siècle, Paris, 560 p. 2020.
-
 > 10. Grenard, F. [La traque des Résistants](https://www.tallandier.com/livre/la-traque-des-resistants/). Éditions Tallandier. 2019.
-
 > 11. Strubell, E., Ganesh, A., & McCallum, A. [Energy and Policy Considerations for Deep Learning in NLP](https://aclanthology.org/P19-1355/). In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics. 2019.
-
 > 12. Villani, C., Bonnet, Y. et al. [Donner un sens a l’intelligence artificielle: pour une stratégie nationale et européenne.](https://www.enseignementsup-recherche.gouv.fr/fr/rapport-de-cedric-villani-donner-un-sens-l-intelligence-artificielle-ia-49194) Conseil national du numérique. 2018.
-
-13. Garg, N., L. Schiebinger, L. et al. [Word embeddings quantify 100 years of gender
+> 13. Garg, N., L. Schiebinger, L. et al. [Word embeddings quantify 100 years of gender
 and ethnic stereotypes](https://www.pnas.org/doi/10.1073/pnas.1720347115). Proceedings of the National Academy of Sciences. 2018.
-
-14. Vaswani, Ashish, et al. [Attention is all you need.](https://arxiv.org/abs/1706.03762) Advances in neural information processing systems 30. 2017.
-
-15. O’Neil, C. [Weapons of Math Destruction.](https://www.youtube.com/watch?v=TQHs8SA1qpk&ab_channel=TalksatGoogle) 2016.
-
-16. Belghiti-Mahut, S, et al. [Gender gap in innovation: a confused link?](https://www.cairn.info/revue-journal-of-innovation-economics-2016-1-page-159.htm) Journal of
+> 14. Vaswani, Ashish, et al. [Attention is all you need.](https://arxiv.org/abs/1706.03762) Advances in neural information processing systems 30. 2017.
+> 15. O’Neil, C. [Weapons of Math Destruction.](https://www.youtube.com/watch?v=TQHs8SA1qpk&ab_channel=TalksatGoogle) 2016.
+> 16. Belghiti-Mahut, S, et al. [Gender gap in innovation: a confused link?](https://www.cairn.info/revue-journal-of-innovation-economics-2016-1-page-159.htm) Journal of
 Innovation Economics & Management 1: 159-177. 2016.
-
-17. Belghiti-Mahut, S., et al. [Genre et innovateur frugal: 4 cas de femmes innovatrices.](https://www.cairn.info/revue-innovations-2016-3-page-69.htm)
+> 17. Belghiti-Mahut, S., et al. [Genre et innovateur frugal: 4 cas de femmes innovatrices.](https://www.cairn.info/revue-innovations-2016-3-page-69.htm)
 Innovations 3: 69-93. 2016.
-
-18. Data.gouv.fr. [Liste de prénoms et genres.](https://www.data.gouv.fr/fr/datasets/liste-de-prenoms/) 2014.
-
-19. Eckert, S., & Steiner, L. [(Re) triggering backlash: Responses to news about
+> 18. Data.gouv.fr. [Liste de prénoms et genres.](https://www.data.gouv.fr/fr/datasets/liste-de-prenoms/) 2014.
+> 19. Eckert, S., & Steiner, L. [(Re) triggering backlash: Responses to news about
 Wikipedia’s gender gap.](https://www.researchgate.net/publication/275007465_Retriggering_Backlash_Responses_to_News_About_Wikipedia's_Gender_Gap) Journal of Communication Inquiry. 2013.
-
-20. Aaltonen, A., & Lanzara, G. F. Unpacking Wikipedia governance: the emergence
+> 20. Aaltonen, A., & Lanzara, G. F. Unpacking Wikipedia governance: the emergence
 of a bureaucracy of peers. In 3rd Latin American and European Meeting on Organization
 Studies (LAEMOS). 2010.
-
-21. Carstensen, T. Gender. [Trouble in Web 2.0. Gender perspectives on social network
+> 21. Carstensen, T. Gender. [Trouble in Web 2.0. Gender perspectives on social network
 sites, wikis and weblogs.](https://www.researchgate.net/publication/27336808_Gender_Trouble_in_Web_20_Gender_perspectives_on_social_network_sites_wikis_and_weblogs) International Journal of Gender, Science and Technology.
 2009.
-
-22. Bellman, R. Curse of dimensionality. Adaptive control processes: a guided tour.
+> 22. Bellman, R. Curse of dimensionality. Adaptive control processes: a guided tour.
 Princeton, NJ 3.2. 1961.
-
-23. Zipf, G.K. [Human Behaviour and the Principle of Least Effort: An Introduction
+> 23. Zipf, G.K. [Human Behaviour and the Principle of Least Effort: An Introduction
 to Human Ecology.](https://www.mpi.nl/publications/item2407822/human-behavior-and-principle-least-effort-introduction-human-eoclogy) AW. 1949.
-
-24. Galton, F. [Regression towards mediocrity in hereditary stature.](https://www.sciencedirect.com/science/article/abs/pii/S0039368120302090) The Journal of the
+> 24. Galton, F. [Regression towards mediocrity in hereditary stature.](https://www.sciencedirect.com/science/article/abs/pii/S0039368120302090) The Journal of the
 Anthropological Institute of Great Britain and Ireland, 15, 246-263. 1886.
 
-
-### Annexe
+### Annexes
 
 #### Annexe A. Taux de féminisation des voies et espaces publiques
 
 {{< figure src="linguistics/taux-feminisation.png">}}
 
-
 #### Annexe B. Héroines locales, en Occitanie
-
-
-
 
 |  Hommage a Montpellier | Naissance | Imaginaire |
 |---|---|---|
@@ -235,4 +207,4 @@ Anthropological Institute of Great Britain and Ireland, 15, 246-263. 1886.
 |Yvonne le Roux | Toulon, 1882 | Résistante.|
 |Yvette Llere | Amélie-les-Bains, 1939 | Écrivaine.|
 |Yvonne Molinier | Grand-Combe, 1924 | A dédié sa vie a la cause des enfants.|
-: Hommages a XX femmes a Montpellier, en Occitanie.|
+[Hommages a XX femmes a Montpellier, en Occitanie.]
