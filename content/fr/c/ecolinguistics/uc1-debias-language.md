@@ -2,7 +2,7 @@
 title: 1 - Biais linguistiques
 date: '2021-01-01'
 type: book
-weight: 100
+weight: 80
 tags:
   - Représentations sociales
   - Régressions sociales
@@ -23,7 +23,7 @@ Utiliser le langage pour l'innovation sociale.
 
 {{< icon name="github" pack="fab" >}} [nlp201-street-names-gender-analysis](https://framagit.org/MichelDeudon/nlp201-street-names-gender-analysis)
 
-Plus de 93% des boulevards en France et sur [data.gouv.fr](https://adresse.data.gouv.fr/) portent le nom d'un homme parmi les noms de célébrités (Victor Hugo, De Gaulle, Leclerc, Foch, etc). Par comparaison, 60% des jardins portent le nom d'une femme, dont certains correspondent aux noms d'arbres ou de fleurs comme Rose, Magnolia ou Capucine. Des études ont permis de quantifier le taux de  représentativité des femmes, dans la dénomination de voies publiques, dans différentes villes ou secteurs, à différentes dates, par différentes méthodes. Nous proposons des indicateurs dérivés de la Base Adresse Nationale [5] pour estimer le taux de représentativité des femmes dans la dénomination des voies publiques, localement et à l'échelle de villes, départements et régions en France (plus de 2 millions de voies en Métropole et en Outre-Mer). Nous retrouvons un taux de féminisation des voies et espaces publics proche de 12% à Paris [6] et dans des villes comme Nantes et Montpellier. Nous analysons les corrélations avec certaines professions, filières, et comparons nos résultats avec des pages publiques Wikipedia. Notre analyse suggère que l'imaginaire associé à certaines professions (docteur, professeur, capitaine, colonel) et filières en France (mathématiques, médaille Fields, informatique, prix Turing) induit un biais de genre dans nos représentations sociales et cultive les stéréotypes, amplifiés par les modèles LLaMA d'intelligence artificielle de Facebook AI Research (FAIR) Paris [4], conduisant à des formes de régressions sociales. Nous mettons en accès libre notre implémentation pour suivre l'évolution de ces biais dans le temps.
+Plus de 93% des boulevards en France et sur [data.gouv.fr](https://adresse.data.gouv.fr/) portent le nom d'un homme parmi les noms de célébrités (Victor Hugo, De Gaulle, Leclerc, Foch, etc). Par comparaison, 60% des jardins portent le nom d'une femme, dont certains correspondent aux noms d'arbres ou de fleurs comme Rose, Magnolia ou Capucine. Des études ont permis de quantifier le taux de  représentativité des femmes, dans la dénomination de voies publiques, dans différentes villes ou secteurs, à différentes dates, par différentes méthodes. Nous proposons des indicateurs dérivés de la [Base Adresse Nationale](https://adresse.data.gouv.fr/) [5] pour estimer le taux de représentativité des femmes dans la dénomination des voies publiques, localement et à l'échelle de villes, départements et régions en France (plus de 2 millions de voies en Métropole et en Outre-Mer). Nous retrouvons un taux de féminisation des voies et espaces publics proche de 12% à Paris [6] et dans des villes comme Nantes et Montpellier. Nous analysons les corrélations avec certaines professions, filières, et comparons nos résultats avec des pages publiques Wikipedia. Notre analyse suggère que l'imaginaire associé à certaines professions (docteur, professeur, capitaine, colonel) et filières en France (mathématiques, médaille Fields, informatique, prix Turing) induit un biais de genre dans nos représentations sociales et cultive les stéréotypes, amplifiés par les modèles LLaMA d'intelligence artificielle de Facebook AI Research (FAIR) Paris [4], conduisant à des formes de régressions sociales. Nous mettons en accès libre [notre implémentation](https://framagit.org/MichelDeudon/nlp201-street-names-gender-analysis) pour suivre l'évolution de ces biais dans le temps.
 
 ### Introduction
 
@@ -31,17 +31,17 @@ Les mots influencent nos représentations dès le plus jeune âge et façonnent 
 <i>Hautement symbolique, la dénomination des rues et espaces publics est l’occasion de rendre hommage à des personnes célèbres, et notamment aux femmes. Depuis 2014, la proportion de voies parisiennes portant le nom d'une femme a doublé, atteignant 12%</i> - Paris, 2021 [6].
 
 <b>La Base Adresse Nationale</b> est l’une des neuf bases de données du service public des données de référence [5]. Elle est la seule base de données d’adresses officiellement reconnue par l’administration et à ce titre placée sous la responsabilité de la Première ministre. Sa construction est assurée en premier lieu par les communes. Elle est accessible sous forme de fichiers et d’API.
-Le jeu de données représente plus de $2$ millons voies en France, dont 10% contiennent un prénom genré de la liste de prénoms et genre de data.gouv.fr [18]. La Figure 1 montre localement les voies de Montpellier contenant un prénom genré. Dans la suite de cet article, nous proposons une méthode pour quantifier les biais de genre sur la Base Adresse Nationale [5]. Nous comparons nos résultats à des pages publiques Wikipédia et discutons et en quoi les mathématiques, les statistiques, et le développement d'intelligences artificielles compétitives, fondamentales, <i>à l'état de l'art</i>, à Paris [4] peuvent conduire à des régressions sociales en France.
+Le jeu de données représente plus de $2$ millons voies en France, dont 10% contiennent un prénom genré de la liste de prénoms et genre de [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/liste-de-prenoms/) [18]. La Figure 1 montre localement les voies de Montpellier contenant un prénom genré. Dans la suite de cet article, nous proposons une méthode pour quantifier les biais de genre sur la Base Adresse Nationale [5]. Nous comparons nos résultats à des pages publiques Wikipédia et discutons en quoi les mathématiques, les statistiques, et le développement d'intelligences artificielles compétitives, fondamentales, <i>à l'état de l'art</i>, à Paris [4] peuvent conduire à des régressions sociales en France.
 
-{{< figure src="linguistics/img9.png" caption="Données de la Base Adresse Nationale [5] à Montpellier. Chaque voie est représentée par un point bleu (nom masculin), rouge (nom féminin) ou gris (autre). Le taux de féminisation des voies publiques à Montpellier est compris entre 12 et 16%.">}}
+{{< figure src="linguistics/img9.png" caption="Données de la [Base Adresse Nationale](https://adresse.data.gouv.fr/) [5] à Montpellier. Chaque voie est représentée par un point bleu (nom masculin), rouge (nom féminin) ou gris (autre). Le taux de féminisation des voies publiques à Montpellier est compris entre 12 et 16%." numbered="true">}}
 
 ### Méthodologie
 
-Nous annotons les noms de voie de la Base Adresse Nationale [5] avec un label ('F', 'H' ou 'autre'), à partir des prenoms identifiés du jeu de données de prénoms et genres de data.gouv.fr [18]. Nous préprocessons les noms de voie (lettres en miniscules, sans chiffres et ponctuation) avant d'itérer sur chaque mot constituant un nom de voie pour en extraire les prénoms et genre. Par exemple "rue Sainte Anne" contient le prénom "Anne", nous l'annotons avec le label "F". La voie "av. Paul Valéry" contient "Paul", nous l'annotons avec le label "H". Dans les autres cas, nous renvoyons le label 'autre'. Le vocabulaire utilisé et le code Python sont en accès libre sur Framagit sous licence CC-BY à [https://framagit.org/MichelDeudon/nlp201-street-names-gender-analysis](https://framagit.org/MichelDeudon/nlp201-street-names-gender-analysis).
+Nous annotons les noms de voie de la [Base Adresse Nationale](https://adresse.data.gouv.fr/) [5] avec un label ('F', 'H' ou 'autre'), à partir des prenoms identifiés du jeu de données de prénoms et genres de [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/liste-de-prenoms/) [18]. Nous préprocessons les noms de voie (lettres en miniscules, sans chiffres et ponctuation) avant d'itérer sur chaque mot constituant un nom de voie pour en extraire les prénoms et genre. Par exemple "rue Sainte Anne" contient le prénom "Anne", nous l'annotons avec le label "F". La voie "av. Paul Valéry" contient "Paul", nous l'annotons avec le label "H". Dans les autres cas, nous renvoyons le label 'autre'. Le vocabulaire utilisé et le code Python sont en accès libre sur Framagit sous licence CC-BY à [https://framagit.org/MichelDeudon/nlp201-street-names-gender-analysis](https://framagit.org/MichelDeudon/nlp201-street-names-gender-analysis).
 
 ### Résultats
 
-<i> Remarque: L'ensemble des résultats dans cet article sont calculés en mai 2023, ils sont susceptibles d'évoluer avec le temps. </i>
+<i> Remarque: L'ensemble des résultats sont calculés en mai 2023, ils sont susceptibles d'évoluer avec le temps. </i>
 
 #### Analyse spatiale
 
@@ -64,14 +64,15 @@ Nous reportons dans la Table 1 les taux de représentation F/H associées à qua
 |Capitaine | 971 | 217 | 8 | 3.6 |
 |Professeur  | 616  | 241 |  4 | 1.6 |
 |Colonel | 1298 | 469 | 2 | 0.4 |
-[Représentativité F/H des noms de voies en France, pour différentes professions en 2023 (dernière colonne). Ces valeurs sont nettement inférieures à la moyenne nationale de 12\%. Avec ces biais de genre et un modèle statistique naif, il faut générer plus de 25 prénoms de docteurs (Albert Tomey, Paul Pezet, Albert Schweitzer, Robert Koch...) pour obtenir un prénom féminin aléatoirement, en moyenne, et plus de 60 prénoms de professeurs pour obtenir un prénom féminin. Des exemples de ces biais peuvent être obtenus en écrivant "rue du docteur..." dans un moteur de recherche, sur Google Maps ou en se promenant, curieux, la tête levée.]
+
+<i>Représentativité F/H des noms de voies en France, pour différentes professions en 2023 (dernière colonne). Ces valeurs sont nettement inférieures à la moyenne nationale de 12\%. Avec ces biais de genre et un modèle statistique naif, il faut générer plus de 25 prénoms de docteurs (Albert Tomey, Paul Pezet, Albert Schweitzer, Robert Koch...) pour obtenir un prénom féminin aléatoirement, en moyenne, et plus de 60 prénoms de professeurs pour obtenir un prénom féminin. Des exemples de ces biais peuvent être obtenus en écrivant "rue du docteur..." dans un moteur de recherche, sur Google Maps ou en se promenant, curieux, la tête levée.</i>
 
 ### De la Base Adresse Nationale à Wikipedia
 
 Les dénominations des voies et espaces publics en France et sur [data.gouv.fr](https://adresse.data.gouv.fr/) quantifient des siècles de stéréotypes de genre, comme les représentations de mots apprises sur Wikipedia [13].
 Facebook AI Research (FAIR) Paris a publié en 2023 des modèles statistiques entrainés sur Wikipédia, appelés LLaMA [4], financés en partie par le système CIFRE. Ces modèles ont été développés pendant l'hiver 2022/23 par 13 hommes sur 14 auteurs, dont 3 normaliens et 7 polytechniciens. Les modèles, dangereux (sexistes, racistes, générateur de fausses nouvelles) selon les auteurs, a été fuité entre le 24 février et le 7 mars 2023, dans un contexte de crise sanitaire, sociale et écologique [3].
 
-À la question "Quelles sont les 5 personnes que vous aimeriez rencontrer?", les LLaMA de FAIR Paris répondent 5 personnalités masculines du monde occidental: Albert Einstein, Leonardo da Vinci, Socrates, William Shakespeare et Abraham Lincoln [4]. 
+À la question <i>"Quelles sont les 5 personnes que vous aimeriez rencontrer?"</i>, les LLaMA de FAIR Paris répondent 5 personnalités masculines du monde occidental: Albert Einstein, Leonardo da Vinci, Socrates, William Shakespeare et Abraham Lincoln [4]. 
 Ceci s'explique en partie par la loi de Zipf appliquée à Wikipedia [23] et les risques inhérents à l'entrainement de modèles d'IA sur Wikipedia et des médias sociaux, connus depuis 2009 [21], capturés par le célèbre exemple <i>Le docteur est aux infirmières, ce que l'homme est à la femme</i> [13]. 
 Les biais viennent d'abord d'humains avant de venir d'algorithmes ou jeux de données. Wikipédia est gouverné par une bureaucracie de paires [20], une population non représentative, non inclusive [19].
 Ces biais, d'origine humaine, proviennent d'un manque de diversité, d'équité, d'inclusion [12] et la privatisation de la recherche en IA [11] qui renforcent les inégalités sociales [15]. <i>Ce manque de diversité peut conduire les algorithmes à reproduire des biais</i> - Villani, 2018 [12].
@@ -87,7 +88,8 @@ En 2023, les mêmes modèles d'IA sont utilisés qu'en 2017 [14], avec plus de p
 |Parrains du deep learning | 0/3 | 
 |Auteurs des LLaMA de FAIR Paris | 1/13 | 
 |Personnalités les LLaMA souhaiteraient rencontrer | 0/5 | 
-[Biais de genre dans le développement d'artillerie lourde en IA (modèles avec des <i>milliards de paramètres</i> pour des <i>milliards d'êtres humains</i>).]
+
+<i>Biais de genre dans le développement d'artillerie lourde en IA (modèles avec des milliards de paramètres pour des milliards d'êtres humains).</i>
 
 ### Imaginaires et idéologies
 
@@ -140,8 +142,7 @@ Wikipedia’s gender gap.](https://www.researchgate.net/publication/275007465_Re
 of a bureaucracy of peers. In 3rd Latin American and European Meeting on Organization
 Studies (LAEMOS). 2010.
 > 21. Carstensen, T. Gender. [Trouble in Web 2.0. Gender perspectives on social network
-sites, wikis and weblogs.](https://www.researchgate.net/publication/27336808_Gender_Trouble_in_Web_20_Gender_perspectives_on_social_network_sites_wikis_and_weblogs) International Journal of Gender, Science and Technology.
-2009.
+sites, wikis and weblogs.](https://www.researchgate.net/publication/27336808_Gender_Trouble_in_Web_20_Gender_perspectives_on_social_network_sites_wikis_and_weblogs) International Journal of Gender, Science and Technology. 2009.
 > 22. Bellman, R. Curse of dimensionality. Adaptive control processes: a guided tour.
 Princeton, NJ 3.2. 1961.
 > 23. Zipf, G.K. [Human Behaviour and the Principle of Least Effort: An Introduction
@@ -163,13 +164,13 @@ Anthropological Institute of Great Britain and Ireland, 15, 246-263. 1886.
 |Albertine Sarrazin | Alger, 1937 | Écrivaine française, morte a 29 ans a Montpellier.|
 |Anne Bragance | Casablanca, 1945 | Écrivaine française, prix Alice-Louis-Barthou en 1978.|
 |Anne Marie de Backer | Contres, 1908 | Poétesse et traductrice, morte a Montpellier en 1987.|
-|Catherine Booth | Mumford, 1829 | A co-fondé l’Arm´ee du Salut.|
+|Catherine Booth | Mumford, 1829 | A co-fondé l’Armée du Salut.|
 |Clara d’Anduza | Gard, 1200 | Trobairitz de langue occitane.|
 |Clara Haskil | Bucarest, 1895 | Pianiste roumaine et suisse.|
 |Chantal Mauduit | Paris, 1964 | Alpiniste.|
 |Clara Zetki | Wiederau, 1857 | Enseignante, journaliste, figure du féminisme socialiste.|
 |Dora Maar | Paris, 1907 | Photographe et artiste.|
-|Elena Bonner | Mary, 1923  | Pédiatre, militante pour la d´efense des droits de l’homme.|
+|Elena Bonner | Mary, 1923  | Pédiatre, militante pour la défense des droits de l’homme.|
 |Elyse Deroche | Paris, 1882 | Actrice et aviatrice.|
 |Frances de Cezelli | Montpellier, 1558 | Héroine pendant la guerre de religion.|
 |Frida Kalho | Coyoacan, 1907  | Peintre mexicaine.|
@@ -207,4 +208,5 @@ Anthropological Institute of Great Britain and Ireland, 15, 246-263. 1886.
 |Yvonne le Roux | Toulon, 1882 | Résistante.|
 |Yvette Llere | Amélie-les-Bains, 1939 | Écrivaine.|
 |Yvonne Molinier | Grand-Combe, 1924 | A dédié sa vie a la cause des enfants.|
-[Hommages a XX femmes a Montpellier, en Occitanie.]
+
+<i> Hommages a XX femmes a Montpellier, en Occitanie.</i>

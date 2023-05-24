@@ -2,7 +2,7 @@
 title: Learning paradigms
 date: '2021-01-01'
 type: book
-weight: 70
+weight: 60
 math: true
 tags:
   - Statistics

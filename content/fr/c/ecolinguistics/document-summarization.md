@@ -2,7 +2,7 @@
 title: Extraction de mots-clés
 date: '2021-01-01'
 type: book
-weight: 60
+weight: 50
 math: true
 tags:
   - Statistics

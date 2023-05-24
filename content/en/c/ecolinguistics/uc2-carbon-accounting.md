@@ -2,7 +2,7 @@
 title: 2 - Carbon accounting
 date: '2021-01-01'
 type: book
-weight: 110
+weight: 90
 ---
 
 Use language for environmental protection.

@@ -2,7 +2,7 @@
 title: 3 - Fighting fake news
 date: '2021-01-01'
 type: book
-weight: 120
+weight: 100
 ---
 
 Identify fake news, counter hate speech.
