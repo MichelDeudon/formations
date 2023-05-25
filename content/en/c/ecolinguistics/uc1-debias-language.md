@@ -215,3 +215,5 @@ Anthropological Institute of Great Britain and Ireland, 15, 246-263. 1886.
 |Yvonne Molinier | Grand-Combe, 1924 | Dedicated her life to the cause of children.|
 
 <i> Tributes to XX women in Montpellier, Occitanie.</i>
+
+See also the page [Portraits of women from Montpellier](https://www.montpellier.fr/4412-femmes-de-montpellier.htm).
