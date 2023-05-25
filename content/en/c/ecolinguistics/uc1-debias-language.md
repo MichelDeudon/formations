@@ -31,9 +31,9 @@ Words influence our representations from an early age and shape our collective i
 <i>Highly symbolic, the naming of streets and public spaces is an opportunity to pay tribute to famous people, especially women. Since 2014, the proportion of Parisian streets bearing the name of a woman has doubled, reaching 12%</i> - Paris, 2021 [6].
 
 <b>The National Address Base</b> is one of the nine databases of the public reference data service [5]. It is the only address database officially recognized by the administration and as such placed under the responsibility of the Prime Minister. Its construction is ensured in the first place by the municipalities. It is accessible in the form of files and API.
-The dataset represents more than $2$ million routes in France, of which 10% contain a gendered name from the list of names and gender of [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/list-of-names/) [18]. Figure 1 shows locally Montpellier streets containing a gendered name. In the rest of this article, we propose a method to quantify gender biases on the National Address Database [5]. We compare our results to public Wikipedia pages and discuss how mathematics, statistics, and the development of competitive, fundamental, <i>state-of-the-art</i> artificial intelligences in Paris [4 ] can lead to social regressions in France.
+The dataset represents more than $2$ million routes in France, of which 10% contain a gendered name from the list of names and gender of [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/list-of-names/) [18]. Figure 1 shows locally Montpellier streets containing a gendered name. In the rest of this article, we propose a method to quantify gender biases on the [National Address Database](https://adresse.data.gouv.fr/) [5]. We compare our results to public Wikipedia pages and discuss how mathematics, statistics, and the development of competitive, foundational, <i>state-of-the-art</i> artificial intelligences in Paris [4 ] can lead to social regressions in France.
 
-{{< figure src="linguistics/img9.png" caption="Data from the [National Address Database](https://adresse.data.gouv.fr/) [5] in Montpellier. Each street is represented by a blue (male noun), red (female noun) or gray (other) dot. The rate of feminization of public roads in Montpellier is between 12 and 16%." numbered="true">}}
+{{< figure src="linguistics/img9.png" caption="Data from the [National Address Database](https://adresse.data.gouv.fr/) [5] in Montpellier. Each street is represented by a blue (male name), red (female name) or gray (other) dot. The rate of feminization of public roads in Montpellier is between 12 and 16%." numbered="true">}}
 
 ### Methodology
 
@@ -65,7 +65,7 @@ We report in Table 1 the F/M representation rates associated with four professio
 |Professor  | 616  | 241 |  4 | 1.6 |
 |Colonel | 1298 | 469 | 2 | 0.4 |
 
-<i>F/M representativeness of street names in France, for different professions in 2023 (last column). These values are significantly lower than the national average of 12%. With these gender biases and a naive statistical model, it is necessary to generate more than 25 names of doctors (Albert Tomey, Paul Pezet, Albert Schweitzer, Robert Koch...) to obtain a female name randomly, on average, and more than 60 names of teachers to obtain a female name. Examples of these biases can be obtained by writing "rue du doctor..." in a search engine, on Google Maps or by walking in French streets, curious, with your head raised.</i>
+<i>F/M representativeness of street names in France, for different professions in 2023 (last column). These values are significantly lower than the national average of 12%. With these gender biases and a naive statistical model, it is necessary to generate more than 25 names of doctors (Albert Tomey, Paul Pezet, Albert Schweitzer, Robert Koch...) to obtain a female name randomly, on average, and more than 60 names of teachers to obtain a female name. Examples of these biases can be obtained by writing "rue du docteur..." in a search engine, on Google Maps or by walking in French streets, curious, with your head raised.</i>
 
 ### From the National Address Database to Wikipedia
 
@@ -77,7 +77,7 @@ This is partly explained by Zipf's law applied to Wikipedia [23] and the risks i
 Biases come first from humans before coming from algorithms or datasets. Wikipedia is governed by a bureaucracy of pairs [20], an unrepresentative, non-inclusive population [19].
 These Human biases come from a lack of diversity, equity, inclusion [12] and the privatization of AI research [11] which reinforce social inequalities [15]. <i>This lack of diversity can lead algorithms to reproduce biases</i> - Villani, 2018 [12].
 
-In 2023, the same AI models are used as in 2017 [14], with more parameters and energy at a more expensive cost. In 5-6 years, the complexity of the models has been multiplied by 1000, from 65 million parameters to 65 billion, from 27 kWh per experiment [11] to 499 MWh [4]. The same problems are there (sexism, racism, fake news) and get worse with the complexity of the models according to the principle of overfitting in statistics [22]: <i>We observe that toxicity increases with model size</i> [4]. The authors conclude, however, <i>we plan to release larger models, trained on larger training corpora in the future</i>. Can we really consider this an innovation [16, 17]? AI experts call for <i>AI to Rescue AI</i>, <i>Trusted AI</i> (Reminiscent of <i>Trusted Men</i> i> or <i>v-mann</i> [10]). Biases of human origins, conflicts of interest and disinformation in the spheres of power [8] are probably more causes than correlations of the social regressions observed in France and in linguistics: the publication and leakage of LLaMA models precedes the explosion of misinformation and trivialization of violence since March 2023.
+In 2023, the same AI models are used as in 2017 [14], with more parameters and energy at a more expensive cost. In 5-6 years, the complexity of the models has been multiplied by 1000, from 65 million parameters to 65 billion, from 27 kWh per experiment [11] to 499 MWh [4]. The same problems are there (sexism, racism, fake news) and get worse with the complexity of the models according to the principle of overfitting in statistics [22]: <i>We observe that toxicity increases with model size</i> [4]. The authors conclude, however, <i>we plan to release larger models, trained on larger training corpora in the future</i>. Can we really consider this an innovation [16, 17]? AI experts call for <i>AI to Rescue AI</i>, <i>Trusted AI</i> (Reminiscent of <i>Trusted Men</i> or <i>v-mann</i> [10]). Human biases, conflicts of interest and disinformation in the spheres of power [8] are probably more causes than correlations of the social regressions observed in France and in linguistics: the publication and leakage of LLaMA models precedes the explosion of misinformation and trivialization of violence since March 2023.
 
 |  Indicator | F/M  Representativeness |
 |---|---|
@@ -100,8 +100,8 @@ If the term <i>regression (in statistics)</i>, ubiquitous in <i>artificial</i> i
 
 In science fiction movies (2001 Space Odyssey, Her, etc.), AI is represented by a humanoid or a voice, robotic or feminine. Siri, Alexa, smartphone voice assistants actually have the names and voices of female assistants, while the Wikipedia page on the <i>beauty</i> of mathematics refers to 26 men, including Mandelbrot, Russel, Erdos, Beethoven, Dirac, Euler, Harris, Leibniz, Pythagoras, Gauss, Andrew Wiles, Robert Langl, Richard Borcherds, Alexandre Grothendieck, Claude Chevalley, Georges Théodule Guilbaud, Hermann Weyl, Bourbaki, Jean Dieudonné, Hermann Weyl, Plato, Aristotle, Galileo, Alain Badiou, Kepler, Watson, no women [7]. The page mentions <i>"deep"</i> results, reminiscent of <i>"deep"</i> learning and the three 2019 Turing Awards / god fathers of Deep Learning. The page cites what <i>"makes people hard"</i>.
 The legend says there are no Nobel Prizes in Mathematics and Computer Science for a reason.
-Under/over-sampling names or Wikipedia pages can simply debias statistical language models and computational linguistics, to avoid social regressions without resorting to heavy artillery. We must be wary of <i>experts</i>, who are not direct victims of the weapons produced and whose conflicts of interest can cause certain truths to be omitted and divert attention. We hypothesize that some <i>experts</i> calling for more <i>AI to rescue</i> are in good faith, but this questions the place of trainings on the social and ecological impact of digital technology in French <i>grandes écoles</i>. This also questions the place of statistical regressions and cognitive biases to counter the decline of scientific culture in our schools, within the state and in our public policies [2]: from 2019 to today, the number of students in the final year with more than 6 hours of mathematics per week, went from 200,000, including 96,000 girls, to 100,000, including 33,000 girls.
-Finally, the name given to the Bronner commission, <i>Enlightenment in the digital age</i> [8] will perhaps suffice for some to make the link between the forms of modern slavery, the colonial ideology [9] and the disinformation that characterizes the sexist and racist AI models of FAIR Paris [4], partly funded by the Ministry of Higher Education and Research, through the system of [CIFRE theses](https://twitter.com/ylecun/status/1629845738170597376?lang=en).
+Under/over-sampling names or Wikipedia pages can simply debias statistical language models and computational linguistics, to avoid social regressions without resorting to heavy artillery. We must be wary of <i>experts</i>, who are not direct victims of the weapons produced and whose conflicts of interest can cause certain truths to be omitted and divert attention. We hypothesize that some <i>experts</i> calling for more <i>AI to rescue</i> are in good faith, but this questions the place of trainings on the social and ecological impacts of digital technology in French <i>grandes écoles</i>. This also questions the place of statistical regressions and cognitive biases to counter the decline of scientific culture in our schools, within the state and in our public policies [2]: from 2019 to today, the number of students in the final year with more than 6 hours of mathematics per week, went from 200,000, including 96,000 girls, to 100,000, including 33,000 girls.
+Finally, the name given to the Bronner commission, <i>Enlightenment in the digital age</i> [8] will perhaps suffice for some to make the link between the forms of modern slavery, the colonial ideology [9] and the disinformation that characterizes the sexist and racist AI models of FAIR Paris [4], partly funded by the Ministry of Higher Education and Research, through the system of [CIFRE thesis](https://twitter.com/ylecun/status/1629845738170597376?lang=en).
 
 #### Ecology, feminism and ecolinguistics
 
@@ -109,6 +109,12 @@ In the words of Christine Lagarde on March 7, 2023, if the three 2019 Turing Awa
 Maryam Mirzakhani, mathematician, first and only woman to date Fields Medal (2014), was born in Tehran, Iran. The city of Montpellier pays tribute to her since 2020 (see Appendix B). Marie Curie, born in Warsaw, Poland, is the only person to have won a Nobel Prize in two separate disciplines, physics and chemistry.
 As Paul Valéry said, there are two possible visions of the world: the one that divides, the one that unites.
 Alain Damasio in an interview for BLAST in May 2023 explains how his vision of science fiction has evolved over time [1] and calls for new imaginaries - in solidarity, social, ecological - and frugal innovations [17].
+
+### Conclusion
+
+Public roads and spaces in France, like certain public Wikipedia pages, present gender biases that stem from Humans. GAFAM's AI models, trained on Wikipedia, like FAIR Paris' <i>state-of-the-art</i> foundational LLaMAs, cultivate and amplify these stereotypes, with energy at a more expensive price as a <i>competitive</i> advantage while benefiting from public funding. In this context, the voices and representations of women in public spaces are more than symbolic.
+Among the directions of future research, it could be interesting to quantify and fight against other forms of discrimination (religion, color, sexual orientation, age, nationality, handicap, physical appearance, socio-economic status), or to analyze other countries and distributions.
+Authors, researchers, scientists, artists, offer alternatives, new imaginaries, stories and social representations to fight against patriarchy and surveillance capitalism. In these forms of modern resistance, libraries are to the maquis what books and culture are to weapons, a means to escape.
 
 ### Reference
 
@@ -149,13 +155,13 @@ to Human Ecology.](https://www.mpi.nl/publications/item2407822/human-behavior-an
 > 24. Galton, F. [Regression towards mediocrity in hereditary stature.](https://www.sciencedirect.com/science/article/abs/pii/S0039368120302090) The Journal of the
 Anthropological Institute of Great Britain and Ireland, 15, 246-263. 1886.
 
-### Annexes
+### Appendix
 
-#### Annexe A. Rate of feminization of roads and public spaces
+#### Appendix A. Rate of feminization of roads and public spaces
 
 {{< figure src="linguistics/taux-feminisation.png">}}
 
-#### Annexe B. Local heroines, in Occitania
+#### Appendix B. Local heroines, in Occitania
 
 | Tribute in Montpellier | Birth | Imaginary |
 |---|---|---|
@@ -198,7 +204,7 @@ Anthropological Institute of Great Britain and Ireland, 15, 246-263. 1886.
 |Marie Thérèse Barbé | Limoges, 1913 | Writer.|
 |Maryam Mirzakhani | Téhéran, 1977 | Mathematician, professor and Fields Medalist.|
 |Paulette Hauchard | Fécamp, 1932 | President of the Secular Association.|
-|R´egine Detambe | Saint-Avold, 1963 | Writer.|
+|Régine Detambe | Saint-Avold, 1963 | Writer.|
 |Rosa Luxemburg | Zamosc, 1871 | German communist activist and revolutionary.|
 |Ruth Bader Ginsburg | New York, 1933 | American lawyer, jurist, scholar and judge.|
 |Suzanne Ballivet | Paris, 1904 | Painter and illustrator.|
