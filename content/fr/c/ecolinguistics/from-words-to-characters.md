@@ -36,7 +36,7 @@ A challenge with n-gram models is related to the curse of dimensionality.
 | -----------         | -           | - |
 | Tokenization        | Split text in sequences of tokens | Abbreviations (U.N.), Hyphenation (New-York), Apostrophes, Accents, Dates, Numéros/nombres |
 | Stop-words          | Frequent words that do not carry semantic information (the, a, an, and, or, to) are removed, reducing dimension and distances | "Let it be", "To be or not to be" |
-| Case-insensitive    | Lower case words, reducing dimension and distances | "Let it be", "To be or not to be" |
+| Case-insensitive    | Lower case words, reducing dimension and distances | - |
 | Lemmatization       | Reduce inflected forms of a word: am, were, being, been -> be (requires knowledge of grammar, part of speech) | - |
 | Stemming            | Reduces tokens to a "root" form, for example Porter Algorithm in English | Resulting terms are not always readable |
 

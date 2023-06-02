@@ -43,7 +43,7 @@ VAE can be used to disentangle representations (style vs semantics), and consequ
 
 {{< figure src="linguistics/img7.jpg" caption="Learning to repeat, reformulate. Visualisation of learned representations after dimensionality reduction with PCA.">}}
 
-**Summary** (models, hypothesis, limits, link with information theory)
+**Summary** (models, hypothesis, limits, link with information theory, probabilities, algebra)
 
 ## Reference
 

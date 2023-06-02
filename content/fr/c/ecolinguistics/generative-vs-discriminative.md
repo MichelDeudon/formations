@@ -43,7 +43,7 @@ Les VAE peuvent être utilisés pour apprendre des représensations de phrases q
 
 {{< figure src="linguistics/img7.jpg" caption="Apprendre à répéter, reformuler.  Visualisation des représentations apprises après réduction de dimension avec l'ACP.">}}
 
-**Summary** (models, hypothesis, limits, link with information theory)
+**Summary** (models, hypothesis, limits, link with information theory, probabilities, algebra)
 
 ## Reference
 

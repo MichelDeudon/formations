@@ -30,7 +30,7 @@ Language is ambiguous by nature (look at the dog with one eye).
 
 Meet Alice and Bob. Message passing. How to transform and pass some information with minimum loss and efforts? Principle of Least Effort, an introduction to Human Ecology, 1949.
 Ideas from statistical physics, psychology and other fields. Information compression, loss. *Entropy*. Assumption. No info obfuscation as oppoed to counter money laundering or modern slavery (mispelt words like roses have a different meaning). Maxinfo. Optimal projection to reconstruct original message. Ex sms.
-Semantic, style, intent, sarcasme, emotions… introducing latent variables
+Semantic, style, intent, sarcasme, emotions… introducing latent variables.  Words on cognitive biases.
 
 ## A first model, Boolean Vectors
 
