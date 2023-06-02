@@ -19,15 +19,19 @@ xyz
 
 ## To latent variables and models
 
-xyz
+Intro PGM
 
 ## Modèles de Mixtures Gaussiennes (GMM)
 
 xyz
 
+**Theory:** Probability review. Bayesian learning.
+
 ## Modèles de Markov Cachés (HMM)
 
 {{< youtube cRcKueydDkY>}}
+
+**Application**: Melody harmonisation. Ableton. Music.
 
 ## Allocation de Dirichlet Latente (LDA)
 
@@ -37,7 +41,9 @@ xyz
 
 Les VAE peuvent être utilisés pour apprendre des représensations de phrases qui séparent le style de la sémantique, pour pouvoir mesurer des similarités, par exemple entre des questions.
 
-{{< figure src="linguistics/img7.jpg" caption="Apprendre à répéter, reformuler">}}
+{{< figure src="linguistics/img7.jpg" caption="Apprendre à répéter, reformuler.  Visualisation des représentations apprises après réduction de dimension avec l'ACP.">}}
+
+**Summary** (models, hypothesis, limits, link with information theory)
 
 ## Reference
 

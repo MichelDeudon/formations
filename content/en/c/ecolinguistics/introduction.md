@@ -44,12 +44,10 @@ We are at a crossroad in the way AI, NLP and computational linguistics are taugh
 
 Here are just a few ideas how you can apply what you will learn in this course
 
-- Help students learn languages with gamefied applications like Duolingo.
-- Support NGO's defending Human rights by monitoring and quantifying diversity & inclusion indicators.
-- Provide feedback for politicians on what people say on regulations on social networks or in the news/media.
-- Recommend treatments or psycho therapies to patients in healthcare.
-- Predict protein-protein binding or user-user matching.
-- Analyse and generate food recipes, music and art.
+- Help students learn languages with gamefied applications like [Duolingo](https://www.duolingo.com/).
+- Support NGO's defending Human rights by quantifying and monitoring [diversity & inclusion indicators](https://www.mtpcours.fr/en/c/ecolinguistics/uc1-debias-language/).
+- Recommend similar articles or different point of views, for example in healthcare or jurisprudence.
+- Generate vegetarian recipes in season, music and art.
 - Counter fight money laundering, modern slavery, fake news and hate speech.
 
 ## Quiz

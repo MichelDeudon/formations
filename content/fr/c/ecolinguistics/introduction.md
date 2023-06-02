@@ -44,12 +44,10 @@ Nous sommes à la croisée des chemins dans la manière dont l'IA, la PNL et la 
 
 Voici quelques idées sur la façon dont vous pouvez appliquer ce que vous apprendrez dans ce cours
 
-- Aider les étudiants à apprendre des langues avec des applications ludiques comme Duolingo.
-- Soutenir les ONG de défense des droits de l'Homme en surveillant et quantifiant des indicateurs de diversité et d'inclusion.
-- Fournir aux politiciens un retour sur ce qui se dit sur la réglementation sur les réseaux sociaux ou dans les médias.
-- Recommander des traitements ou des psychothérapies aux patients en soins de santé.
-- Prédire la liaison entre deux protéines ou l'affinité entre deux utilisateurs.
-- Analyser et générer des recettes de cuisine, de la musique et de l'art.
+- Aider les étudiants à apprendre des langues avec des applications ludiques comme [Duolingo](https://www.duolingo.com/).
+- Soutenir les ONG de défense des droits de l'Homme en quantifiant et surveillant des [indicateurs de diversité et d'inclusion](https://www.mtpcours.fr/c/ecolinguistics/uc1-debias-language/).
+- Recommander des articles similaires ou points de vue différents, par exemple en santé ou jurisprudence.
+- Générer des recettes végétariennes de saison, de la musique et de l'art.
 - Lutter contre le blanchiment d'argent, l'esclavage moderne, les fausses nouvelles et les discours de haine.
 
 ## Quiz

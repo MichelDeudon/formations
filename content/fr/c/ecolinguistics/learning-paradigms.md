@@ -16,8 +16,11 @@ Explorez les paradigmes d'apprentissage en PNL.
 
 ## Learning paradigms
 
+Learn powerful representations
+
+- **Theory**: Linear algebra. NMF. SVD. Spectral decomposition.
 - Supervised learning (Linear, LDA/QDA, naive Bayes, Logistic, RF, MLP, SVM, Kernel)
-- Unsupervised learning, e.g., clustering (see ML1, ML2 course)
+- Unsupervised learning, e.g., clustering (see ML1, ML2 course), PCA, ICA, t-SNE… + Bag of word, tfidf, pLSI (doc embed)
 
 ## Other learning paradigms
 

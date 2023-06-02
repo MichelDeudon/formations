@@ -1,5 +1,5 @@
 ---
-title: Une introduction aux langues et aux alphabets
+title: Langues, vocabulaire et alphabets
 date: '2021-01-01'
 type: book
 weight: 30
@@ -18,19 +18,29 @@ Donner du contexte historique.
 
 {{< youtube aCrmBRL4cJs>}}
 
-On the origins of writing
+Language is in constant evolution as testifies the evolution of writing since its invention around 3200-30BC. 
+Originally, pictograms were used to describe symbols, for example to count and trade.
+New words could be created by assembling characters, following the principle of compositionality.
+The invention of non symbolic writing and the latin alphabet only came later, around XX BC.
+Some languages like Japanese have multiple alphabets, namely kanji (symbols), hiragana and katana (non symbolic, used for foreign words and expressions).
 
-From symbolic writing (pictograms) to non symbolic writing
+Language is ambiguous by nature (look at the dog with one eye).
 
-(new) Words are created by assembling characters.
+Meet Alice and Bob. Message passing. How to transform and pass some information with minimum loss and efforts? Principle of Least Effort, an introduction to Human Ecology, 1949.
+Ideas from statistical physics, psychology and other fields. Information compression, loss. *Entropy*. Assumption. No info obfuscation as oppoed to counter money laundering or modern slavery (mispelt words like roses have a different meaning). Maxinfo. Optimal projection to reconstruct original message. Ex sms.
+Semantic, style, intent, sarcasme, emotions… introducing latent variables
 
-Language is in constant evolution.
+## A first model, Boolean Vectors
 
-Language is ambiguous (look at the dog with one eye)
+Boolean Vector models are simple models which can be applied to study language. Each dimension of the vector space corresponds to a term from the collection alphabet or vocabulary.
 
-## A simple boolean vector model, bag of characters
+{{< callout note >}}
+See [linear algebra](https://www.mtpcours.fr/en/c/maths/algebre/) course for a refresher on vector spaces.
+{{< /callout >}}
 
-The words "computer" and "language" can be represented simply as a bag of characters, a vector of length 26 with value <i>i</i> equal to 1 if character i is present in the word, 0 otherwise.
+### Bag of characters
+
+The words "computer" and "language" can be represented simply as a bag of characters using the latin alphabet. Each word is represented by a vector of length 26 with value <i>i</i> equal to 1 if character <i>i</i> is present in the word, 0 otherwise.
 
 | Word 	        | a | b | c | d | e | ... | u | v | w | x | y | z |
 | -----------   | - | - | - | - | - | -   | - | - | - | - | - | - |
@@ -39,52 +49,66 @@ The words "computer" and "language" can be represented simply as a bag of charac
 
 From the above representation, we can say that computer and language share two characters in common, the letters e and u. Given a 3rd word, e.g., "computational", we are also able to say the word is closer to "computer" than "language".
 
-| Word 	        | a   | b   | c   | d   | e   | ... | u   | v   | w   | x   | y   | z   |
-| -----------   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   |
-| computer      | 0.0 | 0.0 | 0.2 | 0.0 | 0.1 | ... | 0.1 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
-| language      | 0.2 | 0.0 | 0.0 | 0.0 | 0.1 | ... | 0.1 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+### Bag of words
 
+The same model can be applied to decompose documents into words.
 
-Limits of the boolean vector model
+– Text 1: "This is the text lab of the M1 master course"
+– Text 2: "This is a text course"
+
+| Document      | This | is | a | the | text | lab | of | IS | master | course |
+| -----------   | - | - | - | - | - | -   | - | - | - | - | - | - |
+| Text 1        | 1 | 1 | 0 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| Text 2        | 1 | 1 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
+
+Bag of words / characters are simple but present several limits in practice. 
 - Character frequency doesn't matter (two a or one a maps to the same representation)
 - All characters have the same weight in the model (a and b are equally important)
+These limits can be partly circumvented with Vector Space Models, which we present in the next section. 
 
-These limits can be circumvented with Vector Space Model. For the <i>i-th</i> character, the cell value is no longer 0 or 1 but some number between 0 and 1. The most common approach is called TF-IDF and stands for term-frequency, inverse document frequency. It measures how frequently a character appears in a word to increase its value and how often it appears accross all words to decrease its value. Intuitively, a character like "g" in "language", which occurs twice (term frequency) and only in the word "language" (no "g" in "computer"), means it is an informative feature. Indeed knowing the word contains "g" means the word is "language" and directly identifies the word (which isn't true for the letter e).
+## Vector Space Models
 
-Vector Space Model
-• Document d and query q are represented as k-dimensional vectors d = (w1,d, …,
-wk,d) and q = (w1,q, …, wk,q)
-– Each dimension corresponds to a term from the collection vocabulary
+Vector Space Models represent the significance of each term for each document. The cell values are computed based on the terms' frequency. For the <i>i-th</i> character of a document, the cell value is no longer 0 or 1 but some number between 0 and 1. The most common approach is called TF-IDF and stands for term-frequency, inverse document frequency. It measures how frequently a character appears in a word to increase its value and how often it appears accross all words to decrease its value. Intuitively, in the previous example, the letter "g" which occurs twice in the word "language" (term frequency) and only once across the corpus (["language", "computer"]), is an informative feature or pattern for recognition.
+
+| Word 	        | a   | b   | c   | d   | e   | ... | u   | v   | w   | x   | y   | z   |
+| -----------   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   | -   |
+| computer      | 0 | 0| 0.2 | 0| 0.1 | ... | 0.1 | 0| 0| 0| 0| 0|
+| language      | 0.2 | 0| 0| 0| 0.1 | ... | 0.1 | 0| 0| 0| 0| 0|
+
+
+| Document      | This | is | a | the | text | lab | of | IS | master | course |
+| -----------   | - | - | - | - | - | -   | - | - | - | - | - | - |
+| Text 1        | 0.1 | 0.1 | 0 | 0.2 | 0.1 | 0.1 | 0.1 | 0.1 | 0.1 | 0.1 |
+| Text 2        | 0.2 | 0.2 | 0.2 | 0 | 0.2 | 0 | 0 | 0 | 0 | 0.2 |
+
+### First application: Spelling correction and document retrieval
+
+Given a vocabulary of known words, for example "computer" and "language", bag of characters and vector space models can be used to map words like "compute", "computes" to "computer" and "languages", "linguistics" to "language". It is an example of dimensionality reduction (several words are mapped to one word). This is useful to understand mispellt words, extract ingredients from recipes using a list of known ingredients, and implemented with Scikit-learn TF-IDF and <i>cosine similarity</i> (more below) in [Pyfood](https://pyfood.readthedocs.io/en/latest/).
+
+{{< figure src="linguistics/cosine.png" caption="Image vector distance and cosine.">}}
+
+Document d and query q are represented as k-dimensional vectors d = (d1,d2, …, dk) and q = (q1, …, qk).
+We compute the degree of similarity between d and q as the cosine of the angle between the two vectors $sim(q,d) = \frac{q.d}{|q||d|}$
+
+Why not use the Euclidean distance to measure the similarity? 
+Vector (a, b) and (10 x a, 10 x b) contain the same words but have large Euclidean distance. The Euclidean distance between vector may be a bad idea, and worsens with the magnitude / amplitude of the signals and the norm of the vectors.
+
+Pseudo Algorithm: Ranked retrieval in the vector space model
+- Represent the query as a weighted tf-idf vector
+- Represent each document as a weighted tf-idf vector
+- Compute the cosine similarity between the query vector and each document vector
+- Rank documents with respect to the query
+- Return the top K (e.g., K = 10) to the user
+
+Assumptions of bag of words / characters and vector space models
 – Independence between terms
-– wi,q is the weight of i-th vocabulary word in q
-• Is Euclidean distance appropriate to measure the similarity?
-• Vector (a, b) and (10 x a, 10 x b) contain the same words but have large Euclidean distance
-• Degree of similarity between d and q is the
-cosine of the angle between the two vectors
-sim(q,d) = q*d/(|q|*|d|)
+- Order of words / characters doesn't matter
 
-[Image vector distance and cosine]
+Applications: Text Mining, Information Retrieval. Ex Search engines, Google. Other topics like spam detection, summarization, translation… widely used today.
 
-
-Ranked retrieval in the vector space model
-§Represent the query as a weighted tf-idf vector
-§Represent each document as a weighted tf-idf vector
-§Compute the cosine similarity between the query vector and
-each document vector
-§Rank documents with respect to the query
-§Return the top K (e.g., K = 10) to the user
-
-
-- **Theory**: Message passing. How to transform and pass some information with minimum loss and efforts? Ideas from statistical physics, psychology and other fields. No need to be a computer scientist to study computational linguistics.
-- **Tip**: Simpler models are better. Ask the right question. Einstein, Feynman
-- **Homework**: Setup your environment (Framagit, Python) for the course use cases
-- Use case: Mispellt words
+Next: Setup your environment (Framagit, Python) for the use cases and project
 
 ## Quiz
-
-{{< spoiler text="When is a heatmap useful?" >}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-{{< /spoiler >}}
 
 {{< spoiler text="Write Plotly code to render a bar chart" >}}
 
@@ -108,3 +132,7 @@ University Press. 2008.
 > S.Deerwester et al. Indexing by Latent Semantic Analysis. Journal of the Society for Information Science. 1990
 
 > Soumen Chakrabarti. Mining the Web: Discovering Knowledge from Hypertext Data.
+
+> Zipf
+
+> Shannon

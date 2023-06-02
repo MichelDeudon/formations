@@ -19,11 +19,13 @@ xyz
 
 ## To latent variables and models
 
-xyz
+Intro PGM
 
 ## Gaussian Mixture Models (GMM)
 
 xyz
+
+**Theory:** Probability review. Bayesian learning.
 
 ## Hidden Markov Models (HMM)
 
@@ -33,11 +35,15 @@ xyz
 
 xyz
 
+**Usecase**: Melody harmonisation. Ableton. Music.
+
 ## Variational Auto Encoders (VAE)
 
 VAE can be used to disentangle representations (style vs semantics), and consequently measure similarity between pairs, such as questions.
 
-{{< figure src="linguistics/img7.jpg" caption="Learning to repeat, reformulate.">}}
+{{< figure src="linguistics/img7.jpg" caption="Learning to repeat, reformulate. Visualisation of learned representations after dimensionality reduction with PCA.">}}
+
+**Summary** (models, hypothesis, limits, link with information theory)
 
 ## Reference
 

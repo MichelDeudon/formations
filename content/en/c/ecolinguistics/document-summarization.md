@@ -14,6 +14,17 @@ Combine analytical & synthetic skills.
 
 {{< icon name="clock" pack="fas" >}} 1h20 per week, for 3 weeks
 
+## An introduction to text mining
+
+### Outline
+
+- Document collection preprocessing
+- Feature Selection
+- Indexing
+- Query processing & Ranking
+- Retrieval evaluation
+
+
 ## Keywords extraction and document summarization
 
 - **Culture**: Page rank as a graph problem
