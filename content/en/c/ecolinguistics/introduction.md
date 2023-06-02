@@ -47,8 +47,8 @@ Here are just a few ideas how you can apply what you will learn in this course
 - Help students learn languages with gamefied applications like [Duolingo](https://www.duolingo.com/).
 - Support NGO's defending Human rights by quantifying and monitoring [diversity & inclusion indicators](https://www.mtpcours.fr/en/c/ecolinguistics/uc1-debias-language/).
 - Recommend similar articles or different point of views, for example in healthcare or jurisprudence.
-- Generate vegetarian recipes in season, music and art.
-- Counter fight money laundering, modern slavery, fake news and hate speech.
+- Generate [vegetarian recipes in season](https://www.mtpcours.fr/en/c/local-seasonal/#open-source-data), music and art.
+- Counter fight fake news and hate speech.
 
 ## Quiz
 

@@ -14,21 +14,14 @@ Analytise et synthése.
 
 {{< icon name="clock" pack="fas" >}} 1h20 per week, for 3 weeks
 
-## Representing documents as...
+## Representing documents as graphs
 
 Graphs have been successfully used in Information Retrieval to encompass relations between entities (e.g. PageRank [Page et al., 1999]).
-
-Graph of Word (Vazirgiannis et al) is an approach for text mining which adresses the term independence assumption through the bag-of-word representation. It takes into account word dependence and word order through a graph based representation of a document (graph-of-word). Instead of the traditional bag-of-words (i.e. multiset of terms), we represent a document as a graph-of words to capture word order and word dependency.
+Graph of Word (Rousseau et Vazirgiannis, 2015) is an approach for text mining which adresses the term independence assumption through the bag-of-word representation. It takes into account word dependencies and word order through a graph based representation of a document (graph-of-word).
 
 {{< callout note >}}
-As a reminder, a graph is made of nodes V and edges E.
+A graph is a set of nodes V and edges E.
 {{< /callout >}}
-
-In a graph of words, nodes are words and edges are dependencies between these words.
-
-Note: Graph algorithms, for example Minimum Spanning Trees ou Min Vertex Cover can be applied to graph representations of documents to gather insights.
-
-{{< figure src="linguistics/graph-of-words.jpg" caption="Graph of words.">}}
 
 ### Unweighted directed graph
 
@@ -38,20 +31,19 @@ Pros/Cons: Robust to varying document length, weight of a word increases only wi
 
 ### Directed graph
 
-The weight of a word in the document can be set to **indegree** of each node. The weight of a term in a document is its indegree (numbers of incoming edges) in the **graph-of-word**. It represents the **number of distinct contexts of occurrence**. We store the document as a vector of weights in the direct index and similarly in the inverted index
-
-For example: information retrieval is the activity of obtaining information resources relevant to an information need from a collection of information resources, gives the following nodes and weights:
+The weight of a word in the document can be set to the **indegree** of each node (numbers of incoming edges) in the **graph-of-word**. It represents the **number of distinct contexts of occurrence**. 
+For example: information retrieval is the activity of obtaining information resources relevant to an information need from a collection of information resources, gives the following nodes and features/weights:
 
 information (5), retrieval (1), activity (2), obtaining (2), resources (3), relevant (2), need (2), collection (2).
 
-## GoW for keywords extraction and document summarization
+{{< figure src="linguistics/graph-of-words.jpg" caption="In a graph of words, nodes are words and edges are dependencies between these words.">}}
 
-Keywords are used everywhere:
+## Keywords extraction and document summarization
+
+Keywords are used for:
 - looking up information on the Web (e. g., via a search engine bar)
 - finding similar posts on a blog (e. g., tag cloud)
-- for ads matching (e. g., AdWords’ keyword planner)
 - for research paper indexing and retrieval (e. g., SpringerLink)
-- for research paper reviewer assignment (e. g., ECIR ’15!)
 
 Applications are numerous:
 - **summarization** (to get a gist of the content of a document)
@@ -60,12 +52,13 @@ Applications are numerous:
 - **query expansion** (using additional keywords from top results)
 
 Graph-based Keyword Extraction selects the most cohesive sets of words in the graph as keywords.
-
 K-core decomposition retains the main core of the graph (weighted edges), and nodes based on their centrality and cohesiveness.
 
 {{< figure src="linguistics/k-core-graph.png" caption="Graph of words.">}}
 
-Evaluated against PageRank on scientific papers with keywords manually assigned by human annotators, in terms of precision, recall, F1-score, # of keywords.
+Evaluated against PageRank on scientific papers with keywords manually assigned by human annotators, in terms of precision, recall, F1-score, # of keywords, the algorithm is relatively simple and works well.
+
+Note: Other graph algorithms, for example Minimum Spanning Trees or Min Vertex Cover can help visualise, summarize documents for various applications.
 
 ## Quiz
 
@@ -75,6 +68,6 @@ The parameter $\mu$ is the mean or expectation of the distribution.
 
 ## Reference
 
-> Michalis Vazirgiannis. Introduction to Text Mining & NLP. Ecole Polytechnique. 2017.
 > F Rousseau, M Vazirgiannis. Main core retention on graph-of-words for single-document keyword extraction. European Conference on Information Retrieval. 2015.
+
 > F Rousseau, M Vazirgiannis. Graph-of-word and TW-IDF: new approach to ad hoc IRF. Proceedings of the 22nd ACM CIKM. 2013.
