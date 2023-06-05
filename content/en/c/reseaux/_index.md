@@ -1,5 +1,5 @@
 ---
-title: Social Media Preventive Workshop
+title: Social Media, Attention and Health - Preventive Workshop
 linkTitle: Social Media
 summary: Preventive workshops to help students express themselves in a benevolent environment, and learn, to raise awareness on alternatives to social networks.
 date: '2023-05-25'
@@ -18,16 +18,16 @@ Cette formation permet aux jeunes et à leur entourage de s’exprimer, de s’i
 
 Les réseaux sociaux creusent les inégalités sociales et divisent pour mieux régner. Une autre vision du monde existe, <i>“celle qui unit”</i> disait Paul Valéry.
 
-### Cités Éducatives workshop, on June 7, 2023
+### Cités Éducatives - Preventive workshop, on June 7, 2023
 
-Avec l'[association Générations Solidaires et Citoyennes](https://www.jeveuxaider.gouv.fr/organisations/4859-generations-solidaires-et-citoyennes)
+Avec l'[association Générations Solidaires et Citoyennes](https://www.jeveuxaider.gouv.fr/organisations/4859-generations-solidaires-et-citoyennes).
 
 De 14h30 à 16h00, au centre social de la CAF. 410 Av. de Barcelone, 34080 Montpellier.
 
 Cet atelier collaboratif et interactif, se construira autour de 3 temps forts : 
 
 1. Introduction d’un professeur de mathématiques sur les étoiles du quartier.
-2. Mise en pratique de la méthode 1-2-4-8 d’intelligence collective pour débattre : À quels besoins les réseaux sociaux répondent-ils? Comment me font-ils sentir? Quelles alternatives existent? Quelles difficultés et obstacles? Quelles solutions concrètes?
+2. Mise en pratique de la méthode 1-2-4-8 d’intelligence collective pour débattre : À quels besoins les réseaux sociaux répondent-ils? Comment me font-ils sentir? Quelles alternatives existent? Quelles solutions concrètes?
 3. Témoignages de personnes qui ont essayé de limiter leurs usages des réseaux sociaux, ou qui s’en sont libérés.
 
 À la fin de l’atelier, dans une démarche d’amélioration continue, vous serez invité à résumer ce que vous avez appris et donner votre avis (anonyme).
@@ -50,8 +50,8 @@ Le Futur des Réseaux Sociaux, vu par différentes Générations. En un mot, <i>
 
 ### Collectifs, Assos
 
-[Lève les yeux!](https://www.levelesyeux.com/), [Framasoft](https://framasoft.org/en/)
-
-Mais aussi...
+[Lève les yeux!](https://www.levelesyeux.com/), [Framasoft](https://framasoft.org/en/) mais aussi...
 
 ## Bon plans locaux / soutien
+
+À venir.

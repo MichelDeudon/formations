@@ -1,5 +1,5 @@
 ---
-title: Ateliers Préventifs Réseaux Sociaux
+title: Ateliers Préventifs - Réseaux Sociaux, Attention et Santé
 linkTitle: Réseaux Sociaux
 summary: Ateliers préventifs pour permettre aux jeunes de s’exprimer dans un cadre bienveillant, et s’informer, pour sensibiliser aux alternatives aux réseaux sociaux, ouvert au public.
 date: '2023-05-25'
@@ -20,14 +20,14 @@ Les réseaux sociaux creusent les inégalités sociales et divisent pour mieux r
 
 ### Atelier Cités Éducatives du 7 juin 2023
 
-Avec l'[association Générations Solidaires et Citoyennes](https://www.jeveuxaider.gouv.fr/organisations/4859-generations-solidaires-et-citoyennes)
+Avec l'[association Générations Solidaires et Citoyennes](https://www.jeveuxaider.gouv.fr/organisations/4859-generations-solidaires-et-citoyennes).
 
 De 14h30 à 16h00, au centre social de la CAF. 410 Av. de Barcelone, 34080 Montpellier.
 
 Cet atelier collaboratif et interactif, se construira autour de 3 temps forts : 
 
 1. Introduction d’un professeur de mathématiques sur les étoiles du quartier.
-2. Mise en pratique de la méthode 1-2-4-8 d’intelligence collective pour débattre : À quels besoins les réseaux sociaux répondent-ils? Comment me font-ils sentir? Quelles alternatives existent? Quelles difficultés et obstacles? Quelles solutions concrètes?
+2. Mise en pratique de la méthode 1-2-4-8 d’intelligence collective pour débattre : À quels besoins les réseaux sociaux répondent-ils? Comment me font-ils sentir? Quelles alternatives existent? Quelles solutions concrètes?
 3. Témoignages de personnes qui ont essayé de limiter leurs usages des réseaux sociaux, ou qui s’en sont libérés.
 
 À la fin de l’atelier, dans une démarche d’amélioration continue, vous serez invité à résumer ce que vous avez appris et donner votre avis (anonyme).
@@ -50,8 +50,8 @@ Le Futur des Réseaux Sociaux, vu par différentes Générations. En un mot, <i>
 
 ### Collectifs, Assos
 
-[Lève les yeux!](https://www.levelesyeux.com/), [Framasoft](https://framasoft.org/fr/)
-
-Mais aussi...
+[Lève les yeux!](https://www.levelesyeux.com/), [Framasoft](https://framasoft.org/fr/) mais aussi...
 
 ## Bon plans locaux / soutien
+
+À venir.

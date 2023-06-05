@@ -2,7 +2,7 @@
 title: Local Seasonal Workshops
 linkTitle: Local Seasonal
 summary: Tailor-made art & science workshops to celebrate biodiversity along the seasons, for youth and general public.
-date: '2020-04-25'
+date: '2022-06-01'
 type: book
 tags:
   - Youth
@@ -24,9 +24,7 @@ Distribution of [Kokopelli](https://kokopelli-semences.fr/fr/) seeds to initiate
 
 ### Open source data
 
-Open source contribution - [Pyfood](https://pyfood.readthedocs.io/en/latest/) to raise awareness of the benefits of a vegetarian diet, local and seasonal.
-
-We promote
+Open source contribution - [Pyfood](https://pyfood.readthedocs.io/en/latest/) to raise awareness of the benefits of a vegetarian diet, local and seasonal. We promote
 - Ⓥ Plant-based artwork. Respecting living ecosystems and favoring low climate impact.
 - ⭐ Local, in season. Healthy, produced within 250km and reducing waste.
 - ❤ Picked with love. Favoring a good physical and psychological balance, promoting sustainable human ties.
@@ -41,8 +39,4 @@ Organization of entertaining, educative and artistic activities, for example ext
 
 ## Support us
 
-Offer a seasonal calender (7 pages recto verso, A5 format, France métropolitaine edition) and support us via [HelloAsso](https://www.helloasso.com/associations/local-seasonal).
-
-Recommended price 15 euros.
-
-Download our {{% staticref "uploads/Calendrier de saison A5.pdf" %}}seasonal calendar{{% /staticref %}}.
+Download our {{% staticref "uploads/Calendrier de saison A5.pdf" %}}seasonal calendar{{% /staticref %}} (7 pages recto verso, A5 format, France métropolitaine edition), offer it and support us via [HelloAsso](https://www.helloasso.com/associations/local-seasonal). Recommended price 15 euros.

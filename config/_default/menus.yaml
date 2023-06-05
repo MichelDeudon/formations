@@ -29,7 +29,7 @@ main:
   - name: Prévention
     weight: 30
     identifier: prevention
-  - name: Réseaux
+  - name: Réseaux Sociaux
     PageRef: c/reseaux/_index.md
     weight: 10
     parent: prevention

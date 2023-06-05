@@ -2,7 +2,7 @@
 title: Ateliers Local Seasonal
 linkTitle: Local Seasonal
 summary: Ateliers arts & science, sur mesure, pour célébrer la biodiversité au fil des saisons, à destinations de jeunes et grand public.
-date: '2020-04-25'
+date: '2022-06-01'
 type: book
 tags:
   - Jeunes
@@ -24,9 +24,7 @@ Distribution de graines [Kokopelli](https://kokopelli-semences.fr/fr/) et de sem
 
 ### Des données en accès libre
 
-Contribution en accès libre: [Pyfood](https://pyfood.readthedocs.io/en/latest/) pour sensibiliser aux bienfaits d'une alimentation végé, locale et de saison.
-
-Nous soutenons
+Contribution en accès libre: [Pyfood](https://pyfood.readthedocs.io/en/latest/) pour sensibiliser aux bienfaits d'une alimentation végé, locale et de saison. Nous soutenons
 - Ⓥ Des créations végétales, respectant les écosystèmes vivants et favorisant une empreinte carbone faible.
 - ⭐ Locales, de saison. Saines, produites à moins de 250 km et réduisant le gaspillage.
 - ❤ Sélectionnées avec amour. Favorisant un bon équilibre physique, psychologique et social.
@@ -41,8 +39,4 @@ Organisation d'activitiés ludiques, artistiques et éducatives, par exemple d'e
 
 ## Nous soutenir
 
-Offrir un calendrier de saison (7 pages recto verso, format A5, édition France métropolitaine) et nous soutenir via [HelloAsso](https://www.helloasso.com/associations/local-seasonal).
-
-Prix libre, prix conseillé 15 euros.
-
-Télécharger notre {{% staticref "uploads/Calendrier de saison A5.pdf" %}}calendrier de saison{{% /staticref %}}.
+Télécharger notre {{% staticref "uploads/Calendrier de saison A5.pdf" %}}calendrier de saison{{% /staticref %}} (7 pages recto verso, format A5, édition France métropolitaine), l'offrir et nous soutenir via [HelloAsso](https://www.helloasso.com/associations/local-seasonal). Prix libre, conseillé 15 euros.
