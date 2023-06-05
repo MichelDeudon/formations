@@ -26,13 +26,20 @@ main:
     PageRef: c/ecolinguistics/_index.md
     weight: 40
     parent: cours
+  - name: Prévention
+    weight: 30
+    identifier: prevention
+  - name: Réseaux
+    PageRef: c/reseaux/_index.md
+    weight: 10
+    parent: prevention
   - name: Désinformation
     PageRef: c/desinformation/_index.md
-    weight: 50
-    parent: cours
+    weight: 20
+    parent: prevention
   - name: Local Seasonal
     PageRef: c/local-seasonal/_index.md
-    weight: 30
+    weight: 40
   - name: Blog
     PageRef: p/_index.md
-    weight: 40
+    weight: 50
