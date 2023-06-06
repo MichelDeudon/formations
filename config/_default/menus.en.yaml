@@ -26,7 +26,7 @@ main:
     PageRef: c/ecolinguistics/_index.md
     weight: 40
     parent: cours
-  - name: Prévention
+  - name: Prevention
     weight: 30
     identifier: prevention
   - name: Social Media

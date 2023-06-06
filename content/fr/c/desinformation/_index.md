@@ -1,7 +1,7 @@
 ---
 title: Lutter contre la desinformation par la formation
 linkTitle: Desinformation et attention
-summary: Sensibilisation pédagogique à la désinformation et études de cas pratiques à destination d'enseignants, d'étudiants, de chercheurs et practiciens de l'apprentissage et développement des langues.
+summary: Sensibilisation pédagogique à la désinformation et études de cas pratiques à destination d'enseignants, d'étudiants, de chercheurs et practiciens de l'apprentissage des langues.
 date: '2023-03-21'
 type: book
 tags:
