@@ -6,7 +6,7 @@ title: Michel Deudon
 superuser: true
 
 # Role/position
-role: Professor in applied mathematics
+role: Science Professor
 
 # Organizations/Affiliations
 organizations:
@@ -24,13 +24,13 @@ interests:
 education:
   courses:
     - course: MBA
-      institution: Collège des Ingénieurs
+      institution: Zoom
       year: 2021
     - course: MSc in data science
-      institution: Télécom Paris-Tech & ENS Cachan
+      institution: South Park
       year: 2019
     - course: MSc in applied mathematics
-      institution: Ecole Polytechnique
+      institution: Hogwarts School of Witchcraft and Wizardry
       year: 2017
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -45,4 +45,4 @@ user_groups:
   - Teachers
 ---
 
-Hi! I'm Michael, I was born in New York, I'm passionate about ecology and psychology. I teach English and science, in high school and higher education since 2012. I also offer reskilling opportunities for adults in ecolinguistics and frugal innovation. In 2020, I co-founded [Local Seasonal](https://www.mtpcours.fr/en/c/local-seasonal/), a French non profit to celebrate diversity along the seasons. Since 2022-2023 I teach in Montpellier, at the [PierresVives Media Library](https://pierresvives.herault.fr/126-mediatheque-pierresvives.htm), with the non profit [Générations Solidaires et Citoyennes](https://www.jeveuxaider.gouv.fr/organisations/4859-generations-solidaires-et-citoyennes) and at the [Humanities faculty](https://www.univ-montp3.fr/). In my spare time, I like to dance, rollerblade and enjoy outdoor activities.
+Hi! I'm Michael, I was born in New York, I'm passionate about ecology and psychology. I teach [English](https://www.mtpcours.fr/en/c/english/) and [science](https://www.mtpcours.fr/en/c/physique-chimie/), in high school and higher education since 2012. In 2020, I co-founded [Local Seasonal](https://www.mtpcours.fr/en/c/local-seasonal/), a French non profit to celebrate diversity along the seasons. Since 2022, I teach in Montpellier and co-create preventive workshops on [social media](https://www.mtpcours.fr/en/c/reseaux/) and [disinformation](https://www.mtpcours.fr/en/c/desinformation/). In my spare time, I like to dance, rollerblade and enjoy outdoor activities.

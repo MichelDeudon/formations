@@ -6,7 +6,7 @@ title: Michel Deudon
 superuser: true
 
 # Role/position
-role: Professeur de mathématiques appliqués
+role: Professeur de sciences
 
 # Organizations/Affiliations
 organizations:
@@ -24,13 +24,13 @@ interests:
 education:
   courses:
     - course: MBA
-      institution: Collège des Ingénieurs
+      institution: Zoom
       year: 2020
     - course: Ingénieur
-      institution: Ecole Polytechnique
+      institution: South Park
       year: 2014
     - course: Prépa Physique Chimie
-      institution: Lycée Pasteur
+      institution: L'école de sorcellerie de Poudlard
       year: 2012
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -45,4 +45,4 @@ user_groups:
   - Teachers
 ---
 
-Bonjour! Je m'appelle Michel, je suis né à New York, passionné par l'écologie et la psychologie. J'enseigne les sciences et l'anglais, au lycée et supérieur depuis 2012. J'offre aussi des opportunités de reconversion pour les adultes en écolinguistique et innovation frugale. En 2020, j'ai co-fondé [Local Seasonal](https://www.mtpcours.fr/c/local-seasonal/), une association pour célébrer la diversité au fil des saisons. Depuis 2022-2023 j'enseigne à Montpellier, à la [Médiathèque PierresVives](https://pierresvives.herault.fr/126-mediatheque-pierresvives.htm), avec l'association [Générations Solidaires et Citoyennes](https://www.jeveuxaider.gouv.fr/organisations/4859-generations-solidaires-et-citoyennes) et à la [fac de lettres](https://www.univ-montp3.fr/). Dans mon temps libre, j'aime danser, faire du roller et les activités de plein air.
+Bonjour! Je m'appelle Michel, je suis né à New York, passionné par l'écologie et la psychologie. J'enseigne les [sciences](https://www.mtpcours.fr/c/physique-chimie/) et l'[anglais](https://www.mtpcours.fr/c/english/), au lycée et supérieur depuis 2012. En 2020, j'ai co-fondé [Local Seasonal](https://www.mtpcours.fr/c/local-seasonal/), une association pour célébrer la diversité au fil des saisons. Depuis 2022, j'enseigne à Montpellier et j'anime des ateliers préventifs sur les [réseaux sociaux](https://www.mtpcours.fr/c/reseaux/) et la [désinformation](https://www.mtpcours.fr/c/desinformation/). Dans mon temps libre, j'aime danser, faire du roller et les activités de plein air.
