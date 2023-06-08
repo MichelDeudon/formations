@@ -10,8 +10,8 @@ role: Professor in applied mathematics
 
 # Organizations/Affiliations
 organizations:
-  - name: Paul Valéry University Montpellier 3
-    url: 'https://www.univ-montp3.fr/'
+  - name: Independant
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include psychology, language learning and ecology.

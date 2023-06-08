@@ -10,8 +10,8 @@ role: Professeur de mathématiques appliqués
 
 # Organizations/Affiliations
 organizations:
-  - name: Paul Valéry Université Montpellier 3
-    url: 'https://www.univ-montp3.fr/'
+  - name: Indépendant
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: Mes intérêts de recherche incluent la psychologie, l'apprentissage des langues et l'écologie.
