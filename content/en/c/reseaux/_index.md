@@ -24,7 +24,7 @@ Avec l'[association Générations Solidaires et Citoyennes](https://www.jeveuxai
 
 De 14h30 à 16h00, au centre social de la CAF. 410 Av. de Barcelone, 34080 Montpellier.
 
-Cet atelier collaboratif et interactif, se construira autour de 3 temps forts : 
+Cet atelier collaboratif et interactif, se construira autour de 3 temps : 
 
 1. Introduction sur les étoiles du quartier.
 2. Mise en pratique de la méthode 1-2-4-8 d’intelligence collective pour débattre : À quels besoins les réseaux sociaux répondent-ils? Comment me font-ils sentir? Quelles alternatives existent? Quelles solutions concrètes?
@@ -32,9 +32,7 @@ Cet atelier collaboratif et interactif, se construira autour de 3 temps forts :
 
 À la fin de l’atelier, dans une démarche d’amélioration continue, vous serez invité à résumer ce que vous avez appris et donner votre avis (anonyme).
 
-Voir notre {{% staticref "uploads/GSC_Action_juin_2023.pdf" %}}Fiche Action{{% /staticref %}}.
-
-{{< figure src="local-seasonal/postit.jpg" caption="Temps 2. de débat avec des post it.">}}
+{{< figure src="local-seasonal/postit.jpg" caption="Debatting with post it.">}}
 
 Résultats / retours (à venir)
 

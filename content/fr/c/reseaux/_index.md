@@ -32,9 +32,7 @@ Cet atelier collaboratif et interactif, se construira autour de 3 temps forts :
 
 À la fin de l’atelier, dans une démarche d’amélioration continue, vous serez invité à résumer ce que vous avez appris et donner votre avis (anonyme).
 
-Voir notre {{% staticref "uploads/GSC_Action_juin_2023.pdf" %}}Fiche Action{{% /staticref %}}.
-
-{{< figure src="local-seasonal/postit.jpg" caption="Temps 2. de débat avec des post it.">}}
+{{< figure src="local-seasonal/postit.jpg" caption="Des post it pour débattre.">}}
 
 Résultats / retours (à venir)
 
