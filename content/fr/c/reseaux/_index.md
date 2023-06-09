@@ -40,7 +40,7 @@ Résultats / retours (à venir)
 
 ### Recueil de 32 témoignages en mai 2023
 
-Voir notre extrait de réponses au questionnaire {{% staticref "uploads/Témoignages_reseaux_sociaux_Montpellier_mai_2023.pdf" %}}résaux sociaux, attention et santé{{% /staticref %}}.
+Voir notre extrait de réponses au questionnaire {{% staticref "uploads/Temoignages_reseaux_sociaux_Montpellier_mai_2023.pdf" %}}résaux sociaux, attention et santé{{% /staticref %}}.
 
 ## Ils en parlent près de chez vous
 
