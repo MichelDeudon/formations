@@ -18,7 +18,9 @@ Cette formation permet aux jeunes et à leur entourage de s’exprimer, de s’i
 
 Les réseaux sociaux creusent les inégalités sociales et divisent pour mieux régner. Une autre vision du monde existe, <i>“celle qui unit”</i> disait Paul Valéry.
 
-### Cités Éducatives workshop, on June 7, 2023
+### Les Jeunes et les Réseaux Sociaux
+
+#### Cités Éducatives workshop, on June 7, 2023
 
 Avec l'[association Générations Solidaires et Citoyennes](https://www.jeveuxaider.gouv.fr/organisations/4859-generations-solidaires-et-citoyennes).
 
@@ -30,15 +32,17 @@ Cet atelier collaboratif et interactif, se construira autour de 3 temps :
 2. Mise en pratique de la méthode 1-2-4-8 d’intelligence collective pour débattre : À quels besoins les réseaux sociaux répondent-ils? Comment me font-ils sentir? Quelles alternatives existent? Quelles solutions concrètes?
 3. Témoignages de personnes qui ont essayé de limiter leurs usages des réseaux sociaux, ou qui s’en sont libérés.
 
-À la fin de l’atelier, dans une démarche d’amélioration continue, vous serez invité à résumer ce que vous avez appris et donner votre avis (anonyme).
+À la fin de l’atelier, dans une démarche d’amélioration continue, les participants étaient invités à résumer ce qu'ils ont appris et donner leur avis (anonyme).
+
+Voir notre extrait de propositions de l'atelier {{% staticref "uploads/Temoignages_reseaux_sociaux_Montpellier_juin_2023.pdf" %}}Les Jeunes et les Réseaux Sociaux{{% /staticref %}}.
 
 {{< figure src="local-seasonal/postit.jpg" caption="Debatting with post it.">}}
 
-Résultats / retours (à venir)
+### Résaux sociaux, attention et santé
 
-### Recueil de 32 témoignages en mai 2023
+#### Recueil de 32 témoignages en mai 2023
 
-Voir notre extrait de réponses au questionnaire {{% staticref "uploads/Temoignages_reseaux_sociaux_Montpellier_mai_2023.pdf" %}}résaux sociaux, attention et santé{{% /staticref %}}.
+Voir notre extrait de réponses au questionnaire {{% staticref "uploads/Temoignages_reseaux_sociaux_Montpellier_mai_2023.pdf" %}}Résaux sociaux, attention et santé{{% /staticref %}}.
 
 ## Ils en parlent près de chez vous
 
