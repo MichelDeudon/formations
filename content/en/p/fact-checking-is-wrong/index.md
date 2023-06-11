@@ -7,20 +7,14 @@ It's a symptom of a social and ecological emergency
 
 <!--more-->
 
-The ecole Polytechnique, created in en 1794, is tied to the history of the French Revolution. With a budget of €192 million in 2019, the Court of Auditors wrote in February 2020
-
-> <i>École Polytechnique: an uncertain strategy, management to be rectified</i>. [2020 annual report](https://www.ccomptes.fr/system/files/2020-02/20200225-12-TomeI-ecole-polytechnique.pdf).
-
-Because of Covid-19 and lockdowns, no public debate really took place on what should be Polytechnique's mission in the 21th century.
-
 ## Disinformation is used to divert attention, divide and conquer
 
-In March 2023, Olivier Véran, Macron's Minister of Health appointed during the Covid-19 crisis, compared France historical social movement on March 7 to <i>"an ecological disaster"</i> 😷. Gérald Darmanin, Macron's Minister of the Interior, compared his opponents on the left wing to <i>"terrorists"</i> after the executive duo Macron/Borne (X81) used the article 49.3 of the Constitution to force a reform through Parliament without a vote, for the 100th time of the fifth Republic.
+In March 2023, Olivier Véran, Macron's Minister of Health appointed during the Covid-19 crisis, compared France historical social movement on March 7 to <i>"an ecological disaster"</i> 😷. Gérald Darmanin, Macron's Minister of the Interior, compared his opponents to <i>"terrorists"</i>...
 
 ## Fact checking is outdated
 
-- Fact checking is not new, disinformation is originally caused by Humans, Presidents, Ministers... (not AI)
-- Fact checking is a binary vision, 0/1, true/false... outdated by quantum physics¸, the idea that two contradictory ideas can be true simulatenously and social progress. Plus, [some questions require to debate](https://www.blast-info.fr/articles/2023/sommes-nous-toujours-en-democratie-AwJ1_TmlTM-ONwHybrhuqQ). 
+- Fact checking is not new, disinformation is originally caused by Humans, Presidents, Ministers, engineers, etc.
+- Fact checking is a binary vision, 0/1, true/false... outdated by quantum physics, the idea that two contradictory ideas can be true simulatenously and social progress. Plus, [some questions require to debate](https://www.blast-info.fr/articles/2023/sommes-nous-toujours-en-democratie-AwJ1_TmlTM-ONwHybrhuqQ). 
 - Fact checking of viral messages diverts attention from key findings, like [Emma Strubell](https://www.mtpcours.fr/c/desinformation/emma-strubell/)'s article in 2019 or [Servane Mouton](https://www.youtube.com/watch?v=OUZpHO9JXbE&ab_channel=ComprendreetAgir)'s talk in 2023.
 - Fact checking puts voices under silence. It paves the way to censorship. See [AREVA / MAUREEN KEARNEY CASE: BACK ON A STATE SCANDAL](https://www.youtube.com/watch?v=kRyriD9iLZY&ab_channel=BLAST%2CLesouffledel%27info).
 

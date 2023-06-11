@@ -7,19 +7,13 @@ C'est le symptôme d'une urgence sociale et écologique
 
 <!--more-->
 
-L'école Polytechnique, créee en en 1794, est liée à l'histoire de la Révolution française. Dotée d'un budget de 192 millions d'euros en 2019, la Cour des comptes écrivait en février 2020
-
-> <i>L’École polytechnique : une stratégie incertaine, une gestion à redresser</i>. [Rapport annuel 2020.](https://www.ccomptes.fr/system/files/2020-02/20200225-12-TomeI-ecole-polytechnique.pdf).
-
-À cause du Covid-19 et des confinements, aucun débat public n'a vraiment eu lieu sur ce que devrait être la mission de Polytechnique au 21e siècle.
-
 ## La désinformation est utilisée pour détourner l'attention, et diviser pour régner
 
-En mars 2023, Olivier Véran, ministre de la Santé de Macron nommé pendant la crise du Covid-19, comparait le mouvement social historique du 7 mars à <i>"une catastrophe écologique"</i> 😷. Gérald Darmanin, ministre de l'Intérieur de Macron, a comparé ses opposants à gauche à des <i>"terroristes"</i> après que le duo exécutif Macron/Borne (X81) ait utilisé l'article 49.3 de la Constitution pour imposer une réforme au Parlement sans vote, pour la 100e fois de la Ve République.
+En mars 2023, Olivier Véran, ministre de la Santé de Macron nommé pendant la crise du Covid-19, comparait le mouvement social historique du 7 mars à <i>"une catastrophe écologique"</i> 😷. Gérald Darmanin, ministre de l'Intérieur de Macron, comparait ses opposants à des <i>"terroristes"</i>...
 
 ## Le fact-checking est obsolète
 
-- Le fact-checking n'est pas nouveau, et vient à l'origine d'Humains, de Présidents, Ministres, etc. (pas d'IA)
+- Le fact-checking n'est pas nouveau, la désinformation vient à l'origine d'Humains, de chefs de guerre, ministres, ingénieurs, etc.
 - Il s'agit d'une vision binaire, 0/1, vrai/faux... dépassée par la physique quantique, l'idée que deux idées contradictoires peuvent être vraies simultanément ou encore les progrès sociaux. De plus, [certaines questions nécessitent de débattre](https://www.blast-info.fr/articles/2023/sommes-nous-toujours-en-democratie-AwJ1_TmlTM-ONwHybrhuqQ).
 - La vérification des faits des messages viraux détourne l'attention de conclusions importantes, comme l'article d'[Emma Strubell](https://www.mtpcours.fr/c/desinformation/emma-strubell/) en 2019 ou la conférence de [Servane Mouton](https://www.youtube.com/watch?v=OUZpHO9JXbE&ab_channel=ComprendreetAgir) en 2023.
 - La vérification des faits invisibilise des personnes. Le fact checking ouvre la voie à la censure. Voir [AFFAIRE AREVA / MAUREEN KEARNEY : RETOUR SUR UN SCANDALE D'ETAT](https://www.youtube.com/watch?v=kRyriD9iLZY&ab_channel=BLAST%2CLesouffledel%27info).
@@ -43,8 +37,8 @@ Les modèles <i>ont consommé une quantité massive d'énergie, responsable d'é
 {{< figure src="fact-checking/facebook-cifre.png">}}
 
 - Pourquoi le système CIFRE français est-il utilisé pour générer du sexisme, racisme et de la désinformation chez Meta ?
-- Pourquoi les [consommations d'énergie](https://www.mtpcours.fr/c/desinformation/emma-strubell/) et les risques/dommages, les fuites, les considérations éthiques des modèles ne sont-ils pas communiqués clairement sur le blog de Meta AI ou sur les réseaux sociaux ?
-- Pourquoi Meta AI utilise des techniques de [greenwashing](https://www.mtpcours.fr/c/desinformation/greenwashing/) (par exemple, <i>"plus petit"</i>), dans son blog de recherche et sur les réseaux sociaux (Linkedin, Twitter) ?
+- Pourquoi les [consommations d'énergie](https://www.mtpcours.fr/c/desinformation/emma-strubell/) et les risques, les fuites, les considérations éthiques des modèles ne sont-ils pas communiqués clairement sur le blog de Meta AI ?
+- Pourquoi Meta AI utilise des techniques de [greenwashing](https://www.mtpcours.fr/c/desinformation/greenwashing/) (par exemple, <i>"plus petit"</i>), dans son blog de recherche, sur Linkedin et Twitter) ?
 
 ## Appel à l'action
 
