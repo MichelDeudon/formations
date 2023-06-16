@@ -32,9 +32,9 @@ The Turing award Yann Le Cun and 7 polytechniciens in France trained <i>large la
 
 The models <i>consumed a massive quantity of energy, responsible for the emission of carbon dioxide</i> (source: Arxiv). They have <i>billions of parameters</i>, for <i>billions of people</i> (source: Meta AI blog). <i>Risks and harms include the generation of harmful, offensive or biased content… incorrect information</i>. (source: Github Model Card).
 
-## Open review questions
-
 {{< figure src="fact-checking/facebook-cifre.png">}}
+
+## Open review questions
 
 - Why is the French CIFRE system used to create sexism, racism and disinformation at Meta ?
 - Why are the [energy consumption](https://www.mtpcours.fr/en/c/desinformation/emma-strubell/) and models' risks/harms, leak, ethical concerns, not communicated clearly on Meta AI's blog or on social networks?

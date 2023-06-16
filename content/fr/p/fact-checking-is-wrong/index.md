@@ -32,9 +32,9 @@ Le prix Turing Yann Le Cun et 7 polytechniciens en France ont développé des <i
 
 Les modèles <i>ont consommé une quantité massive d'énergie, responsable d'émissions de dioxyde de carbone</i> (source : Arxiv). Ils ont <i>des milliards de paramètres</i>, pour <i>des milliards de personnes</i> (source : blog Meta AI). <i>Les risques et les préjudices incluent la génération de contenu nuisible, offensant ou biaisé… d'informations incorrectes</i>. (source : carte modèle Github).
 
-## Questions ouvertes
-
 {{< figure src="fact-checking/facebook-cifre.png">}}
+
+## Questions ouvertes
 
 - Pourquoi le système CIFRE français est-il utilisé pour générer du sexisme, racisme et de la désinformation chez Meta ?
 - Pourquoi les [consommations d'énergie](https://www.mtpcours.fr/c/desinformation/emma-strubell/) et les risques, les fuites, les considérations éthiques des modèles ne sont-ils pas communiqués clairement sur le blog de Meta AI ?

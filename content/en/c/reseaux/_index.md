@@ -12,7 +12,7 @@ tags:
 
 ## Presentation
 
-Cette formation permet aux jeunes et à leur entourage de s’exprimer, de s’informer dans un cadre bienveillant, de découvrir des méthodes de débat et d’intelligence collective, et chercher des alternatives, lutter contre les inégalités sociales, les discriminations et violences en ligne. Développée à Montpellier avec et pour des collégien.nes, lycéen.nes, parents d’élèves, étudiant.es de l’enseignement supérieur et de la recherche, professionnel.les de la solidarité, de la santé, de la culture, de l’éducation nationale, elle ne suppose aucun prérequis.
+Cette formation permet aux jeunes et à leur entourage de s’exprimer, de s’informer dans un cadre bienveillant, de découvrir des méthodes de débat et d’intelligence collective, et chercher des alternatives pour lutter contre les inégalités sociales, les discriminations et violences en ligne. Développée à Montpellier avec et pour des collégien.nes, lycéen.nes, parents d’élèves, étudiant.es de l’enseignement supérieur et de la recherche, professionnel.les de la santé, de la solidarité et de l’éducation nationale, elle ne suppose aucun prérequis.
 
 ## Our campaigns
 
