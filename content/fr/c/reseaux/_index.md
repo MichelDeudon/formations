@@ -9,6 +9,21 @@ tags:
   - Réseaux Sociaux
   - Santé Physique
   - Santé Mentale
+  - Addiction
+  - Ateliers Sensibilisation
+  - Conseils Pratiques
+  - Débats
+  - Déconnexion
+  - Empathie
+  - Facebook
+  - GAFAM
+  - l'École et les Écrans
+  - la Santé et les Écrans
+  - Lien Social
+  - Plateformes
+  - Publicité
+  - Société
+  - Économie de l'attention
 ---
 
 ## Présentation
@@ -27,7 +42,7 @@ Cette formation, sous forme d'atelier collaboratif et interactif, est construit 
 2. Mise en pratique de la méthode 1-2-4-tous pour débattre : À quels besoins les réseaux sociaux répondent-ils? Comment me font-ils sentir? Quelles alternatives existent? Quelles solutions concrètes?
 3. Témoignages de personnes qui ont essayé de limiter leurs usages des réseaux sociaux, ou qui s’en sont libérés.
 
-À la fin de l’atelier, dans une démarche d’amélioration continue, les participants sont invités à résumer ce qu'ils ont aimés, appris et donner leur avis.
+À la fin de l’atelier, dans une démarche d’amélioration continue, les participants sont invités à résumer ce qu'ils ont aimés (ou non) et appris.
 
 👉 Voir notre extrait de propositions de l'atelier {{% staticref "uploads/Temoignages_reseaux_sociaux_Montpellier_juin_2023.pdf" %}}Les Jeunes et les Réseaux Sociaux{{% /staticref %}} en juin 2023.
 
@@ -35,7 +50,9 @@ Cette formation, sous forme d'atelier collaboratif et interactif, est construit 
 
 ### Attention et santé mentale
 
-Recueil de témoignages anonymes via un questionnaire.
+Recueil de témoignages anonymes via un questionnaire pour faire réfléchir et aider à prendre conscience.
+
+> _Je me sens épuisé et en manque d'énergie par manque d'activité physique. Aussi, je sens que ma capacité d'attention a baissé à cause des réseaux sociaux._ - Étudiant.e en Licence MIASHS (L2) à l'université Paul Valéry.
 
 👉 Voir notre extrait de réponses au questionnaire {{% staticref "uploads/Temoignages_reseaux_sociaux_Montpellier_mai_2023.pdf" %}}Résaux sociaux, Attention et Santé{{% /staticref %}} en mai 2023.
 
@@ -73,6 +90,12 @@ Alain Damasio, auteur de science fiction, témoigne également sur les réseaux 
 
 - [Nightline France](https://www.nightline.fr/). Soutien psy gratuit proche de chez toi. Un service d'écoute nocturne tenu par des étudiant·e·s pour une meilleure santé mentale étudiante.
 
+- Pour les étudiants à l’université, le Service Universitaire de Médecine Préventive et de Promotion de la Santé (SUMPPS) est un lieu d’écoute, d’information, de prévention, d’éducation à la santé, d’orientation, d’aide à la prise en charge et d’accompagnement. Le Centre de Soins Universitaire (CSU) propose des consultations de médecine générale, un soutien psychologique et psychiatrique. Liens: [SUMPPS](https://univ-montp3.fr/fr/vie-de-campus/sant%C3%A9/la-sant%C3%A9-des-%C3%A9tudiants) (Paul Valéry), [CSU](https://www.umontpellier.fr/en/campus/sante-social-et-handicap/centre-de-soins-universitaire) (université de Montpellier).
+
+- Pour les étudiant.e.s inscrit.e.s à l'université Paul Valéry, des pauses sophrologie](https://www.univ-montp3.fr/fr/vie-de-campus/sant%C3%A9/sophrologie), GRATUITES, sous forme de consultations individuelles, d'ateliers collectifs en présentiel et visioconférence, et d'enregistrements en accès libre, permettent de prendre du recul, relâcher les tensions, gérer ses émotions, se ressourcer, sortir du cercle vicieux des ruminations…
+
+- Pour les salariés, du public ou du privé, le médecin du travail est un médecin de prévention spécialisé dont les missions concourent à <i>prévenir toute altération de la santé des agents du fait de leur travail</i>. En particulier pour le personnel de l’université, voir le service de [Médecine du Travail](https://www.univ-montp3.fr/fr/vie-de-campus/sant%C3%A9/m%C3%A9decine-du-travail) (Paul Valéry).
+
 ## Références
 
 ### Pédagogiques
@@ -81,7 +104,7 @@ Alain Damasio, auteur de science fiction, témoigne également sur les réseaux 
 
 > Théories et Pratiques du Care. [TEPCARE](https://tepcare.hypotheses.org/). 2018
 
-### Écrans et santé / Économie de l'attention
+### Écrans et santé
 
 > Conf EcoInfo. [« Ecrans : menaces sur la santé »](https://ecoinfo.cnrs.fr/2023/02/27/conf-ecoinfo-ecrans-menaces-sur-la-sante-09-mai-2023/). 9 mai 2023. 
 
@@ -91,10 +114,14 @@ Alain Damasio, auteur de science fiction, témoigne également sur les réseaux 
 
 > Servane Mouton. Humanité et numérique - Les liaisons dangereuses. 2023.
 
-> [Facebook files](https://www.lemonde.fr/facebook-files/). Le Monde. 2021-2022.
+> Le Monde. [Facebook files](https://www.lemonde.fr/facebook-files/). 2021-2022.
 
-> Fabien Lebrun. On achève bien les enfants: écrans et barbarie numérique. le Bord de l'eau, 2020.
+> Fabien Lebrun. On achève bien les enfants: écrans et barbarie numérique. Le Bord de l'eau. 2020.
 
 > Sabine Duflo. Il ne décroche pas des écrans ! - La méthode des "4 pas" pour protéger le cerveau des enfants. 2020.
 
-> Michel Desmurget. La fabrique du crétin digital - Les dangers des écrans pour nos enfants. Média Diffusion, 2019.
+> Michel Desmurget. La fabrique du crétin digital - Les dangers des écrans pour nos enfants. Média Diffusion. 2019.
+
+### Données personnelles
+
+> CNIL. [Mission 1 - Informer, protéger les droits](https://www.cnil.fr/fr/mission-1-informer-proteger-les-droits). RGPD (règlement général sur la protection des données).
