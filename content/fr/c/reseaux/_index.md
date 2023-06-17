@@ -59,48 +59,42 @@ Recueil de témoignages anonymes via un questionnaire.
 
 ### Montpellier
 
-La [Cité de l'Économie et des Métiers de Demain](https://www.citedeleco.laregion.fr/) (CEMD) est un lieu unique, de la [Région Occitanie](https://www.laregion.fr/), pour embarquer vers une économie durable et inclusive. À l'occasion de la 20ème édition de la journée de l'Observatoire Régional de la Communication des Organisations (ORCO), organisée par les étudiant·es du [Master 2 Information-Communication](https://itic.www.univ-montp3.fr/fr/formation/masters/masters-info-com-cno-compaq-cpo) de l’Université [Paul-Valéry Montpellier 3](https://www.univ-montp3.fr/) le 12 mai 2023 à la [Cité de l'Économie et des Métiers de Demain](https://www.citedeleco.laregion.fr/), le Futur des Réseaux Sociaux est décrit <i>en un mot</i> par différentes générations: <i>désastreux</i>, <i>danger</i>, <i>invasion</i>, <i>malsain</i>, <i>dramatique</i>, <i>isolement</i>.
+La [Cité de l'Économie et des Métiers de Demain](https://www.citedeleco.laregion.fr/) est un lieu unique, de la [Région Occitanie](https://www.laregion.fr/), pour embarquer vers une économie durable et inclusive. Les étudiant·es du [Master 2 Information-Communication](https://itic.www.univ-montp3.fr/fr/formation/masters/masters-info-com-cno-compaq-cpo) de l’Université [Paul-Valéry Montpellier 3](https://www.univ-montp3.fr/) y ont organisé la 20ème édition de la journée de l'Observatoire Régional de la Communication des Organisations (ORCO), le 12 mai 2023. Dans la revue accompagnant la 20ème édition de l'ORCO, le Futur des Réseaux Sociaux est décrit <i>en un mot</i> par différentes générations: <i>désastreux</i>, <i>danger</i>, <i>invasion</i>, <i>malsain</i>, <i>dramatique</i>, <i>isolement</i>.
 
-Alain Damasio, auteur de science fiction, témoigne sur les réseaux sociaux, dans un interview pour Blast intitulé [Comment vivre et lutter face au capitalisme de surveillance ?](https://www.blast-info.fr/emissions/2023/comment-vivre-et-lutter-face-au-capitalisme-de-surveillance-n6ikLh60SOONUvL90mXXTg). Il y explique comment sa vision a évolué avec le temps, et le rôle des nouveaux imaginaires, des artists, de la culture...
+Alain Damasio, auteur de science fiction, témoigne également sur les réseaux sociaux, dans un interview pour Blast, le 12 mai 2023, intitulé [Comment vivre et lutter face au capitalisme de surveillance ?](https://www.blast-info.fr/emissions/2023/comment-vivre-et-lutter-face-au-capitalisme-de-surveillance-n6ikLh60SOONUvL90mXXTg) Il y explique comment sa vision a évolué avec le temps, et le rôle des artistes, de la culture, des nouveaux imaginaires...
 
 ### Collectifs, Assos
 
 [Lève les yeux!](https://www.levelesyeux.com/), [Framasoft](https://framasoft.org/fr/) mais aussi...
-
-## Références
-
-### Pédagogiques
-
-> _Le développement de l'intelligence est inséparable de celui de l'affectivité_ - Edgar Morin. Les Sept savoirs nécessaires à l'éducation du futur. 1999. [UNESCO](https://unesdoc.unesco.org/ark:/48223/pf0000117740_fre).
-
-> _Social emotional ecological learning_. Théories et Pratiques du Care ([TEPCARE](https://tepcare.hypotheses.org/)).
-
-### Écrans et santé
-
-> Conf EcoInfo. [« Ecrans : menaces sur la santé »](https://ecoinfo.cnrs.fr/2023/02/27/conf-ecoinfo-ecrans-menaces-sur-la-sante-09-mai-2023/). 9 mai 2023. 
-
-> Mediapart. [Écrans et santé : il est urgent d’agir !](https://blogs.mediapart.fr/emmanuel-prados/blog/020323/ecrans-et-sante-il-est-urgent-d-agir) 2 mars 2023.
-
-> Mouton, Servane. Humanité et numérique - Les liaisons dangereuses. 2023.
-
-> Lebrun, Fabien. On achève bien les enfants: écrans et barbarie numérique. le Bord de l'eau, 2020.
-
-> Duflo, Sabine. Il ne décroche pas des écrans ! - La méthode des "4 pas" pour protéger le cerveau des enfants. 2020.
-
-> Desmurget, Michel. La fabrique du crétin digital-Les dangers des écrans pour nos enfants. Média Diffusion, 2019.
-
-### Économie de l'attention
-
-> Levée de fonds de 105M€ pour la startup Mistral AI, valorisée à 260M€ - Arthur Mensch, <b>Timothée Lacroix</b> et <b>Guillaume Lample</b>. [OuestFrance](https://www.ouest-france.fr/economie/entreprises/innovation/comment-le-francais-mistral-ai-reve-de-devenir-un-geant-de-lintelligence-artificielle-b7faa170-0ab9-11ee-aae5-62a99b916a45). 14 juin 2023. (financement public: [Bpifrance](https://www.bpifrance.fr/) 🇫🇷).
-
-> Blast. [Comment Facebook et Zuckerberg ont détruit l'humanité (ou presque)](https://www.blast-info.fr/emissions/2023/comment-facebook-et-zuckerberg-ont-detruit-lhumanite-ou-presque-FYRVvhKnS1SKXpoROGTGMg). 30 avril 2023.
-
-> _On observe que la toxicité augmente avec la taille du modèle (...) nous prévoyons de publier des modèles plus grands_ - Hugo Touvron, Thibaut Lavril, Gautier Izacard... <b>Timothée Lacroix</b>... <b>Guillaume Lample</b> (Facebook). [ArXiv](https://arxiv.org/abs/2302.13971). 27 février 2023. (financement public: [CIFRE](https://www.enseignementsup-recherche.gouv.fr/fr/les-cifre-46510) 🇫🇷).
-
-> [Facebook files](https://www.lemonde.fr/facebook-files/). Le Monde. 2021-2022.
 
 ## Bon plans locaux / soutien
 
 - La [Maison des adolescents](https://mda34.org/) est un lieu d’expression et d'activités, qui prend soin de vous ! Une équipe de médecins, d'animateurs, éducateurs, psychologues, médiateurs, infirmieres et assistantes sociaux est à votre écoute pour vos projets de vie, famille, santé, scolarité... 
 
 - [Nightline France](https://www.nightline.fr/). Soutien psy gratuit proche de chez toi. Un service d'écoute nocturne tenu par des étudiant·e·s pour une meilleure santé mentale étudiante.
+
+## Références
+
+### Pédagogiques
+
+> _Le développement de l'intelligence est inséparable de celui de l'affectivité_ - Edgar Morin. Les Sept savoirs nécessaires à l'éducation du futur. [UNESCO](https://unesdoc.unesco.org/ark:/48223/pf0000117740_fre). 1999.
+
+> Théories et Pratiques du Care. [TEPCARE](https://tepcare.hypotheses.org/). 2018
+
+### Écrans et santé / Économie de l'attention
+
+> Conf EcoInfo. [« Ecrans : menaces sur la santé »](https://ecoinfo.cnrs.fr/2023/02/27/conf-ecoinfo-ecrans-menaces-sur-la-sante-09-mai-2023/). 9 mai 2023. 
+
+> Blast. [Comment Facebook et Zuckerberg ont détruit l'humanité (ou presque)](https://www.blast-info.fr/emissions/2023/comment-facebook-et-zuckerberg-ont-detruit-lhumanite-ou-presque-FYRVvhKnS1SKXpoROGTGMg). 30 avril 2023.
+
+> Mediapart. [Écrans et santé : il est urgent d’agir !](https://blogs.mediapart.fr/emmanuel-prados/blog/020323/ecrans-et-sante-il-est-urgent-d-agir) 2 mars 2023.
+
+> Servane Mouton. Humanité et numérique - Les liaisons dangereuses. 2023.
+
+> [Facebook files](https://www.lemonde.fr/facebook-files/). Le Monde. 2021-2022.
+
+> Fabien Lebrun. On achève bien les enfants: écrans et barbarie numérique. le Bord de l'eau, 2020.
+
+> Sabine Duflo. Il ne décroche pas des écrans ! - La méthode des "4 pas" pour protéger le cerveau des enfants. 2020.
+
+> Michel Desmurget. La fabrique du crétin digital - Les dangers des écrans pour nos enfants. Média Diffusion, 2019.
