@@ -13,10 +13,7 @@ tags:
   - Ateliers Sensibilisation
   - Conseils Pratiques
   - Débats
-  - Déconnexion
   - Empathie
-  - Facebook
-  - GAFAM
   - l'École et les Écrans
   - la Santé et les Écrans
   - Lien Social
@@ -80,21 +77,27 @@ La [Cité de l'Économie et des Métiers de Demain](https://www.citedeleco.lareg
 
 Alain Damasio, auteur de science fiction, témoigne également sur les réseaux sociaux, dans un interview pour Blast, le 12 mai 2023, intitulé [Comment vivre et lutter face au capitalisme de surveillance ?](https://www.blast-info.fr/emissions/2023/comment-vivre-et-lutter-face-au-capitalisme-de-surveillance-n6ikLh60SOONUvL90mXXTg) Il y explique comment sa vision a évolué avec le temps, et le rôle des artistes, de la culture, des nouveaux imaginaires...
 
-### Collectifs, Assos
+### Collectifs et Associations
 
-[Lève les yeux!](https://www.levelesyeux.com/), [Framasoft](https://framasoft.org/fr/) mais aussi...
+- [Lève les yeux !](https://www.levelesyeux.com/) promeut la déconnexion pour mieux préserver l'attention humaine, ressource rare et précieuse.
 
-## Bon plans locaux / soutien
+- [Framasoft](https://framasoft.org/fr/) propose des alternatives aux GAFAM.
+
+- [La Base](https://labasemontpellier.org/) propose des [Atelier d'autodéfense numérique](https://www.aleale.org/event/atelier-dautodefense-numerique-1).
+
+## Bon plans locaux et soutien
 
 - La [Maison des adolescents](https://mda34.org/) est un lieu d’expression et d'activités, qui prend soin de vous ! Une équipe de médecins, d'animateurs, éducateurs, psychologues, médiateurs, infirmieres et assistantes sociaux est à votre écoute pour vos projets de vie, famille, santé, scolarité... 
 
 - [Nightline France](https://www.nightline.fr/). Soutien psy gratuit proche de chez toi. Un service d'écoute nocturne tenu par des étudiant·e·s pour une meilleure santé mentale étudiante.
 
-- Pour les étudiants à l’université, le Service Universitaire de Médecine Préventive et de Promotion de la Santé (SUMPPS) est un lieu d’écoute, d’information, de prévention, d’éducation à la santé, d’orientation, d’aide à la prise en charge et d’accompagnement. Le Centre de Soins Universitaire (CSU) propose des consultations de médecine générale, un soutien psychologique et psychiatrique. Liens: [SUMPPS](https://univ-montp3.fr/fr/vie-de-campus/sant%C3%A9/la-sant%C3%A9-des-%C3%A9tudiants) (Paul Valéry), [CSU](https://www.umontpellier.fr/en/campus/sante-social-et-handicap/centre-de-soins-universitaire) (université de Montpellier).
+- Pour les étudiants à l’université, le Service Universitaire de Médecine Préventive et de Promotion de la Santé (SUMPPS) est un lieu d’écoute, d’information, de prévention, d’éducation à la santé, d’orientation, d’aide à la prise en charge et d’accompagnement. Lien: [SUMPPS](https://univ-montp3.fr/fr/vie-de-campus/sant%C3%A9/la-sant%C3%A9-des-%C3%A9tudiants) (Paul Valéry), [CSU](https://www.umontpellier.fr/en/campus/sante-social-et-handicap/centre-de-soins-universitaire) (université de Montpellier).
 
-- Pour les étudiant.e.s inscrit.e.s à l'université Paul Valéry, des pauses sophrologie](https://www.univ-montp3.fr/fr/vie-de-campus/sant%C3%A9/sophrologie), GRATUITES, sous forme de consultations individuelles, d'ateliers collectifs en présentiel et visioconférence, et d'enregistrements en accès libre, permettent de prendre du recul, relâcher les tensions, gérer ses émotions, se ressourcer, sortir du cercle vicieux des ruminations…
+- Le Centre de Soins Universitaire (CSU) propose des consultations de médecine générale, un soutien psychologique et psychiatrique. Lien: [CSU](https://www.umontpellier.fr/en/campus/sante-social-et-handicap/centre-de-soins-universitaire) (université de Montpellier).
 
-- Pour les salariés, du public ou du privé, le médecin du travail est un médecin de prévention spécialisé dont les missions concourent à <i>prévenir toute altération de la santé des agents du fait de leur travail</i>. En particulier pour le personnel de l’université, voir le service de [Médecine du Travail](https://www.univ-montp3.fr/fr/vie-de-campus/sant%C3%A9/m%C3%A9decine-du-travail) (Paul Valéry).
+- Pour les étudiant.e.s inscrit.e.s à l'université Paul Valéry, des [pauses sophrologie](https://www.univ-montp3.fr/fr/vie-de-campus/sant%C3%A9/sophrologie), GRATUITES, sous forme de consultations individuelles, d'ateliers collectifs en présentiel et visioconférence, et d'enregistrements en accès libre, permettent de prendre du recul, relâcher les tensions, gérer ses émotions, se ressourcer, sortir du cercle vicieux des ruminations…
+
+- Pour les salariés, du public ou du privé, le médecin du travail est un médecin de prévention spécialisé dont les missions concourent à <i>prévenir toute altération de la santé des agents du fait de leur travail</i>. Lien: [Médecine du Travail](https://www.univ-montp3.fr/fr/vie-de-campus/sant%C3%A9/m%C3%A9decine-du-travail) (Paul Valéry). Se syndiquer permet également de trouver / offrir du soutien.
 
 ## Références
 
@@ -122,6 +125,6 @@ Alain Damasio, auteur de science fiction, témoigne également sur les réseaux 
 
 > Michel Desmurget. La fabrique du crétin digital - Les dangers des écrans pour nos enfants. Média Diffusion. 2019.
 
-### Données personnelles
+### Droit et données personnelles
 
 > CNIL. [Mission 1 - Informer, protéger les droits](https://www.cnil.fr/fr/mission-1-informer-proteger-les-droits). RGPD (règlement général sur la protection des données).
