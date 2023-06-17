@@ -6,6 +6,9 @@ date: '2023-05-25'
 type: book
 tags:
   - Jeunes
+  - Réseaux Sociaux
+  - Santé Physique
+  - Santé Mentale
 ---
 
 ## Présentation
@@ -26,43 +29,78 @@ Cette formation, sous forme d'atelier collaboratif et interactif, est construit 
 
 À la fin de l’atelier, dans une démarche d’amélioration continue, les participants sont invités à résumer ce qu'ils ont aimés, appris et donner leur avis.
 
+👉 Voir notre extrait de propositions de l'atelier {{% staticref "uploads/Temoignages_reseaux_sociaux_Montpellier_juin_2023.pdf" %}}Les Jeunes et les Réseaux Sociaux{{% /staticref %}} en juin 2023.
+
 {{< figure src="local-seasonal/postit.jpg">}}
 
 ### Attention et santé mentale
 
 Recueil de témoignages anonymes via un questionnaire.
 
-### Événements
+👉 Voir notre extrait de réponses au questionnaire {{% staticref "uploads/Temoignages_reseaux_sociaux_Montpellier_mai_2023.pdf" %}}Résaux sociaux, Attention et Santé{{% /staticref %}} en mai 2023.
 
-#### Futurs
+{{< figure src="featured.png" caption="Je vis mes partiels sereinement. Partie I et II. Mai 2023. [@paulva_levetoi](https://www.instagram.com/paulva_levetoi/).">}}
 
-{{< icon name="calendar" pack="fas" >}} 16 Septembre 2023. Les Jeunes et les Réseaux Sociaux. TBA.
+## Événements
 
-{{< icon name="calendar" pack="fas" >}} 4 Septembre 2023. Les Jeunes et les Réseaux Sociaux. TBA.
+### Futurs
 
-#### Passés
+{{< icon name="calendar" pack="fas" >}} 7 et 19 Septembre 2023. Les Jeunes et les Jeux en Ligne. TBA.
+
+{{< icon name="calendar" pack="fas" >}} 4 et 16 Septembre 2023. Les Jeunes et les Réseaux Sociaux. TBA.
+
+### Passés
 
 {{< icon name="calendar" pack="fas" >}} 7 juin 2023. Les Jeunes et les Réseaux Sociaux. De 14h30 à 16h00, avec l'[association Générations Solidaires et Citoyennes](https://www.jeveuxaider.gouv.fr/organisations/4859-generations-solidaires-et-citoyennes), au centre social de la CAF. 410 Av. de Barcelone, 34080 Montpellier. 
 
-👉 Voir notre extrait de propositions de l'atelier {{% staticref "uploads/Temoignages_reseaux_sociaux_Montpellier_juin_2023.pdf" %}}Les Jeunes et les Réseaux Sociaux{{% /staticref %}}.
-
-{{< icon name="calendar" pack="fas" >}} 1er Mai 2023. Recueil de témoignages. 
-
-👉 Voir notre extrait de 32 réponses en mai 2023: <br>
-{{% staticref "uploads/Temoignages_reseaux_sociaux_Montpellier_mai_2023.pdf" %}}Résaux sociaux, attention et santé{{% /staticref %}}, majoritairement d'étudiants et d'étudiantes à l'université.
-
-{{< figure src="featured.png" caption="Je vis mes partiels sereinement. Partie I et II. Mai 2023. [@paulva_levetoi](https://www.instagram.com/paulva_levetoi/).">}}
+{{< icon name="calendar" pack="fas" >}} 1er Mai 2023. Recueil de témoignages.
 
 ## Ils en parlent près de chez vous
 
 ### Montpellier
 
-Le Futur des Réseaux Sociaux, vu par différentes Générations. En un mot, <i>"désastreux"</i>, <i>"danger"</i>, <i>"invasion"</i>, <i>"malsain"</i>, <i>"dramatique"</i>, <i>"isolement"</i>. ORCO 2023 20ème édition : retour vers le futur. 12 mai 2023.
+La [Cité de l'Économie et des Métiers de Demain](https://www.citedeleco.laregion.fr/) (CEMD) est un lieu unique, de la [Région Occitanie](https://www.laregion.fr/), pour embarquer vers une économie durable et inclusive. À l'occasion de la 20ème édition de la journée de l'Observatoire Régional de la Communication des Organisations (ORCO), organisée par les étudiant·es du [Master 2 Information-Communication](https://itic.www.univ-montp3.fr/fr/formation/masters/masters-info-com-cno-compaq-cpo) de l’Université [Paul-Valéry Montpellier 3](https://www.univ-montp3.fr/) le 12 mai 2023 à la [Cité de l'Économie et des Métiers de Demain](https://www.citedeleco.laregion.fr/), le Futur des Réseaux Sociaux est décrit <i>en un mot</i> par différentes générations: <i>désastreux</i>, <i>danger</i>, <i>invasion</i>, <i>malsain</i>, <i>dramatique</i>, <i>isolement</i>.
+
+Alain Damasio, auteur de science fiction, témoigne sur les réseaux sociaux, dans un interview pour Blast intitulé [Comment vivre et lutter face au capitalisme de surveillance ?](https://www.blast-info.fr/emissions/2023/comment-vivre-et-lutter-face-au-capitalisme-de-surveillance-n6ikLh60SOONUvL90mXXTg). Il y explique comment sa vision a évolué avec le temps, et le rôle des nouveaux imaginaires, des artists, de la culture...
 
 ### Collectifs, Assos
 
 [Lève les yeux!](https://www.levelesyeux.com/), [Framasoft](https://framasoft.org/fr/) mais aussi...
 
+## Références
+
+### Pédagogiques
+
+> _Le développement de l'intelligence est inséparable de celui de l'affectivité_ - Edgar Morin. Les Sept savoirs nécessaires à l'éducation du futur. 1999. [UNESCO](https://unesdoc.unesco.org/ark:/48223/pf0000117740_fre).
+
+> _Social emotional ecological learning_. Théories et Pratiques du Care ([TEPCARE](https://tepcare.hypotheses.org/)).
+
+### Écrans et santé
+
+> Conf EcoInfo. [« Ecrans : menaces sur la santé »](https://ecoinfo.cnrs.fr/2023/02/27/conf-ecoinfo-ecrans-menaces-sur-la-sante-09-mai-2023/). 9 mai 2023. 
+
+> Mediapart. [Écrans et santé : il est urgent d’agir !](https://blogs.mediapart.fr/emmanuel-prados/blog/020323/ecrans-et-sante-il-est-urgent-d-agir) 2 mars 2023.
+
+> Mouton, Servane. Humanité et numérique - Les liaisons dangereuses. 2023.
+
+> Lebrun, Fabien. On achève bien les enfants: écrans et barbarie numérique. le Bord de l'eau, 2020.
+
+> Duflo, Sabine. Il ne décroche pas des écrans ! - La méthode des "4 pas" pour protéger le cerveau des enfants. 2020.
+
+> Desmurget, Michel. La fabrique du crétin digital-Les dangers des écrans pour nos enfants. Média Diffusion, 2019.
+
+### Économie de l'attention
+
+> Levée de fonds de 105M€ pour la startup Mistral AI, valorisée à 260M€ - Arthur Mensch, <b>Timothée Lacroix</b> et <b>Guillaume Lample</b>. [OuestFrance](https://www.ouest-france.fr/economie/entreprises/innovation/comment-le-francais-mistral-ai-reve-de-devenir-un-geant-de-lintelligence-artificielle-b7faa170-0ab9-11ee-aae5-62a99b916a45). 14 juin 2023. (financement public: [Bpifrance](https://www.bpifrance.fr/) 🇫🇷).
+
+> Blast. [Comment Facebook et Zuckerberg ont détruit l'humanité (ou presque)](https://www.blast-info.fr/emissions/2023/comment-facebook-et-zuckerberg-ont-detruit-lhumanite-ou-presque-FYRVvhKnS1SKXpoROGTGMg). 30 avril 2023.
+
+> _On observe que la toxicité augmente avec la taille du modèle (...) nous prévoyons de publier des modèles plus grands_ - Hugo Touvron, Thibaut Lavril, Gautier Izacard... <b>Timothée Lacroix</b>... <b>Guillaume Lample</b> (Facebook). [ArXiv](https://arxiv.org/abs/2302.13971). 27 février 2023. (financement public: [CIFRE](https://www.enseignementsup-recherche.gouv.fr/fr/les-cifre-46510) 🇫🇷).
+
+> [Facebook files](https://www.lemonde.fr/facebook-files/). Le Monde. 2021-2022.
+
 ## Bon plans locaux / soutien
 
-À venir.
+- La [Maison des adolescents](https://mda34.org/) est un lieu d’expression et d'activités, qui prend soin de vous ! Une équipe de médecins, d'animateurs, éducateurs, psychologues, médiateurs, infirmieres et assistantes sociaux est à votre écoute pour vos projets de vie, famille, santé, scolarité... 
+
+- [Nightline France](https://www.nightline.fr/). Soutien psy gratuit proche de chez toi. Un service d'écoute nocturne tenu par des étudiant·e·s pour une meilleure santé mentale étudiante.
