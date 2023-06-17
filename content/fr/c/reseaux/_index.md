@@ -26,7 +26,7 @@ tags:
 
 Les réseaux sociaux creusent les inégalités sociales et divisent pour mieux régner. Une autre vision du monde existe, <i>“celle qui unit”</i> - Paul Valéry.
 
-Cette formation permet aux jeunes et à leur entourage de s'exprimer et de s'informer sur les réseaux sociaux, dans un cadre bienveillant, de découvrir des méthodes de débat, d'écoute attentive et d'intelligence collective, et chercher des alternatives pour lutter contre les inégalités sociales, les discriminations et violences en ligne. Développée à Montpellier avec et pour des collégien.nes, lycéen.nes, parents d'élèves, étudiant.es de l'enseignement supérieur et de la recherche, professionnel.les de la santé, de la solidarité et de l'éducation nationale, elle ne suppose pas de prérequis et s'adapte à vos besoins. Pour toute question ou pour planifier une session de formation, contactez Mich.
+Cette formation permet aux jeunes et à leur entourage de s'exprimer et de s'informer sur les réseaux sociaux, dans un cadre bienveillant, de découvrir des méthodes de débat, d'écoute attentive et d'intelligence collective, et chercher des alternatives pour lutter contre les inégalités sociales, les discriminations et violences en ligne. Développée à Montpellier avec et pour des collégien.nes, lycéen.nes, parents d'élèves, étudiant.es de l'enseignement supérieur et de la recherche, professionnel.les de la santé, de la solidarité et de l'éducation nationale, elle ne suppose pas de prérequis et s'adapte à vos besoins. Pour toute question ou pour planifier une session de formation, contacter Mich.
 
 ## Campagnes d'action
 
@@ -42,17 +42,17 @@ Cette formation, sous forme d'atelier collaboratif et interactif, est construit 
 
 👉 Voir notre extrait de propositions de l'atelier {{% staticref "uploads/Temoignages_reseaux_sociaux_Montpellier_juin_2023.pdf" %}}Les Jeunes et les Réseaux Sociaux{{% /staticref %}}, réalisé en juin 2023 dans le cadre du programme [Cités éducatives](https://www.citeseducatives.fr/).
 
-{{< figure src="reseaux/cites-educatives.png" caption="Le programme des [Cités éducatives](https://www.citeseducatives.fr/) vise à renforcer l'accompagnement des enfants et jeunes de 3 ans à 25 ans, pendant le temps scolaire, périscolaire et extrascolaire, en lien avec les familles. L'académie de Montpellier compte 7 cités éducatives, à Nîmes, Montpellier, Perpignan, Béziers, Sète, Lézignan-Corbières et Lunel: Le programme concerne 33 000 élèves, pour un budget de 3 millions d'euros.">}}
+{{< figure src="reseaux/cites-educatives.png" caption="Le programme des [Cités éducatives](https://www.citeseducatives.fr/) vise à renforcer l'accompagnement des jeunes et enfants de 3 ans à 25 ans, pendant le temps scolaire, périscolaire et extrascolaire, en lien avec les familles. L'académie de Montpellier compte 7 cités éducatives, à Nîmes, Montpellier, Perpignan, Béziers, Sète, Lézignan-Corbières, Lunel, et concerne 33 000 élèves.">}}
 
 ### Attention et santé mentale
 
 Recueil de témoignages anonymes via un questionnaire pour faire réfléchir et aider à prendre conscience.
 
-> _Je me sens épuisé et en manque d'énergie par manque d'activité physique. Aussi, je sens que ma capacité d'attention a baissé à cause des réseaux sociaux._ - Étudiant.e en Licence MIASHS (L2) à l'université Paul Valéry.
+> _Je me sens épuisé et en manque d'énergie par manque d'activité physique. Aussi, je sens que ma capacité d'attention a baissé à cause des réseaux sociaux._ - Étudiant.e en Licence MIASHS à l'université Paul Valéry.
 
 👉 Voir notre extrait de réponses au questionnaire {{% staticref "uploads/Temoignages_reseaux_sociaux_Montpellier_mai_2023.pdf" %}}Réseaux sociaux, Attention et Santé{{% /staticref %}} en mai 2023.
 
-{{< figure src="featured.png" caption="Je vis mes partiels sereinement. Partie I et II. Mai 2023. [@paulva_levetoi](https://www.instagram.com/paulva_levetoi/).">}}
+{{< figure src="featured.png" caption="Je vis mes partiels sereinement. Partie I et II. [@paulva_levetoi](https://www.instagram.com/paulva_levetoi/), mai 2023.">}}
 
 ## Événements
 
@@ -72,9 +72,9 @@ Recueil de témoignages anonymes via un questionnaire pour faire réfléchir et 
 
 ### Montpellier
 
-La [Cité de l'Économie et des Métiers de Demain](https://www.citedeleco.laregion.fr/) est un lieu unique de la [Région Occitanie](https://www.laregion.fr/) pour embarquer vers une économie durable et inclusive. Les étudiant·es du [Master 2 Information-Communication](https://itic.www.univ-montp3.fr/fr/formation/masters/masters-info-com-cno-compaq-cpo) de l'Université [Paul-Valéry Montpellier 3](https://www.univ-montp3.fr/) y ont organisé la 20ème édition de la journée de l'Observatoire Régional de la Communication des Organisations (ORCO), le 12 mai 2023. Dans la revue accompagnant la 20ème édition de l'ORCO, le Futur des Réseaux Sociaux est décrit <i>en un mot</i> par différentes générations: <i>désastreux</i>, <i>danger</i>, <i>invasion</i>, <i>malsain</i>, <i>dramatique</i>, <i>isolement</i>.
+La [Cité de l'Économie et des Métiers de Demain](https://www.citedeleco.laregion.fr/) est un lieu unique de la [Région Occitanie](https://www.laregion.fr/) pour embarquer vers une économie durable et inclusive. Les étudiant·es du [Master 2 Information-Communication](https://itic.www.univ-montp3.fr/fr/formation/masters/masters-info-com-cno-compaq-cpo) de l'Université [Paul-Valéry Montpellier 3](https://www.univ-montp3.fr/) y ont organisé la 20ème édition de la journée de l'Observatoire Régional de la Communication des Organisations (ORCO), le 12 mai 2023. Dans la revue accompagnant la 20ème édition de l'ORCO, le Futur des Réseaux Sociaux est décrit en un mot par différentes générations: <i>invasion</i>, <i>danger</i>, <i>malsain</i>, <i>désastreux</i>, <i>dramatique</i> et <i>isolement</i>.
 
-Alain Damasio, auteur de science fiction, témoigne également sur les réseaux sociaux, dans un interview pour Blast, le 12 mai 2023, intitulé [Comment vivre et lutter face au capitalisme de surveillance ?](https://www.blast-info.fr/emissions/2023/comment-vivre-et-lutter-face-au-capitalisme-de-surveillance-n6ikLh60SOONUvL90mXXTg) Il y explique comment sa vision a évolué avec le temps, et le rôle des artistes, de la culture, et des nouveaux imaginaires.
+Alain Damasio, auteur de science fiction, témoigne également sur les réseaux sociaux, dans un interview pour le média indépendant Blast, le 12 mai 2023, intitulé [Comment vivre et lutter face au capitalisme de surveillance ?](https://www.blast-info.fr/emissions/2023/comment-vivre-et-lutter-face-au-capitalisme-de-surveillance-n6ikLh60SOONUvL90mXXTg) Il y explique comment sa vision a évolué avec le temps, et le rôle des artistes, de la culture, et des nouveaux imaginaires.
 
 ### Collectifs et Associations
 
@@ -86,12 +86,12 @@ Alain Damasio, auteur de science fiction, témoigne également sur les réseaux 
 
 ## Bon plans locaux et soutien
 
-### Tu es un.e ado...
+### Tu es ado
 
 - La [Maison des adolescents](https://mda34.org/) est un lieu d'expression et d'activités, qui prend soin de toi ! Une équipe de médecins, d'animateurs, éducateurs, psychologues, médiateurs, infirmieres et assistantes sociaux est à votre écoute pour vos projets de vie, famille, santé, scolarité... 
 - Voir aussi la Direction de Région académique à la Jeunesse, à l'Engagement et aux Sports [DRAJES](https://www.ac-montpellier.fr/DRAJES-123047).
 
-### Tu es un.e étudiant.e...
+### Tu es étudiant.e
 
 - [Nightline France](https://www.nightline.fr/). Soutien psy gratuit proche de chez toi. Un service d'écoute nocturne tenu par des étudiant·e·s pour une meilleure santé mentale étudiante.
 
@@ -101,9 +101,9 @@ Alain Damasio, auteur de science fiction, témoigne également sur les réseaux 
 
 - Pour les étudiant.e.s inscrit.e.s à l'université Paul Valéry, des [pauses sophrologie](https://www.univ-montp3.fr/fr/vie-de-campus/sant%C3%A9/sophrologie) gratuites, sous forme de consultations individuelles, d'ateliers collectifs, et d'enregistrements en accès libre, peuvent t'aider à prendre du recul, relâcher les tensions, gérer tes émotions, te ressourcer, sortir du cercle vicieux des ruminations, etc.
 
-### Tu es salarié.e...
+### Tu es salarié.e
 
-- Pour les salariés (public ou privé), le médecin du travail est un médecin de prévention spécialisé dont les missions concourent à <i>prévenir toute altération de la santé des agents du fait de leur travail</i>. Lien: [Médecine du Travail](https://www.univ-montp3.fr/fr/vie-de-campus/sant%C3%A9/m%C3%A9decine-du-travail) (Paul Valéry). Se syndiquer permet également aider à trouver / offrir du soutien.
+- Pour les salariés (public ou privé), le médecin du travail est un médecin de prévention spécialisé dont les missions concourent à <i>prévenir toute altération de la santé des agents du fait de leur travail</i>. Lien: [Médecine du Travail](https://www.univ-montp3.fr/fr/vie-de-campus/sant%C3%A9/m%C3%A9decine-du-travail) (Paul Valéry). Se syndiquer peut aussi t'aider à trouver du soutien ou en offrir.
 
 ### Ouvert à tous et à toutes
 
@@ -114,13 +114,11 @@ Alain Damasio, auteur de science fiction, témoigne également sur les réseaux 
 
 ### Pédagogiques
 
-> _Le développement de l'intelligence est inséparable de celui de l'affectivité_ - Edgar Morin. Les Sept savoirs nécessaires à l'éducation du futur. [UNESCO](https://unesdoc.unesco.org/ark:/48223/pf0000117740_fre). 1999.
-
 > Théories et Pratiques du Care. [TEPCARE](https://tepcare.hypotheses.org/). 2018
 
-### Écrans et santé
+> _Le développement de l'intelligence est inséparable de celui de l'affectivité_ - Edgar Morin. Les Sept savoirs nécessaires à l'éducation du futur. [UNESCO](https://unesdoc.unesco.org/ark:/48223/pf0000117740_fre). 1999.
 
-> Conf EcoInfo. [« Ecrans : menaces sur la santé »](https://ecoinfo.cnrs.fr/2023/02/27/conf-ecoinfo-ecrans-menaces-sur-la-sante-09-mai-2023/). 9 mai 2023. 
+### Écrans et santé
 
 > Blast. [Comment Facebook et Zuckerberg ont détruit l'humanité (ou presque)](https://www.blast-info.fr/emissions/2023/comment-facebook-et-zuckerberg-ont-detruit-lhumanite-ou-presque-FYRVvhKnS1SKXpoROGTGMg). 30 avril 2023.
 
