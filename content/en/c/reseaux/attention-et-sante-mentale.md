@@ -26,8 +26,8 @@ Collection of anonymous testimonies via a questionnaire to help raise awareness.
 
 <!--more-->
 
-<i>I feel exhausted and lacking energy due to a lack of physical activity. Also, I feel that my attention has dropped because of social networks.</i> - MIASHS undergraduate student at Paul Valéry University.
+> _I feel exhausted and lacking energy due to a lack of physical activity. Also, I feel that my attention has dropped because of social networks._ - MIASHS undergraduate student at Paul Valéry University.
 
 👉 See our sample of answers to the questionnaire {{% staticref "uploads/Temoignages_reseaux_sociaux_Montpellier_mai_2023.pdf" %}}Social networks, Attention and Health{{% /staticref %}} in May 2023.
 
-{{< figure src="featured.png" caption="I live my partials serenely. Part I and II. [@paulva_levetoi](https://www.instagram.com/paulva_levetoi/), May 2023.">} }
+{{< figure src="featured.png" caption="I live my partials serenely. Part I and II. [@paulva_levetoi](https://www.instagram.com/paulva_levetoi/), May 2023.">}}
