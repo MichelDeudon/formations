@@ -26,7 +26,7 @@ Recueil de témoignages anonymes via un questionnaire pour aider à prendre cons
 
 <!--more-->
 
-> _Je suis tombé malade, en tant qu’étudiant en 2020 et professeur en 2023, à enseigner sur les écrans, et sentir mes élèves décrocher sans les voir. J’avais le sentiment d’être isolé face à des médias et réseaux sociaux qui détournent l'attention._ - XX, enseignant contractuel en licence/master MIASHS, juin 2023.
+> _Je suis tombé malade, en tant qu’étudiant en 2020 et professeur en 2023, à enseigner sur les écrans, et sentir mes élèves décrocher sans les voir._ - XX, enseignant contractuel en licence/master MIASHS, juin 2023.
 
 > _Je me sens épuisé et en manque d'énergie par manque d'activité physique. Aussi, je sens que ma capacité d'attention a baissé à cause des réseaux sociaux._ - XX, étudiant en licence MIASHS, mai 2023.
 

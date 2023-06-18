@@ -26,7 +26,7 @@ Collection of anonymous testimonies via a questionnaire to help raise awareness.
 
 <!--more-->
 
-> _I got sick, as a student in 2020 and a teacher in 2023, teaching on screens, and feeling my students drop out without seeing them. I felt isolated, alone against disinforming social media._ - XX, MIASHS teacher at Paul Valéry University, June 2023.
+> _I got sick, as a student in 2020 and a teacher in 2023, teaching on screens, and feeling my students drop out without seeing them._ - XX, MIASHS teacher at Paul Valéry University, June 2023.
 
 > _I feel exhausted and lacking energy due to a lack of physical activity. Also, I feel that my attention has dropped because of social networks._ - XX, MIASHS undergraduate student at Paul Valéry University, May 2023.
 

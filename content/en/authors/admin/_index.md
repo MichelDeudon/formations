@@ -6,7 +6,7 @@ title: Michel Deudon
 superuser: true
 
 # Role/position
-role: Science professor, entrepreneur, animator and volunteer
+role: Professor, animator, volunteer
 
 # Organizations/Affiliations
 organizations:
