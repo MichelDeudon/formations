@@ -30,4 +30,4 @@ Collection of anonymous testimonies via a questionnaire to help raise awareness.
 
 👉 See our sample of answers to the questionnaire {{% staticref "uploads/Temoignages_reseaux_sociaux_Montpellier_mai_2023.pdf" %}}Social networks, Attention and Health{{% /staticref %}} in May 2023.
 
-{{< figure src="featured.png" caption="I live my partials serenely. Part I and II. [@paulva_levetoi](https://www.instagram.com/paulva_levetoi/), May 2023.">}}
+{{< figure src="reseaux/paulva_levetoi.png" caption="I live my partials serenely. Part I and II. [@paulva_levetoi](https://www.instagram.com/paulva_levetoi/), May 2023.">}}
