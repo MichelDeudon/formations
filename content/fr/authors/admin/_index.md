@@ -6,7 +6,7 @@ title: Michel Deudon
 superuser: true
 
 # Role/position
-role: Professeur de sciences
+role: Professeur de sciences, entrepreneur, animateur et bénévole
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
     url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mes intérêts de recherche incluent la psychologie, l'apprentissage des langues et l'écologie.
+bio: Mes intérêts de recherche incluent l'écologie, la psychologie et l'apprentissage des langues.
 
 interests:
   - Ecologie
@@ -45,4 +45,4 @@ user_groups:
   - Teachers
 ---
 
-Bonjour! Je m'appelle Michel, je suis né à New York, passionné par l'écologie et la psychologie. J'enseigne les [sciences](https://www.mtpcours.fr/c/physique-chimie/) et l'[anglais](https://www.mtpcours.fr/c/english/), au lycée et supérieur depuis 2012. En 2020, j'ai co-fondé [Local Seasonal](https://www.mtpcours.fr/c/local-seasonal/), une association pour célébrer la diversité au fil des saisons. Depuis 2022, j'enseigne à Montpellier et j'anime des ateliers préventifs sur les [réseaux sociaux](https://www.mtpcours.fr/c/reseaux/) et la [désinformation](https://www.mtpcours.fr/c/desinformation/). Dans mon temps libre, j'aime danser, faire du roller et les activités de plein air.
+Bonjour! Je m'appelle Michel, Mich, Michou... je suis né à New York, passionné par l'écologie et la psychologie. J'enseigne les [sciences](https://www.mtpcours.fr/c/physique-chimie/) et l'[anglais](https://www.mtpcours.fr/c/english/), au lycée et supérieur depuis 2012. En 2020, j'ai co-fondé [Local Seasonal](https://www.mtpcours.fr/c/local-seasonal/), une association pour célébrer la diversité au fil des saisons. Depuis 2022, j'enseigne à Montpellier et j'anime des ateliers préventifs sur les [réseaux sociaux](https://www.mtpcours.fr/c/reseaux/) et la [désinformation](https://www.mtpcours.fr/c/desinformation/). Dans mon temps libre, j'aime danser, faire du roller et les activités de plein air.

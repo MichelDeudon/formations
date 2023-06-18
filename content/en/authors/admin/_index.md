@@ -6,7 +6,7 @@ title: Michel Deudon
 superuser: true
 
 # Role/position
-role: Science Professor
+role: Science professor, entrepreneur, animator and volunteer
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
     url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include psychology, language learning and ecology.
+bio: My research interests include ecology, psychology and language learning.
 
 interests:
   - Ecology

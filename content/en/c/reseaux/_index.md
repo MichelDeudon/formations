@@ -1,59 +1,117 @@
 ---
-title: Social Media, Attention and Health - Preventive Workshop
-linkTitle: Social Media
-summary: Preventive workshops to help students express themselves in a benevolent environment, and learn, to raise awareness on alternatives to social networks.
+title: Preventive Workshops on Social Networks
+linkTitle: Social Networks
+summary: Preventive workshops to help young people express themselves, in a benevolent environment, and raise awareness on risks and alternatives to social networks, open to the public.
 date: '2023-05-25'
 type: book
 tags:
-  - Youth
+   - Youth
+   - Social Networks
+   - Physical Health
+   - Mental Health
+   - Addiction
+   - Awareness workshops
+   - Practical Advice
+   - Debates
+   - Empathy
+   - School and Screens
+   - Health and Screens
+   - Social Link
+   - Advertisement
+   - Society
+   - Attention Economy
 ---
-
-{{< figure src="featured.png" caption="Je vis mes partiels sereinement. Partie I et II. Avril-Mai 2023. [@paulva_levetoi](https://www.instagram.com/paulva_levetoi/).">}}
 
 ## Presentation
 
-Cette formation permet aux jeunes et à leur entourage de s’exprimer, de s’informer dans un cadre bienveillant, de découvrir des méthodes de débat et d’intelligence collective, et chercher des alternatives pour lutter contre les inégalités sociales, les discriminations et violences en ligne. Développée à Montpellier avec et pour des collégien.nes, lycéen.nes, parents d’élèves, étudiant.es de l’enseignement supérieur et de la recherche, professionnel.les de la santé, de la solidarité et de l’éducation nationale, elle ne suppose aucun prérequis.
+GAFAM and social networks deepen social inequalities, and divide to conquer. Another vision of the world exists, <i>"one that unites"</i> - Paul Valéry.
 
-## Our campaigns
+The trainings offered helps young people and those around them to express themselves and be informed on social networks, in a caring environment, to discover methods of debate, attentive listening and collective intelligence, and to seek alternatives, to fight against social inequalities, discriminations and online violence.
 
-Les réseaux sociaux creusent les inégalités sociales et divisent pour mieux régner. Une autre vision du monde existe, <i>“celle qui unit”</i> disait Paul Valéry.
+Developed in Montpellier with and for middle school and high school students, parents, students in higher education and research, healthcare, solidarity and national education professionals, they do not assume any prerequisites and adapt to your needs. For any questions or to schedule a training session, contact Mich.
 
-### Les Jeunes et les Réseaux Sociaux
+## Action Campaigns
 
-{{< icon name="calendar" pack="fas" >}} Cités Éducatives workshop - June 7, 2023
+{{< list_children >}}
 
-Avec l'[association Générations Solidaires et Citoyennes](https://www.jeveuxaider.gouv.fr/organisations/4859-generations-solidaires-et-citoyennes).
+## Events
 
-De 14h30 à 16h00, au centre social de la CAF. 410 Av. de Barcelone, 34080 Montpellier.
+### Futures
 
-Cet atelier collaboratif et interactif, s'est construit autour de 3 temps : 
+{{< icon name="calendar" pack="fas" >}} September 7 and 19, 2023. Youth and Social Networks. TBA.
 
-1. Introduction sur les étoiles du quartier.
-2. Mise en pratique de la méthode 1-2-4-tous pour débattre : À quels besoins les réseaux sociaux répondent-ils? Comment me font-ils sentir? Quelles alternatives existent? Quelles solutions concrètes?
-3. Témoignages de personnes qui ont essayé de limiter leurs usages des réseaux sociaux, ou qui s’en sont libérés.
+{{< icon name="calendar" pack="fas" >}} September 4 and 16, 2023. Youth and Online Games. TBA.
 
-À la fin de l’atelier, dans une démarche d’amélioration continue, les participants étaient invités à résumer ce qu'ils ont appris et donner leur avis (anonyme).
+### Past
 
-Voir notre extrait de propositions de l'atelier {{% staticref "uploads/Temoignages_reseaux_sociaux_Montpellier_juin_2023.pdf" %}}Les Jeunes et les Réseaux Sociaux{{% /staticref %}}.
+{{< icon name="calendar" pack="fas" >}} June 7, 2023. Youth and Social Networks. From 2:30 p.m. to 4:00 p.m., with the [Générations Solidaires et Citoyennes association](https://www.jeveuxaider.gouv.fr/organisations/4859-generations-solidaires-et-citoyennes), at the CAF social center. 410 Av. de Barcelona, 34080 Montpellier.
 
-{{< figure src="local-seasonal/postit.jpg" caption="Debatting with post it.">}}
+{{< icon name="calendar" pack="fas" >}} May 1, 2023. Collection of anonymous testimonies.
 
-### Résaux sociaux, attention et santé
-
-{{< icon name="calendar" pack="fas" >}} Recueil de 32 témoignages - May 2023
-
-Voir notre extrait de réponses au questionnaire {{% staticref "uploads/Temoignages_reseaux_sociaux_Montpellier_mai_2023.pdf" %}}Résaux sociaux, attention et santé{{% /staticref %}}.
-
-## Ils en parlent près de chez vous
+## They talk about it near you
 
 ### Montpellier
 
-Le Futur des Réseaux Sociaux, vu par différentes Générations. En un mot, <i>"désastreux"</i>, <i>"danger"</i>, <i>"invasion"</i>, <i>"malsain"</i>, <i>"dramatique"</i>, <i>"isolement"</i>. ORCO 2023 20ème édition : retour vers le futur. 12 mai 2023.
+The [Cité de l'Économie et des Métiers de Demain](https://www.citedeleco.laregion.fr/) is a unique place in the [Occitanie Region](https://www.laregion.fr/) to embark on a sustainable and inclusive economy. The students of the [Master 2 Information-Communication](https://itic.www.univ-montp3.fr/fr/formation/masters/masters-info-com-cno-compaq-cpo) of the University [ Paul-Valéry Montpellier 3](https://www.univ-montp3.fr/) organized the 20th edition of the Regional Observatory of Organizational Communication (ORCO) day there, on May 12, 2023. In the magazine accompanying the 20th edition of ORCO, the Future of Social Networks is described in one word by different generations: <i>invasion</i>, <i>danger</i>, <i>unhealthy</i> , <i>disastrous</i>, <i>dramatic</i> and <i>isolation</i>.
 
-### Collectifs, Assos
+Alain Damasio, a science fiction author, also testifies on social networks, in an interview for the independent media Blast, on May 12, 2023, entitled [How to live and fight against surveillance capitalism?](https://www.blast-info.fr/emissions/2023/comment-vivre-et-lutter-face-au-capitalisme-de-surveillance-n6ikLh60SOONUvL90mXXTg) He explains how his vision has evolved over time, and the role of artists, culture, and new imaginaries.
 
-[Lève les yeux!](https://www.levelesyeux.com/), [Framasoft](https://framasoft.org/en/) mais aussi...
+👉 See also the article in Le Monde on May 27, 2028 {{% staticref "uploads/Les Etoiles de la Mosson - Montpellier 2028.pdf" %}}The Mosson team, qualified for the 2028 Olympic Games in freestyle skating {{% /staticref %}}.
 
-## Bon plans locaux / soutien
+### Collectives and Associations
 
-À venir.
+- [Leve les yeux !](https://www.levelesyeux.com/) promotes disconnection to better preserve human attention, a rare and precious resource.
+
+- [Framasoft](https://framasoft.org/fr/) offers alternatives to GAFAM.
+
+- [La Base](https://labasemontpellier.org/) offers [Digital self-defense workshops](https://www.aleale.org/event/atelier-dautodefense-numerique-1).
+
+## Local tips and support
+
+### You are a teenager
+
+- The [Maison des adolescents](https://mda34.org/) is a place of expression and activities, which takes care of you! A team of doctors, facilitators, educators, psychologists, mediators, nurses and social workers is at your disposal for your life, family, health, education projects...
+- See also the Academic Region Directorate for Youth, Engagement and Sports [DRAJES](https://www.ac-montpellier.fr/DRAJES-123047).
+
+### You are a student
+
+- [Nightline France](https://www.nightline.fr/). Free psychiatric support near you. A nightly listening service run by students for better student mental health.
+
+- For students at Paul Valéry University, the [University Department of Preventive Medicine and Health Promotion](https://univ-montp3.fr/fr/vie-de-campus/sant%C3%A9/la-sant%C3%A9-des-%C3%A9tudiants) (SUMPPS) is a place for listening, information, prevention, health education, guidance and support. Free [sophrology breaks](https://www.univ-montp3.fr/fr/vie-de-campus/sant%C3%A9/sophrologie), in the form of individual consultations, group workshops, and free access recordings, are also available and can help you take a step back, release tension, manage your emotions, recharge your batteries, get out of the vicious circle of ruminations, etc.
+
+- The [University Care Center](https://www.umontpellier.fr/en/campus/sante-social-et-handicap/centre-de-soins-universitaire) (CSU) offers general medicine consultations, a psychological and psychiatric support.
+
+### You are an employee
+
+For employees (public or private sector), the <i>médecin du travail</i> is a specialist prevention doctor whose missions contribute to <i>preventing any deterioration in the health of agents as a result of their work</i>. Link: [Médecine du travail](https://www.univ-montp3.fr/fr/vie-de-campus/sant%C3%A9/m%C3%A9decine-du-travail) (Paul Valéry). Joining a union can also help you find or offer support.
+
+### Open to everyone
+
+- [Les maisons pour tous](https://www.montpellier.fr/3791-maisons-pour-tous.htm) are places of discovery, relaxation, culture, expression, learning, sport and conviviality, and offer more than 500 different activities supervised by City officials or by qualified associations.
+- See also the CAF Social Center of La Paillade - [l'île aux familles](https://www.cultureetsportsolidaires34.fr/Partenaires/_Centre-Social-CAF-Paillade-l-ile-aux-familles).
+
+## References
+
+### Educational
+
+> Theories and Practices of Care. [TEPCARE](https://tepcare.hypotheses.org/). 2018.
+
+> _The development of intelligence is inseparable from that of affectivity_ - Edgar Morin. The Seven Knowledges Necessary for the Education of the Future. [UNESCO](https://unesdoc.unesco.org/ark:/48223/pf0000117740_eng). 1999.
+
+### Screens and health
+
+> Blast. [How Facebook and Zuckerberg destroyed humanity (or almost)](https://www.blast-info.fr/emissions/2023/comment-facebook-et-zuckerberg-ont-detruit-lhumanite-ou-presque-FYRVvhKnS1SKXpoROGTGMg). April 30, 2023.
+
+> Mediapart. [Screens and health: it is urgent to act!](https://blogs.mediapart.fr/emmanuel-prados/blog/020323/ecrans-et-sante-il-est-urgent-d-agir) March 2 2023.
+
+> Servane Mouton. Humanity and digital - Dangerous liaisons. 2023.
+
+> The World. [Facebook files](https://www.lemonde.fr/facebook-files/). 2021-2022.
+
+> Sabine Duflo. He does not quit screens! - The "4 steps" method to protect children's brains. 2020.
+
+> Michel Desmurget. The factory of the digital cretin - The dangers of screens for our children. Media Broadcast. 2019.
+
+### Law and personal data
+
+> CNIL. [Mission 1 - Inform, protect rights](https://www.cnil.fr/fr/mission-1-informar-proteger-les-droits). GDPR (General Data Protection Regulation).
