@@ -26,8 +26,12 @@ Collection of anonymous testimonies via a questionnaire to help raise awareness.
 
 <!--more-->
 
-> _I feel exhausted and lacking energy due to a lack of physical activity. Also, I feel that my attention has dropped because of social networks._ - MIASHS undergraduate student at Paul Valéry University.
+> _I got sick, as a student in 2020 and a teacher in 2023, teaching on screens, and feeling my students drop out without seeing them. I felt isolated, alone against disinforming social media._ - XX, MIASHS teacher at Paul Valéry University, June 2023.
+
+> _I feel exhausted and lacking energy due to a lack of physical activity. Also, I feel that my attention has dropped because of social networks._ - XX, MIASHS undergraduate student at Paul Valéry University, May 2023.
 
 👉 See our sample of answers to the questionnaire {{% staticref "uploads/Temoignages_reseaux_sociaux_Montpellier_mai_2023.pdf" %}}Social networks, Attention and Health{{% /staticref %}} in May 2023.
 
-{{< figure src="reseaux/paulva_levetoi.png" caption="I live my partials serenely. Part I and II. [@paulva_levetoi](https://www.instagram.com/paulva_levetoi/), May 2023.">}}
+👉 See our manifesto {{% staticref "u/Manifeste-cellule-de-crise-sante-mentale-toustes.pdf" %}}A crisis cell for everyone's mental health{{% /staticref %}}, in May, 2023.
+
+{{< figure src="reseaux/paulva_levetoi.png" caption="I live my exams serenely. Part I and II. [@paulva_levetoi](https://www.instagram.com/paulva_levetoi/), in May, 2023.">}}

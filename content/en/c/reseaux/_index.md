@@ -36,7 +36,7 @@ Developed in Montpellier with and for middle school and high school students, pa
 
 ## Events
 
-### Futures
+### Future
 
 {{< icon name="calendar" pack="fas" >}} September 7 and 19, 2023. Youth and Social Networks. TBA.
 
