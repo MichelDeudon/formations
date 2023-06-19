@@ -32,6 +32,8 @@ Collection of anonymous testimonies via a questionnaire to help raise awareness.
 
 👉 See our sample of answers to the questionnaire {{% staticref "uploads/Temoignages_reseaux_sociaux_Montpellier_mai_2023.pdf" %}}Social networks, Attention and Health{{% /staticref %}} in May 2023.
 
+👉 Our questionnaire is open, you can access it [here](https://framaforms.org/reseaux-sociaux-attention-et-sante-mentale-1687119437)!
+
 👉 See our manifesto {{% staticref "u/Manifeste-cellule-de-crise-sante-mentale-toustes.pdf" %}}A crisis cell for everyone's mental health{{% /staticref %}}, in May, 2023.
 
 {{< figure src="reseaux/paulva_levetoi.png" caption="I live my exams serenely. Part I and II. [@paulva_levetoi](https://www.instagram.com/paulva_levetoi/), in May, 2023.">}}

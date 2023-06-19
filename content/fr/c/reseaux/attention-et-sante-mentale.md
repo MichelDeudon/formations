@@ -32,6 +32,8 @@ Recueil de témoignages anonymes via un questionnaire pour aider à prendre cons
 
 👉 Voir notre extrait de réponses au questionnaire {{% staticref "uploads/Temoignages_reseaux_sociaux_Montpellier_mai_2023.pdf" %}}Réseaux sociaux, Attention et Santé{{% /staticref %}} en mai 2023.
 
+👉 Notre questionnaire est toujours ouvert, pour y répondre, c'est par [ici](https://framaforms.org/reseaux-sociaux-attention-et-sante-mentale-1687119437) !
+
 👉 Voir notre manifeste {{% staticref "u/Manifeste-cellule-de-crise-sante-mentale-toustes.pdf" %}}Une cellule de crise pour parler de la santé mentale de tous et de toutes{{% /staticref %}}, votée à l'Assemblée Générale de Paul Valéry en mai 2023.
 
 {{< figure src="reseaux/paulva_levetoi.png" caption="Je vis mes partiels sereinement. Partie I et II. [@paulva_levetoi](https://www.instagram.com/paulva_levetoi/), en mai 2023.">}}
