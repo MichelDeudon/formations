@@ -46,7 +46,7 @@ Privilégier la qualité sur la quantité.
 
 Déstigmatiser les addictions aux réseaux sociaux, [la dépression](https://www.youtube.com/watch?v=MN3D0uLEERU&ab_channel=GDGFrance). Parler de <b>santé physique</b>, de <b>santé mentale</b>, des <b>émotions</b>... de notre [rapport au travail](https://www.mtpcours.fr/c/desinformation/rapport-villani/), de l’urgence écologique.
 
-<b>Appel à contributions</b>: {{<hl>}}[Témoigner](https://annuel2.framapad.org/p/reseaux-sociaux-sante-mentale-a0fk?lang=fr) de l'impact des réseaux sociaux{{</hl>}}. Créer et partager du contenu, des entretiens, du visuel, une démarche incitative pour attirer les jeunes (impact par participation et au total).
+<b>Appel à contributions</b>: {{<hl>}}[Témoigner](https://framaforms.org/reseaux-sociaux-attention-et-sante-mentale-1687119437) de l'impact des réseaux sociaux{{</hl>}}. Créer et partager du contenu, des entretiens, du visuel, une démarche incitative pour attirer les jeunes (impact par participation et au total).
 
 ## 4. Donner du sens à l’avenir
 

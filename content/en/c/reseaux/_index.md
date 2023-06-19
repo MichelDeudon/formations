@@ -80,7 +80,7 @@ Alain Damasio, a science fiction author, also testifies on social networks, in a
 {{< /spoiler >}}
 
 {{< spoiler text="You are an employee" >}}
-For employees (public or private sector), the <i>médecin du travail</i> is a specialist prevention doctor whose missions contribute to <i>preventing any deterioration in the health of agents as a result of their work</i>. Link: [Médecine du travail](https://www.univ-montp3.fr/fr/vie-de-campus/sant%C3%A9/m%C3%A9decine-du-travail) (Paul Valéry). Joining a union can also help you find or offer support.
+For employees (public or private sector), the <i>[médecin du travail](https://www.univ-montp3.fr/fr/vie-de-campus/sant%C3%A9/m%C3%A9decine-du-travail)</i> is a specialist prevention doctor whose missions contribute to <i>preventing any deterioration in the health of agents as a result of their work</i>. Joining a union can also help you find or offer support.
 {{< /spoiler >}}
 
 {{< spoiler text="Open to everyone" >}}
@@ -98,13 +98,9 @@ For employees (public or private sector), the <i>médecin du travail</i> is a sp
 
 ### Screens and health
 
-> Blast. [How Facebook and Zuckerberg destroyed humanity (or almost)](https://www.blast-info.fr/emissions/2023/comment-facebook-et-zuckerberg-ont-detruit-lhumanite-ou-presque-FYRVvhKnS1SKXpoROGTGMg). April 30, 2023.
-
 > Mediapart. [Screens and health: it is urgent to act!](https://blogs.mediapart.fr/emmanuel-prados/blog/020323/ecrans-et-sante-il-est-urgent-d-agir) March 2 2023.
 
 > Servane Mouton. Humanity and digital - Dangerous liaisons. 2023.
-
-> The World. [Facebook files](https://www.lemonde.fr/facebook-files/). 2021-2022.
 
 > Sabine Duflo. He does not quit screens! - The "4 steps" method to protect children's brains. 2020.
 

@@ -64,7 +64,7 @@ Alain Damasio, auteur de science fiction, témoigne également sur les réseaux 
 
 - [Framasoft](https://framasoft.org/fr/) propose des alternatives aux GAFAM.
 
-- [La Base](https://labasemontpellier.org/) propose des [Atelier d'autodéfense numérique](https://www.aleale.org/event/atelier-dautodefense-numerique-1).
+- [La Base](https://labasemontpellier.org/) propose des [Ateliers d'autodéfense numérique](https://www.aleale.org/event/atelier-dautodefense-numerique-1).
 
 ## Bon plans locaux et soutien
 
@@ -80,7 +80,7 @@ Alain Damasio, auteur de science fiction, témoigne également sur les réseaux 
 {{< /spoiler >}}
 
 {{< spoiler text="Tu es salarié.e" >}}
-Pour les salariés (public ou privé), le médecin du travail est un médecin de prévention spécialisé dont les missions concourent à <i>prévenir toute altération de la santé des agents du fait de leur travail</i>. Lien: [Médecine du Travail](https://www.univ-montp3.fr/fr/vie-de-campus/sant%C3%A9/m%C3%A9decine-du-travail) (Paul Valéry). Se syndiquer peut aussi t'aider à trouver du soutien ou en offrir.
+Pour les salariés (public ou privé), le [médecin du Travail](https://www.univ-montp3.fr/fr/vie-de-campus/sant%C3%A9/m%C3%A9decine-du-travail) est un médecin de prévention spécialisé dont les missions concourent à <i>prévenir toute altération de la santé des agents du fait de leur travail</i>. Se syndiquer peut aussi t'aider à trouver du soutien ou en offrir.
 {{< /spoiler >}}
 
 {{< spoiler text="Ouvert à tous et à toutes" >}}
@@ -98,13 +98,9 @@ Pour les salariés (public ou privé), le médecin du travail est un médecin de
 
 ### Écrans et santé
 
-> Blast. [Comment Facebook et Zuckerberg ont détruit l'humanité (ou presque)](https://www.blast-info.fr/emissions/2023/comment-facebook-et-zuckerberg-ont-detruit-lhumanite-ou-presque-FYRVvhKnS1SKXpoROGTGMg). 30 avril 2023.
-
 > Mediapart. [Écrans et santé : il est urgent d'agir !](https://blogs.mediapart.fr/emmanuel-prados/blog/020323/ecrans-et-sante-il-est-urgent-d-agir) 2 mars 2023.
 
 > Servane Mouton. Humanité et numérique - Les liaisons dangereuses. 2023.
-
-> Le Monde. [Facebook files](https://www.lemonde.fr/facebook-files/). 2021-2022.
 
 > Fabien Lebrun. On achève bien les enfants: écrans et barbarie numérique. Le Bord de l'eau. 2020.
 

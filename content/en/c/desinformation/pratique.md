@@ -46,7 +46,7 @@ Screens: our health in danger? © Servane Mouton / STEEP research team at INRIA 
 
 Destigmatize addictions to social networks, [depression](https://www.youtube.com/watch?v=MN3D0uLEERU&ab_channel=GDGFrance). Talk about <b>physical health</b>, <b>mental health</b>, <b>emotions</b>... about our [relationship to work](https://www.mtpcours.fr/en/c/desinformation/rapport-villani/), the ecological emergency.
 
-<b>Call for contribution</b>: {{<hl>}}[Testify](https://annuel2.framapad.org/p/reseaux-sociaux-sante-mentale-a0fk?lang=en) on social networks{{</hl>}}. Create and share content, interviews, visuals, an incentive approach to attract young people (individual impact and total).
+<b>Call for contribution</b>: {{<hl>}}[Testify](https://framaforms.org/reseaux-sociaux-attention-et-sante-mentale-1687119437) on social networks{{</hl>}}. Create and share content, interviews, visuals, an incentive approach to attract young people (individual impact and total).
 
 ## 4. Make sense of the future
 
