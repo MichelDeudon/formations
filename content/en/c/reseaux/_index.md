@@ -68,27 +68,25 @@ Alain Damasio, a science fiction author, also testifies on social networks, in a
 
 ## Local tips and support
 
-### You are a teenager
-
+{{< spoiler text="You are a teenager" >}}
 - The [Maison des adolescents](https://mda34.org/) is a place of expression and activities, which takes care of you! A team of doctors, facilitators, educators, psychologists, mediators, nurses and social workers is at your disposal for your life, family, health, education projects...
 - See also the Academic Region Directorate for Youth, Engagement and Sports [DRAJES](https://www.ac-montpellier.fr/DRAJES-123047).
+{{< /spoiler >}}
 
-### You are a student
-
+{{< spoiler text="You are a student" >}}
 - [Nightline France](https://www.nightline.fr/). Free psychiatric support near you. A nightly listening service run by students for better student mental health.
-
 - For students at Paul Valéry University, the [University Department of Preventive Medicine and Health Promotion](https://univ-montp3.fr/fr/vie-de-campus/sant%C3%A9/la-sant%C3%A9-des-%C3%A9tudiants) (SUMPPS) is a place for listening, information, prevention, health education, guidance and support. Free [sophrology breaks](https://www.univ-montp3.fr/fr/vie-de-campus/sant%C3%A9/sophrologie), in the form of individual consultations, group workshops, and free access recordings, are also available and can help you take a step back, release tension, manage your emotions, recharge your batteries, get out of the vicious circle of ruminations, etc.
-
 - The [University Care Center](https://www.umontpellier.fr/en/campus/sante-social-et-handicap/centre-de-soins-universitaire) (CSU) offers general medicine consultations, a psychological and psychiatric support.
+{{< /spoiler >}}
 
-### You are an employee
-
+{{< spoiler text="You are an employee" >}}
 For employees (public or private sector), the <i>médecin du travail</i> is a specialist prevention doctor whose missions contribute to <i>preventing any deterioration in the health of agents as a result of their work</i>. Link: [Médecine du travail](https://www.univ-montp3.fr/fr/vie-de-campus/sant%C3%A9/m%C3%A9decine-du-travail) (Paul Valéry). Joining a union can also help you find or offer support.
+{{< /spoiler >}}
 
-### Open to everyone
-
+{{< spoiler text="Open to everyone" >}}
 - [Les maisons pour tous](https://www.montpellier.fr/3791-maisons-pour-tous.htm) are places of discovery, relaxation, culture, expression, learning, sport and conviviality, and offer more than 500 different activities supervised by City officials or by qualified associations.
 - See also the CAF Social Center of La Paillade - [l'île aux familles](https://www.cultureetsportsolidaires34.fr/Partenaires/_Centre-Social-CAF-Paillade-l-ile-aux-familles).
+{{< /spoiler >}}
 
 ## References
 

@@ -68,27 +68,25 @@ Alain Damasio, auteur de science fiction, témoigne également sur les réseaux 
 
 ## Bon plans locaux et soutien
 
-### Tu es ado
-
+{{< spoiler text="Tu es ado" >}}
 - La [Maison des adolescents](https://mda34.org/) est un lieu d'expression et d'activités, qui prend soin de toi ! Une équipe de médecins, d'animateurs, éducateurs, psychologues, médiateurs, infirmieres et assistantes sociaux est à ton écoute pour tes projets de vie, famille, santé, scolarité... 
 - Voir aussi la Direction de Région académique à la Jeunesse, à l'Engagement et aux Sports [DRAJES](https://www.ac-montpellier.fr/DRAJES-123047).
+{{< /spoiler >}}
 
-### Tu es étudiant.e
-
+{{< spoiler text="Tu es étudiant.e" >}}
 - [Nightline France](https://www.nightline.fr/). Soutien psy gratuit proche de chez toi. Un service d'écoute nocturne tenu par des étudiant·e·s pour une meilleure santé mentale étudiante.
-
 - Pour les étudiants à l'université Paul Valéry, le [Service Universitaire de Médecine Préventive et de Promotion de la Santé](https://univ-montp3.fr/fr/vie-de-campus/sant%C3%A9/la-sant%C3%A9-des-%C3%A9tudiants) (SUMPPS) est un lieu d'écoute, d'information, de prévention, d'éducation à la santé, d'orientation et d'accompagnement. Des [pauses sophrologie](https://www.univ-montp3.fr/fr/vie-de-campus/sant%C3%A9/sophrologie) gratuites, sous forme de consultations individuelles, d'ateliers collectifs, et d'enregistrements en accès libre, sont également proposées et peuvent t'aider à prendre du recul, relâcher les tensions, gérer tes émotions, te ressourcer, sortir du cercle vicieux des ruminations, etc.
-
 - Le [Centre de Soins Universitaire](https://www.umontpellier.fr/en/campus/sante-social-et-handicap/centre-de-soins-universitaire) (CSU) propose des consultations de médecine générale, un soutien psychologique et psychiatrique.
+{{< /spoiler >}}
 
-### Tu es salarié.e
-
+{{< spoiler text="Tu es salarié.e" >}}
 Pour les salariés (public ou privé), le médecin du travail est un médecin de prévention spécialisé dont les missions concourent à <i>prévenir toute altération de la santé des agents du fait de leur travail</i>. Lien: [Médecine du Travail](https://www.univ-montp3.fr/fr/vie-de-campus/sant%C3%A9/m%C3%A9decine-du-travail) (Paul Valéry). Se syndiquer peut aussi t'aider à trouver du soutien ou en offrir.
+{{< /spoiler >}}
 
-### Ouvert à tous et à toutes
-
+{{< spoiler text="Ouvert à tous et à toutes" >}}
 - [Les maisons pour tous](https://www.montpellier.fr/3791-maisons-pour-tous.htm), lieux de découverte, détente, culture, expression, apprentissage, diffusion, sport et convivialité, proposent plus de 500 activités différentes encadrées par les agents de la Ville ou par les associations qualifiées.
 - Voir aussi le Centre Social CAF de la Paillade - [l’île aux familles](https://www.cultureetsportsolidaires34.fr/Partenaires/_Centre-Social-CAF-Paillade-l-ile-aux-familles).
+{{< /spoiler >}}
 
 ## Références
 
