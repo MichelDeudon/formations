@@ -24,13 +24,13 @@ interests:
 education:
   courses:
     - course: MBA
-      institution: Zoom
+      institution: Collège des Ingénieurs
       year: 2021
     - course: MSc in data science
-      institution: South Park
+      institution: Télécom Paris / ENS Cachan
       year: 2019
     - course: MSc in applied mathematics
-      institution: Hogwarts School of Witchcraft and Wizardry
+      institution: Ecole Polytechnique
       year: 2017
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)

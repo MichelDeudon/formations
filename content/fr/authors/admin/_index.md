@@ -24,13 +24,13 @@ interests:
 education:
   courses:
     - course: MBA
-      institution: Zoom
+      institution: Collège des Ingénieurs
       year: 2020
     - course: Ingénieur
-      institution: South Park
+      institution: Ecole Polytechnique
       year: 2014
     - course: Prépa Physique Chimie
-      institution: L'école de sorcellerie de Poudlard
+      institution: Lycée Pasteur
       year: 2012
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
