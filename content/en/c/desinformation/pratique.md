@@ -29,7 +29,7 @@ Stop procrastinating on social media, especially during elections or exams. Find
 
 Prefer a call to catch up with your beloved. <br>
 Ask for help if needed. <br>
-{{% staticref "uploads/Guide_Vinted_wellbeing.pdf" %}}See Vinted's guide{{% /staticref %}}.
+{{% staticref "u/Guide-Vinted-wellbeing.pdf" %}}See Vinted's guide{{% /staticref %}}.
 
 ## 2. Obtain information from reliable sources
 

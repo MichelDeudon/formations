@@ -39,4 +39,4 @@ Organisation d'activitiés ludiques, artistiques et éducatives, par exemple d'e
 
 ## Nous soutenir
 
-Télécharger notre {{% staticref "uploads/Calendrier de saison A5.pdf" %}}calendrier de saison{{% /staticref %}} (7 pages recto verso, format A5, édition France métropolitaine), l'offrir et nous soutenir via [HelloAsso](https://www.helloasso.com/associations/local-seasonal). Prix libre, conseillé 15 euros.
+Télécharger notre {{% staticref "u/Calendrier-de-saison-A5.pdf" %}}calendrier de saison{{% /staticref %}} (7 pages recto verso, format A5, édition France métropolitaine), l'offrir et nous soutenir via [HelloAsso](https://www.helloasso.com/associations/local-seasonal). Prix libre, conseillé 15 euros.

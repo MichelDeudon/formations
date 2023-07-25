@@ -25,7 +25,7 @@ Optimisation et régularisation des modèles
 
 ### Cours
 
-{{% staticref "uploads/TW233MI_Optimisation_regularisation.pdf" %}}Optimisation et régularisation des modèles{{% /staticref %}}.
+{{% staticref "u/TW233MI-Optimisation-regularisation.pdf" %}}Optimisation et régularisation des modèles{{% /staticref %}}.
 
 #### 1 Définitions et notations
 ##### 1.1 Rappel sur les fonctions

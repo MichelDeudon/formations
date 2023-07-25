@@ -29,7 +29,7 @@ Arrêter de procrastiner sur les réseaux sociaux, en particulier en période de
 
 Privilégier un appel téléphonique pour communiquer avec son entourage. <br>
 Demander de l’aide si besoin. <br>
-{{% staticref "uploads/Guide_Vinted_wellbeing.pdf" %}}Voir le guide de Vinted{{% /staticref %}}.
+{{% staticref "u/Guide-Vinted-wellbeing.pdf" %}}Voir le guide de Vinted{{% /staticref %}}.
 
 ## 2. S'informer auprès de sources fiables
 

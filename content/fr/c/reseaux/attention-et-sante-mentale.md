@@ -26,11 +26,11 @@ Recueil de témoignages anonymes via un questionnaire pour aider à prendre cons
 
 <!--more-->
 
-> _Je suis tombé malade, en tant qu’étudiant en 2020 et professeur en 2023, à enseigner sur les écrans, et sentir mes élèves décrocher sans les voir._ - XX, enseignant contractuel en licence/master MIASHS, juin 2023.
+> _Je suis tombé malade, en tant qu’étudiant en 2020 et professeur en 2023, à enseigner sur les écrans, et sentir mes élèves décrocher sans les voir._ - Enseignant contractuel en licence/master MIASHS, juin 2023.
 
-> _Je me sens épuisé et en manque d'énergie par manque d'activité physique. Aussi, je sens que ma capacité d'attention a baissé à cause des réseaux sociaux._ - XX, étudiant en licence MIASHS, mai 2023.
+> _Je me sens épuisé et en manque d'énergie par manque d'activité physique. Aussi, je sens que ma capacité d'attention a baissé à cause des réseaux sociaux._ - Étudiant en licence MIASHS, mai 2023.
 
-👉 Voir notre extrait de réponses au questionnaire {{% staticref "uploads/Temoignages_reseaux_sociaux_Montpellier_mai_2023.pdf" %}}Réseaux sociaux, Attention et Santé{{% /staticref %}} en mai 2023.
+👉 Voir notre extrait de réponses au questionnaire {{% staticref "u/Temoignages-reseaux-sociaux-Montpellier-mai-2023.pdf" %}}Réseaux sociaux, Attention et Santé{{% /staticref %}} en mai 2023.
 
 👉 Notre questionnaire est toujours ouvert, pour y répondre, c'est par [ici](https://framaforms.org/reseaux-sociaux-attention-et-sante-mentale-1687119437) !
 

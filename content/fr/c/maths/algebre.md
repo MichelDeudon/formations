@@ -24,7 +24,7 @@ Algèbre II et analyse en composante principale
 
 ### Cours
 
-{{% staticref "uploads/TE62MI_Analyse_en_composante_principale.pdf" %}}ACP et reduction de dimension{{% /staticref %}}.
+{{% staticref "u/TE62MI-Analyse-en-composante-principale.pdf" %}}ACP et reduction de dimension{{% /staticref %}}.
 
 #### 1. Définitions et notations
 #### 2 L’ACP de 2D à 1D

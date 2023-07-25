@@ -56,7 +56,7 @@ The [Cité de l'Économie et des Métiers de Demain](https://www.citedeleco.lare
 
 Alain Damasio, a science fiction author, also testifies on social networks, in an interview for the independent media Blast, on May 12, 2023, entitled [How to live and fight against surveillance capitalism?](https://www.blast-info.fr/emissions/2023/comment-vivre-et-lutter-face-au-capitalisme-de-surveillance-n6ikLh60SOONUvL90mXXTg) He explains how his vision has evolved over time, and the role of artists, culture, and new imaginaries.
 
-👉 See also the article in Le Monde on May 27, 2028 {{% staticref "uploads/Les Etoiles de la Mosson - Montpellier 2028.pdf" %}}The Mosson team, qualified for the 2028 Olympic Games in freestyle skating {{% /staticref %}}.
+👉 See also the article in Le Monde on May 27, 2028 {{% staticref "u/Les-Etoiles-de-la-Mosson-Montpellier-2028.pdf" %}}The Mosson team, qualified for the 2028 Olympic Games in freestyle skating {{% /staticref %}}.
 
 ### Collectives and Associations
 

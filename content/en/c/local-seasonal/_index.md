@@ -39,4 +39,4 @@ Organization of entertaining, educative and artistic activities, for example ext
 
 ## Support us
 
-Download our {{% staticref "uploads/Calendrier de saison A5.pdf" %}}seasonal calendar{{% /staticref %}} (7 pages recto verso, A5 format, France métropolitaine edition), offer it and support us via [HelloAsso](https://www.helloasso.com/associations/local-seasonal). Recommended price 15 euros.
+Download our {{% staticref "u/Calendrier-de-saison-A5.pdf" %}}seasonal calendar{{% /staticref %}} (7 pages recto verso, A5 format, France métropolitaine edition), offer it and support us via [HelloAsso](https://www.helloasso.com/associations/local-seasonal). Recommended price 15 euros.

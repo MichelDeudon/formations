@@ -56,7 +56,7 @@ La [Cité de l'Économie et des Métiers de Demain](https://www.citedeleco.lareg
 
 Alain Damasio, auteur de science fiction, témoigne également sur les réseaux sociaux, dans un interview pour le média indépendant Blast, le 12 mai 2023, intitulé [Comment vivre et lutter face au capitalisme de surveillance ?](https://www.blast-info.fr/emissions/2023/comment-vivre-et-lutter-face-au-capitalisme-de-surveillance-n6ikLh60SOONUvL90mXXTg) Il y explique comment sa vision a évolué avec le temps, et le rôle des artistes, de la culture, et des nouveaux imaginaires.
 
-👉 Voir aussi l'article dans le Monde du 27 mai 2028 {{% staticref "uploads/Les Etoiles de la Mosson - Montpellier 2028.pdf" %}}L'équipe de la Mosson, qualifiée pour les Jeux olympiques 2028 en roller freestyle{{% /staticref %}}.
+👉 Voir aussi l'article dans le Monde du 27 mai 2028 {{% staticref "u/Les-Etoiles-de-la-Mosson-Montpellier-2028.pdf" %}}L'équipe de la Mosson, qualifiée pour les Jeux olympiques 2028 en roller freestyle{{% /staticref %}}.
 
 ### Collectifs et Associations
 

@@ -24,7 +24,7 @@ Linear algebra and Principal Component Analysis
 
 ### Course
 
-{{% staticref "uploads/TE62MI_Analyse_en_composante_principale.pdf" %}}ACP et reduction de dimension{{% /staticref %}}.
+{{% staticref "u/TE62MI-Analyse-en-composante-principale.pdf" %}}ACP et reduction de dimension{{% /staticref %}}.
 
 #### 1. Definitions and notations
 #### 2 PCA from 2D to 1D
