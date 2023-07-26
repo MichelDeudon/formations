@@ -34,6 +34,6 @@ Cette formation, sous forme d'atelier collaboratif et interactif, est construit 
 
 👉 Voir notre extrait de propositions de l'atelier {{% staticref "u/Temoignages-reseaux-sociaux-Montpellier-juin-2023.pdf" %}}Les Jeunes et les Réseaux Sociaux{{% /staticref %}}, réalisé en juin 2023 avec l’association [Générations Solidaires et Citoyennes](https://www.jeveuxaider.gouv.fr/organisations/4859-generations-solidaires-et-citoyennes) et le Centre Social CAF de la Paillade - [l’île aux familles](https://www.cultureetsportsolidaires34.fr/Partenaires/_Centre-Social-CAF-Paillade-l-ile-aux-familles), dans le cadre du programme [Cités éducatives](https://www.citeseducatives.fr/).
 
-👉 Voir notre résumé à l'université Paul Valéry pour la formation {{% staticref "u/Prendre-soin-de-la-relation-pedagogique.pdf" %}}Prendre soin de la relation pédagogique{{% /staticref %}}, en juin 2023.
+👉 Voir notre résumé pour la formation {{% staticref "u/Prendre-soin-de-la-relation-pedagogique.pdf" %}}Prendre soin de la relation pédagogique{{% /staticref %}}, à l'université Paul Valéry, en juin 2023.
 
 {{< figure src="reseaux/cites-educatives.png" caption="Le programme des [Cités éducatives](https://www.citeseducatives.fr/) vise à renforcer l'accompagnement des jeunes et enfants de 3 ans à 25 ans, pendant le temps scolaire, périscolaire et extrascolaire, en lien avec les familles. L'académie de Montpellier compte 7 cités éducatives, à Nîmes, Montpellier, Perpignan, Béziers, Sète, Lézignan-Corbières, Lunel, et concerne 33 000 élèves.">}}

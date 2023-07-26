@@ -34,6 +34,6 @@ At the end of the workshop, in a process of continuous improvement, participants
 
 👉 See our excerpt of proposals from the workshop {{% staticref "u/Temoignages-reseaux-sociaux-Montpellier-juin-2023.pdf" %}}Youth and Social Networks{{% /staticref %}}, carried out in June 2023 with the non profit [Générations Solidaires et Citoyennes](https://www.jeveuxaider.gouv.fr/organisations/4859-generations-solidaires-et-citoyennes) and the CAF Social Center of La Paillade - [l’île aux familles](https://www.cultureetsportsolidaires34.fr/Partenaires/_Centre-Social-CAF-Paillade-l-ile-aux-familles), as part of the [Cités Éducatives](https://www.citeseducatives.fr/) program.
 
-👉 See our presentation at the University Paul Valéry for the workshop {{% staticref "u/Prendre-soin-de-la-relation-pedagogique.pdf" %}}Taking care of the pedagogical relationship{{% /staticref %}}, in June, 2023.
+👉 See our presentation for the workshop {{% staticref "u/Prendre-soin-de-la-relation-pedagogique.pdf" %}}Taking care of the pedagogical relationship{{% /staticref %}}, at the University Paul Valéry, in June, 2023.
 
 {{< figure src="reseaux/cites-educatives.png" caption="The [Cités Éducatives](https://www.citeseducatives.fr/) program aims to strengthen support for young people and children, from 3 to 25 years old, during school and extracurricular time, in connection with families. The Montpellier Academy has 7 educational centers, in Nîmes, Montpellier, Perpignan, Béziers, Sète, Lézignan-Corbières, Lunel, and concerns 33,000 students.">}}
