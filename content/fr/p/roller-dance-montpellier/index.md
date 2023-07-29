@@ -38,7 +38,7 @@ En juin 2023, lors d'un [atelier préventif sur les réseaux sociaux à la Mosso
 ## Dates et lieu
 
 📅 <b> Les mercredis, de 14h à 16h </b> (2h), à partir de novembre 2023 <br>
-📍 <b> Devant l’asso GSC </b>, 124 Allée de Coventry, 34080 Montpellier
+📍 <b> Devant l’asso GSC</b>, 124 Allée de Coventry, 34080 Montpellier
 
 ## Objectif
 
@@ -75,9 +75,9 @@ En juin 2023, lors d'un [atelier préventif sur les réseaux sociaux à la Mosso
 
 ## Iels en parlent
 
-- 11 Patineurs 🔴🔴🔴🔴🔴🔵🔴🔴🔴🔵🔵
-- 6  Coach Sport 🔴🔵🔴🔵🔴🔴
-- 5  Pédagogie Soin 🔴🔴🔴🔵🔴
+- 11 Patineurs 🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+- 6  Coach Sport 🔴🔴🔴🔴🔴🔴
+- 5  Pédagogie Soin 🔴🔴🔴🔴🔴
 
 ## Partenaires 
 - Institutionnel: [DRAJES](https://www.ac-montpellier.fr/DRAJES-123047)

@@ -38,7 +38,7 @@ In June 2023, during a [preventive workshop on social media at La Mosson](https:
 ## Dates and locations
 
 📅 <b> Every Wednesday, from 2 p.m. to 4 p.m. </b> (2 hours), from November 2023 <br>
-📍 <b> In front of the GSC association </b>, 124 Allée de Coventry, 34080 Montpellier
+📍 <b> In front of the GSC association</b>, 124 Allée de Coventry, 34080 Montpellier
 
 ## Objective
 
