@@ -33,6 +33,9 @@ Ma méthode est très pratique. On essaie, on voit où ça coince, on en discute
 ## Ressources utiles
 - [Bibmath](https://www.bibmath.net/), la bibliothèque des mathématiques.
 - Cercle trigonométrique. [Pinterest](https://i.pinimg.com/736x/19/f5/b3/19f5b354491a16b870ef4108e909a258--animation.jpg).
+- Mathématiques : [Livret de travail, de la 3e à la 2nde](https://www.louislegrand.fr/wp-content/uploads/2021/07/Livret-3eme-2nde.pdf).
+- Mathématiques : [Du lycée aux CPGE scientifiques](https://www.louislegrand.fr/wp-content/uploads/2022/02/EXOS-TERMINALE3-3-AVECDESSIN-2.pdf).
+- Mathématiques : [Entre la Terminale et la classe d'ECS](https://louislegrand.fr/wp-content/uploads/2019/09/EXOS-TERMINALE-MATHS-ECS.pdf).
 
 ## FAQs
 
