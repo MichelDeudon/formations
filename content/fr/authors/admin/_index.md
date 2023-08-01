@@ -37,10 +37,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:michel.deudon@hotmail.com'
+    link: 'mailto:michel.deudon@hotmail.com?subject=[Mtpcours] Contact'
   - icon: phone
     icon_pack: fas
     link: 'tel:0613835412'
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.fr/citations?user=p4RP5SoAAAAJ&hl=fr
   - icon: github
     icon_pack: fab
     link: https://framagit.org/MichelDeudon
