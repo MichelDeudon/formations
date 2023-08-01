@@ -23,6 +23,10 @@ Use language for social innovation.
 
 {{< icon name="github" pack="fab" >}} [nlp201-street-names-gender-analysis](https://framagit.org/MichelDeudon/nlp201-street-names-gender-analysis)
 
+{{< callout note >}}
+NEW! Download our open source {{% staticref "u/Jeux-Memory-Montpellier-qui-est-ce.pdf" %}}Memory game{% /staticref %}} based on Montpellier's street names.
+{{< /callout >}}
+
 More than 93% of the boulevards in France and on [data.gouv.fr](https://adresse.data.gouv.fr/) bear the name of a man among the names of celebrities (Victor Hugo, De Gaulle, Leclerc, Foch, etc.). By comparison, 60% of the gardens bear the name of a woman, some of which correspond to the names of trees or flowers such as Rose, Magnolia or Capucine. Previous studies quantified the rate of representation of women, in the naming of public spaces, in different cities or sectors, at different dates, by different methods. We propose indicators derived from the [National Address Database](https://adresse.data.gouv.fr/) [5] to estimate the rate of representation of women in the naming of public spaces, locally and at the scale of towns, departments and regions in France (over 2 million routes in mainland France and overseas). We find a rate of feminization of roads and public spaces close to 12% in Paris [6] and in cities like Nantes and Montpellier. We analyze the correlations with certain professions, sectors, and compare our results with public Wikipedia pages. Our analysis suggests that the imagination associated with certain professions (doctor, professor, captain, colonel) and sectors in France (mathematics, Fields medal, computer science, Turing prize) induces a gender bias in our social representations and cultivates stereotypes, amplified by the artificial intelligence models LLaMA from Facebook AI Research (FAIR) Paris [4], leading to forms of social regression. We make [our implementation](https://framagit.org/MichelDeudon/nlp201-street-names-gender-analysis) freely available to follow the evolution of these biases over time.
 
 ### Introduction
