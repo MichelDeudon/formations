@@ -33,9 +33,24 @@ education:
       institution: Ecole Polytechnique
       year: 2017
 
+# Social/Academic Networking
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:michel.deudon@hotmail.com'
+  - icon: phone
+    icon_pack: fas
+    link: 'tel:0613835412'
+  - icon: github
+    icon_pack: fab
+    link: https://framagit.org/MichelDeudon
+
+# Status emoji
+status:
+  icon: 🌻
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'michel.deudon@hotmail.com'
-phone: 06 13 83 54 12
+email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
