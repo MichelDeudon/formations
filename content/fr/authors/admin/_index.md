@@ -34,7 +34,8 @@ education:
       year: 2012
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'michel.deudon@hotmail.com'
+phone: 06 13 83 54 12
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
