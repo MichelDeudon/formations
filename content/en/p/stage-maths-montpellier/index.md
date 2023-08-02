@@ -95,4 +95,4 @@ It's free ! You can support us financially on Helloasso (free price, FYI a 4-day
 - Student / Parent.
 - Donor or patron.
 
-{{< cta cta_text="Limited places. RSVP by sms" cta_link="tel:0613835412">}}
+{{< cta cta_text="Limited places. RSVP by sms" cta_link="./p/stage-maths-montpellier/">}}
