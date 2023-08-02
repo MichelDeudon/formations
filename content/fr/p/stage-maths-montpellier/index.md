@@ -34,7 +34,8 @@ Pour bien préparer son début d'année
 <!--more-->
 
 {{< callout note >}}
-Inscriptions ouvertes, places limitées. RSVP par sms au <a href="tel:0613835412">06 13 83 54 12</a>.
+Inscriptions ouvertes, places limitées. <br>
+RSVP par sms au <a href="tel:0613835412">06 13 83 54 12</a>.
 {{< /callout >}}
 
 ## Introduction

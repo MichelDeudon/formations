@@ -34,7 +34,8 @@ To prepare well for the start of the year
 <!--more-->
 
 {{< callout note >}}
-Registration open, limited places. RSVP by sms to <a href="tel:0613835412">06 13 83 54 12</a>.
+Registration open, limited places. <br>
+RSVP by sms to <a href="tel:0613835412">06 13 83 54 12</a>.
 {{< /callout >}}
 
 ## Introduction
