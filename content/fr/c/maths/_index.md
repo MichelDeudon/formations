@@ -5,10 +5,34 @@ summary: Cours particulier de mathématiques et soutien scolaire au lycée à Mo
 date: '2023-01-23'
 type: book
 tags:
+  - Jeunes
   - Mathématiques
   - Analyse
   - Algèbre
+  - Calcul mental
+  - Fonctions usuelles
+  - Suites
+  - Vecteurs
+  - Probabilités
+  - Statistiques
+  - Trigonométrie
+  - Intuition
+  - Logique
+  - Collège
+  - Lycée
+  - Brevet
+  - Baccalauréat
+  - BTS
+  - Prépa
+  - CPGE
+  - CPES
+  - Licence
+  - Master
   - MIASHS
+  - Cours particuliers
+  - Cours collectifs
+  - Montpellier
+  - Hérault
 ---
 
 {{< figure src="featured.jpg" >}}
@@ -21,14 +45,9 @@ J'enseigne depuis 10 ans les mathématiques avec passion, patience et empathie, 
 
 Ma méthode est très pratique. On essaie, on voit où ça coince, on en discute. On s'assure de ne plus être bloqué dans des situations similaires. On transforme chaque erreur en essai pour gagner en sérénité et efficacité.
 
-## Lycée
+## Passeport lycée Louis Le Grand et Henri IV
 
-- Programme de mathématiques au [lycée général/technologique](https://eduscol.education.fr/1723/programmes-et-ressources-en-mathematiques-voie-gt) (Eduscol).
-- Fonctions usuelles (linéaire, affine, polynômial, etc.), suites, vecteurs, probabilités et statistiques, trigonométrie, etc.
-
-## Louis Le Grand and Henri IV passports
-
-A sample of maths exercices and solutions by level:
+Une sélection d'exercices de mathématiques et solutions par niveaux:
 - 3e / 2nd: [Livret de travail, de la 3e à la 2nde](https://www.louislegrand.fr/wp-content/uploads/2021/07/Livret-3eme-2nde.pdf).
 - 2nd / 1ère: [Livret de travail, de la 2nde à la 1ère](https://lycee-henri4.com/wp-content/uploads/2023/06/Livret-2nde-1ere.pdf).
 - 1ère / Tle: [Livret de travail, de la 1ère à la Terminale](https://lycee-henri4.com/wp-content/uploads/2023/06/Livret-1ere-Term.pdf).
@@ -37,15 +56,18 @@ A sample of maths exercices and solutions by level:
 - Tle / Prépa ECG: [Mathématiques, entre la Terminale et la classe d'ECG](https://lycee-henri4.com/wp-content/uploads/2022/07/ECG1-MATHS.pdf).
 - Tle / CPES: [Révisions de mathématiques pour les vacances](https://lycee-henri4.com/wp-content/uploads/2022/07/CPES-MATHS.pdf).
 
-Merci aux enseignants de Mathématiques du lycée Henri IV et Louis Le Grand !
+Merci aux enseignants de mathématiques du lycée Henri IV et Louis Le Grand !
 
 ## Enseignement supérieur
+
+Cours dispensés à l'université Paul Valéry, en licence et master [MIASHS](https://ufr6.www.univ-montp3.fr/fr/licence_miashs) (Mathématiques et Informatiques Appliqués aux Sciences Humaines et Sociales):
 
 {{< list_children >}}
 
 ## Ressources utiles
 
 - [Bibmath](https://www.bibmath.net/), la bibliothèque des mathématiques.
+- Programme de mathématiques au [lycée général/technologique](https://eduscol.education.fr/1723/programmes-et-ressources-en-mathematiques-voie-gt) (Eduscol).
 - Présentation du [Cycle Pluridisciplinaire d'Études Supérieures](https://www.enseignementsup-recherche.gouv.fr/fr/le-cycle-pluridisciplinaire-d-etudes-superieures-84197) (CPES).
 - Présentation des [Classes Préparatoires aux Grandes Écoles](https://www.enseignementsup-recherche.gouv.fr/fr/classes-preparatoires-aux-grandes-ecoles-cpge-46496) (CPGE).
 - Cercle trigonométrique. [Pinterest](https://i.pinimg.com/736x/19/f5/b3/19f5b354491a16b870ef4108e909a258--animation.jpg).

@@ -5,10 +5,34 @@ summary: Tutoring in mathematics in high school in Montpellier. Teaching analysi
 date: '2023-01-23'
 type: book
 tags:
+  - Youth
   - Mathematics
   - Analysis
   - Algebra
+  - Mental math
+  - Usual functions
+  - Sequences
+  - Vectors
+  - Pobabilities
+  - Statistics
+  - Trigonometry
+  - Intuition
+  - Logique
+  - College
+  - Lycée
+  - Brevet
+  - Baccalauréat
+  - BTS
+  - Prépa
+  - CPGE
+  - CPES
+  - Licence
+  - Master
   - MIASHS
+  - Private lessons
+  - Group lessons
+  - Montpellier
+  - Herault
 ---
 
 {{< figure src="featured.jpg" >}}
@@ -21,12 +45,7 @@ I have been teaching mathematics for 10 years, with passion, patience and empath
 
 My method is very practical. We try, we see where it gets stuck, we discuss. We make sure we won't get stuck in similar situations again. We transform each error to gain in efficiency and effectiveness.
 
-## High school
-
-- <i>Au programme</i> in mathematics in [general and technological high school](https://eduscol.education.fr/1723/programmes-et-ressources-en-mathematiques-voie-gt) (Eduscol).
-- Usual functions (linear, affine, polynomial, etc.), sequences, vectors, probabilities and statistics, trigonometry, etc.
-
-## Louis Le Grand and Henri IV passports
+## Louis Le Grand and Henri IV high school passports
 
 A sample of maths exercices and solutions by level:
 - 3e / 2nd: [Mathematics exercice handbook, de la 3e à la 2nde](https://www.louislegrand.fr/wp-content/uploads/2021/07/Livret-3eme-2nde.pdf).
@@ -41,11 +60,14 @@ Thank you to the Mathematics teachers of Henri IV and Louis Le Grand high school
 
 ## Higher education
 
+Courses taught at Paul Valéry University to [MIASHS](https://ufr6.www.univ-montp3.fr/fr/licence_miashs) (Mathematics and Computer Science Applied to Human and Social Sciences) undergraduates and master students:
+
 {{< list_children >}}
 
 ## Useful resources
 
 - [Bibmath](https://www.bibmath.net/), the mathematics library.
+- <i>Au programme</i> in mathematics in [general and technological high school](https://eduscol.education.fr/1723/programmes-et-ressources-en-mathematiques-voie-gt) (Eduscol).
 - [Cycle Pluridisciplinaire d'Études Supérieures](https://www.enseignementsup-recherche.gouv.fr/fr/le-cycle-pluridisciplinaire-d-etudes-superieures-84197) (CPES) presentation.
 - [Classes Préparatoires aux Grandes Écoles](https://www.enseignementsup-recherche.gouv.fr/fr/classes-preparatoires-aux-grandes-ecoles-cpge-46496) (CPGE) presentation.
 - Trigonometric circle. [Pinterest](https://i.pinimg.com/736x/19/f5/b3/19f5b354491a16b870ef4108e909a258--animation.jpg).
