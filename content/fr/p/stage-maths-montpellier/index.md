@@ -96,5 +96,6 @@ C’est gratuit ! Vous pouvez nous soutenir financièrement sur Helloasso (prix 
 - Animateur / bénévole.
 - Élève / Parent.
 - Donateur ou mécène.
+<br>
 
-{{< cta cta_text="Places limitées. RSVP par sms" cta_link="./p/stage-maths-montpellier/">}}
+{{< cta cta_text="Places limitées. RSVP par sms" cta_link=".">}}

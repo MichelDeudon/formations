@@ -54,6 +54,7 @@ Open to everyone, from CP to terminale, and higher education (BTS, Prépa, L1/M2
   📍 At the [GSC association](https://www.jeveuxaider.gouv.fr/organisations/4859-generations-solidaires-et-citoyennes), 124 Allée de Coventry, 34080 Montpellier
 
 ## Objective
+
 1. <b>Consolidate</b> what has been learned in order to progress and improve. Revise key concepts from previous classes. Strengthen your knowledge and level.
 2. <b>Prepare</b> your entry into the next class to kickstart your new year !
 3. <b>Be organized</b> to start in the best possible conditions.
@@ -95,5 +96,6 @@ It's free ! You can support us financially on Helloasso (free price, FYI a 4-day
 - Animator / volunteer.
 - Student / Parent.
 - Donor or patron.
+<br>
 
-{{< cta cta_text="Limited places. RSVP by sms" cta_link="./p/stage-maths-montpellier/">}}
+{{< cta cta_text="Limited places. RSVP by sms" cta_link=".">}}
