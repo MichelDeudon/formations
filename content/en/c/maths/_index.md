@@ -23,19 +23,38 @@ My method is very practical. We try, we see where it gets stuck, we discuss. We 
 
 ## High school
 
-- <i>Au programme</i> in mathematics in general and technological high school. [Eduscol](https://eduscol.education.fr/1723/programmes-et-ressources-en-mathematiques-voie-gt).
+- <i>Au programme</i> in mathematics in [general and technological high school](https://eduscol.education.fr/1723/programmes-et-ressources-en-mathematiques-voie-gt) (Eduscol).
 - Usual functions (linear, affine, polynomial, etc.), sequences, vectors, probabilities and statistics, trigonometry, etc.
+
+## Louis Le Grand and Henri IV passports
+
+A sample of maths exercices and solutions by level:
+- 3e / 2nd: [Mathematics exercice handbook, de la 3e à la 2nde](https://www.louislegrand.fr/wp-content/uploads/2021/07/Livret-3eme-2nde.pdf).
+- 2nd / 1ère: [Mathematics, exercice handbook, de la 2nde à la 1ère](https://lycee-henri4.com/wp-content/uploads/2023/06/Livret-2nde-1ere.pdf).
+- 1ère / Tle: [Mathematics, exercice handbook, de la 1ère à la Terminale](https://lycee-henri4.com/wp-content/uploads/2023/06/Livret-1ere-Term.pdf).
+- Tle / Prépa S: [Mathematics, du lycée aux CPGE scientifiques](https://www.louislegrand.fr/wp-content/uploads/2022/02/EXOS-TERMINALE3-3-AVECDESSIN-2.pdf).
+- Tle / Prépa S: [Mathematics tools for Physics](https://lycee-henri4.com/wp-content/uploads/2023/06/poly-MPSI2023.pdf).
+- Tle / Prépa ECG: [Mathematics, entre la Terminale et la classe d'ECG](https://lycee-henri4.com/wp-content/uploads/2022/07/ECG1-MATHS.pdf).
+- Tle / CPES: [Mathematics homework for the holidays](https://lycee-henri4.com/wp-content/uploads/2022/07/CPES-MATHS.pdf).
+
+Thank you to the Mathematics teachers of Henri IV and Louis Le Grand high school!
 
 ## Higher education
 
 {{< list_children >}}
 
 ## Useful resources
-- [Bibmath](https://www.bibmath.net/), la bibliothèque des mathématiques.
+
+- [Bibmath](https://www.bibmath.net/), the mathematics library.
+- [Cycle Pluridisciplinaire d'Études Supérieures](https://www.enseignementsup-recherche.gouv.fr/fr/le-cycle-pluridisciplinaire-d-etudes-superieures-84197) (CPES) presentation.
+- [Classes Préparatoires aux Grandes Écoles](https://www.enseignementsup-recherche.gouv.fr/fr/classes-preparatoires-aux-grandes-ecoles-cpge-46496) (CPGE) presentation.
 - Trigonometric circle. [Pinterest](https://i.pinimg.com/736x/19/f5/b3/19f5b354491a16b870ef4108e909a258--animation.jpg).
-- Mathematics: [Exercice handbook, de la 3e à la 2nde](https://www.louislegrand.fr/wp-content/uploads/2021/07/Livret-3eme-2nde.pdf).
-- Mathematics: [Du lycée aux CPGE scientifiques](https://www.louislegrand.fr/wp-content/uploads/2022/02/EXOS-TERMINALE3-3-AVECDESSIN-2.pdf).
-- Mathematics: [Entre la Terminale et la classe d'ECS](https://louislegrand.fr/wp-content/uploads/2019/09/EXOS-TERMINALE-MATHS-ECS.pdf).
+
+## Youtube channels
+
+For the most curious:
+- [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
+- [Numberphile](https://www.youtube.com/user/Numberphile)
 
 ## FAQs
 

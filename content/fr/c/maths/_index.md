@@ -23,19 +23,38 @@ Ma méthode est très pratique. On essaie, on voit où ça coince, on en discute
 
 ## Lycée
 
-- Programme de mathématiques au lycée général/technologique. [Eduscol](https://eduscol.education.fr/1723/programmes-et-ressources-en-mathematiques-voie-gt).
+- Programme de mathématiques au [lycée général/technologique](https://eduscol.education.fr/1723/programmes-et-ressources-en-mathematiques-voie-gt) (Eduscol).
 - Fonctions usuelles (linéaire, affine, polynômial, etc.), suites, vecteurs, probabilités et statistiques, trigonométrie, etc.
+
+## Louis Le Grand and Henri IV passports
+
+A sample of maths exercices and solutions by level:
+- 3e / 2nd: [Livret de travail, de la 3e à la 2nde](https://www.louislegrand.fr/wp-content/uploads/2021/07/Livret-3eme-2nde.pdf).
+- 2nd / 1ère: [Livret de travail, de la 2nde à la 1ère](https://lycee-henri4.com/wp-content/uploads/2023/06/Livret-2nde-1ere.pdf).
+- 1ère / Tle: [Livret de travail, de la 1ère à la Terminale](https://lycee-henri4.com/wp-content/uploads/2023/06/Livret-1ere-Term.pdf).
+- Tle / Prépa S: [Mathématiques, du lycée aux CPGE scientifiques](https://www.louislegrand.fr/wp-content/uploads/2022/02/EXOS-TERMINALE3-3-AVECDESSIN-2.pdf).
+- Tle / Prépa S: [Quelques outils mathématiques pour la physique](https://lycee-henri4.com/wp-content/uploads/2023/06/poly-MPSI2023.pdf).
+- Tle / Prépa ECG: [Mathématiques, entre la Terminale et la classe d'ECG](https://lycee-henri4.com/wp-content/uploads/2022/07/ECG1-MATHS.pdf).
+- Tle / CPES: [Révisions de mathématiques pour les vacances](https://lycee-henri4.com/wp-content/uploads/2022/07/CPES-MATHS.pdf).
+
+Merci aux enseignants de Mathématiques du lycée Henri IV et Louis Le Grand !
 
 ## Enseignement supérieur
 
 {{< list_children >}}
 
 ## Ressources utiles
+
 - [Bibmath](https://www.bibmath.net/), la bibliothèque des mathématiques.
+- Présentation du [Cycle Pluridisciplinaire d'Études Supérieures](https://www.enseignementsup-recherche.gouv.fr/fr/le-cycle-pluridisciplinaire-d-etudes-superieures-84197) (CPES).
+- Présentation des [Classes Préparatoires aux Grandes Écoles](https://www.enseignementsup-recherche.gouv.fr/fr/classes-preparatoires-aux-grandes-ecoles-cpge-46496) (CPGE).
 - Cercle trigonométrique. [Pinterest](https://i.pinimg.com/736x/19/f5/b3/19f5b354491a16b870ef4108e909a258--animation.jpg).
-- Mathématiques : [Livret de travail, de la 3e à la 2nde](https://www.louislegrand.fr/wp-content/uploads/2021/07/Livret-3eme-2nde.pdf).
-- Mathématiques : [Du lycée aux CPGE scientifiques](https://www.louislegrand.fr/wp-content/uploads/2022/02/EXOS-TERMINALE3-3-AVECDESSIN-2.pdf).
-- Mathématiques : [Entre la Terminale et la classe d'ECS](https://louislegrand.fr/wp-content/uploads/2019/09/EXOS-TERMINALE-MATHS-ECS.pdf).
+
+## Chaines Youtube
+
+Pour les plus curieux:
+- [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
+- [Numberphile](https://www.youtube.com/user/Numberphile)
 
 ## FAQs
 
