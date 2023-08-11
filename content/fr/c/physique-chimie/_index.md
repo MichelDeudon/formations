@@ -9,6 +9,10 @@ tags:
   - Biomimétisme
 ---
 
+{{< callout note >}}
+Nouveau! {{% staticref "u/Stage-Pre-Rentree.pdf" %}}Stage de pré-rentrée{{% /staticref %}} à la Paillade, Montpellier, du lundi 28/08 au vendredi 01/09.
+{{< /callout >}}
+
 {{< figure src="featured.jpg" >}}
 
 > <i> Vous ne pouvez espérer construire un monde meilleur sans améliorer les individus. À cette fin, chacun de nous doit travailler à sa propre amélioration et, en même temps, partager une responsabilité générale pour toute l'humanité, notre devoir particulier étant d'aider ceux pour qui nous pensons être le plus utile. </i> - Marie Curie, double prix Nobel (physique et chimie)

@@ -35,6 +35,10 @@ tags:
   - Herault
 ---
 
+{{< callout note >}}
+New! {{% staticref "u/Stage-Pre-Rentree.pdf" %}}Pre-school program{{% /staticref %}} à la Paillade, Montpellier, from Monday 08/28 to Friday 09/01.
+{{< /callout >}}
+
 {{< figure src="featured.jpg" >}}
 
 > <i> Algebra is nothing more than geometry, in words; geometry is nothing more than algebra, in pictures. </i> - Sophie Germain, French mathematician, philosopher and physicist (1776-1831).

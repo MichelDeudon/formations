@@ -9,6 +9,10 @@ tags:
   - Biomimicry
 ---
 
+{{< callout note >}}
+New! {{% staticref "u/Stage-Pre-Rentree.pdf" %}}Pre-school program{{% /staticref %}} à la Paillade, Montpellier, from Monday 08/28 to Friday 09/01.
+{{< /callout >}}
+
 {{< figure src="featured.jpg" >}}
 
 > <i> You cannot hope to build a better world without improving the individuals. To that end each of us must work for his own improvement, and at the same time share a general responsibility for all humanity, our particular duty being to aid those to whom we think we can be most useful. </i> - Marie Curie, double Nobel laureate (physics and chemistry)

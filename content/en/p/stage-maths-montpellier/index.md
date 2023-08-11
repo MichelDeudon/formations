@@ -34,19 +34,25 @@ To prepare well for the start of the year
 <!--more-->
 
 {{< callout note >}}
+Communication kit {{% staticref "u/Stage-Pre-Rentree.pdf" %}}Pre-school program{{% /staticref %}}.
+{{< /callout >}}
+
+{{< callout note >}}
 Registration open, limited places. <br>
 RSVP by sms to <a href="tel:0613835412">06 13 83 54 12</a>.
 {{< /callout >}}
 
+{{< figure src="maths/stage-pre-rentree.png" caption="Pre school program at La Paillade, Montpellier. - August 28 - September 1st, 2023.">}}
+
 ## Introduction
 
-La Paillade district, in Montpellier, is home to numerous young talents and stars, especially scientists. With the [GSC association](https://www.jeveuxaider.gouv.fr/organisations/4859-generations-solidaires-et-citoyennes) (Générations Solidaires et Citoyennes), a "STAGE DE PRÉ-RENTRÉE" for 2023-2024 is organized, for students from primary to high school and higher. The summer internship is an opportunity to effectively prepare for the start of the year, in a caring environment and a collective working atmosphere, in small groups. It allows young people to learn or study in a good mood, to help students in their difficulties, to restore their confidence and to support them by adapting to their needs.
+With the [GSC association](https://www.jeveuxaider.gouv.fr/organisations/4859-generations-solidaires-et-citoyennes) (Générations Solidaires et Citoyennes), a "STAGE DE PRÉ-RENTRÉE" for 2023-2024 is organized, for students from primary to high school and higher. The summer internship is an opportunity to effectively prepare for the start of the year, in a caring environment and a collective working atmosphere, in small groups. It allows young people to learn or study in a good mood, to help students in their difficulties, to restore their confidence and to support them by adapting to their needs.
 
 ## Public
 
-Open to everyone, from CP to terminale, and higher education (BTS, Prépa, L1/M2).
+Open to everyone, from CP to terminale, and higher education (BTS, Prépa, Bachelor, Master).
 
-<b>Subjects</b>: Mathematics, Physics-Chemistry, Methodology
+<b>Subjects</b>: Mathematics, French, Physics-Chemistry, English
 
 ## Dates and place
 
@@ -57,8 +63,7 @@ Open to everyone, from CP to terminale, and higher education (BTS, Prépa, L1/M2
 
 1. <b>Consolidate</b> what has been learned in order to progress and improve. Revise key concepts from previous classes. Strengthen your knowledge and level.
 2. <b>Prepare</b> your entry into the next class to kickstart your new year !
-3. <b>Be organized</b> to start in the best possible conditions.
-4. <b>Be informed</b>, orientation. <i>A grande école, why not me?</i> Learn about professions, fields, organisations, portraits.
+3. <b>Be informed</b>, orientation. <i>A grande école, why not me?</i> Learn about professions, fields, organisations, portraits.
 
 ## The advantages of the pre-school program
 
@@ -68,9 +73,13 @@ Open to everyone, from CP to terminale, and higher education (BTS, Prépa, L1/M2
 
 ## Program / calendar
 
-<b>Daily, from 2 p.m. to 6 p.m.</b>: Help with homework and mathematics, physics-chemistry program (Primary, Mid School, High School, Higher).
+### Monday to Friday, from 2 p.m. to 6 p.m.
 
-| Day | Time | Cultural activity and sport|
+Help with homework and mathematics, physics-chemistry program (Primary, Mid School, High School, Higher).
+
+### Cultural activities and sport
+
+| Day | Time | Description |
 |---|---|---|
 |Monday 28/08 | 6pm-8pm | Japanese writing and calligraphy |
 |Tuesday 08/29 | 6pm-8pm | Photos of Japan and from space |
@@ -90,12 +99,5 @@ It's free ! You can support us financially on Helloasso (free price, FYI a 4-day
 - Courses, exercises or tests that pose difficulties.
 - Notebook, sheets, pen, compass, ruler... the classic kit!
 {{< /spoiler >}}
-
-## Join us as...
-
-- Animator / volunteer.
-- Student / Parent.
-- Donor or patron.
-<br>
 
 {{< cta cta_text="Limited places. RSVP by sms" cta_link=".">}}

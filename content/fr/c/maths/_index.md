@@ -35,6 +35,10 @@ tags:
   - Hérault
 ---
 
+{{< callout note >}}
+Nouveau! {{% staticref "u/Stage-Pre-Rentree.pdf" %}}Stage de pré-rentrée{{% /staticref %}} à la Paillade, Montpellier, du lundi 28/08 au vendredi 01/09.
+{{< /callout >}}
+
 {{< figure src="featured.jpg" >}}
 
 > <i> L'algèbre n'est qu'une géométrie écrite, la géométrie n'est qu'une algèbre figurée </i> - Sophie Germain, mathématicienne, philosophe et physicienne française (1776-1831).

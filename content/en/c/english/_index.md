@@ -8,6 +8,10 @@ tags:
   - Youth
 ---
 
+{{< callout note >}}
+New! {{% staticref "u/Stage-Pre-Rentree.pdf" %}}Pre-school program{{% /staticref %}} à la Paillade, Montpellier, from Monday 08/28 to Friday 09/01.
+{{< /callout >}}
+
 {{< figure src="featured.jpg" >}}
 
 ## Program overview
