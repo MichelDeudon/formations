@@ -6,13 +6,27 @@ date: '2022-06-01'
 type: book
 tags:
   - Jeunes
+  - Ateliers
+  - Primaire
+  - Collège
+  - Lycée
+  - La Paillade
+  - La Mosson
+  - Montpellier
+  - Hérault
 ---
 
-{{< figure src="featured.png" caption="Une rencontre Local Seasonal par Louise Lavaud.">}}
+{{< callout note >}}
+Nouveau! {{% staticref "u/Renovation-ecologique-Asso-GSC.pdf" %}}Renovation écologique de l'asso GSC{{% /staticref %}} à La Mosson, Montpellier - du lundi 21/08 au vendredi 25/08 2023.
+{{< /callout >}}
+
+{{< figure src="local-seasonal/renovation-ecologique-asso-GSC.png" caption="Renovation écologique à La Paillade, Montpellier - du lundi 21/08 au vendredi 25/08 2023.">}}
 
 ## Présentation
 
 Local Seasonal est une [association loi 1901](https://www.journal-officiel.gouv.fr/associations/detail-annonce/associations_b/20200022/840) dont le but est de créer du lien social, se reconnecter à la Nature et entre nous, en créant des lieux de rencontres et moments de partage favorisant l'épanouissement collectif et les échanges harmonieux. L'association cherche à appliquer les principes de la permaculture: prendre soin des Hommes, prendre soin de la Terre et partager équitablement.
+
+{{< figure src="featured.png" caption="Une rencontre Local Seasonal par Louise Lavaud.">}}
 
 ## Nos campagnes d'action
 

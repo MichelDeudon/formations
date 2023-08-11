@@ -6,13 +6,27 @@ date: '2022-06-01'
 type: book
 tags:
   - Youth
+  - Workshops
+  - Primary
+  - Mid School
+  - High School
+  - La Paillade
+  - La Mosson
+  - Montpellier
+  - Hérault
 ---
 
-{{< figure src="featured.png" caption="A Local Seasonal encounter by Louise Lavaud.">}}
+{{< callout note >}}
+New! {{% staticref "u/Renovation-ecologique-Asso-GSC.pdf" %}}Green renovation of the asso GSC{{% /staticref %}} at La Mosson, Montpellier - from Monday 08/21 to Friday 08/25, 2023.
+{{< /callout >}}
+
+{{< figure src="local-seasonal/renovation-ecologique-asso-GSC.png" caption="Green renovation at La Paillade, Montpellier - from Monday 08/21 to Friday 08/25, 2023.">}}
 
 ## Presentation
 
 Local Seasonal is a [French non profit](https://www.journal-officiel.gouv.fr/associations/detail-annonce/associations_b/20200022/840) on a mission to celebrate biodiversity along the seasons, create social ties, reconnect with Nature and between us, by creating places and moments of sharing, promoting collective development and harmonious exchanges. The non profit seeks to apply the principles of permaculture: taking care of people, taking care of the earth and sharing equitably.
+
+{{< figure src="featured.png" caption="A Local Seasonal encounter by Louise Lavaud.">}}
 
 ## Our campaigns
 
