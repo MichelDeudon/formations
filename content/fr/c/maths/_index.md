@@ -36,7 +36,7 @@ tags:
 ---
 
 {{< callout note >}}
-Nouveau! {{% staticref "u/Stage-Pre-Rentree.pdf" %}}Stage de pré-rentrée{{% /staticref %}} à la Paillade, Montpellier, du lundi 28/08 au vendredi 01/09.
+Nouveau! <a href="https://www.mtpcours.fr/en/p/stage-maths-montpellier/">Stage de pré-rentrée</a> à la Paillade, Montpellier, du lundi 28/08 au vendredi 01/09.
 {{< /callout >}}
 
 {{< figure src="featured.jpg" >}}

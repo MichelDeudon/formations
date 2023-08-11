@@ -22,6 +22,10 @@ tags:
    - Attention Economy
 ---
 
+{{< callout note >}}
+New! <a href="https://www.mtpcours.fr/en/p/roller-dance-montpellier/"> A roller dance team at La Mosson</a>. Montpellier, August 2023.
+{{< /callout >}}
+
 ## Presentation
 
 GAFAM and social networks deepen social inequalities, and divide to conquer. Another vision of the world exists, <i>"one that unites"</i> - Paul Valéry.

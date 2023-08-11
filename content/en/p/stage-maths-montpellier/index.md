@@ -7,6 +7,8 @@ tags:
 - Back to School
 - Math
 - Physics Chemistry
+- French
+- English
 - Methodology
 - Mid school
 - High school
@@ -71,33 +73,31 @@ Open to everyone, from CP to terminale, and higher education (BTS, Prépa, Bache
 - Quality educational materials, and [exercises for all levels](https://www.mtpcours.fr/c/maths/) (thanks to the teachers of Louis Le Grand and Henri IV high school!).
 - A personalized feedback, communicated at the end of the course.
 
-## Program / calendar
+## Program
 
 ### Monday to Friday, from 2 p.m. to 6 p.m.
 
 Help with homework and mathematics, physics-chemistry program (Primary, Mid School, High School, Higher).
 
-### Cultural activities and sport
+### Cultural activities and sport, from 6 p.m. to 8 p.m.
 
-| Day | Time | Description |
-|---|---|---|
-|Monday 28/08 | 6pm-8pm | Japanese writing and calligraphy |
-|Tuesday 08/29 | 6pm-8pm | Photos of Japan and from space |
-|Wednesday 30/08 | 6pm-8pm | International karaoke and roller dance|
-|Thursday 08/31 | 5pm-6pm | <i>Learning to learn</i> to develop attention, memory and self-confidence|
-|Thursday 08/31 | 6pm-8pm | Initiation Origami and giant memory|
-|Friday 01/09 | 5pm-6pm | Post-baccalaureate orientation. <i>A grande école, why not me?</i>|
-|Friday 01/09 | 6pm-8pm | Creation of games and snacks|
+| Day | Description |
+|---|---|
+|Monday 28/08 | Calligraphy and worldwide trip |
+|Tuesday 08/29 | <i>Learning to learn</i> (attention, memory, self-confidence games) |
+|Wednesday 30/08 | Karaoke et origami |
+|Thursday 08/31 | Orientation. <i>CPGE, CPES, BTS ...?</i> |
+|Friday 01/09 | Snacks |
+
+{{< cta cta_text="Limited places. RSVP by sms" cta_link=".">}}
 
 ## FAQ
 
 {{< spoiler text="How much does it cost?" >}}
-It's free ! You can support us financially on Helloasso (free price, FYI a 4-day COMPLETUDE program starts at €230).
+It's free ! You can support us financially on Helloasso.
 {{< /spoiler >}}
 
 {{< spoiler text="What should I bring?" >}}
 - Courses, exercises or tests that pose difficulties.
 - Notebook, sheets, pen, compass, ruler... the classic kit!
 {{< /spoiler >}}
-
-{{< cta cta_text="Limited places. RSVP by sms" cta_link=".">}}

@@ -7,6 +7,8 @@ tags:
 - Rentrée Scolaire 2023
 - Mathématiques
 - Physique Chimie
+- Français
+- Anglais
 - Méthodologie
 - Collège
 - Lycée
@@ -34,7 +36,7 @@ Pour bien préparer son début d'année
 <!--more-->
 
 {{< callout note >}}
-Kit de comm {{% staticref "u/Stage-Pre-Rentree.pdf" %}}Stage de pré-rentrée{{% /staticref %}}.
+Kit de comm' {{% staticref "u/Stage-Pre-Rentree.pdf" %}}Stage de pré-rentrée scolaire{{% /staticref %}}.
 {{< /callout >}}
 
 {{< callout note >}}
@@ -71,33 +73,31 @@ Ouvert à toutes et à tous, du CP à la terminale, et études supérieures (BTS
 - Des supports pédagogiques de qualité, et des [exercices pour tous les niveaux](https://www.mtpcours.fr/c/maths/) (merci aux enseignants du lycée Louis Le Grand et Henri IV !).
 - Un bilan pédagogique personnalisé, communiqué en fin de stage.
 
-## Programme / calendrier
+## Programme
 
 ### Du lundi au vendredi, de 14h à 18h
 
 Aide aux devoirs et stage de mathématiques et physique-chimie (Primaire, Collège, Lycée, Supérieur).
 
-### Activités culturelles et sport
+### Activités culturelles et sport, de 18h à 20h
 
-| Jour | Heure | Description |
-|---|---|---|
-|Lundi 28/08 | 18h-20h | Écriture et calligraphie japonaise |
-|Mardi 29/08 | 18h-20h | Photos du Japon et depuis l’espace |
-|Mercredi 30/08 | 18h-20h | Karaoké international et roller dance|
-|Jeudi 31/08 | 17h-18h | <i>Apprendre à apprendre</i> (jeux d'attention, mémoire, confiance en soi) |
-|Jeudi 31/08 | 18h-20h | Initiation Origami et memory géant|
-|Vendredi 01/09 | 17h-18h | Orientation. <i>Une grande école, pourquoi pas moi?</i>|
-|Vendredi 01/09 | 18h-20h | Création de jeux et goûter|
+| Jour | Description |
+|---|---|
+|Lundi 28/08 | Calligraphie et tour du monde |
+|Mardi 29/08 | <i>Apprendre à apprendre</i> (jeux d'attention, mémoire, confiance en soi) |
+|Mercredi 30/08 | Karaoké et origami |
+|Jeudi 31/08 | Orientation. <i>CPGE, CPES, BTS...?</i> |
+|Vendredi 01/09 | Goûter et bilan pédagogique |
+
+{{< cta cta_text="Places limitées. RSVP par sms" cta_link=".">}}
 
 ## FAQ
 
 {{< spoiler text="Combien ça coûte?" >}}
-C’est gratuit ! Vous pouvez nous soutenir financièrement sur Helloasso (prix libre, pour info un stage COMPLÉTUDE de 4 jours commence à 230€).
+C’est gratuit ! Vous pouvez nous soutenir financièrement sur Helloasso.
 {{< /spoiler >}}
 
 {{< spoiler text="Que dois-je apporter?" >}}
 - Cours, exercices ou contrôles qui posent des difficultés.
 - Cahier, feuilles, stylo, compas, règle, équerre... le kit classique !
 {{< /spoiler >}}
-
-{{< cta cta_text="Places limitées. RSVP par sms" cta_link=".">}}

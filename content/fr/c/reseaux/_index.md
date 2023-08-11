@@ -22,6 +22,10 @@ tags:
   - Économie de l'attention
 ---
 
+{{< callout note >}}
+Nouveau! <a href="https://www.mtpcours.fr/p/roller-dance-montpellier/">Une équipe de roller dance à La Mosson</a>. Montpellier, août 2023.
+{{< /callout >}}
+
 ## Présentation
 
 Les GAFAM et les réseaux sociaux creusent les inégalités sociales, et divisent pour mieux régner. Une autre vision du monde existe, <i>“celle qui unit”</i> - Paul Valéry.
