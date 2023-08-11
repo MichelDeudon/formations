@@ -26,6 +26,8 @@ tags:
 Nouveau! <a href="https://www.mtpcours.fr/p/roller-dance-montpellier/">Une équipe de roller dance à La Mosson</a>. Montpellier, août 2023.
 {{< /callout >}}
 
+{{< figure src="roller/roller-reparation-recup.png" caption="Nous réparons ou recyclons vos rollers, skateboards et trottinettes!">}}
+
 ## Présentation
 
 Les GAFAM et les réseaux sociaux creusent les inégalités sociales, et divisent pour mieux régner. Une autre vision du monde existe, <i>“celle qui unit”</i> - Paul Valéry.
