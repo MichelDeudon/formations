@@ -39,12 +39,12 @@ To prepare well for the start of the year
 Communication kit {{% staticref "u/Stage-Pre-Rentree.pdf" %}}Pre-school program{{% /staticref %}}.
 {{< /callout >}}
 
+{{< figure src="maths/stage-pre-rentree.png" caption="Pre school program at La Paillade, Montpellier. - August 28 - September 1st, 2023.">}}
+
 {{< callout note >}}
 Registration open, limited places. <br>
 RSVP by sms to <a href="tel:0613835412">06 13 83 54 12</a>.
 {{< /callout >}}
-
-{{< figure src="maths/stage-pre-rentree.png" caption="Pre school program at La Paillade, Montpellier. - August 28 - September 1st, 2023.">}}
 
 ## Introduction
 

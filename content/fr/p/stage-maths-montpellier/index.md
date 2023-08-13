@@ -39,12 +39,12 @@ Pour bien préparer son début d'année
 Kit de comm' {{% staticref "u/Stage-Pre-Rentree.pdf" %}}Stage de pré-rentrée scolaire{{% /staticref %}}.
 {{< /callout >}}
 
+{{< figure src="maths/stage-pre-rentree.png" caption="Stage de pré-rentrée scolaire à La Paillade, Montpellier. - 28 août - 1er september 2023.">}}
+
 {{< callout note >}}
 Inscriptions ouvertes, places limitées. <br>
 RSVP par sms au <a href="tel:0613835412">06 13 83 54 12</a>.
 {{< /callout >}}
-
-{{< figure src="maths/stage-pre-rentree.png" caption="Stage de pré-rentrée scolaire à La Paillade, Montpellier. - 28 août - 1er september 2023.">}}
 
 ## Introduction
 
