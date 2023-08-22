@@ -1,19 +1,31 @@
 ---
 title: 7 astuces pour progresser en maths
-date: 2022-03-29
+date: 2022-08-23
+tags:
+- Jeunes
+- Rentrée Scolaire 2023
+- Mathématiques
+- Physique Chimie
+- Collège
+- Lycée
+- Seconde 
+- Première
+- Terminale
+- Brevet
+- Baccalauréat
+- BTS
+- Prépa
+- CPGE
+- CPES
+- Licence
+- Master
 ---
 
 Pour débutants à avancés
 
 <!--more-->
 
-Avec 13 médailles fields en mathématiques en 2022, la France se classe au deuxième rang mondial. Pourtant, en regardant de plus près les individus, du primaire au lycée, la France se classe parmi les pires pays d'Europe et de l'OCDE, selon l'étude annuelle Trends in International Mathematics and Science Study. <i>Pourquoi ?</i>
-
-Beaucoup d'élèves sont découragés d'apprendre les mathématiques en France. Au lycée, la part des femmes en maths a baissé de 8 points au cours des deux dernières années, depuis la dernière réforme de l'éducation, passant sous les niveaux de 1994 ! (source : [L'Etudiant](https://www.letudiant.fr/lycee/infographies-comment-la-reforme-du-lycee-penalise-les-filles.html))
-
-Ma petite sœur s'est fait dire en 2020 au lycée qu'elle n'était pas douée en mathématiques, qu'elle ne devait pas poursuivre des études en mathématiques mais elle l'a fait. En 2022, elle a fini major de son cours de statistiques à l'université.
-
-En tant que mentor et enseignant, mon travail consiste souvent à déconstruire des préjugés, des stéréotypes et à aider mes étudiants à gagner en confiance. Cette courte histoire vise à partager quelques astuces pour aider les élèves à changer de perspective sur les mathématiques et les sciences. Je les ai apprises en encadrant des élèves, du primaire au lycée, et au-delà.
+En tant qu'enseignant, mon travail consiste souvent à déconstruire des préjugés, des stéréotypes et à aider mes étudiants à gagner en confiance. Cette courte histoire vise à partager quelques astuces pour aider les élèves à changer de perspective sur les mathématiques et les sciences, du primaire au lycée, et au-delà.
 
 ## Astuce #1 — Commencer par poser des questions
 
@@ -36,7 +48,7 @@ Voici une citation que j'adore de Richard Feynman, qui résume l'idée :
 J'utilise les 4 questions ci-dessous depuis le collège pour réussir mes examens, mener des recherches et des projets :
 
 - <i> Que voulons-nous ? </i>
-- <i> De quoi disposons-nous ou avons-nous besoin ? </i>
+- <i> De quoi disposons-nous ? </i>
 - <i> Que savons-nous ? </i>
 - <i> Que pouvons-nous conclure ? </i>
 
@@ -64,7 +76,7 @@ Créez une solution à partir de votre dessin ou de vos notes. Notez-la lorsque 
 
 Un dessin est le moyen le plus simple de communiquer un problème ou une solution.
 
-Avoir un point de départ peut vous aider à éviter le syndrome de la page blanche, négatif pour renforcer la confiance en soi :
+Avoir un point de départ peut vous aider à éviter le syndrome de la page blanche :
  
 - <i> Je ne sais pas par où commencer </i>
 - <i> Je ne sais pas quoi résoudre </i>
@@ -91,9 +103,7 @@ Trouver la bonne combinaison de mémoire visuelle, auditive et tactile pourrait 
 - Lire votre cours ou vos exercices à haute voix pour stimuler et activer ensemble différentes parties de votre cerveau. Cela renforcera votre mémoire à long terme. C'est ce qu'on appelle l'apprentissage Hebbien en neurosciences. Les cellules qui s'allument ensemble, se connectent ensemble. ✨
 - Utiliser ou introduire des notations qui relient votre problème à ce que vous avez appris et connu, par exemple mu et sigma en statistique ou p pour une probabilité.
 
-Évitez de travailler 12 heures la veille d'un examen. C'est important de se reposer.
-
-Essayez autant que possible d'être régulier.
+Essayez autant que possible d'être régulier. Évitez de travailler 12 heures la veille d'un examen. C'est important de se reposer.
 
 Travaillez moins mais plus souvent, par exemple une à deux heures, deux fois par semaine. Prenez 15 à 30 minutes pour réviser vos cours dans les 24 heures suivant une conférence.
 
@@ -104,39 +114,26 @@ Cela ne nécessite pas de longs efforts, mais des contrôles et des exercices r�
 
 {{< figure src="maths/blog-math-4.jpg" caption="maths/Photo d'Alina Vilchenko sur Pexels" numbered="true" >}}
 
-Les comportements rationnels sont utilisés dans Eco 101 (chapitre 1) pour enseigner l'économie. En pratique, les prévisions ne correspondent pas à la réalité.
+Le livre de Dan Ariely, Predictibly Irrational, présente des expériences et des exemples concrets de comportements irrationnels. Mon préféré est l'expérience de cookie gratuite. La théorie rationnelle prédit que les gens se serviraient à volonté de cookies gratuits, alors qu'en réalité les gens n'en prenne qu'un ou deux.
 
-Le livre de Dan Ariely, Predictibly Irrational, présente des expériences et des exemples concrets. Mon préféré est l'expérience de cookie gratuite. La théorie rationnelle prédit que les gens prendraient tous les cookies gratuitement (maximisant leur fonction d'utilité individuelle), alors qu'en réalité les gens n'en prenne qu'un ou deux.
-
-Le monde dans lequel nous vivons n'est pas rationnel.
-
-Je ne me considère pas comme rationnel, plutôt intuitif. J'utilise mon imagination pour poser des questions et expérimenter des idées.
-
-C'est pourquoi j'ai choisi d'étudier la physique et la chimie en licence avant d'étudier les mathématiques appliquées.
+Le monde dans lequel nous vivons n'est pas rationnel. Je ne me considère pas comme rationnel, plutôt intuitif. J'utilise mon imagination pour poser des questions et expérimenter. C'est pourquoi j'ai choisi d'étudier la physique et la chimie en licence.
 
 Pas besoin d'être rationnel pour être bon en maths. Il existe d'autres types d'intelligences — intuitive, spatiale, kinesthésique, empathique…
 
 La langue, la musique, l'art ont un rôle à jouer important dans la compréhension des mathématiques. Le nombre d'or a inspiré les penseurs de toutes disciplines - biologistes, artistes, musiciens, historiens, architectes, psychologues… - comme aucun autre nombre dans l'histoire des mathématiques.
 
-La diversité est nécessaire en mathématiques et en sciences.
-Peu importe que vous soyez rationnel ou non !
-
 ## Astuce #5 — Enseigner pour apprendre
 
 {{< figure src="maths/blog-math-5.jpg" caption="maths/Photo de Monstera sur Pexels" numbered="true" >}}
 
-Vous n'avez pas besoin d'être un expert pour enseigner. Commencez par votre famille, vos amis, vos camarades de classe, des personnes de votre âge, plus jeunes ou plus âgées.
-
-Considérez des chapitres spécifiques, par exemple Pythagore ou Thales en géométrie.
+Vous n'avez pas besoin d'être un expert pour enseigner. Commencez par votre famille, vos amis, vos camarades de classe, des personnes de votre âge, plus jeunes ou plus âgées. Considérez des chapitres spécifiques, par exemple Pythagore ou Thales en géométrie.
 
 Vous pouvez également commencer par vous-même.
 Par exemple, masquez certains mots, définitions ou propriétés dans votre cours et apprenez à combler les trous.
 
 Enseigner est le meilleur moyen de maîtriser une matière. Aider les autres à reformuler, comprendre à travers des exemples, vous aidera à apprendre des sujets plus avancés.
-
-Nous avons tous quelque chose à enseigner et à apprendre des autres, nous ne nous en rendons pas compte parfois.
-
 Le travail d'équipe et les collaborations sont nécessaires dans la vraie vie.
+Nous avons tous quelque chose à enseigner et à apprendre des autres, nous ne nous en rendons pas compte parfois.
 
 ## Astuce #6 — Se relire attentivement
 
@@ -174,7 +171,7 @@ Pour finir sur une citation de Richard Feynman
 
 Vous pouvez apprendre les mathématiques à tout âge.
 
-Vous trouverez ci-dessous un résumé des 7 astuces pour s'améliorer en mathématiques. Faites-moi savoir laquelle vous satisfait le plus? 😊
+Vous trouverez ci-dessous un résumé des 7 astuces pour s'améliorer en mathématiques. Laquelle vous plait le plus? 😊
 
 1. Commencer par poser des questions
 2. Commencer à dessiner, quelque part

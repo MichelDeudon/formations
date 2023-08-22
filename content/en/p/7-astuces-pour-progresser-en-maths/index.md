@@ -1,19 +1,31 @@
 ---
 title: 7 tricks to get better at Maths
-date: 2022-03-29
+date: 2022-08-23
+tags:
+- Youth
+- Rentrée Scolaire 2023
+- Mathematics
+- Physics Chemisty
+- Mid School
+- High School
+- Seconde 
+- Première
+- Terminale
+- Brevet
+- Baccalauréat
+- BTS
+- Prépa
+- CPGE
+- CPES
+- Bachelor
+- Master
 ---
 
 For beginners to advanced
 
 <!--more-->
 
-With 13 medal fields in mathematics in 2022, France is ranked second worldwide. Yet, looking closer to individuals, from primary to high school, France ranks among the worst countries in Europe and the OCDE, according to the annual study Trends in International Mathematics and Science Study. <i>Why?</i>
-
-A lot of students are discouraged to learn mathematics in France. In high school, the share of women in maths dropped by 8 points in the last two years, since the latest education reform, dropping below 1994 levels! (source: [L'Etudiant](https://www.letudiant.fr/lycee/infographies-comment-la-reforme-du-lycee-penalise-les-filles.html))
-
-My little sister was told in 2020 in high school she wasn't good in mathematics, she shouldn't pursue studies in mathematics but she did. In 2022 she majored her course in statistics at university.
-
-As a mentor and teacher, my work often consists in deconstructing biases, stereotypes and helping students gain confidence. This short story aims to share some tricks to help students change perspective on mathematics and science. I've learned these by mentoring students, from primary to high school, and beyond.
+As a teacher, my work often consists in deconstructing biases, stereotypes and helping students gain confidence. This short story aims to share some tricks to help students change perspective on mathematics and science, from primary to high school, and beyond.
 
 ## Trick #1 — Start asking questions
 
@@ -36,7 +48,7 @@ Here's a quote I love from Richard Feynman, which summarizes the idea:
 I've been using the 4 questions below since mid school to pass exams, carry out research and projects:
 
 - <i> What do we want? </i>
-- <i> What do we have or need? </i>
+- <i> What do we have? </i>
 - <i> What do we know? </i>
 - <i> What can we conclude? </i>
 
@@ -64,7 +76,7 @@ Craft a solution from your drawing or your notes. Write it down when you have a 
 
 A drawing is the easiest way to communicate a problem or a solution.
 
-Having a starting point can help you avoid the blank page syndrome, negative to build self confidence:
+Having a starting point can help you avoid the blank page syndrome:
  
 - <i> I don't know how to start </i>
 - <i> I don't know what to solve </i>
@@ -91,9 +103,7 @@ Finding the right combination of visual, auditive and tactile memory could help 
 - Read your course or exercices out loud to stimulate and activate different parts of your brain together. This will strengthen your long term memory. It's called Hebbian learning in neuroscience. Cells that fire together, wire together. ✨
 - Use or introduce notations that connect your problem to what you learned and know, for example mu and sigma in statistics or p for a probability.
 
-Avoid working 12 hours the day before an exam. It's important to rest.
-
-Try as much as possible to be regular.
+Try as much as possible to be regular. Avoid working 12 hours the day before an exam. It's important to rest.
 
 Work less but more often, for example one to two hours, twice a week. Take 15–30 minutes to review your courses within 24h of a lecture.
 
@@ -104,40 +114,26 @@ It doesn't require long efforts but regular checks and exercising, just like gym
 
 {{< figure src="maths/blog-math-4.jpg" caption="maths/Photo by Alina Vilchenko on Pexels" numbered="true" >}}
 
-Rational behaviors are used in Eco 101 (chapter 1) to teach economy. In practice the predictions don't match reality.
+Dan Ariely's book Predictibly Irrational presents some experiments and concrete examples of irrational behaviors. My favorite one is the free cookie experiment. The rational theory predicts people would take all the cookies for free, when in reality people just have one or two.
 
-Dan Ariely's book Predictibly Irrational presents some experiments and concrete examples. My favorite one is the free cookie experiment. The rational theory predicts people would take all the cookies for free (maximizing their individual utility function), when in reality people just have one or two.
-
-The world in which we live isn't rational.
-
-I don't consider myself to be rational, rather intuitive. I use my imagination to ask questions and experiment ideas.
-
-That's why I chose to study physics and chemistry as an undergraduate before studying applied mathematics.
+The world in which we live isn't rational. I don't consider myself to be rational, rather intuitive. I use my imagination to ask questions and experiment. That's why I chose to study physics and chemistry as an undergraduate.
 
 You don't need to be rational to be good at maths. There are other types of intelligences — intuition, spatial, kinesthesic, empathy…
 
 Language, music, art have an important role in understanding mathematics. The golden ratio (nombre d'or in French) has inspired thinkers of all disciplines - biologists, artists, musicians, historians, architects, psychologists… - like no other number in the history of mathematics.
 
-Diversity is needed in mathematics and scientific fields.
-It doesn't matter if you are rational or not!
-
 ## Trick #5 — Teach to learn
 
 {{< figure src="maths/blog-math-5.jpg" caption="maths/Photo by Monstera on Pexels" numbered="true" >}}
 
-You don't need to be an expert to teach. Start with your family, your friends, classmates, people your age, younger or older.
-
-Consider specific chapters, for example Pythagore or Thales in geometry.
+You don't need to be an expert to teach. Start with your family, your friends, classmates, people your age, younger or older. Consider specific chapters, for example Pythagore or Thales in geometry.
 
 You could also start with yourself.
-It's called self supervision.
-For instance, hide some words, definitions or properties in your course and learn how to fill the gaps.
+For example, hide some words, definitions or properties in your course and learn how to fill the gaps.
 
 Teaching is the best way to master a subject. Helping others reformulate, understand through examples, will help you learn more advanced topics.
-
-We all have something to teach to and learn from others, we just don't realize it sometimes.
-
 Team work and collaborations are needed in real life.
+We all have something to teach to and learn from others, we just don't realize it sometimes.
 
 ## Trick #6 — Proofread yourself
 
