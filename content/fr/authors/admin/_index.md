@@ -10,7 +10,7 @@ role: Professeur, animateur, bénévole
 
 # Organizations/Affiliations
 organizations:
-  - name: Association GSC, Univers City Oxford
+  - name: Association GSC, Univers Cité Oxford
     url: https://www.helloasso.com/associations/generations-solidaires-et-citoyennes
 
 # Short bio (displayed in user profile at end of posts)

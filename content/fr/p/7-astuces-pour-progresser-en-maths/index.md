@@ -100,21 +100,19 @@ Trouver la bonne combinaison de mémoire visuelle, auditive et tactile pourrait 
 
 - Colorer et surligner vos cours, par exemple vert pour apprendre les définitions, rouge ou bleu pour les propriétés et violet ou noir pour les démonstrations. 🎨
 - Utiliser des rimes et mémo, par exemple je me souviens qu'une question qui commence par « Montrer que pour tout x… » peut être résolue en commençant par « Soit x… ». C'est câblé dans mon cerveau comme une rime. 🎶
-- Lire votre cours ou vos exercices à haute voix pour stimuler et activer ensemble différentes parties de votre cerveau. Cela renforcera votre mémoire à long terme. C'est ce qu'on appelle l'apprentissage Hebbien en neurosciences. Les cellules qui s'allument ensemble, se connectent ensemble. ✨
+- Lire votre cours ou vos exercices à haute voix pour stimuler et activer ensemble différentes parties de votre cerveau. Cela renforcera votre mémoire à long terme. ✨
 - Utiliser ou introduire des notations qui relient votre problème à ce que vous avez appris et connu, par exemple mu et sigma en statistique ou p pour une probabilité.
 
 Essayez autant que possible d'être régulier. Évitez de travailler 12 heures la veille d'un examen. C'est important de se reposer.
 
-Travaillez moins mais plus souvent, par exemple une à deux heures, deux fois par semaine. Prenez 15 à 30 minutes pour réviser vos cours dans les 24 heures suivant une conférence.
-
-Travailler avec votre mémoire à long terme vous fera gagner du temps et des efforts.
-Cela ne nécessite pas de longs efforts, mais des contrôles et des exercices réguliers, c'est une forme de gymnastique mentale.
+Travaillez moins mais plus souvent, par exemple 30 à 45 minutes, 2-3 fois par semaine, vous fera gagner du temps.
+Cela ne nécessite pas de longs efforts, mais de la régularité, c'est une forme de gymnastique mentale.
 
 ## Astuce #4 — Faire confiance à son intuition
 
 {{< figure src="maths/blog-math-4.jpg" caption="maths/Photo d'Alina Vilchenko sur Pexels" numbered="true" >}}
 
-Le livre de Dan Ariely, Predictibly Irrational, présente des expériences et des exemples concrets de comportements irrationnels. Mon préféré est l'expérience de cookie gratuite. La théorie rationnelle prédit que les gens se serviraient à volonté de cookies gratuits, alors qu'en réalité les gens n'en prenne qu'un ou deux.
+Le livre de Dan Ariely, Predictibly Irrational, présente des expériences et des exemples concrets de comportements irrationnels. Mon préféré est l'expérience de cookie gratuits. La théorie rationnelle prédit que les gens se serviraient à volonté de cookies gratuits, alors qu'en réalité les personnes n'en prennent qu'un ou deux.
 
 Le monde dans lequel nous vivons n'est pas rationnel. Je ne me considère pas comme rationnel, plutôt intuitif. J'utilise mon imagination pour poser des questions et expérimenter. C'est pourquoi j'ai choisi d'étudier la physique et la chimie en licence.
 

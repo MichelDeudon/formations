@@ -100,15 +100,13 @@ Finding the right combination of visual, auditive and tactile memory could help 
 
 - Color and highlight your courses, for example green to learn definitions, red or blue for properties and purple or black for proofs. 🎨
 - Use rhymes and memo, for example I remember that a question that starts with "Montrer que pour tout x …" can be solved starting with "Soit x…". It's wired in my brain like a rhyme. 🎶
-- Read your course or exercices out loud to stimulate and activate different parts of your brain together. This will strengthen your long term memory. It's called Hebbian learning in neuroscience. Cells that fire together, wire together. ✨
+- Read your course or exercices out loud to stimulate and activate different parts of your brain together. This will strengthen your long term memory. ✨
 - Use or introduce notations that connect your problem to what you learned and know, for example mu and sigma in statistics or p for a probability.
 
 Try as much as possible to be regular. Avoid working 12 hours the day before an exam. It's important to rest.
 
-Work less but more often, for example one to two hours, twice a week. Take 15–30 minutes to review your courses within 24h of a lecture.
-
-Working with your long term memory will save you time and efforts.
-It doesn't require long efforts but regular checks and exercising, just like gym.
+Working less but more often, for example 30 to 45 minutes, twice a week, will save you time.
+It doesn't require long efforts but regular exercising, just like gym.
 
 ## Trick #4 — Trust your intuition
 
