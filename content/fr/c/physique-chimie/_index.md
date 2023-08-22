@@ -19,7 +19,7 @@ Nouveau! <a href="https://www.mtpcours.fr/en/p/stage-maths-montpellier/">Stage d
 
 ## Présentation
 
-J'enseigne depuis 10 ans la physique et la chimie, avec passion, patience et empathie, en cherchant à donner à mes élèves [la confiance, l'intuition et les bons réflexes](https://www.mtpcours.fr/p/mathematics/) nécessaires pour devenir autonome. En particulier, j'aide mes étudiants à se poser les bonnes questions pour résoudre des problèmes, à bien les visualiser, à se les approprier à travers des exemples concrets et développer des automatismes pour résoudre plus efficacement des exercices.
+J'enseigne depuis 10 ans la physique et la chimie, avec passion, patience et empathie, en cherchant à donner à mes élèves [la confiance, l'intuition et les bons réflexes](https://www.mtpcours.fr/p/7-astuces-pour-progresser-en-maths/) nécessaires pour devenir autonome. En particulier, j'aide mes étudiants à se poser les bonnes questions pour résoudre des problèmes, à bien les visualiser, à se les approprier à travers des exemples concrets et développer des automatismes pour résoudre plus efficacement des exercices.
 
 Ma méthode est très pratique. On essaie, on voit où ça coince, on en discute. On s'assure de ne plus être bloqué dans des situations similaires. On transforme chaque erreur en essai pour gagner en sérénité et efficacité.
 
