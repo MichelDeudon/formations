@@ -1,6 +1,6 @@
 ---
 title: 7 tricks to get better at Maths
-date: 2022-08-23
+date: 2023-08-23
 tags:
 - Youth
 - Rentrée Scolaire 2023
