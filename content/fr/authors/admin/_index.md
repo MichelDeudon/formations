@@ -10,8 +10,8 @@ role: Professeur, animateur, bénévole
 
 # Organizations/Affiliations
 organizations:
-  - name: Indépendant
-    url: 
+  - name: Association GSC, Univers City Oxford
+    url: https://www.helloasso.com/associations/generations-solidaires-et-citoyennes
 
 # Short bio (displayed in user profile at end of posts)
 bio: Mes intérêts de recherche incluent l'écologie, la psychologie et l'apprentissage des langues.

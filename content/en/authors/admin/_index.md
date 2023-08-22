@@ -10,8 +10,8 @@ role: Professor, animator, volunteer
 
 # Organizations/Affiliations
 organizations:
-  - name: Independant
-    url: 
+  - name: Association GSC, Univers Cité Oxford
+    url: https://www.helloasso.com/associations/generations-solidaires-et-citoyennes
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include ecology, psychology and language learning.
