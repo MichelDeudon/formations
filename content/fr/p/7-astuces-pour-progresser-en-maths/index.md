@@ -1,6 +1,6 @@
 ---
 title: 7 astuces pour progresser en maths
-date: 2023-08-23
+date: 2023-08-22
 tags:
 - Jeunes
 - Rentrée Scolaire 2023
