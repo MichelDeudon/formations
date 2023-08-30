@@ -1,6 +1,6 @@
 ---
 title: Une équipe de roller dance à La Mosson
-date: 2023-07-24
+date: 2023-08-30
 tags:
 - Environnement
 - Société
@@ -40,7 +40,7 @@ En juin 2023, lors d'un [atelier préventif sur les réseaux sociaux](https://ww
 ## Dates et lieu
 
 📅 <b> Les mercredis, de 16h à 18h </b> (2h)<br>
-📍 <b> Devant l’[association GSC](https://www.helloasso.com/associations/generations-solidaires-et-citoyennes)</b>, 124 Allée de Coventry, 34080 Montpellier
+📍 Devant l’[association GSC](https://www.helloasso.com/associations/generations-solidaires-et-citoyennes), 124 Allée de Coventry, 34080 Montpellier
 
 ## Objectif
 
@@ -51,7 +51,7 @@ En juin 2023, lors d'un [atelier préventif sur les réseaux sociaux](https://ww
 ## Au programme
 
 1. Des <b> entraînements réguliers</b>, tous les mercredis (2h).
-2. Des <b> sorties à Montpellier et autour</b>, des rencontres et invités surprises (champion.nes de Slalom, Dance, Freestyle, Freeride, Rando) à PierresVives, l'Écusson, Grammont, Palavas-les-Flots et Clermont l’Hérault.
+2. Des <b> sorties à Montpellier et autour</b>, des rencontres et invités surprises de Slalom, Dance, Freestyle, Freeride, Rando... à PierresVives, l'Écusson, Grammont, Palavas-les-Flots et Clermont l’Hérault.
 3. Des <b> concours, spectacles et prix </b> à gagner ([marque de mode/sport](https://www.mtpcours.fr/u/Concours-Creation-Bandeau.pdf), textile, basket…).
 4. Des <b> ateliers</b> de [réparations ou récup](https://www.mtpcours.fr/u/Roller-Reparation-Recup.pdf).
 

@@ -1,6 +1,6 @@
 ---
 title: A roller dance team at La Mosson
-date: 2023-07-24
+date: 2023-08-30
 tags:
 - Environment
 - Society
@@ -40,7 +40,7 @@ In June 2023, during a [preventive workshop on social media](https://www.mtpcour
 ## Dates and locations
 
 📅 <b> Every Wednesday, from 4 p.m. to 6 p.m. </b> (2 hours)<br>
-📍 <b> In front of the [GSC association](https://www.helloasso.com/associations/generations-solidaires-et-citoyennes)</b>, 124 Allée de Coventry, 34080 Montpellier
+📍 In front of the [GSC association](https://www.helloasso.com/associations/generations-solidaires-et-citoyennes), 124 Allée de Coventry, 34080 Montpellier
 
 ## Objective
 
