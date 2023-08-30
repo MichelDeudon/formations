@@ -16,10 +16,6 @@ tags:
   - Hérault
 ---
 
-{{< callout note >}}
-New! {{% staticref "u/Renovation-ecologique-Asso-GSC.pdf" %}}Green renovation of the asso GSC{{% /staticref %}} at La Mosson, Montpellier - from Monday 08/21 to Friday 08/25, 2023.
-{{< /callout >}}
-
 {{< figure src="local-seasonal/renovation-ecologique-asso-GSC.png" caption="Green renovation at La Paillade, Montpellier - from Monday 08/21 to Friday 08/25, 2023.">}}
 
 ## Presentation

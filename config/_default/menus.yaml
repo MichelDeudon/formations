@@ -40,6 +40,9 @@ main:
   - name: Local Seasonal
     PageRef: c/local-seasonal/_index.md
     weight: 40
+  - name: Roller Dance Montpellier
+    PageRef: p/roller-dance-montpellier/_index.md
+    weight: 50
   - name: Blog
     PageRef: p/_index.md
-    weight: 50
+    weight: 60

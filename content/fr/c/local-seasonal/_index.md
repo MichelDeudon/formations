@@ -16,10 +16,6 @@ tags:
   - Hérault
 ---
 
-{{< callout note >}}
-Nouveau! {{% staticref "u/Renovation-ecologique-Asso-GSC.pdf" %}}Renovation écologique de l'asso GSC{{% /staticref %}} à La Mosson, Montpellier - du lundi 21/08 au vendredi 25/08 2023.
-{{< /callout >}}
-
 {{< figure src="local-seasonal/renovation-ecologique-asso-GSC.png" caption="Renovation écologique à La Paillade, Montpellier - du lundi 21/08 au vendredi 25/08 2023.">}}
 
 ## Présentation
