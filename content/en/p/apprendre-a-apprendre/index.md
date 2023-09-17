@@ -85,5 +85,5 @@ Oui ! Vous pouvez tester par vous-même d’apprendre des poèmes, du vocabulair
 On a tous quelque chose à apprendre et à enseigner aux autres. Enseigner est par ailleurs une des meilleures façons pour apprendre. Travailler en équipe, apprendre et enseigner, ça s’apprend et permet de devenir plus tolérant. Vous pouvez par exemple aider un camarade en maths pendant qu’il ou elle vous aide en français, ou encore jouer à des jeux de rôles (un évaluateur pose des questions, un candidat y répond, puis inverser les rôles).
 
 ## Pour aller plus loin
-- [7 astuces pour progresser en maths](mtpcours.fr/p/7-astuces-pour-progresser-en-maths/)
-- [5 alternatives pour apprendre une langue](mtpcours.fr/p/language-learning/)
+- [7 astuces pour progresser en maths](https://www.mtpcours.fr/p/7-astuces-pour-progresser-en-maths/)
+- [5 alternatives pour apprendre une langue](https://www.mtpcours.fr/p/language-learning/)
