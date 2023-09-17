@@ -33,7 +33,7 @@ Pour gagner en confiance en soi et devenir résilient.
 
 ## Introduction
 
-Dès notre plus jeune âge, nous apprenons. D'abord à reconnaître les formes, les couleurs, les sons, les odeurs, puis à interagir avec notre environnement, manipuler des objets, effectuer des tâches de complexité croissante comme nous déplacer (à pied, à vélo, en patins) ou communiquer. Celà nous permet de nous adapter à l'environnement dans lequel nous évoluons, et éventuellement de l'influencer. Notre apprentissage se poursuit avant/après l’école, à travers nos relations et nos activités au quotidien. Apprendre à apprendre permet de travailler sur la <b>confiance en soi</b> et de développer une forme de <b>résilience</b> (<i>je ne sais pas, mais je peux apprendre</i>), et. D'un point de vue écologique, apprendre à apprendre permet d'économiser du temps, de l'énergie, et donc de <b>s'adapter efficacement à de nouvelles situations</b>.
+Dès notre plus jeune âge, nous apprenons. D'abord à reconnaître les formes, les couleurs, les sons, les odeurs, puis à interagir avec notre environnement, manipuler des objets, effectuer des tâches de complexité croissante comme nous déplacer (à pied, à vélo, en patins) ou communiquer. Celà nous permet de nous adapter à l'environnement dans lequel nous évoluons, et éventuellement de l'influencer. Notre apprentissage se poursuit avant/après l’école, à travers nos relations et nos activités au quotidien. D'un point de vue écologique, apprendre à apprendre permet d'économiser du temps, de l'énergie, et de <b>s'adapter efficacement à de nouvelles situations</b>. Apprendre à apprendre permet donc de travailler sur la <b>confiance en soi</b> et de développer une forme de <b>résilience</b> (<i>je ne sais pas, mais je peux apprendre</i>).
 
 ## Que faut-il pour apprendre ?
 
@@ -52,18 +52,18 @@ La mémoire fonctionne en partie par associations. Par exemple, si on entend un 
 
 1. <b>Mémoire visuelle</b> - Imprimer et annoter son cours; faire des dessins ou fiches colorées pour retenir les idées clés.
 2. <b>Mémoire auditive</b> - Apprendre en musique, ou avec des moyens mnémotechniques.
-3. <b>Mémoire tactile / kinésthésique</b> - Utiliser ses mains, ses doigts, des mouvements, ou appredre en dansant.
+3. <b>Mémoire tactile / kinésthésique</b> - Utiliser ses mains, ses doigts, des mouvements, ou apprendre en dansant.
 
 ### Mémoire de poisson
 
-🐟 La mémoire à court terme permet de se souvenir du nom ou de la date d’anniversaire d’une personne que vous rencontrez pour la première fois, ou encore d’une liste de choses à faire dans la journée. Elle peut se travailler à <b>tout âge</b>, ludiquement, avec des jeux comme le <b>Sudoku</b> ou le <b>Memory</b>. Elle est cependant limitée en termes d’information stockée (limite cognitive de 7+-2 concepts). Ainsi, il devient difficile de se souvenir d’une liste de 10, 20, 30 prénoms (à tester) sans recourir à des techniques comme grouper par paires (ex: 06 xx xx xx xx). La mémoire à court terme est pratique mais uniquement la mobiliser pendant ses études (par exemple en révisant la veille d’examens) n’est pas optimal.
+🐟 La mémoire à court terme permet de se souvenir du nom ou de la date d’anniversaire d’une personne que vous rencontrez pour la première fois, ou encore d’une liste de choses à faire dans la journée. Elle peut se travailler à <b>tout âge</b>, ludiquement, avec des jeux comme le <b>Sudoku</b> ou le <b>Memory</b>. Elle est cependant limitée en termes d’information stockée (limite cognitive de 7+-2 concepts). Ainsi, il devient difficile de se souvenir d’une liste de 10, 20, 30 prénoms sans recourir à des techniques comme grouper par paires (ex: 06 xx xx xx xx). La mémoire à court terme est pratique mais uniquement la mobiliser pendant ses études, par exemple en révisant la veille d’examens, n’est pas optimal.
 
 ### Mémoire d'éléphant
 
 🐘 Notre mémoire à long terme permet de réellement stocker nos impressions, nos souvenirs, durablement. Nous détaillons ci dessous trois méthodes pour la renforcer, en autonomie :
 - <b>Masquer / compléter des phrases</b>. L’idée est de masquer un mot important à retenir dans une phrase, ou une phrase entière, et essayer de la répéter (ou reformuler) à partir du contexte. On apprend ainsi par erreur et par imitation.
 - <b>La technique du rappel</b>. L’efficacité des révisions dépend du temps écoulé entre chaque rappel. Revoir ses cours le jour même et le lendemain pendant 30' plutôt que 2 heures la semaine suivante s’avère plus efficace.
-- <b>Écoute attentive et participation active</b>. L’idée est de lire le cours (ou des annexes, documents en rapport) avant le cours, sans forcément tout comprendre et préparer ses questions. Le cours permet alors d’éclaircir les points de doutes et peut aider à être plus attentif ou actif.
+- <b>Écoute attentive et participation active</b>. L’idée est de lire le cours (ou des annexes, documents en rapport) avant le cours, sans forcément tout comprendre et préparer ses questions. Le cours en classe permet alors d’éclaircir les points de doutes et peut aider à être plus attentif ou actif.
 
 {{< figure src="app2app/memoire-long-terme.png" caption="La mémoire à long terme s'entraîne et se travaille, comme un muscle.">}}
 
@@ -82,7 +82,7 @@ Oui ! Vous pouvez tester par vous-même d’apprendre des poèmes, du vocabulair
 
 ### Apprend-on mieux seul ou à plusieurs ?
 
-On a tous quelque chose à apprendre et à enseigner aux autres. Enseigner est par ailleurs une des meilleures façons pour apprendre. Travailler en équipe, apprendre et enseigner, ça s’apprend et permet de devenir plus tolérant. Vous pouvez par exemple aider un camarade en maths pendant qu’il ou elle vous aide en français, ou encore jouer à des jeux de rôles (un évaluateur pose des questions, un candidat y répond, puis inverser les rôles).
+On a tous quelque chose à apprendre et à enseigner aux autres. Enseigner est par ailleurs une des meilleures façons pour apprendre. Travailler en équipe, apprendre et enseigner, ça s’apprend et permet de devenir plus tolérant. Vous pouvez par exemple aider un camarade en maths pendant qu’il ou elle vous aide en français, ou encore jouer à des jeux de rôles: un évaluateur pose des questions, un candidat y répond, puis inverser les rôles.
 
 ## Pour aller plus loin
 - [7 astuces pour progresser en maths](https://www.mtpcours.fr/p/7-astuces-pour-progresser-en-maths/)

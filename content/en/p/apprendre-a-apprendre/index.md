@@ -1,25 +1,25 @@
 ---
-title: Apprendre à apprendre
+title: Learning to learn
 date: 2023-09-15
 tags:
-- Jeunes
-- Maths
-- Physique Chimie
-- Français
-- Anglais
-- Méthodologie
-- Collège
-- Lycée
+- Youth
+- Math
+- Physics Chemistry
+- French
+- English
+- Methodology
+- Mid school
+- High school
 - Brevet
-- Baccalauréat
+- Baccalaureate
 - BTS
-- Prépa
+- Prepa
 - CPGE
 - CPES
 - Licence
 - Master
-- Cours particuliers
-- Cours collectifs
+- Private lessons
+- Group lessons
 - Cité éducative
 - La Paillade
 - La Mosson
@@ -27,63 +27,63 @@ tags:
 - Herault
 ---
 
-Pour gagner en confiance en soi et devenir résilient.
+To gain self-confidence and become resilient.
 
 <!--more-->
 
 ## Introduction
 
-Dès notre plus jeune âge, nous apprenons. D'abord à reconnaître les formes, les couleurs, les sons, les odeurs, puis à interagir avec notre environnement, manipuler des objets, effectuer des tâches de complexité croissante comme nous déplacer (à pied, à vélo, en patins) ou communiquer. Celà nous permet de nous adapter à l'environnement dans lequel nous évoluons, et éventuellement de l'influencer. Notre apprentissage se poursuit avant/après l’école, à travers nos relations et nos activités au quotidien. Apprendre à apprendre permet de travailler sur la <b>confiance en soi</b> et de développer une forme de <b>résilience</b> (<i>je ne sais pas, mais je peux apprendre</i>), et. D'un point de vue écologique, apprendre à apprendre permet d'économiser du temps, de l'énergie, et donc de <b>s'adapter efficacement à de nouvelles situations</b>.
+From the beginning of our childhood, we learn. First to recognize shapes, colors, sounds, smells, then to interact with our environment, manipulate objects, perform tasks of increasing complexity such as moving (on foot, by bike, on skates) or communicating. This helps us to adapt to the environment in which we evolve, and possibly influence it. Our learning experience continues before/after school, through our relationships and our daily activities. From an ecological point of view, learning to learn saves time, energy, and <b>helps us adapt effectively to new situations</b>. Learning to learn therefore allows people to work on <b>self-confidence</b> and to develop a form of <b>resilience</b> (<i>I don't know, but I can learn</i>).
 
-## Que faut-il pour apprendre ?
+## What does it take to learn?
 
-Dans la métaphore de Spinoza de l'apprentissage, un cavalier symbolise la raison tandis que son cheval symbolise les émotions. L'apprentissage mobilise la tête mais aussi le cœur et le corps. Science sans conscience n'est que ruine de l'âme écrivait Rabelais dans Gargantua en 1534. Ainsi, un apprentissage sera d'autant meilleur que l'apprenti dispose d'une <b>alimentation saine et équilibrée</b>, d'un <b>sommeil réparateur</b>, exerce des <b>activités physiques régulières</b>, et vie des <b>relations saines</b>. Le bien-être est central dans l'apprentissage. 👉🏾 Si quelque chose vous tracasse, parlez-en, communiquez avec vos parents, vos amis, l’équipe enseignante…
+In Spinoza's metaphor of learning, a horserider symbolizes reason while his horse symbolizes emotions. Learning mobilizes the head but also the heart and the body. Science without conscience is only ruin of the soul, wrote Rabelais in Gargantua in 1534. Thus, learning will be all the better if the apprentice has a <b>healthy and balanced diet</b>, get <b>restful sleep</b>, engage in <b>regular physical activity</b>, and enjoy <b>healthy relationships</b>. Well-being is central to learning. 👉🏾 If something is bothering you, talk about it, communicate with your parents, your friends, the teaching team…
 
-## Apprendre les maths et la gymnastique, quel rapport ?
+## Learning math and gymnastics, what's the link?
 
-Les maths comme le sport nécessitent une forme de souplesse pour progresser. C'est en s'entraînant et en s'étirant régulièrement que vient cette agilité, et plus on prend du plaisir à apprendre, plus on s'amuse à acquérir des nouvelles connaissances/compétences et donner du sens au monde, plus ces entraînements sont fructueux (par renforcement, grâce à la dopamine). Apprendre moins pour apprendre mieux c'est possible, sur la durée. Celà demande de la <b>curiosité</b> et de la <b>patience</b>, d'investir <b>régulièrement</b> du temps et de l'énergie, par exemple 15 minutes par jour (plutôt que 3h par semaine), comme pour apprendre une nouvelle langue et explorer l’inconnu.
+Maths, like sports, requires a form of flexibility to progress. It is by training and stretching regularly that this agility comes, and the more we take pleasure in learning, the more we have fun acquiring new knowledge/skills and giving meaning to the world, the more these trainings are fruitful (by reinforcement, thanks to dopamine). Learning less to learn better is possible, over time. This requires <b>curiosity</b>, <b>patience</b> and to invest <b>regularly</b> time and energy, for example 15 minutes per day (rather than 3 hours per week), like learning a new language and exploring the unknown.
 
-## La mémoire et l'attention se travaillent
+## Memory and attention can be strengthened
 
-La mémoire et l'attention nous permettent d'apprendre.
-La mémoire fonctionne en partie par associations. Par exemple, si on entend un aboiement, on peut penser à un chien de son enfance, qu’on a vu aboyer dans le passé (ici l’audition active la vue). <b>Notre mémoire</b> s’imprègne de <b>nos sens</b> - l’ouïe, la vue, le toucher, l’odorat, le goût. Mobiliser ces sens nous permet d’enregistrer et d’activer des souvenirs. Quelques exemples <b>à expérimenter</b> pour mémoriser activement ce que vous apprenez :
+Memory and attention help us to learn.
+Memory works partly by associations. For example, if we hear a bark, we can think of a dog from our childhood, which we saw barking in the past (here hearing activates sight). <b>Our memory</b> is imbued with <b>our senses</b> - hearing, sight, touch, smell, taste. Mobilizing these senses allows us to record and activate memories. Some examples <b>to experiment</b> with to actively memorize what you learn:
 
-{{< figure src="app2app/memoire-sens.png" caption="Mémoire et sens, illustration de la mémoire visuelle, auditive et tactile / kinésthésique.">}}
+{{< figure src="app2app/memoire-sens.png" caption="Memory and senses, illustration of visual, auditory and tactile/kinesthetic memory.">}}
 
-1. <b>Mémoire visuelle</b> - Imprimer et annoter son cours; faire des dessins ou fiches colorées pour retenir les idées clés.
-2. <b>Mémoire auditive</b> - Apprendre en musique, ou avec des moyens mnémotechniques.
-3. <b>Mémoire tactile / kinésthésique</b> - Utiliser ses mains, ses doigts, des mouvements, ou appredre en dansant.
+1. <b>Visual memory</b> - Print and annotate your course; make drawings or colored summaries to remember key ideas.
+2. <b>Auditory memory</b> - Learn with music or mnemonics.
+3. <b>Tactile/kinesthetic memory</b> - Use your hands, fingers, movements, or learn by dancing.
 
-### Mémoire de poisson
+### Fish memory
 
-🐟 La mémoire à court terme permet de se souvenir du nom ou de la date d’anniversaire d’une personne que vous rencontrez pour la première fois, ou encore d’une liste de choses à faire dans la journée. Elle peut se travailler à <b>tout âge</b>, ludiquement, avec des jeux comme le <b>Sudoku</b> ou le <b>Memory</b>. Elle est cependant limitée en termes d’information stockée (limite cognitive de 7+-2 concepts). Ainsi, il devient difficile de se souvenir d’une liste de 10, 20, 30 prénoms (à tester) sans recourir à des techniques comme grouper par paires (ex: 06 xx xx xx xx). La mémoire à court terme est pratique mais uniquement la mobiliser pendant ses études (par exemple en révisant la veille d’examens) n’est pas optimal.
+🐟 Our short-term memory helps us remember the name or birthday of someone we meet for the first time, or even a list of things to do for the day. It can be strengthened at <b>any age</b>, in a fun way, with games like <b>Sudoku</b> or <b>Memory</b>. However, it is limited in terms of stored information (cognitive limit of 7+-2 concepts). Thus, it becomes difficult to remember a list of 10, 20, 30 names without resorting to techniques such as grouping in pairs (eg: 06 xx xx xx xx). Short-term memory is useful but only mobilizing it, for example by studying the day before exams, is not optimal.
 
-### Mémoire d'éléphant
+### Elephant Memory
 
-🐘 Notre mémoire à long terme permet de réellement stocker nos impressions, nos souvenirs, durablement. Nous détaillons ci dessous trois méthodes pour la renforcer, en autonomie :
-- <b>Masquer / compléter des phrases</b>. L’idée est de masquer un mot important à retenir dans une phrase, ou une phrase entière, et essayer de la répéter (ou reformuler) à partir du contexte. On apprend ainsi par erreur et par imitation.
-- <b>La technique du rappel</b>. L’efficacité des révisions dépend du temps écoulé entre chaque rappel. Revoir ses cours le jour même et le lendemain pendant 30' plutôt que 2 heures la semaine suivante s’avère plus efficace.
-- <b>Écoute attentive et participation active</b>. L’idée est de lire le cours (ou des annexes, documents en rapport) avant le cours, sans forcément tout comprendre et préparer ses questions. Le cours permet alors d’éclaircir les points de doutes et peut aider à être plus attentif ou actif.
+🐘 Our long-term memory allows us to really store our impressions, our memories, in the long term. We detail below three methods to strengthen it:
+- <b>Hide / complete sentences</b>. The idea is to hide an important word to remember in a sentence, or an entire sentence, and try to repeat (or rephrase) it from the context. We learn by mistake and by imitation.
+- <b>The recall technique</b>. The effectiveness of studying depends on the time elapsed between each reminder. Reviewing your lessons the same day and the next day for 30 minutes rather than 2 hours the following week is more effective.
+- <b>Attentive listening and active participation</b>. The idea is to read the course (or appendices, related documents) before the course, without necessarily understanding everything and preparing your questions. The classroom course then helps to clarify points of doubt and can help you to be more attentive or active.
 
-{{< figure src="app2app/memoire-long-terme.png" caption="La mémoire à long terme s'entraîne et se travaille, comme un muscle.">}}
+{{< figure src="app2app/memoire-long-terme.png" caption="Long-term memory can be trained, like a muscle.">}}
 
 ## Attention
 
-Se concentrer, se relire attentivement, demande de l'énergie et une journée à apprendre peut fatiguer. Il est donc important de faire <b>des pauses</b>, se fixer <b>des objectifs</b> pour se motiver (limite de temps, deadline avant d'aller jouer) et bien dormir pour <b>se ressourcer</b>.
+Concentrating and rereading carefully requires energy and a day of learning can be tiring. It is therefore important to take <b>breaks</b>, set <b>goals</b> to motivate yourself (time limit, deadline before going to play) and sleep well to <b>recharge yourself</b>.
 
-Privilégier un endroit calme pour travailler, mettre son <b>téléphone en mode silencieux ou avion</b> (ou mieux encore, dans une autre salle) permet d’éviter d’être distrait et d’être plus efficace pour apprendre. Voici quelques exercices qui peuvent vous aider à vous concentrer si vous êtes agités :
-- Fermer les yeux et respirer fort trois fois pour revenir à l'instant présent
-- Porter son attention sur ses sensations physiques pour lâcher prise
-- Mettre ses lunettes ou s'habiller différemment, changer de mode.
+Choosing a quiet place to work, putting your <b>phone on silent or airplane mode</b> (or better, in another room) will help you to avoid being distracted and to be more effective in your learning. Here are some exercises that can help you concentrate if you are agitated:
+- Close your eyes and breathe deeply three times to come back to the present moment
+- Pay attention to your physical sensations to let go overwhelming thoughts
+- Put on your glasses or dress differently, change style.
 
-### Apprend on pendant son sommeil ?
+### Do we learn in our sleep?
 
-Oui ! Vous pouvez tester par vous-même d’apprendre des poèmes, du vocabulaire ou des proverbes, avant de vous coucher. Il est aussi conseillé de ne pas passer de temps sur les écrans une heure avant de dormir pour une meilleure qualité de sommeil.
+Yes! You can try learning poems, vocabulary or proverbs for yourself before going to bed. It is also recommended not to spend time on screens one hour before bed for a better quality of sleep.
 
-### Apprend-on mieux seul ou à plusieurs ?
+### Do we learn better alone or with others?
 
-On a tous quelque chose à apprendre et à enseigner aux autres. Enseigner est par ailleurs une des meilleures façons pour apprendre. Travailler en équipe, apprendre et enseigner, ça s’apprend et permet de devenir plus tolérant. Vous pouvez par exemple aider un camarade en maths pendant qu’il ou elle vous aide en français, ou encore jouer à des jeux de rôles (un évaluateur pose des questions, un candidat y répond, puis inverser les rôles).
+We all have something to learn and teach others. Teaching is also one of the best ways to learn. Working as a team, learning and teaching, can be learned and will help you to become more tolerant. For example, you can help a friend with math while he or she helps you with French, or play role-playing games: an assessor asks questions, a candidate answers them, then reverse the roles).
 
-## Pour aller plus loin
-- [7 astuces pour progresser en maths](https://www.mtpcours.fr/p/7-astuces-pour-progresser-en-maths/)
-- [5 alternatives pour apprendre une langue](https://www.mtpcours.fr/p/language-learning/)
+## To go further
+- [7 tricks to get better at Maths](https://www.mtpcours.fr/en/p/7-astuces-pour-progresser-en-maths/)
+- [5 alternative ways to learn a language effectively](https://www.mtpcours.fr/en/p/language-learning/)
