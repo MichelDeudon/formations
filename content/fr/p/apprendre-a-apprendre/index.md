@@ -56,7 +56,7 @@ La mémoire fonctionne en partie par associations. Par exemple, si on entend un 
 
 ### Mémoire de poisson
 
-🐟 La mémoire à court terme permet de se souvenir du nom ou de la date d’anniversaire d’une personne que vous rencontrez pour la première fois, ou encore d’une liste de choses à faire dans la journée. Elle peut se travailler à <b>tout âge</b>, ludiquement, avec des jeux comme le <b>Sudoku</b> ou le <b>Memory</b>. Elle est cependant limitée en termes d’information stockée (limite cognitive de 7+-2 concepts). Ainsi, il devient difficile de se souvenir d’une liste de 10, 20, 30 prénoms sans recourir à des techniques comme grouper par paires (ex: 06 xx xx xx xx). La mémoire à court terme est pratique mais uniquement la mobiliser pendant ses études, par exemple en révisant la veille d’examens, n’est pas optimal.
+🐟 La mémoire à court terme permet de se souvenir du nom ou de la date d’anniversaire d’une personne que vous rencontrez pour la première fois, ou encore d’une liste de choses à faire dans la journée. Elle peut se travailler à <b>tout âge</b>, ludiquement, avec des jeux comme le <b>Sudoku</b> ou le <b>Memory</b>. Elle est cependant limitée en termes d’information stockée (limite cognitive de 7±2 concepts). Ainsi, il devient difficile de se souvenir d’une liste de 10, 20, 30 prénoms sans recourir à des techniques comme grouper par paires (ex: 06 xx xx xx xx). La mémoire à court terme est pratique mais uniquement la mobiliser pendant ses études, par exemple en révisant la veille d’examens, n’est pas optimal.
 
 ### Mémoire d'éléphant
 
