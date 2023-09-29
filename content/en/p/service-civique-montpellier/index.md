@@ -35,8 +35,8 @@ Are you between 18 and 25 years old? Are you looking for meaning or impact? Do y
 We offer <b>varied missions</b> covering 5 areas:
 1. 🎓 {{% staticref "u/Mission-Service-Civique-Education.pdf" %}}Education for all{{% /staticref %}}
 2. 🎥 {{% staticref "u/Mission-Service-Civique-Culture.pdf" %}}Culture and leisure{{% /staticref %}}
-3. ⚽ {{% staticref "u/Mission-Service-Civique-Solidarite.pdf" %}}Solidarity{{% /staticref %}}
-4. ❤ {{% staticref "u/Mission-Service-Civique-Sport.pdf" %}}Sport{{% /staticref %}}
+3. ❤ {{% staticref "u/Mission-Service-Civique-Solidarite.pdf" %}}Solidarity{{% /staticref %}}
+4. ⚽ {{% staticref "u/Mission-Service-Civique-Sport.pdf" %}}Sport{{% /staticref %}}
 5. 🌱 {{% staticref "u/Mission-Service-Civique-Environnement.pdf" %}}Environment{{% /staticref %}}
 
 As well as training and <b>mentoring</b> for all our volunteers to help you realize your dreams.
