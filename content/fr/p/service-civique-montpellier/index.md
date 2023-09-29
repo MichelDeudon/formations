@@ -40,7 +40,7 @@ Nous proposons <b>des missions variées</b> couvrant 5 domaines:
 4. ❤ {{% staticref "u/Mission-Service-Civique-Sport.pdf" %}}Sport{{% /staticref %}}
 5. 🌱 {{% staticref "u/Mission-Service-Civique-Environnement.pdf" %}}Environnement{{% /staticref %}}
 
-Ainsi que des formations et <b>un mentorat</b> pour tous nos bénévoles pour t'aider à réaliser tes rêves.
+Ainsi que des formations et <b>un mentorat</b> pour tous nos volontaires et bénévoles pour t'aider à réaliser tes rêves.
 
 {{< cta cta_text="Ça te parle? Écris nous." cta_link="mailto:genesolidaires@gmail.com?cc=michel.deudon@hotmail.com&subject=Bénévolat et Service Civique à GSC">}}
 
