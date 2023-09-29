@@ -34,11 +34,11 @@ Pour accompagner des jeunes, leurs familles et ouvrir le champs des possible
 Tu as entre 18 et 25 ans? Tu es à la recherche de sens ou d'impact? Tu souhaites t'engager pour une mission d'intérêt général? L'[association GSC](https://www.helloasso.com/associations/generations-solidaires-et-citoyennes) recrute des bénévoles et volontaires en [service civique](https://www.service-civique.gouv.fr/) à Montpellier!
 
 Nous proposons <b>des missions variées</b> couvrant 5 domaines: 
-1. {{% staticref "u/Mission-Service-Civique-Education.pdf" %}}Éducation pour tous{{% /staticref %}}
-2. {{% staticref "u/Mission-Service-Civique-Culture.pdf" %}}Culture et loisirs{{% /staticref %}}
-3. {{% staticref "u/Mission-Service-Civique-Solidarite.pdf" %}}Solidarité{{% /staticref %}}
-4. {{% staticref "u/Mission-Service-Civique-Sport.pdf" %}}Sport{{% /staticref %}}
-5. {{% staticref "u/Mission-Service-Civique-Environnement.pdf" %}}Environnement{{% /staticref %}}
+1. 🎓 {{% staticref "u/Mission-Service-Civique-Education.pdf" %}}Éducation pour tous{{% /staticref %}}
+2. 🎥 {{% staticref "u/Mission-Service-Civique-Culture.pdf" %}}Culture et loisirs{{% /staticref %}}
+3. ⚽ {{% staticref "u/Mission-Service-Civique-Solidarite.pdf" %}}Solidarité{{% /staticref %}}
+4. ❤ {{% staticref "u/Mission-Service-Civique-Sport.pdf" %}}Sport{{% /staticref %}}
+5. 🌱 {{% staticref "u/Mission-Service-Civique-Environnement.pdf" %}}Environnement{{% /staticref %}}
 
 Ainsi que des formations et <b>un mentorat</b> pour tous nos bénévoles pour t'aider à réaliser tes rêves.
 
