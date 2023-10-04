@@ -23,10 +23,8 @@ tags:
 ---
 
 {{< callout note >}}
-New! <a href="https://www.mtpcours.fr/en/p/roller-dance-montpellier/"> A roller dance team at La Mosson</a>. Montpellier, August 2023.
+New! <a href="https://www.mtpcours.fr/en/p/roller-dance-montpellier/"> A roller dance team at La Mosson</a>, Montpellier.
 {{< /callout >}}
-
-{{< figure src="roller/roller-reparation-recup.png" caption="We repair or recycle your rollerblades, skateboards and scooters!">}}
 
 ## Presentation
 
@@ -40,15 +38,9 @@ Developed in Montpellier with and for middle school and high school students, pa
 
 {{< list_children >}}
 
-## Events
+## Past events
 
-### Future
-
-{{< icon name="calendar" pack="fas" >}} September 7 and 19, 2023. Youth and Social Networks. TBA.
-
-{{< icon name="calendar" pack="fas" >}} September 4 and 16, 2023. Youth and Online Games. TBA.
-
-### Past
+{{< icon name="calendar" pack="fas" >}} September 21 and 28, 2023. Tackling exclusions. From 9:15 a.m. to 11:15 a.m. at the University Paul Valéry.
 
 {{< icon name="calendar" pack="fas" >}} June 7, 2023. Youth and Social Networks. From 2:30 p.m. to 4:00 p.m., with the [Générations Solidaires et Citoyennes association](https://www.jeveuxaider.gouv.fr/organisations/4859-generations-solidaires-et-citoyennes), at the CAF social center. 410 Av. de Barcelona, 34080 Montpellier.
 

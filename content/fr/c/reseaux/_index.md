@@ -23,10 +23,8 @@ tags:
 ---
 
 {{< callout note >}}
-Nouveau! <a href="https://www.mtpcours.fr/p/roller-dance-montpellier/">Une équipe de roller dance à La Mosson</a>. Montpellier, août 2023.
+Nouveau! <a href="https://www.mtpcours.fr/p/roller-dance-montpellier/">Une équipe de roller dance à La Mosson</a>, Montpellier.
 {{< /callout >}}
-
-{{< figure src="roller/roller-reparation-recup.png" caption="Nous réparons ou recyclons vos rollers, skateboards et trottinettes!">}}
 
 ## Présentation
 
@@ -40,15 +38,9 @@ Développées à Montpellier avec et pour des collégien.nes, lycéen.nes, paren
 
 {{< list_children >}}
 
-## Événements
+## Événements passés
 
-### Futurs
-
-{{< icon name="calendar" pack="fas" >}} 7 et 19 Septembre 2023. Les Jeunes et les Réseaux Sociaux. TBA.
-
-{{< icon name="calendar" pack="fas" >}} 4 et 16 Septembre 2023. Les Jeunes et les Jeux en Ligne. TBA.
-
-### Passés
+{{< icon name="calendar" pack="fas" >}} 21 et 28 septembre 2023. Lutte contre les exclusions. De 9h15 à 11h15 à l'université Paul Valery.
 
 {{< icon name="calendar" pack="fas" >}} 7 juin 2023. Les Jeunes et les Réseaux Sociaux. De 14h30 à 16h00, avec l'[association Générations Solidaires et Citoyennes](https://www.jeveuxaider.gouv.fr/organisations/4859-generations-solidaires-et-citoyennes), au centre social de la CAF. 410 Av. de Barcelone, 34080 Montpellier. 
 
@@ -102,7 +94,7 @@ Pour les salariés (public ou privé), le [médecin du Travail](https://www.univ
 
 > _Le développement de l'intelligence est inséparable de celui de l'affectivité_ - Edgar Morin. Les Sept savoirs nécessaires à l'éducation du futur. [UNESCO](https://unesdoc.unesco.org/ark:/48223/pf0000117740_fre). 1999.
 
-### Écrans et santé
+### Santé et écrans
 
 > Mediapart. [Écrans et santé : il est urgent d'agir !](https://blogs.mediapart.fr/emmanuel-prados/blog/020323/ecrans-et-sante-il-est-urgent-d-agir) 2 mars 2023.
 

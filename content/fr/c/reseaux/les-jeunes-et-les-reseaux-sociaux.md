@@ -2,7 +2,7 @@
 title: Les Jeunes et les Réseaux Sociaux
 date: '2023-01-01'
 type: book
-weight: 10
+weight: 20
 highlight: true
 tags:
   - Jeunes
@@ -22,9 +22,11 @@ tags:
   - Économie de l'attention
 ---
 
-Cette formation, sous forme d'atelier collaboratif et interactif, est construit autour de 3 temps.
+Formation sous forme d'atelier collaboratif et interactif pour sensibiliser aux impacts des écrans et réseaux sociaux.
 
 <!--more-->
+
+Cette formation est construite autour de 3 temps.
 
 1. Introduction.
 2. Mise en pratique de la méthode 1-2-4-tous pour débattre : À quels besoins les réseaux sociaux répondent-ils? Comment me font-ils sentir? Quelles alternatives existent? Quelles solutions concrètes?

@@ -2,7 +2,7 @@
 title: Attention et Santé Mentale
 date: '2023-01-01'
 type: book
-weight: 20
+weight: 30
 highlight: true
 tags:
   - Jeunes
@@ -26,13 +26,11 @@ Recueil de témoignages anonymes via un questionnaire pour aider à prendre cons
 
 <!--more-->
 
-> _Je suis tombé malade, en tant qu’étudiant en 2020 et professeur en 2023, à enseigner sur les écrans, et sentir mes élèves décrocher sans les voir._ - Enseignant contractuel en licence/master MIASHS, juin 2023.
+> _Je suis tombé malade, en tant qu’étudiant en 2020 et professeur en 2023, à enseigner sur les écrans, et sentir mes élèves décrocher sans les voir._ - Enseignant contractuel à Paul Valéry, juin 2023.
 
-> _Je me sens épuisé et en manque d'énergie par manque d'activité physique. Aussi, je sens que ma capacité d'attention a baissé à cause des réseaux sociaux._ - Étudiant en licence MIASHS, mai 2023.
+> _Je me sens épuisé et en manque d'énergie par manque d'activité physique. Aussi, je sens que ma capacité d'attention a baissé à cause des réseaux sociaux._ - Étudiant en licence à Paul Valéry, mai 2023.
 
-👉 Voir notre extrait de réponses au questionnaire {{% staticref "u/Temoignages-reseaux-sociaux-Montpellier-mai-2023.pdf" %}}Réseaux sociaux, Attention et Santé{{% /staticref %}} en mai 2023.
-
-👉 Notre questionnaire est toujours ouvert, pour y répondre, c'est par [ici](https://framaforms.org/reseaux-sociaux-attention-et-sante-mentale-1687119437) !
+👉 Voir notre extrait de réponses au questionnaire {{% staticref "u/Temoignages-reseaux-sociaux-Montpellier-mai-2023.pdf" %}}Réseaux sociaux, Attention et Santé{{% /staticref %}} en mai 2023. Notre questionnaire est ouvert, pour y répondre, c'est par [ici](https://framaforms.org/reseaux-sociaux-attention-et-sante-mentale-1687119437) !
 
 👉 Voir notre manifeste {{% staticref "u/Manifeste-cellule-de-crise-sante-mentale-toustes.pdf" %}}Une cellule de crise pour parler de la santé mentale de tous et de toutes{{% /staticref %}}, votée à l'Assemblée Générale de Paul Valéry en mai 2023.
 

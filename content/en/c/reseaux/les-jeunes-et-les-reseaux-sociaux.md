@@ -2,7 +2,7 @@
 title: Youth and Social Networks
 date: '2023-01-01'
 type: book
-weight: 10
+weight: 20
 highlight: true
 tags:
    - Youth
@@ -22,9 +22,11 @@ tags:
    - Attention Economy
 ---
 
-This training, in the form of a collaborative and interactive workshop, is built around 3 stages.
+Collaborative and interactive workshop to raise awareness about the impacts of screens and social networks.
 
 <!--more-->
+
+This training is built around 3 stages.
 
 1. Introduction.
 2. Putting the 1-2-4-all method into practice to debate: What needs do social networks meet? How do they make me feel? What alternatives exist? What are concrete solutions?

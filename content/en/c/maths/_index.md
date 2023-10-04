@@ -62,6 +62,32 @@ A sample of maths exercices and solutions by level:
 
 Thank you to the Mathematics teachers of Henri IV and Louis Le Grand high school!
 
+## International Mathematical Olympiad
+
+A sample of maths exercices from the International Mathematical Olympiad by year:
+- {{% staticref "u/Olympiades_maths_2023.pdf" %}}2023{{% /staticref %}}
+- {{% staticref "u/Olympiades_maths_2022.pdf" %}}2022{{% /staticref %}}
+- {{% staticref "u/Olympiades_maths_2021.pdf" %}}2021{{% /staticref %}}
+- {{% staticref "u/Olympiades_maths_2020.pdf" %}}2020{{% /staticref %}}
+- {{% staticref "u/Olympiades_maths_2019.pdf" %}}2019{{% /staticref %}}
+- {{% staticref "u/Olympiades_maths_2018.pdf" %}}2018{{% /staticref %}}
+- {{% staticref "u/Olympiades_maths_2017.pdf" %}}2017{{% /staticref %}}
+- {{% staticref "u/Olympiades_maths_2016.pdf" %}}2016{{% /staticref %}}
+- {{% staticref "u/Olympiades_maths_2015.pdf" %}}2015{{% /staticref %}}
+- {{% staticref "u/Olympiades_maths_2014.pdf" %}}2014{{% /staticref %}}
+- {{% staticref "u/Olympiades_maths_2013.pdf" %}}2013{{% /staticref %}}
+- {{% staticref "u/Olympiades_maths_2012.pdf" %}}2012{{% /staticref %}}
+- {{% staticref "u/Olympiades_maths_2011.pdf" %}}2011{{% /staticref %}}
+- {{% staticref "u/Olympiades_maths_2010.pdf" %}}2010{{% /staticref %}}
+- {{% staticref "u/Olympiades_maths_2009.pdf" %}}2009{{% /staticref %}}
+- {{% staticref "u/Olympiades_maths_2008.pdf" %}}2008{{% /staticref %}}
+- {{% staticref "u/Olympiades_maths_2007.pdf" %}}2007{{% /staticref %}}
+- {{% staticref "u/Olympiades_maths_2006.pdf" %}}2006{{% /staticref %}}
+- {{% staticref "u/Olympiades_maths_1997.pdf" %}}1997{{% /staticref %}}
+- {{% staticref "u/Olympiades_maths_1979.pdf" %}}1979{{% /staticref %}}
+
+Thank you to the [IMO](https://www.imo-official.org/) organization committee!
+
 ## Higher education
 
 Courses taught at Paul Valéry University to [MIASHS](https://ufr6.www.univ-montp3.fr/fr/licence_miashs) (Mathematics and Computer Science Applied to Human and Social Sciences) undergraduates and master students:
