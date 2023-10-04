@@ -52,13 +52,13 @@ Ma méthode est très pratique. On essaie, on voit où ça coince, on en discute
 ## Passeport lycée Louis Le Grand et Henri IV
 
 Une sélection d'exercices de mathématiques et solutions par niveaux:
-- 3e / 2nd: [Livret de travail, de la 3e à la 2nde](https://www.louislegrand.fr/wp-content/uploads/2021/07/Livret-3eme-2nde.pdf).
-- 2nd / 1ère: [Livret de travail, de la 2nde à la 1ère](https://lycee-henri4.com/wp-content/uploads/2023/06/Livret-2nde-1ere.pdf).
-- 1ère / Tle: [Livret de travail, de la 1ère à la Terminale](https://lycee-henri4.com/wp-content/uploads/2023/06/Livret-1ere-Term.pdf).
-- Tle / Prépa S: [Mathématiques, du lycée aux CPGE scientifiques](https://www.louislegrand.fr/wp-content/uploads/2022/02/EXOS-TERMINALE3-3-AVECDESSIN-2.pdf).
-- Tle / Prépa S: [Quelques outils mathématiques pour la physique](https://lycee-henri4.com/wp-content/uploads/2023/06/poly-MPSI2023.pdf).
-- Tle / Prépa ECG: [Mathématiques, entre la Terminale et la classe d'ECG](https://lycee-henri4.com/wp-content/uploads/2022/07/ECG1-MATHS.pdf).
-- Tle / CPES: [Révisions de mathématiques pour les vacances](https://lycee-henri4.com/wp-content/uploads/2022/07/CPES-MATHS.pdf).
+- Livret de travail, [de la 3e à la 2nde](https://www.louislegrand.fr/wp-content/uploads/2021/07/Livret-3eme-2nde.pdf).
+- Livret de travail, [de la 2nde à la 1ère](https://lycee-henri4.com/wp-content/uploads/2023/06/Livret-2nde-1ere.pdf).
+- Livret de travail, [de la 1ère à la Terminale](https://lycee-henri4.com/wp-content/uploads/2023/06/Livret-1ere-Term.pdf).
+- Lycée / Prépa S: [Mathématiques, du lycée aux CPGE scientifiques](https://www.louislegrand.fr/wp-content/uploads/2022/02/EXOS-TERMINALE3-3-AVECDESSIN-2.pdf).
+- Lycée / Prépa S: [Quelques outils mathématiques pour la physique](https://lycee-henri4.com/wp-content/uploads/2023/06/poly-MPSI2023.pdf).
+- Lycée / Prépa ECG: [Mathématiques, entre la Terminale et la classe d'ECG](https://lycee-henri4.com/wp-content/uploads/2022/07/ECG1-MATHS.pdf).
+- Lycée / CPES: [Révisions de mathématiques pour les vacances](https://lycee-henri4.com/wp-content/uploads/2022/07/CPES-MATHS.pdf).
 
 Merci aux enseignants de mathématiques du lycée Henri IV et Louis Le Grand !
 
@@ -82,28 +82,28 @@ Cours dispensés à l'université Paul Valéry, en licence et master [MIASHS](ht
 - [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
 - [Numberphile](https://www.youtube.com/user/Numberphile)
 
-### Olympiades Internationales de Mathématiques
+### Olympiades Internationales
 Une sélection d'exercices des Olympiades internationales de mathématiques par années:
-- {{% staticref "u/Olympiades_maths_2023.pdf" %}}2023{{% /staticref %}}
-- {{% staticref "u/Olympiades_maths_2022.pdf" %}}2022{{% /staticref %}}
-- {{% staticref "u/Olympiades_maths_2021.pdf" %}}2021{{% /staticref %}}
-- {{% staticref "u/Olympiades_maths_2020.pdf" %}}2020{{% /staticref %}}
-- {{% staticref "u/Olympiades_maths_2019.pdf" %}}2019{{% /staticref %}}
-- {{% staticref "u/Olympiades_maths_2018.pdf" %}}2018{{% /staticref %}}
-- {{% staticref "u/Olympiades_maths_2017.pdf" %}}2017{{% /staticref %}}
-- {{% staticref "u/Olympiades_maths_2016.pdf" %}}2016{{% /staticref %}}
-- {{% staticref "u/Olympiades_maths_2015.pdf" %}}2015{{% /staticref %}}
-- {{% staticref "u/Olympiades_maths_2014.pdf" %}}2014{{% /staticref %}}
-- {{% staticref "u/Olympiades_maths_2013.pdf" %}}2013{{% /staticref %}}
-- {{% staticref "u/Olympiades_maths_2012.pdf" %}}2012{{% /staticref %}}
-- {{% staticref "u/Olympiades_maths_2011.pdf" %}}2011{{% /staticref %}}
-- {{% staticref "u/Olympiades_maths_2010.pdf" %}}2010{{% /staticref %}}
-- {{% staticref "u/Olympiades_maths_2009.pdf" %}}2009{{% /staticref %}}
-- {{% staticref "u/Olympiades_maths_2008.pdf" %}}2008{{% /staticref %}}
-- {{% staticref "u/Olympiades_maths_2007.pdf" %}}2007{{% /staticref %}}
-- {{% staticref "u/Olympiades_maths_2006.pdf" %}}2006{{% /staticref %}}
-- {{% staticref "u/Olympiades_maths_1997.pdf" %}}1997{{% /staticref %}}
-- {{% staticref "u/Olympiades_maths_1979.pdf" %}}1979{{% /staticref %}}
+{{% staticref "u/Olympiades_maths_2023.pdf" %}}2023{{% /staticref %}} |
+{{% staticref "u/Olympiades_maths_2022.pdf" %}}2022{{% /staticref %}} |
+{{% staticref "u/Olympiades_maths_2021.pdf" %}}2021{{% /staticref %}} |
+{{% staticref "u/Olympiades_maths_2020.pdf" %}}2020{{% /staticref %}} |
+{{% staticref "u/Olympiades_maths_2019.pdf" %}}2019{{% /staticref %}} |
+{{% staticref "u/Olympiades_maths_2018.pdf" %}}2018{{% /staticref %}} |
+{{% staticref "u/Olympiades_maths_2017.pdf" %}}2017{{% /staticref %}} |
+{{% staticref "u/Olympiades_maths_2016.pdf" %}}2016{{% /staticref %}} |
+{{% staticref "u/Olympiades_maths_2015.pdf" %}}2015{{% /staticref %}} |
+{{% staticref "u/Olympiades_maths_2014.pdf" %}}2014{{% /staticref %}} |
+{{% staticref "u/Olympiades_maths_2013.pdf" %}}2013{{% /staticref %}} |
+{{% staticref "u/Olympiades_maths_2012.pdf" %}}2012{{% /staticref %}} |
+{{% staticref "u/Olympiades_maths_2011.pdf" %}}2011{{% /staticref %}} |
+{{% staticref "u/Olympiades_maths_2010.pdf" %}}2010{{% /staticref %}} |
+{{% staticref "u/Olympiades_maths_2009.pdf" %}}2009{{% /staticref %}} |
+{{% staticref "u/Olympiades_maths_2008.pdf" %}}2008{{% /staticref %}} |
+{{% staticref "u/Olympiades_maths_2007.pdf" %}}2007{{% /staticref %}} |
+{{% staticref "u/Olympiades_maths_2006.pdf" %}}2006{{% /staticref %}} |
+{{% staticref "u/Olympiades_maths_1997.pdf" %}}1997{{% /staticref %}} |
+{{% staticref "u/Olympiades_maths_1979.pdf" %}}1979{{% /staticref %}}
 
 ## FAQs
 

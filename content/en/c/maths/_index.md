@@ -52,13 +52,13 @@ My method is very practical. We try, we see where it gets stuck, we discuss. We 
 ## Louis Le Grand and Henri IV high school passports
 
 A sample of maths exercices and solutions by level:
-- 3e / 2nd: [Mathematics exercice handbook, de la 3e à la 2nde](https://www.louislegrand.fr/wp-content/uploads/2021/07/Livret-3eme-2nde.pdf).
-- 2nd / 1ère: [Mathematics, exercice handbook, de la 2nde à la 1ère](https://lycee-henri4.com/wp-content/uploads/2023/06/Livret-2nde-1ere.pdf).
-- 1ère / Tle: [Mathematics, exercice handbook, de la 1ère à la Terminale](https://lycee-henri4.com/wp-content/uploads/2023/06/Livret-1ere-Term.pdf).
-- Tle / Prépa S: [Mathematics, du lycée aux CPGE scientifiques](https://www.louislegrand.fr/wp-content/uploads/2022/02/EXOS-TERMINALE3-3-AVECDESSIN-2.pdf).
-- Tle / Prépa S: [Mathematics tools for Physics](https://lycee-henri4.com/wp-content/uploads/2023/06/poly-MPSI2023.pdf).
-- Tle / Prépa ECG: [Mathematics, entre la Terminale et la classe d'ECG](https://lycee-henri4.com/wp-content/uploads/2022/07/ECG1-MATHS.pdf).
-- Tle / CPES: [Mathematics homework for the holidays](https://lycee-henri4.com/wp-content/uploads/2022/07/CPES-MATHS.pdf).
+- Mathematics exercice handbook, [de la 3e à la 2nde](https://www.louislegrand.fr/wp-content/uploads/2021/07/Livret-3eme-2nde.pdf).
+- Mathematics exercice handbook, [de la 2nde à la 1ère](https://lycee-henri4.com/wp-content/uploads/2023/06/Livret-2nde-1ere.pdf).
+- Mathematics exercice handbook, [de la 1ère à la Terminale](https://lycee-henri4.com/wp-content/uploads/2023/06/Livret-1ere-Term.pdf).
+- Lycée / Prépa S: [Mathematics, du lycée aux CPGE scientifiques](https://www.louislegrand.fr/wp-content/uploads/2022/02/EXOS-TERMINALE3-3-AVECDESSIN-2.pdf).
+- Lycée / Prépa S: [Mathematics tools for Physics](https://lycee-henri4.com/wp-content/uploads/2023/06/poly-MPSI2023.pdf).
+- Lycée / Prépa ECG: [Mathematics, entre la Terminale et la classe d'ECG](https://lycee-henri4.com/wp-content/uploads/2022/07/ECG1-MATHS.pdf).
+- Lycée / CPES: [Mathematics homework for the holidays](https://lycee-henri4.com/wp-content/uploads/2022/07/CPES-MATHS.pdf).
 
 Thank you to the Mathematics teachers of Henri IV and Louis Le Grand high school!
 
