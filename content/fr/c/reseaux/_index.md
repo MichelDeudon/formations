@@ -29,11 +29,11 @@ Nouveau! <a href="https://www.mtpcours.fr/p/roller-dance-montpellier/">Une équi
 ## Présentation
 
 Les GAFAM et les réseaux sociaux creusent les inégalités sociales, et divisent pour mieux régner. Une autre vision du monde existe, <i>“celle qui unit”</i> - Paul Valéry.
+nale, elles ne supposent pas de prérequis et s'adaptent à tes besoins. Pour toute question ou pour planifier une session de formation, contacter Mich.
 
 Les formations proposées permettent aux jeunes et à leur entourage de s'exprimer et de s'informer sur les réseaux sociaux, dans un cadre bienveillant, de découvrir des méthodes de débat, d'écoute attentive et d'intelligence collective, et chercher des alternatives pour lutter contre les inégalités sociales, les discriminations et violences en ligne. 
 
-Développées à Montpellier avec et pour des collégien.nes, lycéen.nes, parents d'élèves, étudiant.es de l'enseignement supérieur et de la recherche, professionnel.les de la santé, de la solidarité et de l'éducation nationale, elles ne supposent pas de prérequis et s'adaptent à tes besoins. Pour toute question ou pour planifier une session de formation, contacter Mich.
-
+Développées à Montpellier avec et pour des collégien.nes, lycéen.nes, parents d'élèves, étudiant.es de l'enseignement supérieur et de la recherche, professionnel.les de la santé, de la solidarité et de l'éducation natio
 ## Campagnes d'action
 
 {{< list_children >}}
@@ -44,7 +44,7 @@ Développées à Montpellier avec et pour des collégien.nes, lycéen.nes, paren
 
 {{< icon name="calendar" pack="fas" >}} 7 juin 2023. Les Jeunes et les Réseaux Sociaux. De 14h30 à 16h00, avec l'[association Générations Solidaires et Citoyennes](https://www.jeveuxaider.gouv.fr/organisations/4859-generations-solidaires-et-citoyennes), au centre social de la CAF. 410 Av. de Barcelone, 34080 Montpellier. 
 
-{{< icon name="calendar" pack="fas" >}} 1er Mai 2023. Recueil de témoignages anonymes.
+{{< icon name="calendar" pack="fas" >}} 1er mai 2023. Recueil de témoignages anonymes.
 
 ## Ils en parlent près de chez toi
 
