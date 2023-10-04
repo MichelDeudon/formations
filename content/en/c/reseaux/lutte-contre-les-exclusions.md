@@ -57,7 +57,7 @@ In June 2023, as part of the [cité éducatives](https://www.citeseducatives.fr/
 
 👉 The cultural and sporting activities offered during the summer meet the proposals and expectations of residents. The program is co-constructed with families and institutional, cultural, sporting partners, etc.
 
-{{< figure src="reseaux/galilee.png" caption="The sun and the planets according to Galileo. A vision centered on youth facilitates co-construction with families, friends, schools, non profits..."> }}
+{{< figure src="reseaux/galilee.png" caption="The sun and the planets according to Galileo. A vision centered on youth facilitates co-construction with families, friends, schools, non profits...">}}
 
 ### Operational realities and difficulties on the ground
 
