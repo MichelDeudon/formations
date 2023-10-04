@@ -31,14 +31,14 @@ Intervention in Master 2 MEEF STMS on actions carried out with non profits at La
 
 The objective of this course is to see the different actors tackling exclusion. The different themes addressed in this course: housing, over-indebtedness, support for 18/24 years old who have dropped out of school, unemployment = different sources of exclusion... - Helene Gautier-Pelissier, MEEF manager of the STMS, Medical Sciences & Techniques course - Social 2 second degree.
 
-## Day 1 (2 hours)
-
-### Introduction
+## Introduction
 
 - Round of presentations and emotional weather
 - Theme, objective and plan for the course
 
-### The GSC non profit in a few words
+## The GSC non profit
+
+### In a few words
 
 The GSC non profit is a neighborhood association (Oxford city), as opposed to a local branch. Its strength lies in its proximity to residents and is partly explained by the fact that the non profit is made up of residents of the neighborhood, like Aziz (director) or Morgann (Kapseuse at the AFEV non profit).
 
@@ -51,7 +51,7 @@ GSC is one of the rare non profit that remained open all summer to offer activit
 
 By comparison, the strength of local branches present in La Mosson lies more in material resources (budget, premises, etc.) and their visibility (relations with elected officials, with the press, Midi Libre, etc.), but without an audience, without a relationship of trust, nothing happens. This is why local branches of La Mosson regularly come to see the GSC association to ask for young people as if they were a commodity or stocks: "We manage everything (the budget, subsidies, training, etc.), give us young people...". This leads to the following problem: <b>How to promote the invisible skills and work of neighborhood associations?</b> ✨
 
-### Concrete actions to fight exclusion
+### Concrete actions
 
 In June 2023, as part of the [cité éducatives](https://www.citeseducatives.fr/) program aimed at strengthening support for young people and children aged 3 to 25, the GSC non profit co-hosted a preventive workshop entitled <i>Young People and Social Networks</i>, with and for families, at the CAF Social Center in La Paillade <i>Family Island</i>. The workshop gave rise to concrete proposals: One in two young people suggested doing more sport! Many young people also expressed their wish to go out more and meet people. See the report of the workshop {{% staticref "u/Temoignages-reseaux-sociaux-Montpellier-juin-2023.pdf" %}}here{{% /staticref %}}.
 
@@ -65,11 +65,7 @@ In June 2023, as part of the [cité éducatives](https://www.citeseducatives.fr/
 - Stress, burnout, conflicts…
 - Biases and stereotypes
 
-### Questions answers
-
-## Day 2 (2 hours)
-
-### Role play game
+## Role play game
 
 <b>Scenario #1</b>: Request for grants and conflict of interest <br>
 Three people - a financier, a local branch (former journalist at Midi Libre), a neighborhood association (resident of the neighborhood). 100k grants to share.
@@ -78,5 +74,7 @@ Everyone has a secret not to divulge during discussions. The game led to the fol
 <b>Scenario #2</b>: Recruitment of civic services <br>
 Analysis of flyers (civic dating service). Review of the 10 areas of civic services and 5 job descriptions (Education for all mission; Solidarity; Sport; Culture & Leisure; Environment).
 
-### Conclusion
+## Questions answers
+
+## Conclusion
 The non profits world is above all about people, about meaning... but in practice there are significant differences between neighborhood associations and local branches, particularly in terms of skills and resources 🍰. How to promote invisible work in society and empower local residents?
