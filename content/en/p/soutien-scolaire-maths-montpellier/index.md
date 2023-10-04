@@ -1,27 +1,23 @@
 ---
-title: Soutien scolaire à Montpellier
+title: School support in Montpellier
 date: 2023-10-04
 tags:
-- Jeunes
-- Soutien Scolaire
-- Mathématiques
-- Physique Chimie
+- Youth
+- Tutoring
+- Mathematics
+- Chemical Physics
 - SVT
-- Informatique
-- Anglais
-- Méthodologie
-- Lycée
-- Seconde 
-- Première
-- Terminale
-- Baccalauréat
+- Computer science
+- Methodology
+- High school
+- Baccalaureate
 - BTS
-- Prépa
+- Prep
 - CPGE
 - CPES
 - Licence
 - Master
-- Cours collectifs
+- Group lessons
 - Cité éducative
 - La Paillade
 - La Mosson
@@ -29,68 +25,58 @@ tags:
 - Hérault
 ---
 
-📐 Mathématiques ○ 🧪 Physique Chimie ○ 🧬 SVT ○ 💻 Info.
+📐 Mathematics ○ 🧪 Physics Chemistry ○ 🧬 SVT ○ 💻 Info.
 
 <!--more-->
 
 {{< callout note >}}
-Inscriptions ouvertes, places limitées. <br>
-RSVP par sms au <a href="tel:0613835412">06 13 83 54 12</a>.
+Registration open, places limited. <br>
+RSVP by text to <a href="tel:0613835412">06 13 83 54 12</a>.
 {{< /callout >}}
 
 ## Introduction
 
-Le soutien scolaire est l'occasion de préparer efficacement son année au lycée et supérieur, dans un cadre bienveillant et une ambiance de travail collectif. Il permet aux jeunes d’apprendre dans la bonne humeur et d’aider les autres, pour gagner en confiance et ouvrir le champs des possibles.
+Academic support is an opportunity to effectively prepare for your year at high school and higher education, in a caring environment and an atmosphere of collective work. It allows young people to learn in a good mood and to help others, to gain confidence and open up the field of possibilities.
 
-## Public
+## Audience
 
-Lycée et supérieur (BTS, Prépa, Licence, Master).
+High school and higher (BTS, Prépa, License, Master).
 
-## Dates et lieu
+## Dates and location
 
-📍 À la médiathèque Pierresvives, la médiathèque Jean Jacques Rousseau, au centre social CAF l'ile aux familles, l’association GSC ou à domicile. <br>
-📅 De 9h à 21h, en semaine ou week-end, sur rdv, dans la limite des places disponibles.
+📍 At the Pierresvives media library, the Jean Jacques Rousseau media library, at the CAF l'ile aux famille social center, the GSC association or at home. <br>
+📅 From 9 a.m. to 9 p.m., weekdays or weekends, by appointment, subject to availability.
 
 {{< gdocs src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSjIsHqMWMVG3HMlcPwlUFgHPheEksStLYHqLD1DVIoQh_xel2Wn8ndYgyN5A9vp-zQ208MwIRW2L-J/pubhtml?gid=0&single=true" >}}
 
-## 🎯 Objectifs
+## 🎯 Objectives
 
-1. <b>Consolider</b> les acquis pour progresser, réviser les notions clés et renforcer ses connaissances.
-2. <b>Préparer</b> sereinement son entrée dans les classes supérieures en abordant la méthodologie et la confiance en soi.
-3. <b>S’entraider</b>, s'informer, s'écouter, s’orienter, etc.
+1. <b>Consolidate</b> what you have learned to progress, review key concepts and strengthen your knowledge.
+2. <b>Prepare</b> calmly for entry into higher classes by addressing methodology and self-confidence.
+3. <b>Help each other</b>, inform each other, listen to each other, guide each other, etc.
 
-## Les avantages du soutien scolaire
+## The advantages of academic support
 
-- Une approche innovante, efficace et ludique alliant apprentissage, culture et sport, adapté aux jeunes, en petits groupes.
-- Des supports et [exercices pour tous les niveaux](https://www.mtpcours.fr/c/maths/).
-- Un bilan et un suivi pédagogique personnalisés.
+- An innovative, effective and fun approach combining learning, culture and sport, suitable for young people, in small groups.
+- Supports and [exercises for all levels](https://www.mtpcours.fr/c/maths/).
+- A personalized assessment and educational follow-up.
 
-## Programme
+## Program
 
-###  Tarifs individuels (groupe de 5 max)
+### Individual rates (group of 5 max)
 
-| Séance | Mois | Trimestre |
+| Session | Month | Quarter |
 |---|---|---|
-| 1h30 | 4 séances | 10 séances |
-| 15€ | 50€ | 120€ ou 12h de tutorat |
+| 1h30 | 4 sessions | 10 sessions |
+| 15€ | 50€ | 120€ or 12 hours of tutoring |
 
-L'objectif du tutorat est d'encourager l'entraide et l'idée d'enseigner pour apprendre (méthode Feynman), ou de former des formateurs, pour perenisser l'action de soutien scolaire durablement. Il permet aux familles plus modestes de bénéficier d'une réduction sur le trimestre, par exemple de 30€ pour 3h de tutorat (2 séances de CLAS à co-animer comme bénévole en renfort). Enfin, le programme de soutien scolaire et de tutorat vise à donner plus d'autonomie aux jeunes, en leur permettant, à leur tour, de transmettre ce qu'ils et elles ont appris.
-
-```mermaid
-graph TD;
-  A-->B;
-  A-->C;
-  B-->D;
-  B-->E;
-  C-->E;
-  C-->F;
-```
+The objective of tutoring is to encourage mutual assistance and the idea of teaching to learn (Feynman method), or to train trainers, to perpetuate the school support action in the long term. It allows more modest families to benefit from a reduction over the quarter, for example €30 for 3 hours of tutoring (2 CLAS sessions to be co-facilitated as a back-up volunteer). Finally, the academic support and tutoring program aims to give more autonomy to young people, allowing them, in turn, to pass on what they have learned.
 
 ## FAQ
 
-{{< spoiler text="Que dois-je apporter?" >}}
-- Cours, exercices ou contrôles qui posent difficultés.
-- Cahier, feuilles, stylo, compas, règle, équerre... le kit classique !
+{{< spoiler text="What should I bring?" >}}
+- Courses, exercises or tests that pose difficulties.
+- Notebook, sheets, pen, compass, ruler, square... the classic kit!
 {{< /spoiler >}}
 
-Partenaires associatifs et institutionnels
+Associative and institutional partners

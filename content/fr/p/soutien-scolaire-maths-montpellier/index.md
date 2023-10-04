@@ -8,12 +8,8 @@ tags:
 - Physique Chimie
 - SVT
 - Informatique
-- Anglais
 - Méthodologie
 - Lycée
-- Seconde 
-- Première
-- Terminale
 - Baccalauréat
 - BTS
 - Prépa
@@ -74,17 +70,7 @@ Lycée et supérieur (BTS, Prépa, Licence, Master).
 | 1h30 | 4 séances | 10 séances |
 | 15€ | 50€ | 120€ ou 12h de tutorat |
 
-L'objectif du tutorat est d'encourager l'entraide et l'idée d'enseigner pour apprendre (méthode Feynman), ou de former des formateurs, pour perenisser l'action de soutien scolaire durablement. Il permet aux familles plus modestes de bénéficier d'une réduction sur le trimestre, par exemple de 30€ pour 3h de tutorat (2 séances de CLAS à co-animer comme bénévole en renfort). Enfin, le programme de soutien scolaire et de tutorat vise à donner plus d'autonomie aux jeunes, en leur permettant, à leur tour, de transmettre ce qu'ils et elles ont appris.
-
-```mermaid
-graph TD;
-  A-->B;
-  A-->C;
-  B-->D;
-  B-->E;
-  C-->E;
-  C-->F;
-```
+L'objectif du tutorat est d'encourager l'entraide et l'idée d'enseigner pour apprendre (méthode Feynman), ou de former des formateurs, pour perenisser l'action de soutien scolaire durablement. Il permet aux familles plus modestes de bénéficier d'une réduction sur le trimestre, par exemple de 30€ pour 3h de tutorat (2 séances de CLAS à co-animer comme bénévole en renfort). Enfin, le programme de soutien scolaire et tutorat vise à donner plus d'autonomie aux jeunes, en leur permettant, à leur tour, de transmettre ce qu'ils et elles ont appris.
 
 ## FAQ
 
