@@ -29,11 +29,11 @@ Nouveau! <a href="https://www.mtpcours.fr/p/roller-dance-montpellier/">Une équi
 ## Présentation
 
 Les GAFAM et les réseaux sociaux creusent les inégalités sociales, et divisent pour mieux régner. Une autre vision du monde existe, <i>“celle qui unit”</i> - Paul Valéry.
-nale, elles ne supposent pas de prérequis et s'adaptent à tes besoins. Pour toute question ou pour planifier une session de formation, contacter Mich.
 
 Les formations proposées permettent aux jeunes et à leur entourage de s'exprimer et de s'informer sur les réseaux sociaux, dans un cadre bienveillant, de découvrir des méthodes de débat, d'écoute attentive et d'intelligence collective, et chercher des alternatives pour lutter contre les inégalités sociales, les discriminations et violences en ligne. 
 
-Développées à Montpellier avec et pour des collégien.nes, lycéen.nes, parents d'élèves, étudiant.es de l'enseignement supérieur et de la recherche, professionnel.les de la santé, de la solidarité et de l'éducation natio
+Développées à Montpellier avec et pour des collégien.nes, lycéen.nes, parents d'élèves, étudiant.es de l'enseignement supérieur et de la recherche, professionnel.les de la santé, de la solidarité et de l'éducation nationale, elles ne supposent pas de prérequis et s'adaptent à tes besoins. Pour toute question ou pour planifier une session de formation, contacter Mich.
+
 ## Campagnes d'action
 
 {{< list_children >}}
