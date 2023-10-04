@@ -62,8 +62,27 @@ Une sélection d'exercices de mathématiques et solutions par niveaux:
 
 Merci aux enseignants de mathématiques du lycée Henri IV et Louis Le Grand !
 
-## Olympiades Internationales de Mathématiques
+## Enseignement supérieur
 
+Cours dispensés à l'université Paul Valéry, en licence et master [MIASHS](https://ufr6.www.univ-montp3.fr/fr/licence_miashs) - Mathématiques et Informatiques Appliqués aux Sciences Humaines et Sociales:
+
+{{< list_children >}}
+
+## Ressources utiles
+
+- [Bibmath](https://www.bibmath.net/), la bibliothèque des mathématiques.
+- Programme de mathématiques au [lycée général/technologique](https://eduscol.education.fr/1723/programmes-et-ressources-en-mathematiques-voie-gt) (Eduscol).
+- Présentation du [Cycle Pluridisciplinaire d'Études Supérieures](https://www.enseignementsup-recherche.gouv.fr/fr/le-cycle-pluridisciplinaire-d-etudes-superieures-84197) (CPES).
+- Présentation des [Classes Préparatoires aux Grandes Écoles](https://www.enseignementsup-recherche.gouv.fr/fr/classes-preparatoires-aux-grandes-ecoles-cpge-46496) (CPGE).
+- Cercle trigonométrique. [Pinterest](https://i.pinimg.com/736x/19/f5/b3/19f5b354491a16b870ef4108e909a258--animation.jpg).
+
+## Pour les plus curieux
+
+### Chaines Youtube
+- [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
+- [Numberphile](https://www.youtube.com/user/Numberphile)
+
+### Olympiades Internationales de Mathématiques
 Une sélection d'exercices des Olympiades internationales de mathématiques par années:
 - {{% staticref "u/Olympiades_maths_2023.pdf" %}}2023{{% /staticref %}}
 - {{% staticref "u/Olympiades_maths_2022.pdf" %}}2022{{% /staticref %}}
@@ -85,28 +104,6 @@ Une sélection d'exercices des Olympiades internationales de mathématiques par 
 - {{% staticref "u/Olympiades_maths_2006.pdf" %}}2006{{% /staticref %}}
 - {{% staticref "u/Olympiades_maths_1997.pdf" %}}1997{{% /staticref %}}
 - {{% staticref "u/Olympiades_maths_1979.pdf" %}}1979{{% /staticref %}}
-
-Merci aux organisateurs des [Olympiades](https://www.imo-official.org/)!
-
-## Enseignement supérieur
-
-Cours dispensés à l'université Paul Valéry, en licence et master [MIASHS](https://ufr6.www.univ-montp3.fr/fr/licence_miashs) (Mathématiques et Informatiques Appliqués aux Sciences Humaines et Sociales):
-
-{{< list_children >}}
-
-## Ressources utiles
-
-- [Bibmath](https://www.bibmath.net/), la bibliothèque des mathématiques.
-- Programme de mathématiques au [lycée général/technologique](https://eduscol.education.fr/1723/programmes-et-ressources-en-mathematiques-voie-gt) (Eduscol).
-- Présentation du [Cycle Pluridisciplinaire d'Études Supérieures](https://www.enseignementsup-recherche.gouv.fr/fr/le-cycle-pluridisciplinaire-d-etudes-superieures-84197) (CPES).
-- Présentation des [Classes Préparatoires aux Grandes Écoles](https://www.enseignementsup-recherche.gouv.fr/fr/classes-preparatoires-aux-grandes-ecoles-cpge-46496) (CPGE).
-- Cercle trigonométrique. [Pinterest](https://i.pinimg.com/736x/19/f5/b3/19f5b354491a16b870ef4108e909a258--animation.jpg).
-
-## Chaines Youtube
-
-Pour les plus curieux:
-- [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
-- [Numberphile](https://www.youtube.com/user/Numberphile)
 
 ## FAQs
 
