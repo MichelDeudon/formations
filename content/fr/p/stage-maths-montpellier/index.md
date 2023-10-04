@@ -35,17 +35,6 @@ Pour bien préparer son début d'année
 
 <!--more-->
 
-{{< callout note >}}
-Kit de comm' {{% staticref "u/Stage-Pre-Rentree.pdf" %}}Stage de pré-rentrée scolaire{{% /staticref %}}.
-{{< /callout >}}
-
-{{< figure src="maths/stage-pre-rentree.png" caption="Stage de pré-rentrée scolaire à La Paillade, Montpellier. - 28 août - 1er september 2023.">}}
-
-{{< callout note >}}
-Inscriptions ouvertes, places limitées. <br>
-RSVP par sms au <a href="tel:0613835412">06 13 83 54 12</a>.
-{{< /callout >}}
-
 ## Introduction
 
 Avec l'[association GSC](https://www.jeveuxaider.gouv.fr/organisations/4859-generations-solidaires-et-citoyennes) (Générations Solidaires et Citoyennes), un « STAGE DE PRÉ-RENTRÉE » pour l’année scolaire 2023-2024 est organisé, pour des élèves du primaire au lycée et supérieur. Le stage d’été est l'occasion de préparer efficacement sa rentrée, dans un cadre bienveillant et une ambiance de travail collectif, en petits groupes. Il permet aux jeunes d’apprendre ou de réviser dans la bonne humeur, d’aider les élèves dans leurs difficultés, leur redonner confiance et les accompagner en s'adaptant à leurs besoins.

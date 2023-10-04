@@ -35,17 +35,6 @@ To prepare well for the start of the year
 
 <!--more-->
 
-{{< callout note >}}
-Communication kit {{% staticref "u/Stage-Pre-Rentree.pdf" %}}Pre-school program{{% /staticref %}}.
-{{< /callout >}}
-
-{{< figure src="maths/stage-pre-rentree.png" caption="Pre school program at La Paillade, Montpellier. - August 28 - September 1st, 2023.">}}
-
-{{< callout note >}}
-Registration open, limited places. <br>
-RSVP by sms to <a href="tel:0613835412">06 13 83 54 12</a>.
-{{< /callout >}}
-
 ## Introduction
 
 With the [GSC association](https://www.jeveuxaider.gouv.fr/organisations/4859-generations-solidaires-et-citoyennes) (Générations Solidaires et Citoyennes), a "STAGE DE PRÉ-RENTRÉE" for 2023-2024 is organized, for students from primary to high school and higher. The summer internship is an opportunity to effectively prepare for the start of the year, in a caring environment and a collective working atmosphere, in small groups. It allows young people to learn or study in a good mood, to help students in their difficulties, to restore their confidence and to support them by adapting to their needs.
