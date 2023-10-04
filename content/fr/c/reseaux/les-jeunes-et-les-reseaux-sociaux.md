@@ -26,6 +26,8 @@ Formation sous forme d'atelier collaboratif et interactif pour sensibiliser aux 
 
 <!--more-->
 
+{{< figure src="reseaux/jeunes-rsx.png" caption="Partenaires associatifs et institutionnels.">}}
+
 Cette formation est construite autour de 3 temps.
 
 1. Introduction.

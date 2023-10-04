@@ -26,6 +26,8 @@ Collaborative and interactive workshop to raise awareness about the impacts of s
 
 <!--more-->
 
+{{< figure src="reseaux/jeunes-rsx.png" caption="Non profits and institutional partners.">}}
+
 This training is built around 3 stages.
 
 1. Introduction.
