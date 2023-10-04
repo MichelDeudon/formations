@@ -3,8 +3,6 @@ title: Stage de pré-rentrée scolaire - Montpellier
 date: 2023-08-02
 tags:
 - Jeunes
-- Stage
-- Rentrée Scolaire 2023
 - Mathématiques
 - Physique Chimie
 - Français
@@ -12,9 +10,6 @@ tags:
 - Méthodologie
 - Collège
 - Lycée
-- Seconde 
-- Première
-- Terminale
 - Brevet
 - Baccalauréat
 - BTS

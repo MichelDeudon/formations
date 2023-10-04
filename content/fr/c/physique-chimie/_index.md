@@ -7,6 +7,21 @@ type: book
 tags:
   - Jeunes
   - Biomimétisme
+  - Physique Chimie
+  - Collège
+  - Lycée
+  - Brevet
+  - Baccalauréat
+  - BTS
+  - Prépa
+  - CPGE
+  - CPES
+  - Licence
+  - Master
+  - Cours particuliers
+  - Cours collectifs
+  - Montpellier
+  - Hérault
 ---
 
 {{< callout note >}}

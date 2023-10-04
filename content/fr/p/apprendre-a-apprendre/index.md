@@ -3,7 +3,7 @@ title: Apprendre à apprendre
 date: 2023-09-15
 tags:
 - Jeunes
-- Maths
+- Mathématiques
 - Physique Chimie
 - Français
 - Anglais

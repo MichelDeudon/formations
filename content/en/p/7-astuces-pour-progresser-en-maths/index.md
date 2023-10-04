@@ -3,14 +3,10 @@ title: 7 tricks to get better at Maths
 date: 2023-08-22
 tags:
 - Youth
-- Rentrée Scolaire 2023
 - Mathematics
-- Physics Chemisty
+- Physics Chemistry
 - Mid School
 - High School
-- Seconde 
-- Première
-- Terminale
 - Brevet
 - Baccalauréat
 - BTS

@@ -7,6 +7,21 @@ type: book
 tags:
   - Youth
   - Biomimicry
+  - Physics Chemistry
+  - College
+  - Lycée
+  - Brevet
+  - Baccalauréat
+  - BTS
+  - Prépa
+  - CPGE
+  - CPES
+  - Licence
+  - Master
+  - Private lessons
+  - Group lessons
+  - Montpellier
+  - Herault
 ---
 
 {{< callout note >}}

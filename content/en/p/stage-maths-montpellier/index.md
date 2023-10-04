@@ -3,18 +3,13 @@ title: Pre-school maths program - Montpellier
 date: 2023-08-02
 tags:
 - Youth
-- Internship
-- Back to School
-- Math
+- Mathematics
 - Physics Chemistry
 - French
 - English
 - Methodology
 - Mid school
 - High school
-- Seconde 
-- Première
-- Terminale
 - Brevet
 - Baccalaureate
 - BTS

@@ -5,7 +5,7 @@ tags:
 - Youth
 - Tutoring
 - Mathematics
-- Chemical Physics
+- Physics Chemistry
 - SVT
 - Computer science
 - Methodology
