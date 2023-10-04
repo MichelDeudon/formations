@@ -10,7 +10,7 @@ tags:
 ---
 
 {{< callout note >}}
-New! <a href="https://www.mtpcours.fr/en/p/stage-maths-montpellier/">Pre-school program</a> à la Paillade, Montpellier, from Monday 08/28 to Friday 09/01.
+Registration open <a href="https://www.mtpcours.fr/en/p/soutien-scolaire-maths-montpellier/">soutien scolaire à Montpellier</a>.
 {{< /callout >}}
 
 {{< figure src="featured.jpg" >}}
