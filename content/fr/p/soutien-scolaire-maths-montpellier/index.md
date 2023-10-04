@@ -44,7 +44,7 @@ Lycée et supérieur (BTS, Prépa, Licence, Master).
 
 ## Dates et lieu
 
-📍 À la médiathèque Pierresvives, la médiathèque Jean Jacques Rousseau, au centre social CAF l'ile aux familles, l’association GSC ou à domicile. <br>
+📍 À la médiathèque [Pierresvives](https://pierresvives.herault.fr/663-horaires-d-ouverture.htm), la médiathèque [Jean Jacques Rousseau](https://mediatheques.montpellier3m.fr/default/mediatheque-jean-jacques-rousseau.aspx?_lg=fr-FR), au centre social CAF l'[ile aux familles](https://www.cultureetsportsolidaires34.fr/Partenaires/_Centre-Social-CAF-Paillade-l-ile-aux-familles), l’[association GSC](https://www.helloasso.com/associations/generations-solidaires-et-citoyennes) ou à domicile. <br>
 📅 De 9h à 21h, en semaine ou week-end, sur rdv, dans la limite des places disponibles.
 
 {{< gdocs src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSjIsHqMWMVG3HMlcPwlUFgHPheEksStLYHqLD1DVIoQh_xel2Wn8ndYgyN5A9vp-zQ208MwIRW2L-J/pubhtml?gid=0&single=true" >}}
