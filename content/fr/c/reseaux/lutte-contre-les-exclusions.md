@@ -47,7 +47,7 @@ L'association GSC est une des rares associations qui est restée ouverte tout l�
 - <b>Activités sportives</b> : Journée à la piscine Olympique, Futsal, Escalade, Patinoire à Vegapolis, sortie Roller, etc.
 - <b>Autre</b> : Sortie à Aqualand, Laser Game, Trampoline, Bowling, ateliers de lecture, stage de pré-rentrée, etc.
 
-{{< figure src="reseaux/Sortie-GSC-Juillet.png" caption="L'association GSC est restée ouverte en été pour proposer des activités aux familles. Exemple de sorties en juillet 2023.">}}
+{{< figure src="reseaux/Sortie-GSC-Juillet.png" caption="L'association GSC est restée ouverte en été pour proposer des activités aux familles. Exemple de sorties organisées par Morgann en juillet 2023.">}}
 
 Par comparaison, la force d'antennes locales présentes à La Mosson réside davantage dans des moyens matériels (budget, locaux, etc) et leur visibilité (relations avec les élus, avec la presse, Midi Libre, etc.), mais sans public, sans relation de confiance, il ne se passe rien. C'est pourquoi des antennes locales de La Mosson viennent régulièrement voir l'association GSC pour demander des jeunes comme s'il s'agissait d'une marchandise ou de stocks: "On gère tout (le budget, les subventions, les formations, etc.), donnez nous des jeunes...". Celà conduit à la problématique suivante: <b>Comment valoriser les compétences et le travail invisibles des associations de quartier?</b> ✨
 
@@ -55,7 +55,7 @@ Par comparaison, la force d'antennes locales présentes à La Mosson réside dav
 
 En juin 2023, dans le cadre du programme [Cités éducatives](https://www.citeseducatives.fr/) visant à renforcer l’accompagnement des jeunes et enfants de 3 ans à 25 ans, l'association GSC a co-animé un atelier préventif intitulé <i>Les Jeunes et les Réseaux Sociaux</i>, avec et pour les familles, au Centre Social CAF de la Paillade <i>l’île aux familles</i>. L'atelier a donné lieu à des propositions concrètes : Un jeune sur deux proposait de faire plus de sport ! De nombreux jeunes ont également exprimé leur souhait de sortir plus et faire des rencontres. Voir le compte rendu de l'atelier {{% staticref "u/Temoignages-reseaux-sociaux-Montpellier-juin-2023.pdf" %}}ici{{% /staticref %}}.
 
-👉 Les activités culturelles et sportives proposées pendant l'été répondent aux propositions et attentes des habitants. Le programme est co-construit avec les familles et les partenaires institutionnels, culturels, sportifs, etc.
+👉 Les activités culturelles et sportives proposées pendant l'été répondent aux propositions et attentes des habitants. Le programme a été co-construit avec les familles et les partenaires institutionnels, culturels, sportifs, etc.
 
 {{< figure src="reseaux/galilee.png" caption="Le soleil et les planètes selon Galilée. Une vision centrée sur le jeune facilite la co-construction avec les familles, amis, écoles, assos...">}}
 

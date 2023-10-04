@@ -47,7 +47,7 @@ GSC is one of the rare non profit that remained open all summer to offer activit
 - <b>Sports activities</b>: Day at the Olympic swimming pool, Futsal, Climbing, Ice rink in Vegapolis, Roller skating outing, etc.
 - <b>Other</b>: Outing to Aqualand, Laser Game, Trampoline, Bowling, reading workshops, pre-school workshop, etc.
 
-{{< figure src="reseaux/Sortie-GSC-Juillet.png" caption="The GSC non profit remained open in summer to offer activities to families. Example of outings in July 2023.">}}
+{{< figure src="reseaux/Sortie-GSC-Juillet.png" caption="The GSC non profit remained open in summer to offer activities to families. Example of outings organized by Morgann in July 2023.">}}
 
 By comparison, the strength of local branches present in La Mosson lies more in material resources (budget, premises, etc.) and their visibility (relations with elected officials, with the press, Midi Libre, etc.), but without an audience, without a relationship of trust, nothing happens. This is why local branches of La Mosson regularly come to see the GSC association to ask for young people as if they were a commodity or stocks: "We manage everything (the budget, subsidies, training, etc.), give us young people...". This leads to the following problem: <b>How to promote the invisible skills and work of neighborhood associations?</b> ✨
 
@@ -55,7 +55,7 @@ By comparison, the strength of local branches present in La Mosson lies more in 
 
 In June 2023, as part of the [cité éducatives](https://www.citeseducatives.fr/) program aimed at strengthening support for young people and children aged 3 to 25, the GSC non profit co-hosted a preventive workshop entitled <i>Young People and Social Networks</i>, with and for families, at the CAF Social Center in La Paillade <i>Family Island</i>. The workshop gave rise to concrete proposals: One in two young people suggested doing more sport! Many young people also expressed their wish to go out more and meet people. See the report of the workshop {{% staticref "u/Temoignages-reseaux-sociaux-Montpellier-juin-2023.pdf" %}}here{{% /staticref %}}.
 
-👉 The cultural and sporting activities offered during the summer meet the proposals and expectations of residents. The program is co-constructed with families and institutional, cultural, sporting partners, etc.
+👉 The cultural and sporting activities offered during the summer meet the proposals and expectations of residents. The program was co-constructed with families and institutional, cultural, sporting partners, etc.
 
 {{< figure src="reseaux/galilee.png" caption="The sun and the planets according to Galileo. A vision centered on youth facilitates co-construction with families, friends, schools, non profits...">}}
 
