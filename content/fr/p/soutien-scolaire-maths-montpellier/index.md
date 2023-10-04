@@ -29,7 +29,7 @@ tags:
 - Hérault
 ---
 
-En Mathématiques ○ Physique Chimie ○ SVT ○ Info.
+📐 Mathématiques ○ 🧪 Physique Chimie ○ 🧬 SVT ○ 💻 Info.
 
 <!--more-->
 
@@ -40,11 +40,11 @@ RSVP par sms au <a href="tel:0613835412">06 13 83 54 12</a>.
 
 ## Introduction
 
-Le soutien scolaire est l'occasion de préparer efficacement son année au lycée et supérieur, dans un cadre bienveillant et une ambiance de travail collectif, en petits groupes. Il permet aux jeunes d’apprendre dans la bonne humeur et d’aider les autres, pour gagner en confiance et ouvrir le champs des possibles.
+Le soutien scolaire est l'occasion de préparer efficacement son année au lycée et supérieur, dans un cadre bienveillant et une ambiance de travail collectif. Il permet aux jeunes d’apprendre dans la bonne humeur et d’aider les autres, pour gagner en confiance et ouvrir le champs des possibles.
 
 ## Public
 
-Lycée et supérieur: De la seconde à la terminale, et études supérieures (BTS, Prépa, Licence, Master).
+Lycée et supérieur (BTS, Prépa, Licence, Master).
 
 ## Dates et lieu
 
@@ -55,9 +55,9 @@ Lycée et supérieur: De la seconde à la terminale, et études supérieures (BT
 
 ## 🎯 Objectifs
 
-1. <b>Consolider</b> les acquis pour progresser. Réviser les notions clés et renforcer ses connaissances.
+1. <b>Consolider</b> les acquis pour progresser, réviser les notions clés et renforcer ses connaissances.
 2. <b>Préparer</b> sereinement son entrée dans les classes supérieures en abordant la méthodologie et la confiance en soi.
-3. <b>S’entraider</b>, s'informer, s’orienter, etc.
+3. <b>S’entraider</b>, s'informer, s'écouter, s’orienter, etc.
 
 ## Les avantages du soutien scolaire
 
@@ -82,7 +82,7 @@ graph TD;
   A-->C;
   B-->D;
   B-->E;
-  C-->D;
+  C-->E;
   C-->F;
 ```
 
