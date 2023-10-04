@@ -2,7 +2,7 @@
 title: Physique Chimie
 linkTitle: Physique-Chimie
 summary: Cours particulier de physique chimie et soutien scolaire au lycée à Montpellier. Formation sur l'observation de la Terre en master/doctorat.
-date: '2023-01-04'
+date: '2023-10-04'
 type: book
 tags:
   - Jeunes
@@ -10,7 +10,7 @@ tags:
 ---
 
 {{< callout note >}}
-Inscriptions <a href="https://www.mtpcours.fr/en/p/soutien-scolaire-maths-montpellier/">soutien scolaire à Montpellier</a> ouvertes.
+Inscriptions ouvertes <a href="https://www.mtpcours.fr/en/p/soutien-scolaire-maths-montpellier/">soutien scolaire à Montpellier</a>.
 {{< /callout >}}
 
 {{< figure src="featured.jpg" >}}

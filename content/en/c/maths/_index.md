@@ -2,7 +2,7 @@
 title: Mathematics
 linkTitle: Maths
 summary: Tutoring in mathematics in high school in Montpellier. Teaching analysis, algebra, statistics and programming for bachelors/masters.
-date: '2023-01-23'
+date: '2023-10-04'
 type: book
 tags:
   - Youth

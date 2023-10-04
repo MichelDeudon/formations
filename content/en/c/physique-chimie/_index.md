@@ -2,7 +2,7 @@
 title: Physics, Chemistry
 linkTitle: Science
 summary: Tutoring in physics and chemistry in high school in Montpellier. Training in Earth observation science for masters/PhD.
-date: '2023-01-04'
+date: '2023-10-04'
 type: book
 tags:
   - Youth

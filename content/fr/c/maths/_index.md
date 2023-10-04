@@ -2,7 +2,7 @@
 title: Mathématiques
 linkTitle: Maths
 summary: Cours particulier de mathématiques et soutien scolaire au lycée à Montpellier. Cours d'analyse, d'algèbre, statistiques et programmation en licence/master MIASHS.
-date: '2023-01-23'
+date: '2023-10-04'
 type: book
 tags:
   - Jeunes
@@ -36,7 +36,7 @@ tags:
 ---
 
 {{< callout note >}}
-Inscriptions <a href="https://www.mtpcours.fr/en/p/soutien-scolaire-maths-montpellier/">soutien scolaire à Montpellier</a> ouvertes.
+Inscriptions ouvertes <a href="https://www.mtpcours.fr/en/p/soutien-scolaire-maths-montpellier/">soutien scolaire à Montpellier</a>.
 {{< /callout >}}
 
 {{< figure src="featured.jpg" >}}

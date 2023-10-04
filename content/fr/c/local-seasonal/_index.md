@@ -1,7 +1,7 @@
 ---
 title: Ateliers Local Seasonal
 linkTitle: Local Seasonal
-summary: Ateliers arts & science, sur mesure, pour célébrer la biodiversité au fil des saisons, à destinations de jeunes et grand public.
+summary: Ateliers arts & science, sur mesure, pour célébrer la biodiversité au fil des saisons, à destination de jeunes et grand public.
 date: '2022-06-01'
 type: book
 tags:
