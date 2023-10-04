@@ -6,12 +6,12 @@ title: Michel Deudon
 superuser: true
 
 # Role/position
-role: Professor, animator, volunteer
+role: Professor, animator, independent
 
 # Organizations/Affiliations
 organizations:
-  - name: Association GSC, Univers City Oxford
-    url: https://www.helloasso.com/associations/generations-solidaires-et-citoyennes
+  - name: ""
+    url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include ecology, psychology and language learning.
@@ -64,4 +64,4 @@ user_groups:
   - Teachers
 ---
 
-Hi! I'm Michael, I was born in New York. I teach [English](https://www.mtpcours.fr/en/c/english/) and [science](https://www.mtpcours.fr/en/c/physique-chimie/), in high school and higher education since 2012. In 2020, I co-founded [Local Seasonal](https://www.mtpcours.fr/en/c/local-seasonal/), a French non profit to celebrate diversity along the seasons. Since 2022, I teach in Montpellier and co-create preventive workshops on [social media](https://www.mtpcours.fr/en/c/reseaux/) and [disinformation](https://www.mtpcours.fr/en/c/desinformation/). In my spare time, I like to dance, [rollerblade](https://www.mtpcours.fr/en/p/roller-dance-montpellier/) and enjoy outdoor activities.
+Hi! I'm Michael, I was born in New York. I teach [mathematics](https://www.mtpcours.fr/en/c/maths/), [physics-chemistry](https://www.mtpcours.fr/en/c/physics-chemistry/) and [English](https://www.mtpcours.fr/en/c/english/) in high school and higher education. I have been teaching in Montpellier since 2022, at the [Paul Valéry](https://www.univ-montp3.fr/) university (contractual in 2022/23) and with the [GSC association](https:// www.helloasso.com/associations/generations-solidaires-et-citoyennes) in La Mosson. I run preventative workshops on [social networks](https://www.mtpcours.fr/en/c/reseaux/) and I offer [academic support](https://www.mtpcours.fr/en/p/soutien-scolaire-maths-montpellier/). In the past, I worked in social reintegration in La Reunion, as a research engineer at Element AI in London and as a data scientist at Vinted in Berlin. I received three awards from the European Space Agency (ESA) with colleagues for some research and I mentored researchers in California before joining the [désert'heureuses](https://desertheureuses.noblogs.org/). I co-founded the Binet Soupe in 2015 and in 2020 a non profit to celebrate diversity [along the the seasons](https://www.mtpcours.fr/c/local-seasonal/). I like dancing, [rolling](https://www.mtpcours.fr/p/roller-dance-montpellier/) and outdoor activities.

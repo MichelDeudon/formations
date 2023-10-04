@@ -25,7 +25,7 @@ tags:
 - Hérault
 ---
 
-📐 Mathématiques ○ 🧪 Physique Chimie ○ 🧬 SVT ○ 💻 Info.
+📐 Mathématiques 🧪 Physique Chimie 🧬 SVT 💻 Info.
 
 <!--more-->
 

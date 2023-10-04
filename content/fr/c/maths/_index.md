@@ -36,7 +36,7 @@ tags:
 ---
 
 {{< callout note >}}
-Inscriptions ouvertes <a href="https://www.mtpcours.fr/en/p/soutien-scolaire-maths-montpellier/">soutien scolaire à Montpellier</a>.
+Inscriptions ouvertes <a href="https://www.mtpcours.fr/p/soutien-scolaire-maths-montpellier/">soutien scolaire à Montpellier</a>.
 {{< /callout >}}
 
 {{< figure src="featured.jpg" >}}
