@@ -49,7 +49,7 @@ L'association GSC est une des rares associations qui est restée ouverte tout l�
 
 {{< figure src="reseaux/Sortie-GSC-Juillet.png" caption="L'association GSC est restée ouverte en été pour proposer des activités aux familles. Exemple de sorties organisées par Morgann en juillet 2023.">}}
 
-Par comparaison, les antennes locales présentes à La Mosson disposent de moyens matériels plus important (budget, locaux, etc) mais sans public, sans relation de confiance, il ne se passe rien. C'est pourquoi des antennes locales de La Mosson viennent régulièrement voir l'association GSC pour demander des jeunes comme s'il s'agissait d'une marchandise ou de stocks: "On gère tout (le budget, les subventions, les formations, etc.), donnez nous des jeunes...". Celà conduit à la problématique suivante: <b>Comment valoriser les compétences et le travail invisibles des associations de quartier?</b> ✨
+Par comparaison, les antennes locales présentes à La Mosson disposent de moyens matériels plus importants (budget, locaux, etc) mais sans public, sans relation de confiance, il ne se passe rien. C'est pourquoi des antennes locales de La Mosson viennent régulièrement voir l'association GSC pour demander des jeunes comme s'il s'agissait d'une marchandise ou de stocks: "On gère tout (le budget, les subventions, les formations, etc.), donnez nous des jeunes...". Celà conduit à la problématique suivante: <b>Comment valoriser les compétences et le travail invisibles des associations de quartier?</b> ✨
 
 ### Des actions concrètes
 
