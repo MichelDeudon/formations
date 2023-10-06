@@ -40,16 +40,16 @@ The objective of this course is to see the different actors tackling exclusion. 
 
 ### In a few words
 
-The GSC non profit is a neighborhood association (Oxford city), as opposed to a local branch. Its strength lies in its proximity to residents and is partly explained by the fact that the non profit is made up of residents of the neighborhood, like Aziz (director) or Morgann (Kapseuse at the AFEV non profit).
+The GSC non profit is a neighborhood association (Oxford city), as opposed to a local branch. Its strength lies in its proximity to residents and is partly explained by the fact that the non profit is made up of residents of the neighborhood, like Aziz Khallouki (director) or Morgann Raillecove (Kapseuse at the AFEV non profit).
 
 GSC is one of the rare non profit that remained open all summer to offer activities to families who cannot go on vacation. Thanks to [youth summer cards](https://www.montpellier.fr/1830-carte-ete-jeunes.htm), the non profit provided cultural and sports activities in July and August for around a hundred beneficiaries:
 - <b>Cultural outings</b>: At the Fabre Museum, at the MOCO, Street Art, Cinema, Pizza and Film evening, visit to Planète Océan, a bookstore, etc.
-- <b>Sports activities</b>: Day at the Olympic swimming pool, Futsal, Climbing, Ice rink in Vegapolis, Roller skating outing, etc.
-- <b>Other</b>: Outing to Aqualand, Laser Game, Trampoline, Bowling, reading workshops, pre-school workshop, etc.
+- <b>Sports activities</b>: Day at the Olympic swimming pool, Futsal, Climbing, Ice rink in Vegapolis, [Roller skating](https://www.mtpcours.fr/en/p/roller-dance-montpellier/) outing, etc.
+- <b>Other</b>: Outing to Aqualand, Laser Game, Trampoline, Bowling, reading workshops, [pre-school workshop](https://www.mtpcours.fr/en/p/stage-maths-montpellier/), etc.
 
 {{< figure src="reseaux/Sortie-GSC-Juillet.png" caption="The GSC non profit remained open in summer to offer activities to families. Example of outings organized by Morgann in July 2023.">}}
 
-By comparison, the strength of local branches present in La Mosson lies more in material resources (budget, premises, etc.) and their visibility (relations with elected officials, with the press, Midi Libre, etc.), but without an audience, without a relationship of trust, nothing happens. This is why local branches of La Mosson regularly come to see the GSC association to ask for young people as if they were a commodity or stocks: "We manage everything (the budget, subsidies, training, etc.), give us young people...". This leads to the following problem: <b>How to promote the invisible skills and work of neighborhood associations?</b> ✨
+By comparison, local branches present in La Mosson are better equipped (budget, premises, etc.), but without an audience, without a relationship of trust, nothing happens. This is why local branches of La Mosson regularly come to see the GSC association to ask for young people as if they were a commodity or stocks: "We manage everything (the budget, subsidies, training, etc.), give us young people...". This leads to the following problem: <b>How to promote the invisible skills and work of neighborhood associations?</b> ✨
 
 ### Concrete actions
 
@@ -77,4 +77,4 @@ Analysis of flyers (civic dating service). Review of the 10 areas of civic servi
 ## Questions answers
 
 ## Conclusion
-The non profits world is above all about people, about meaning... but in practice there are significant differences between neighborhood associations and local branches, particularly in terms of skills and resources 🍰. How to promote invisible work in society and empower local residents?
+The non profits world is above all about people, about meaning... but in practice there are significant differences between neighborhood associations and local branches, particularly in terms of skills and resources 🍰. How to promote invisible skills and work in society, and empower local residents?

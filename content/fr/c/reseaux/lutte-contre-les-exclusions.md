@@ -40,16 +40,16 @@ L'objectif de cet enseignement est de voir les différents acteurs dans le cadre
 
 ### En quelques mots
 
-L'association GSC est une association de quartier (cité Oxford), par opposition à une antenne locale. Sa force réside dans sa proximité avec les habitant.e.s et s'explique en partie par le fait que l'association est faite d'habitant.e.s du quartier, comme Aziz (directeur) ou Morgann (Kapseuse à l'association l'AFEV).
+L'association GSC est une association de quartier (cité Oxford), par opposition à une antenne locale. Sa force réside dans sa proximité avec les habitant.e.s et s'explique en partie par le fait que l'association est faite d'habitant.e.s du quartier, comme Aziz Khallouki (directeur) ou Morgann Raillecove (Kapseuse à l'association l'AFEV).
 
 L'association GSC est une des rares associations qui est restée ouverte tout l’été pour proposer des activités aux familles qui ne peuvent pas partir en vacances. Grâce aux [cartes été jeunes](https://www.montpellier.fr/1830-carte-ete-jeunes.htm), l'association a assuré une programmation culturelle et sportive en juillet et en août pour une centaine de bénéficiaires: 
 - <b>Sorties culturelles</b> : Au Musée Fabre, au MOCO, sortie Street Art, Cinéma, soirée Pizza et Film, visite de Planète Océan, d'une librairie, etc.
-- <b>Activités sportives</b> : Journée à la piscine Olympique, Futsal, Escalade, Patinoire à Vegapolis, sortie Roller, etc.
-- <b>Autre</b> : Sortie à Aqualand, Laser Game, Trampoline, Bowling, ateliers de lecture, stage de pré-rentrée, etc.
+- <b>Activités sportives</b> : Journée à la piscine Olympique, Futsal, Escalade, Patinoire à Vegapolis, sorties [Roller](https://www.mtpcours.fr/p/roller-dance-montpellier/), etc.
+- <b>Autre</b> : Sortie à Aqualand, Laser Game, Trampoline, Bowling, ateliers de lecture, [stage de pré-rentrée](https://www.mtpcours.fr/p/stage-maths-montpellier/), etc.
 
 {{< figure src="reseaux/Sortie-GSC-Juillet.png" caption="L'association GSC est restée ouverte en été pour proposer des activités aux familles. Exemple de sorties organisées par Morgann en juillet 2023.">}}
 
-Par comparaison, la force d'antennes locales présentes à La Mosson réside davantage dans des moyens matériels (budget, locaux, etc) et leur visibilité (relations avec les élus, avec la presse, Midi Libre, etc.), mais sans public, sans relation de confiance, il ne se passe rien. C'est pourquoi des antennes locales de La Mosson viennent régulièrement voir l'association GSC pour demander des jeunes comme s'il s'agissait d'une marchandise ou de stocks: "On gère tout (le budget, les subventions, les formations, etc.), donnez nous des jeunes...". Celà conduit à la problématique suivante: <b>Comment valoriser les compétences et le travail invisibles des associations de quartier?</b> ✨
+Par comparaison, les antennes locales présentes à La Mosson disposent de moyens matériels plus important (budget, locaux, etc) mais sans public, sans relation de confiance, il ne se passe rien. C'est pourquoi des antennes locales de La Mosson viennent régulièrement voir l'association GSC pour demander des jeunes comme s'il s'agissait d'une marchandise ou de stocks: "On gère tout (le budget, les subventions, les formations, etc.), donnez nous des jeunes...". Celà conduit à la problématique suivante: <b>Comment valoriser les compétences et le travail invisibles des associations de quartier?</b> ✨
 
 ### Des actions concrètes
 
@@ -63,12 +63,12 @@ En juin 2023, dans le cadre du programme [Cités éducatives](https://www.citese
 
 - Moyens limités ($, bénévoles)
 - Le stress, le burnout, les conflits…
-- Biais, préjugés et stéréotypes
+- Les biais, préjugés et stéréotypes
 
 ## Jeux de rôles
 
 <b>Mise en situation #1</b>: Demande de subventions et conflit d’intérêt <br>
-Trois personnes - un financeur, une antenne locale (ex journaliste à Midi Libre), une asso de quartier (habitant du quartier). 100k de subventions à partager.
+Trois personnes - un financeur, une antenne locale (ex journaliste chez Midi Libre), une asso de quartier (habitant du quartier). 100k de subventions à partager.
 Chacun.e a un secret à ne pas divulger pendant les échanges. Le jeu a mené au résultat suivant: 93k de subventions pour l'antenne locale et 7k pour l'asso de quartier.
 
 <b>Mise en situation #2</b>: Recrutement de services civiques <br>
@@ -77,4 +77,4 @@ Analyse de flyers (service civique dating) et la place qu'occupe les réseaux so
 ## Questions réponses
 
 ## Conclusion
-Le monde associatif c'est avant tout de l'humain, du sens... mais en pratique il y des différences importantes entre les associations de quartier et les antennes locales, notamment en termes de compétences et de moyens 🍰. Comment valoriser le travail invisible en société?
+Le monde associatif c'est avant tout de l'humain, du sens... mais en pratique il y des différences importantes entre les associations de quartier et les antennes locales, notamment en termes de compétences et de moyens 🍰. Comment valoriser les compétences et le travail invisibles en société?
