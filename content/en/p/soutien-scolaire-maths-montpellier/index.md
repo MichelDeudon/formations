@@ -47,8 +47,6 @@ High school and higher (BTS, Prépa, License, Master).
 📍 At the Pierresvives media library, the [Jean Jacques Rousseau](https://mediatheques.montpellier3m.fr/default/mediatheque-jean-jacques-rousseau.aspx?_lg=fr-FR) media library, at the CAF social center l'[ile aux famille](https://www.cultureetsportsolidaires34.fr/Partenaires/_Centre-Social-CAF-Paillade-l-ile-aux-familles), the [GSC association](https://www.helloasso.com/associations/generations-solidaires-et-citoyennes) or at home. <br>
 📅 From 9 a.m. to 9 p.m., weekdays or weekends, by appointment, subject to availability.
 
-{{< gdocs src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSjIsHqMWMVG3HMlcPwlUFgHPheEksStLYHqLD1DVIoQh_xel2Wn8ndYgyN5A9vp-zQ208MwIRW2L-J/pubhtml?gid=0&single=true" >}}
-
 ## 🎯 Objectives
 
 1. <b>Consolidate</b> what you have learned to progress, review key concepts and strengthen your knowledge.
