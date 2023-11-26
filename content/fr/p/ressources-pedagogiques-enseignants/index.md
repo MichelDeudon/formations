@@ -64,43 +64,45 @@ Pour ajouter vos recommandations de lecture à la liste de références, merci d
 
 [8] <b>Francisco Varela</b>. Né pour organiser, film documentaire. [Partie I](https://www.youtube.com/watch?v=Ll6yz6sj3go&ab_channel=KevenPoulin) et [II](https://www.youtube.com/watch?v=9qIWCMssyTk&ab_channel=KevenPoulin). 2015. - <i>Théorie de l'apprentissage fondée sur une compréhension incarnée</i>.
 
-[9] <b>Yves Citton</b>. [Pour une écologie de l'attention](https://www.seuil.com/ouvrage/pour-une-ecologie-de-l-attention-yves-citton/9782021181425). Seuil, 2014.
+[9] <b>Cécile Tessier Pillet</b>. Note de synthèse sur la peur des mathématiques. Université de Rouen, 2015.
 
-[10] <b>Anne Siety</b>. [Qui a peur des mathématiques?](https://www.livredepoche.com/livre/qui-peur-des-mathematiques-9782253166955) Denoël, 2012.
+[10] <b>Yves Citton</b>. [Pour une écologie de l'attention](https://www.seuil.com/ouvrage/pour-une-ecologie-de-l-attention-yves-citton/9782021181425). Seuil, 2014.
 
-[11] <b>Michel Vigier</b>. [Dyscalculie ou innumérisme? Approches de la résolution des problèmes arithmétiques par les abaques](https://www.apmep.fr/IMG/pdf/AAA10040.pdf). Bulletin de l’APMEP, 2010.
+[11] <b>Anne Siety</b>. [Qui a peur des mathématiques?](https://www.livredepoche.com/livre/qui-peur-des-mathematiques-9782253166955) Denoël, 2012.
 
-[12] <b>Françoise Campanale et al</b>. [Dispositifs d'autoévaluation socialisée en formation: une contrainte pervertissante ou une opportunité transformatrice?](https://hal.science/hal-01172736/) HAL, 2010.
+[12] <b>Michel Vigier</b>. [Dyscalculie ou innumérisme? Approches de la résolution des problèmes arithmétiques par les abaques](https://www.apmep.fr/IMG/pdf/AAA10040.pdf). Bulletin de l’APMEP, 2010.
 
-[13] <b>Henri Volken</b>. [Orientation émotionnelle mathématique: la raison esthétique](https://journals.openedition.org/ress/72). Revue européenne des sciences sociales, 2009.
+[13] <b>Françoise Campanale et al</b>. [Dispositifs d'autoévaluation socialisée en formation: une contrainte pervertissante ou une opportunité transformatrice?](https://hal.science/hal-01172736/) HAL, 2010.
 
-[14] <b>Michel Joubert</b>. [Quelle est la place légitime de l’enseignement des mathématiques dans l’éducation?](https://www.cairn.info/revue-le-debat-2007-3-page-111.htm) Le débat 3, 2007.
+[14] <b>Henri Volken</b>. [Orientation émotionnelle mathématique: la raison esthétique](https://journals.openedition.org/ress/72). Revue européenne des sciences sociales, 2009.
 
-[15] <b>Guy Brousseau</b>. [Alternatives en didactique de la statistique](https://inria.hal.science/inria-00386626/). 41èmes Journées de Statistique. 2009.
+[15] <b>Michel Joubert</b>. [Quelle est la place légitime de l’enseignement des mathématiques dans l’éducation?](https://www.cairn.info/revue-le-debat-2007-3-page-111.htm) Le débat 3, 2007.
 
-[16] <b>Daniel Pennac</b>. [Chagrin d'école](https://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio/Chagrin-d-ecole). Gallimard, 2007.
+[16] <b>Guy Brousseau</b>. [Alternatives en didactique de la statistique](https://inria.hal.science/inria-00386626/). 41èmes Journées de Statistique. 2009.
 
-[17] <b>Antonio R Damasio</b>. [L'erreur de Descartes: la raison des émotions](https://www.odilejacob.fr/catalogue/sciences/neurosciences/erreur-de-descartes_9782738124579.php). Odile Jacob, 2006.
+[17] <b>Daniel Pennac</b>. [Chagrin d'école](https://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio/Chagrin-d-ecole). Gallimard, 2007.
 
-[18] <b>Franck Lepage</b>, militant de l'éducation populaire et initiateur du concept des conférences gesticulées. 2005.
+[18] <b>Antonio R Damasio</b>. [L'erreur de Descartes: la raison des émotions](https://www.odilejacob.fr/catalogue/sciences/neurosciences/erreur-de-descartes_9782738124579.php). Odile Jacob, 2006.
 
-[19] <b>Eric Roditi</b>. [L'éducation face aux théories de la construction du nombre chez l'enfant](https://shs.hal.science/halshs-00349763/). Revue de recherches en éducation, 2005.
+[19] <b>Franck Lepage</b>, militant de l'éducation populaire et initiateur du concept des conférences gesticulées. 2005.
 
-[20] <b>Pierre Merle</b>. [Le rapport des collégiens aux mathématiques et au français. La perception des élèves de 6e et 3e](https://journals.openedition.org/osp/2632). L'orientation scolaire et professionnelle, 2003.
+[20] <b>Eric Roditi</b>. [L'éducation face aux théories de la construction du nombre chez l'enfant](https://shs.hal.science/halshs-00349763/). Revue de recherches en éducation, 2005.
 
-[21] <b>Albert Jacquard</b>. [L'équation du nénuphar. Les plaisirs de la science](https://www.livredepoche.com/livre/lequation-du-nenuphar-9782253148111). Édition Livre de Poche. 2000.
+[21] <b>Pierre Merle</b>. [Le rapport des collégiens aux mathématiques et au français. La perception des élèves de 6e et 3e](https://journals.openedition.org/osp/2632). L'orientation scolaire et professionnelle, 2003.
 
-[22] <b>Edgar Morin</b>. [Les sept savoirs nécessaires à l'éducation du futur](https://unesdoc.unesco.org/ark:/48223/pf0000117740_fre). Seuil, 1999. <i>"Le développement de l'intelligence est inséparable de celui de l'affectivité"</i>.
+[22] <b>Albert Jacquard</b>. [L'équation du nénuphar. Les plaisirs de la science](https://www.livredepoche.com/livre/lequation-du-nenuphar-9782253148111). Édition Livre de Poche. 2000.
 
-[23] <b>Jean-Pierre Astolfi & Brigitte Peterfalvi</b>. [Stratégies de travail des obstacles: dispositifs et ressorts](https://www.persee.fr/doc/aster_0297-9373_1997_num_25_1_1110). Aster: Recherches en didactique des sciences expérimentales, 1997.
+[23] <b>Edgar Morin</b>. [Les sept savoirs nécessaires à l'éducation du futur](https://unesdoc.unesco.org/ark:/48223/pf0000117740_fre). Seuil, 1999. <i>"Le développement de l'intelligence est inséparable de celui de l'affectivité"</i>.
 
-[24] <b>Linda Gattuso et al</b>. [Quelques aspects sociaux et affectifs de l’enseignement des mathématiques ou le vécu des mathophobes](https://www.erudit.org/en/journals/rse/1989-v15-n2-rse3552/900627ar/abstract/). Revue des sciences de l'éducation, 1989.
+[24] <b>Jean-Pierre Astolfi & Brigitte Peterfalvi</b>. [Stratégies de travail des obstacles: dispositifs et ressorts](https://www.persee.fr/doc/aster_0297-9373_1997_num_25_1_1110). Aster: Recherches en didactique des sciences expérimentales, 1997.
 
-[25] <b>Yves Blouin</b>. [Changer l'image des mathématiques et des sciences](https://eduq.info/xmlui/bitstream/handle/11515/21406/blouin_yves_00.pdf?sequence=1). Pédagogie collégiale, 1987.
+[25] <b>Linda Gattuso et al</b>. [Quelques aspects sociaux et affectifs de l’enseignement des mathématiques ou le vécu des mathophobes](https://www.erudit.org/en/journals/rse/1989-v15-n2-rse3552/900627ar/abstract/). Revue des sciences de l'éducation, 1989.
 
-[26] <b>Pierre Bourdieu</b>. [L'école conservatrice: Les inégalités devant l'école et devant la culture](https://www.jstor.org/stable/3319132). Revue française de sociologie, 1966.
+[26] <b>Yves Blouin</b>. [Changer l'image des mathématiques et des sciences](https://eduq.info/xmlui/bitstream/handle/11515/21406/blouin_yves_00.pdf?sequence=1). Pédagogie collégiale, 1987.
 
-[27] <b>Célestin Freinet</b>, militant et pédagogue français, mutilé de guerre, il adapte son enseignement pour tenir compte de son état de santé (forme d'écologie). Sa pédagogie est basée sur 
+[27] <b>Pierre Bourdieu</b>. [L'école conservatrice: Les inégalités devant l'école et devant la culture](https://www.jstor.org/stable/3319132). Revue française de sociologie, 1966.
+
+[28] <b>Célestin Freinet</b>, militant et pédagogue français, mutilé de guerre, il adapte son enseignement pour tenir compte de son état de santé (forme d'écologie). Sa pédagogie est basée sur 
 l'expression libre des enfants. 1912.
 
-[28] <b>Jean Jaurès</b>. <i>"On n'enseigne pas ce que l'on sait ou ce que l'on croit savoir : on n'enseigne et on ne peut enseigner que ce que l'on est"</i>. 1910.
+[29] <b>Jean Jaurès</b>. <i>"On n'enseigne pas ce que l'on sait ou ce que l'on croit savoir : on n'enseigne et on ne peut enseigner que ce que l'on est"</i>. 1910.
