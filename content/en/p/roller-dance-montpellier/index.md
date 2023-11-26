@@ -35,7 +35,9 @@ The Shooting Stars of Montpellier
 
 In June 2023, during a [preventive workshop on social media](https://www.mtpcours.fr/u/Temoignages-reseaux-sociaux-Montpellier-juin-2023.pdf), a young out of two suggested to do more sport ! The Shooting Stars ✨ is a roller skating team, which promotes solidarity in La Paillade district of Montpellier, the talent of young people and the values of sport. The sessions are available in the form of activities depending on the weather and the mood of the participants. As an educational program, The Shooting Stars ✨ puts into practice new pedagogies in [science](https://www.mtpcours.fr/u/Roller-Notions-scientifiques.pdf) and [entrepreneurship](https://www.mtpcours.fr/u/Les-Etoiles-de-la-Mosson-Montpellier-2028.pdf), co-created with families in the neighborhood.
 
-{{< figure src="roller/roller-icon.png" caption="<i>Open to all</i>: beginner, intermediate, advanced, from 9 years old 🌸">}}
+## Public
+
+<i>Open to all</i>: beginner, intermediate, advanced, from 9 years old 🌸
 
 ## Dates and locations
 

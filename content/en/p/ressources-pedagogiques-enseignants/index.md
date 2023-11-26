@@ -34,7 +34,7 @@ For others, and in particular professionals in the field, in animation, educatio
 
 The following educational resources consider intelligence as the ability to create meaning, penetrate a shared world and reorganize one's vision of the world, whether emotional, rational, intuitive, etc. They share a humanist, social and ecological vision of learning and can be useful for teaching, learning to manage difficult situations and strong emotions, but also for living well together, creating dynamics of mutual aid and solidarity, nourish motivation, strengthen cohesion, or as ideas of [desert'heureuses](https://desertheureuses.noblogs.org/).
 
-These resources come largely from the training <i>Taking care of the pedagogical relationship</i> by [Angela Biancofiore](https://www.angela-biancofiore.net/), artist and professor at Paul Valéry University, head of the group of scientific interest [TEPCARE](https://tepcare.hypotheses.org/) on the theories and practices of care, whom I thank for her training last June, as well as Malika Geidel, ex-teacher, whom I thank for her reading recommendations on pedagogy and for hosting me as a WOOFER this summer :)
+These resources come largely from the training <i>Taking care of the pedagogical relationship</i> by [Angela Biancofiore](https://www.angela-biancofiore.net/), artist and professor at Paul Valéry University, head of the group of scientific interest [TEPCARE](https://tepcare.hypotheses.org/) on the theories and practices of care, whom I thank for her training last June, as well as Malika Geidel, ex-teacher, whom I thank for her reading recommendations on pedagogy and for hosting me as a WOOFER this summer :) Thanks also to Morgann Raillecove and Cécile Tessier Pillet for their reading recommendations in sociology and on the fear of math!
 
 ## Références
 
@@ -60,37 +60,67 @@ To add your reading recommendations to the reference list, please contact me. Th
 
 [6b] <b>Jean Philippe Lachaux</b>. [ATOLE, premier programme d'éducation de l'attention à l'école](https://www.youtube.com/watch?v=eXVPITxda8o&ab_channel=TEDxTalks). TEDx conference, 2019. - <i>Attention can be trained</i>.
 
-[7a] <b>Patricia Jennings</b>. [L'école en pleine conscience](https://arenes.fr/livre/lecole-en-pleine-conscience/). Les Arènes, 2019.
+[7] <b>Serge Boimare</b>. [L'enfant et la peur d'apprendre](https://www.dunod.com/sciences-humaines-et-sociales/enfant-et-peur-d-apprendre-0). 3e éd. Dunod, 2019.
 
-[7b] <b>Patricia Jennings</b>. [The trauma-sensitive classroom: Building resilience with compassionate teaching](https://eric.ed.gov/?id=EJ1218755). WW Norton & Company, 2018. - <i>Example of the wall of gratitude in hospitals or words against violence, to rebalance emotions in the classroom</i>.
+[8a] <b>Patricia Jennings</b>. [L'école en pleine conscience](https://arenes.fr/livre/lecole-en-pleine-conscience/). Les Arènes, 2019.
 
-[8] <b>Thich Nhat Hanh and Katherine Weare</b>. [Un prof heureux peut changer le monde](https://www.babelio.com/livres/Hanh-Un-prof-heureux-peut-changer-le-monde/1043979). Belfond, 2018.
+[8b] <b>Patricia Jennings</b>. [The trauma-sensitive classroom: Building resilience with compassionate teaching](https://eric.ed.gov/?id=EJ1218755). WW Norton & Company, 2018. - <i>Example of the wall of gratitude in hospitals or words against violence, to rebalance emotions in the classroom</i>.
 
-[9] <b>Kimberly A. Schonert-Reichl & Robert W. Roeser</b>. [Handbook of Mindfulness in Education: Integrating Theory and Research into Practice](https://link.springer.com/book/10.1007/978-1-4939-3506-2). Springer, 2017.
+[9] <b>Thich Nhat Hanh and Katherine Weare</b>. [Un prof heureux peut changer le monde](https://www.babelio.com/livres/Hanh-Un-prof-heureux-peut-changer-le-monde/1043979). Belfond, 2018.
 
-[10] <b>Tara Flippo</b>. [Social and emotional learning in action : experiential activities to positively impact school climate](https://searchworks.stanford.edu/view/11632483). Rowman & Littlefield, 2016.
+[10] <b>Kimberly A. Schonert-Reichl & Robert W. Roeser</b>. [Handbook of Mindfulness in Education: Integrating Theory and Research into Practice](https://link.springer.com/book/10.1007/978-1-4939-3506-2). Springer, 2017.
 
-[11] <b>Francisco Varela</b>. Né pour organiser, film documentaire. [Partie I](https://www.youtube.com/watch?v=Ll6yz6sj3go&ab_channel=KevenPoulin) et [II](https://www.youtube.com/watch?v=9qIWCMssyTk&ab_channel=KevenPoulin). 2015. - <i>Learning theory based on embodied understanding</i>.
+[11] <b>Tara Flippo</b>. [Social and emotional learning in action : experiential activities to positively impact school climate](https://searchworks.stanford.edu/view/11632483). Rowman & Littlefield, 2016.
 
-[12] <b>Yves Citton</b>. [Pour une écologie de l'attention](https://www.seuil.com/ouvrage/pour-une-ecologie-de-l-attention-yves-citton/9782021181425). Seuil, 2014.
+[12] <b>Francisco Varela</b>. Né pour organiser, film documentaire. [Partie I](https://www.youtube.com/watch?v=Ll6yz6sj3go&ab_channel=KevenPoulin) et [II](https://www.youtube.com/watch?v=9qIWCMssyTk&ab_channel=KevenPoulin). 2015. - <i>Learning theory based on embodied understanding</i>.
 
-[13] <b>Antonio R Damasio</b>. [L'erreur de Descartes: la raison des émotions](https://www.odilejacob.fr/catalogue/sciences/neurosciences/erreur-de-descartes_9782738124579.php). Odile Jacob, 2006.
+[13] <b>Yves Citton</b>. [Pour une écologie de l'attention](https://www.seuil.com/ouvrage/pour-une-ecologie-de-l-attention-yves-citton/9782021181425). Seuil, 2014.
 
-[14] <b>Franck Lepage</b>, popular education activist and initiator of the concept of gesticulated conferences. 2005.
+[14] <b>Sian L. Beilock and Daniel T. Willingham</b>. [Math anxiety: Can teachers help students reduce it? ask the cognitive scientist](https://eric.ed.gov/?id=EJ1043398). American educator, 2014.
 
-[15] <b>Edward W. Taylor</b>. [Transformative learning theory: A neurobiological perspective of the role of emotions and unconscious ways of knowing](https://www.tandfonline.com/doi/abs/10.1080/02601370110036064). International Journal of lifelong education. 2001.
+[15] <b>Anne Siety</b>. [Qui a peur des mathématiques?](https://www.livredepoche.com/livre/qui-peur-des-mathematiques-9782253166955) Denoël, 2012.
 
-[16] <b>Albert Jacquard</b>. [L'équation du nénuphar. Les plaisirs de la science](https://www.livredepoche.com/livre/lequation-du-nenuphar-9782253148111). Édition Livre de Poche. 2000.
+[16] <b>Michel Vigier</b>. [Dyscalculie ou innumérisme? Approches de la résolution des problèmes arithmétiques par les abaques](https://www.apmep.fr/IMG/pdf/AAA10040.pdf). Bulletin de l’APMEP, 2010.
 
-[17] <b>Edgar Morin</b>. [Les sept savoirs nécessaires à l'éducation du futur](https://unesdoc.unesco.org/ark:/48223/pf0000117740_fre). Seuil, 1999. <i>"The development of intelligence is inseparable from that of affectivity"</i>.
+[17] <b>Françoise Campanale et al</b>. [Dispositifs d'autoévaluation socialisée en formation: une contrainte pervertissante ou une opportunité transformatrice?](https://hal.science/hal-01172736/) HAL, 2010.
 
-[18] <b>Roger, Weissberg & Maurice J. Elias</b>. [Promoting social and emotional learning : guidelines for educators](https://eric.ed.gov/?id=ED414020). ASCD, 1997.
+[18] <b>Henri Volken</b>. [Orientation émotionnelle mathématique: la raison esthétique](https://journals.openedition.org/ress/72). Revue européenne des sciences sociales, 2009.
 
-[19] <b>Daniel Goleman</b>. [Emotional intelligence. Why it can matter more than IQ](https://www.goodreads.com/book/show/26329.Emotional_Intelligence). Learning, 1996.
+[19] <b>Michel Joubert</b>. [Quelle est la place légitime de l’enseignement des mathématiques dans l’éducation?](https://www.cairn.info/revue-le-debat-2007-3-page-111.htm) Le débat 3, 2007.
 
-[20] <b>Célestin Freinet</b>, French activist and teacher, disabled in the war, he adapted his teaching to take into account his health state (a form of ecology). His pedagogy is based on
+[20] <b>Guy Brousseau</b>. [Alternatives en didactique de la statistique](https://inria.hal.science/inria-00386626/). 41èmes Journées de Statistique. 2009.
+
+[21] <b>Daniel Pennac</b>. [Chagrin d'école](https://www.gallimard.fr/Catalogue/GALLIMARD/Folio/Folio/Chagrin-d-ecole). Gallimard, 2007.
+
+[22] <b>Antonio R Damasio</b>. [L'erreur de Descartes: la raison des émotions](https://www.odilejacob.fr/catalogue/sciences/neurosciences/erreur-de-descartes_9782738124579.php). Odile Jacob, 2006.
+
+[23] <b>Franck Lepage</b>, popular education activist and initiator of the concept of gesticulated conferences. 2005.
+
+[24] <b>Eric Roditi</b>. [L'éducation face aux théories de la construction du nombre chez l'enfant](https://shs.hal.science/halshs-00349763/). Revue de recherches en éducation, 2005.
+
+[25] <b>Pierre Merle</b>. [Le rapport des collégiens aux mathématiques et au français. La perception des élèves de 6e et 3e](https://journals.openedition.org/osp/2632). L'orientation scolaire et professionnelle, 2003.
+
+[26] <b>Edward W. Taylor</b>. [Transformative learning theory: A neurobiological perspective of the role of emotions and unconscious ways of knowing](https://www.tandfonline.com/doi/abs/10.1080/02601370110036064). International Journal of lifelong education. 2001.
+
+[27] <b>Albert Jacquard</b>. [L'équation du nénuphar. Les plaisirs de la science](https://www.livredepoche.com/livre/lequation-du-nenuphar-9782253148111). Édition Livre de Poche. 2000.
+
+[28] <b>Edgar Morin</b>. [Les sept savoirs nécessaires à l'éducation du futur](https://unesdoc.unesco.org/ark:/48223/pf0000117740_fre). Seuil, 1999. <i>"The development of intelligence is inseparable from that of affectivity"</i>.
+
+[29] <b>Roger, Weissberg & Maurice J. Elias</b>. [Promoting social and emotional learning : guidelines for educators](https://eric.ed.gov/?id=ED414020). ASCD, 1997.
+
+[30] <b>Jean-Pierre Astolfi & Brigitte Peterfalvi</b>. [Stratégies de travail des obstacles: dispositifs et ressorts](https://www.persee.fr/doc/aster_0297-9373_1997_num_25_1_1110). Aster: Recherches en didactique des sciences expérimentales, 1997.
+
+[31] <b>Daniel Goleman</b>. [Emotional intelligence. Why it can matter more than IQ](https://www.goodreads.com/book/show/26329.Emotional_Intelligence). Learning, 1996.
+
+[32] <b>Linda Gattuso et al</b>. [Quelques aspects sociaux et affectifs de l’enseignement des mathématiques ou le vécu des mathophobes](https://www.erudit.org/en/journals/rse/1989-v15-n2-rse3552/900627ar/abstract/). Revue des sciences de l'éducation, 1989.
+
+[33] <b>Yves Blouin</b>. [Changer l'image des mathématiques et des sciences](https://eduq.info/xmlui/bitstream/handle/11515/21406/blouin_yves_00.pdf?sequence=1). Pédagogie collégiale, 1987.
+
+[34] <b>Pierre Bourdieu</b>. [L'école conservatrice: Les inégalités devant l'école et devant la culture](https://www.jstor.org/stable/3319132). Revue française de sociologie, 1966.
+
+[35] <b>Célestin Freinet</b>, French activist and teacher, disabled in the war, he adapted his teaching to take into account his health state (a form of ecology). His pedagogy is based on
 free expression of children. 1912.
 
-[21] <b>Maria Montessori</b>. [The Montessori method: Scientific pedagogy as applied to child education in 'the children's houses'](https://openlibrary.org/books/OL6542070M/The_Montessori_method). 1912.
+[36] <b>Maria Montessori</b>. [The Montessori method: Scientific pedagogy as applied to child education in 'the children's houses'](https://openlibrary.org/books/OL6542070M/The_Montessori_method). 1912.
 
-[22] <b>Jean Jaurès</b>. <i>"We do not teach what we know or what we think we know: we only teach and we can only teach who we are"</i>. 1910.
+[37] <b>Jean Jaurès</b>. <i>"We do not teach what we know or what we think we know: we only teach and we can only teach who we are"</i>. 1910.

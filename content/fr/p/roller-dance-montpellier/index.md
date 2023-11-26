@@ -35,7 +35,9 @@ Les Étoiles Filantes de Montpellier
 
 En juin 2023, lors d'un [atelier préventif sur les réseaux sociaux](https://www.mtpcours.fr/u/Temoignages-reseaux-sociaux-Montpellier-juin-2023.pdf), un jeune sur deux proposait de faire plus de sport ! Les étoiles filantes ✨ est une équipe de roller, qui promeut la solidarité du quartier La Paillade à Montpellier, le talent des jeunes et les valeurs du sport. Les sessions se déclinent sous formes d'activités en fonction de la météo et de l'humeur des participants. En tant que programme éducatif, les étoiles filantes ✨ met en pratique de nouvelles pédagogies en [sciences](https://www.mtpcours.fr/u/Roller-Notions-scientifiques.pdf) et [entrepreneuriat](https://www.mtpcours.fr/u/Les-Etoiles-de-la-Mosson-Montpellier-2028.pdf), co-construites avec les familles du quartier.
 
-{{< figure src="roller/roller-icon.png" caption="<i>Ouvert à tous</i> : débutant, intermédiaire, avancé, à partir de 9 ans 🌸">}}
+## Public
+
+<i>Ouvert à tous</i> : débutant, intermédiaire, avancé, à partir de 9 ans 🌸
 
 ## Dates et lieu
 
