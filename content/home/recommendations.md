@@ -2,7 +2,7 @@
 title: Témoignages
 subtitle:
 widget: blank
-weight: 30
+weight: 50
 design:
   columns: '1'
   view: compact  # Since v5.5+, write the view name, otherwise use the view ID above

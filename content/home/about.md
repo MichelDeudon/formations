@@ -1,7 +1,7 @@
 ---
 widget: people
 title: Equipe pédagogique
-weight: 10 # Position of section on page
+weight: 30 # Position of section on page
 
 content:
   # Choose which groups/teams of users to display.

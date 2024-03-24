@@ -1,7 +1,7 @@
 ---
 widget: portfolio
 headless: true
-weight: 20
+weight: 40
 title: Explorer les formations
 subtitle:
 content:
