@@ -1,7 +1,7 @@
 ---
 title: Mathématiques
 linkTitle: Maths
-summary: Cours particulier de mathématiques et soutien scolaire au lycée à Montpellier. Cours d'analyse, d'algèbre, statistiques et programmation en licence/master MIASHS.
+summary: Cours collectifs de mathématiques et soutien scolaire au lycée à Montpellier. Cours d'analyse, d'algèbre, statistiques et programmation en licence/master MIASHS.
 date: '2023-10-04'
 type: book
 tags:
@@ -115,4 +115,4 @@ Il n'y a pas de prérequis pour le premier cours.
 Aussi souvent que vous en avez besoin. Idéalement une à deux fois par semaine.
 {{< /spoiler >}}
 
-{{< cta cta_text="Commencer la formation" cta_link="mailto:michel.deudon@hotmail.com?subject=Demande de cours particuliers de maths">}}
+{{< cta cta_text="Commencer la formation" cta_link="mailto:michel.deudon@hotmail.com?subject=Demande de cours collectifs de maths">}}

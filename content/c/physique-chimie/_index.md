@@ -1,7 +1,7 @@
 ---
 title: Physique Chimie
 linkTitle: Physique-Chimie
-summary: Cours particulier de physique chimie et soutien scolaire au lycée à Montpellier. Formation sur l'observation de la Terre en master/doctorat.
+summary: Cours collectifs de physique chimie et soutien scolaire au lycée à Montpellier. Formation sur l'observation de la Terre en master/doctorat.
 date: '2023-10-04'
 type: book
 tags:
@@ -68,4 +68,4 @@ Il n'y a pas de prérequis pour le premier cours.
 Aussi souvent que vous en avez besoin. Idéalement une à deux fois par semaine.
 {{< /spoiler >}}
 
-{{< cta cta_text="Commencer la formation" cta_link="mailto:michel.deudon@hotmail.com?subject=Demande de cours particuliers de physique-chimie">}}
+{{< cta cta_text="Commencer la formation" cta_link="mailto:michel.deudon@hotmail.com?subject=Demande de cours collectifs de physique-chimie">}}
