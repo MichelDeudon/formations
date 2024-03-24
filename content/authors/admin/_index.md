@@ -10,12 +10,12 @@ last_name: Deudon
 superuser: true
 
 # Role/position
-role: Professeur et animateur indépendant
+role: Ingénieur pédagogique
 
 # Organizations/Affiliations
 organizations:
-  - name: ""
-    url: ""
+  - name: Université Paul Valéry
+    url: "https://www.univ-montp3.fr/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Mes intérêts de recherche incluent l'écologie, la psychologie et l'apprentissage des langues.
@@ -44,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:michel.deudon@hotmail.com?subject=[Mtpcours] Contact'
+    link: 'mailto:michel.deudon@hotmail.com?subject=[M&M] Contact'
   - icon: phone
     icon_pack: fas
     link: 'tel:0613835412'
