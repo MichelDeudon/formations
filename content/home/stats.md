@@ -1,7 +1,7 @@
 ---
-title:
+title: Chiffres clés
 subtitle:
-widget: features
+widget: featurette
 weight: 20
 
 content:
