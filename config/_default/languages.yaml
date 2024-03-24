@@ -6,17 +6,17 @@
 fr:
   languageCode: fr
   # Uncomment for multi-lingual sites, and move French content into `fr` sub-folder.
-  contentDir: content/fr
+  #contentDir: content/fr
 
 # Uncomment the lines below to configure your website in a second language.
-en:
-  languageCode: en-US
-  contentDir: content/en
-  title: Mtp Cours
-  params:
-    description: Professionnal trainings and tutoring in mathematics, physics and chemistry in Montpellier
-  menu:
-    main:
-      - name: en
-        url: '#'
-        weight: 1
+#en:
+#  languageCode: en-US
+#  contentDir: content/en
+#  title: Mtp Cours
+#  params:
+#    description: Professionnal trainings and tutoring in mathematics, physics and chemistry in Montpellier
+#  menu:
+#    main:
+#      - name: en
+#        url: '#'
+#        weight: 1
