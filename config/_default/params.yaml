@@ -17,8 +17,8 @@ marketing:
   seo:
     site_type: LocalBusiness
     local_business_type: 'ProfessionalService'
-    org_name: 'Michel Deudon'
-    description: 'Formations pro et cours particuliers de mathématiques, physique et chimie sur Montpellier.'
+    org_name: 'Maths et Maryam'
+    description: 'Formations, soutien scolaire et cours collectifs de mathématiques, physique et chimie à Montpellier.'
     twitter: ''
   analytics:
     google_analytics: ''
