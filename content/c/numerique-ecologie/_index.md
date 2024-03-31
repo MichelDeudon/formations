@@ -26,7 +26,7 @@ tags:
   - Prévention
 ---
 
-{{< figure src="featured.jpg" caption="Source de l'image: [Pour un Réveil Écologique](https://pour-un-reveil-ecologique.org/fr/)>}}
+{{< figure src="featured.jpg" caption="Source image: [Pour un Réveil Écologique](https://pour-un-reveil-ecologique.org/fr/)">}}
 
 ## Présentation
 
