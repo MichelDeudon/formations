@@ -1,7 +1,7 @@
 ---
 title: Numérique et écologie, vers de nouveaux imaginaires
 linkTitle: Numérique et Écologie
-summary: Module de formation à la transition sociale et écologique visant à interroger nos usages du numérique, leurs impacts sur l'environnement et le bien vivre ensemble. Initiation à l'animation d'ateliers préventifs et au pouvoir des imaginaires pour sensibiliser aux enjeux et leviers d'actions, ouvert au public.
+summary: Module de formation à la transition sociale et écologique visant à interroger nos usages du numérique, leurs impacts sur l'environnement et le bien vivre ensemble. Initiation à l'animation d'ateliers préventifs et au pouvoir des imaginaires pour sensibiliser aux enjeux et leviers d'actions.
 date: '2024-03-08'
 type: book
 tags:
@@ -26,17 +26,23 @@ tags:
   - Prévention
 ---
 
+{{< figure src="featured.jpg" >}}
+
 ## Présentation
 
 Le numérique est-il un levier pour la transition écologique ou le talon d’Achille d’un imaginaire devenu ringard? Comment dépasser le paradigme “diviser pour mieux régner”, et vivre en intelligence collective? 
 
 À travers ce cours, les étudiants pourront interroger le rôle du numérique dans le bien vivre ensemble, ses liens avec l'environnement et la société, la notion de pollution invisible, de filtres, d’écrans, les enjeux auxquels ces notions renvoient ainsi que des solutions concrètes à portée de main, pour mieux vivre ensemble. Nous apprendrons à faire preuve de discernement face aux discours techno-solutionnistes, à reconnaître les techniques courantes de greenwashing, à déconstruire les mythes sur la dématérialisation et le tout électrique. Nous discuterons des rouages des algorithmes et de nos biais cognitifs pour nous aider à recentrer notre attention. Enfin, nous verrons des exemples et usages positifs du numérique, développés par des professeurs et alumnis de l’Université Paul-Valéry. Nous nous intéresserons au rôle des artistes et au pouvoir des mots pour imaginer d’autres futurs.
 
-## Campagnes d'action
+## Chapitres
 
-{{< list_children >}}é
+Le numérique, talon d'Achille ou levier de la transition écologique ? 
+
+{{< list_children >}}
 
 ## Bibliographie indicative
+
+> Courrier International. [Éducation. Après avoir misé sur le numérique à l’école, les pays scandinaves font machine arrière.](https://www.courrierinternational.com/article/education-apres-avoir-mise-sur-le-numerique-a-l-ecole-les-pays-scandinaves-font-machine-arriere) 2024.
 
 > Alain Damasio. [L'imaginaire capitaliste est devenu ringard, il se fissure de partout](https://www.youtube.com/watch?v=Y8SpcxR6FjQ). Blast, 2023.
 
