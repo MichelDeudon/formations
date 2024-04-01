@@ -1,7 +1,7 @@
 ---
 title: Vie associative
 linkTitle: Vie Associative
-summary: Lutte contre les exclusions et vie associative, prévention, éducation, accompagnement, ouvert au public.
+summary: Lutte contre les exclusions et vie associative, prévention, éducation, accompagnement, ateliers et sorties ouverts au public.
 date: '2023-05-25'
 type: book
 tags:
