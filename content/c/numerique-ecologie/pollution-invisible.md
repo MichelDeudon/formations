@@ -48,7 +48,7 @@ Outil de calcul des usages du numérique: [agirpourlatransition.ademe.fr/particu
 
 Ressources de l'université Paul Valéry [Pour un numérique responsable](https://www.univ-montp3.fr/fr/vie-de-campus/campus-num%C3%A9rique/un-numerique-responsable).
 
-On peut retenir le chiffre de 10% pour la consommation éléctrique annuelle des services numériques en 2022 mais aussi c'est aussi l'évolution de ce chiffre et la tendance (croissance exponentielle des flux de données) que nous sommes invités à interroger. The Shift Project ont publié étude en mars 2021 à ce sujet: [Impact environnemental du numérique: tendances à 5 ans et gouvernance de la 5G](https://theshiftproject.org/wp-content/uploads/2021/03/Note-danalyse_Numerique-et-5G_30-mars-2021.pdf). Le rapport cite une étude de Techradar en 2015 selon laquelle une question se pose quant à la capacité même d’assurer une production industrielle suffisante.
+On peut retenir le chiffre de 10% pour la consommation éléctrique annuelle des services numériques en 2022 mais aussi c'est aussi l'évolution de ce chiffre et la tendance (croissance exponentielle des flux de données, +3% à +6% dans les émissions de GES mondiales) que nous sommes invités à interroger. The Shift Project ont publié étude en mars 2021 à ce sujet: [Impact environnemental du numérique: tendances à 5 ans et gouvernance de la 5G](https://theshiftproject.org/wp-content/uploads/2021/03/Note-danalyse_Numerique-et-5G_30-mars-2021.pdf). Le rapport cite une étude de Techradar en 2015 selon laquelle une question se pose quant à la capacité même d’assurer une production industrielle suffisante.
 
 {{< figure src="numeco/usages-infra-Shift.png" caption="Impacts environnementaux du numérique et facteurs de croissance. Source: The Shift Project. [Impact environnemental du numérique: tendances à 5 ans et gouvernance de la 5G](https://theshiftproject.org/wp-content/uploads/2021/03/Note-danalyse_Numerique-et-5G_30-mars-2021.pdf)">}}
 
@@ -64,9 +64,14 @@ Pourtant, d'autres scénarios sont envisageable pour 2030 et 2050, avec davantag
 
 ### Impacts sanitaires et sociaux
 
+Le plaisir ou encore le fait de scroller mobilise des circuits à dopamine. Dans les applications, et en particulier sur les réseaux sociaux (Flux Tiktok, Reels Instagram, Shorts Youtube), tout est pensé, testé, optimisé pour pousser l’utilisateur à cliquer plus, consommer plus... Voir par exemple le Ted Talk de Harrish Murugesan [Psychology Behind UI/UX Design](https://www.youtube.com/watch?v=fdXI9yznzz8) ou encore le blog de recherche de Google Brain sur la [curiosité et procrastination](https://blog.research.google/2018/10/curiosity-and-procrastination-in.html?ref=blog.floydhub.com&m=1).
+
+On est saturé d'information (on parle d'économie de l'attention) de peur d'en manquer, ce qui impact directement notre état de santé physique et santé mentale.
+
 > _Je me sens épuisé et en manque d'énergie par manque d'activité physique. Aussi, je sens que ma capacité d'attention a baissé à cause des réseaux sociaux._ - Étudiant en licence à Paul Valéry, mai 2023.
 
 {{< figure src="numeco/paulva_levetoi.png" caption="Je vis mes partiels sereinement. Partie I et II. [@paulva_levetoi](https://www.instagram.com/paulva_levetoi/), en mai 2023.">}}
 
-👉 Voir notre recueil de témoignages {{% staticref "u/Temoignages-reseaux-sociaux-Montpellier-mai-2023.pdf" %}}Réseaux sociaux, Attention et Santé{{% /staticref %}} en mai 2023. Notre questionnaire est ouvert, pour y répondre, c'est par [ici](https://framaforms.org/reseaux-sociaux-attention-et-sante-mentale-1687119437) !
+👉 Voir notre recueil de 32 témoignages {{% staticref "u/Temoignages-reseaux-sociaux-Montpellier-mai-2023.pdf" %}}Réseaux sociaux, Attention et Santé{{% /staticref %}} en mai 2023. Notre questionnaire est ouvert, pour y répondre, c'est par [ici](https://framaforms.org/reseaux-sociaux-attention-et-sante-mentale-1687119437) !
 
+{{< figure src="numeco/temoignage-reseaux-sociaux.png" caption="Exemple de témoignage sur les réseaux sociaux.">}}
