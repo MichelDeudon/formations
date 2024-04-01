@@ -53,23 +53,27 @@ Internet fait son apparition au grand public à la fin des années 80 et connait
 Jeff Bezos avec Amazon (1994), Serge et Larry Page avec Google (1998) ont fait fortune dans le e-commerce (livres) et les moteurs de recherche en surfant la vague internet comme d'autres milliardaires.
 Mark Zuckerberg crée le réseau social Facebook (2004), ce qui finit de compléter l'accroynome des GAFAM en référence à ces entreprises.
 
-{{< figure src="numeco/gafam.png" caption="Co fondateurs des GAFAM.">}}
+{{< figure src="numeco/gafam.png" caption="Co fondateurs des GAFAM. Voir aussi [Bloomberg Billionaires Index](https://bloomberg.com/billionaires/) (poids économique)">}}
 
 Le premier iphone voit le jour en 2007. Avec l'app store, c'est le marché des applis qui connait son essor.
 On peut citer Snapchat (2011) ou Tiktok (2016) qui font leur apparition dans les années 2010, et la liste continue.
 Facebook rachète Instagram (2012) et Whatsapp (2014), puis devient Meta (2021). Google achète DeepMind (2014) et devient Alphabet (2015).
 
-RGPD...
+L'Europe tente alors de réguler les géants du numérique et le RGPD (Réglement Européen sur la Protection des Données personnelles) entre en vigueur le 25 mai 2018. Il succède en France à la Loi Informatique et Libertés de 1978 et la création de la Commission nationale de l'informatique et des libertés (CNIL) comme régulateur. L'Autorité de Régulation des Communications Électroniques, des Postes et de la Distribution de la Presse (ARCEP) voit le jour en 1997. Ce dernier régulateur fait l'objet d'une commission d'enquête de l'Assemblée Nationale en 2023-24 sur l'attribution, le contenu et le contrôle des autorisations de services de télévision à caractère national sur la télévision numérique terrestre (TNT).
 
 ## Et aujourd'hui?
 
+On parle aujourd'hui de transformation numérique, de fracture numérique, de numérique responsable... dans quel contexte social et écologique?
+
 {{< figure src="numeco/media-fr.png" caption="Paysage des médias en France. Qui détient quoi?">}}
 
-Selon le Larousse, le numérique relève des nombres (en anglais digital).
-On parle aujourd'hui de transformation numérique, de fracture numérique, de numérique responsable... dans quels contextes (social, économique, écologique...) ?
-Quelles intentions et visions se cachent derrières les investissements et les innovations (assos, ESS, deeptech, etc)?
+Selon le Larousse, le numérique relève des nombres (en anglais digital). Qui sont derrière ces nombres?
+Quelles intentions et visions se cachent derrières les articles, les investissements et les innovations?
 
-En 2023, Microsoft investit dans OpenAI (ChatGPT) et l’année marque un record de levée de fonds record pour la French Tech française 🐓 alors que de plus en plus de parents (majoritairement des femmes) et associations se mobilisent contre l'invasion du numérique dans les écoles. Les pays scandinaves ont reconnu avoir trop investi sur le numérique dans des secteurs clefs comme l'éducation.
+En 2023, Microsoft investit dans OpenAI (ChatGPT) et l’année marque un record de levée de fonds record pour la French Tech française (deep tech) 🐓 alors que de plus en plus de parents (majoritairement des femmes) et associations se mobilisent contre l'invasion du numérique dans les écoles. Les pays scandinaves ont reconnu avoir trop investi sur le numérique dans des secteurs clefs comme l'éducation.
 
-Par comparaison, 100 millions
-= Budget Cités Éducatives sur 3 ans.
+> Après avoir beaucoup misé sur le numérique à l’école, les autorités de la région estiment désormais que cette voie n’est pas bonne pour les élèves. À l’origine de ce revirement, les mises en garde de neurologues et de pédiatres contre l’introduction trop précoce des outils numériques à l’école. - Courrier International. [Éducation. Après avoir misé sur le numérique à l’école, les pays scandinaves font machine arrière.](https://www.courrierinternational.com/article/education-apres-avoir-mise-sur-le-numerique-a-l-ecole-les-pays-scandinaves-font-machine-arriere) Mars 2024.
+
+Par comparaison, la [levée de fonds de 105 millions d'euros de la startup Mistral.ai](https://www.maddyness.com/2023/06/13/mistral-levee-de-fonds-105-millions-artificielle-generative/) correspond au budget [Cités Éducatives](https://www.citeseducatives.fr/actualites/100-millions-deuros-dici-2022-mobilises-pour-la-reussite-des-enfants-et-des-jeunes-des-quartiers) sur 3 ans. Parmi les trois cofondateurs, deux étaient chez Facebook et font partie des auteurs des [modèles LLaMA](https://arxiv.org/abs/2302.13971) concurrent de ChatGPT. D'après l'article de recherche, leurs modèles sont plus sexistes que GPT3 (OpenAI) et OPT (table 12 de l'article et analyse quantitative en Annexe).
+
+{{< figure src="numeco/llama-bias.png" caption="Exemple de biais des modèles LLaMA. Source: [LLaMA: Open and efficient foundation language models. Arxiv, 2023.](https://arxiv.org/abs/2302.13971) (Annexe).">}}
