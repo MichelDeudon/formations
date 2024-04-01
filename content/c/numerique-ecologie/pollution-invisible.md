@@ -64,8 +64,9 @@ Pourtant, d'autres scénarios sont envisageable pour 2030 et 2050, avec davantag
 
 ### Impacts sanitaires et sociaux
 
-👉 Voir notre recueil de témoignages {{% staticref "u/Temoignages-reseaux-sociaux-Montpellier-mai-2023.pdf" %}}Réseaux sociaux, Attention et Santé{{% /staticref %}} en mai 2023. Notre questionnaire est ouvert, pour y répondre, c'est par [ici](https://framaforms.org/reseaux-sociaux-attention-et-sante-mentale-1687119437) !
-
 > _Je me sens épuisé et en manque d'énergie par manque d'activité physique. Aussi, je sens que ma capacité d'attention a baissé à cause des réseaux sociaux._ - Étudiant en licence à Paul Valéry, mai 2023.
 
 {{< figure src="numeco/paulva_levetoi.png" caption="Je vis mes partiels sereinement. Partie I et II. [@paulva_levetoi](https://www.instagram.com/paulva_levetoi/), en mai 2023.">}}
+
+👉 Voir notre recueil de témoignages {{% staticref "u/Temoignages-reseaux-sociaux-Montpellier-mai-2023.pdf" %}}Réseaux sociaux, Attention et Santé{{% /staticref %}} en mai 2023. Notre questionnaire est ouvert, pour y répondre, c'est par [ici](https://framaforms.org/reseaux-sociaux-attention-et-sante-mentale-1687119437) !
+
