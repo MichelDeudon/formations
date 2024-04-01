@@ -25,7 +25,9 @@ Intervention en Master 2 MEEF STMS sur les actions menées avec les associations
 
 <!--more-->
 
-{{< figure src="reseaux/lutte-exclusions.png" caption="Partenaires associatifs et institutionnels.">}}
+{{< figure src="assos/lutte-exclusions.png" caption="Partenaires associatifs et institutionnels.">}}
+
+{{< icon name="calendar" pack="fas" >}} 21 et 28 septembre 2023, de 9h15 à 11h15 à l'université Paul Valery.
 
 ## 🎯 Objectif
 
@@ -47,7 +49,7 @@ L'association GSC est une des rares associations qui est restée ouverte tout l�
 - <b>Activités sportives</b> : Journée à la piscine Olympique, Futsal, Escalade, Patinoire à Vegapolis, sorties [Roller](https://www.mtpcours.fr/p/roller-dance-montpellier/), etc.
 - <b>Autre</b> : Sortie à Aqualand, Laser Game, Trampoline, Bowling, ateliers de lecture, [stage de pré-rentrée](https://www.mtpcours.fr/p/stage-maths-montpellier/), etc.
 
-{{< figure src="reseaux/Sortie-GSC-Juillet.png" caption="L'association GSC est restée ouverte en été pour proposer des activités aux familles. Exemple de sorties organisées par Morgann en juillet 2023.">}}
+{{< figure src="assos/Sortie-GSC-Juillet.png" caption="L'association GSC est restée ouverte en été pour proposer des activités aux familles. Exemple de sorties organisées par Morgann en juillet 2023.">}}
 
 Par comparaison, les antennes locales présentes à La Mosson disposent de moyens matériels plus importants (budget, locaux, etc) mais sans public, sans relation de confiance, il ne se passe rien. C'est pourquoi des antennes locales de La Mosson viennent régulièrement voir l'association GSC pour demander des jeunes comme s'il s'agissait d'une marchandise ou de stocks: "On gère tout (le budget, les subventions, les formations, etc.), donnez nous des jeunes...". Celà conduit à la problématique suivante: <b>Comment valoriser les compétences et le travail invisibles des associations de quartier?</b> ✨
 
@@ -57,7 +59,7 @@ En juin 2023, dans le cadre du programme [Cités éducatives](https://www.citese
 
 👉 Les activités culturelles et sportives proposées pendant l'été répondent aux propositions et attentes des habitants. Le programme a été co-construit avec les familles et les partenaires institutionnels, culturels, sportifs, etc.
 
-{{< figure src="reseaux/galilee.png" caption="Le soleil et les planètes selon Galilée. Une vision centrée sur le jeune facilite la co-construction avec les familles, amis, écoles, assos...">}}
+{{< figure src="assos/galilee.png" caption="Le soleil et les planètes selon Galilée. Une vision centrée sur le jeune facilite la co-construction avec les familles, amis, écoles, assos...">}}
 
 ### Réalités opérationnelles et difficultés du terrain
 

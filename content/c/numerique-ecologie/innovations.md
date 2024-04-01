@@ -33,6 +33,14 @@ Pour un numérique responsable
 
 <!--more-->
 
+## Collectifs et Associations
+
+- [Lève les yeux !](https://www.levelesyeux.com/) promeut la déconnexion pour mieux préserver l'attention humaine, ressource rare et précieuse.
+
+- [Framasoft](https://framasoft.org/fr/) propose des alternatives aux GAFAM.
+
+- [La Base](https://labasemontpellier.org/) propose des [Ateliers d'autodéfense numérique](https://www.aleale.org/event/atelier-dautodefense-numerique-1).
+
 ## Pouvoir de la narration, de la science fiction…
 
 ## Portraits de désert'heureuses

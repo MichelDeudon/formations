@@ -48,7 +48,7 @@ L’histoire se souvient d’Alan Turing (Enigma, 1943) qui a donné son nom au 
 
 ## Des années 1990 aux années 2010, essor du capitalisme patriarcal
 
-Internet fait son apparition au grand public à la fin des années 80 et coonnait son essor dans les années 1990, dans un monde succédant à la guerre froide (chute du mur de Berlin en 1989).
+Internet fait son apparition au grand public à la fin des années 80 et connait son essor dans les années 1990, dans un monde succédant à la guerre froide (chute du mur de Berlin en 1989).
 
 Jeff Bezos avec Amazon (1994), Serge et Larry Page avec Google (1998) ont fait fortune dans le e-commerce (livres) et les moteurs de recherche en surfant la vague internet comme d'autres milliardaires.
 Mark Zuckerberg crée le réseau social Facebook (2004), ce qui finit de compléter l'accroynome des GAFAM en référence à ces entreprises.

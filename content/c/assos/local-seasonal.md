@@ -1,28 +1,36 @@
 ---
 title: Ateliers Local Seasonal
-linkTitle: Local Seasonal
-summary: Ateliers arts & science, sur mesure, pour célébrer la biodiversité au fil des saisons, à destination de jeunes et grand public.
-date: '2022-06-01'
+date: '2023-09-28'
 type: book
+weight: 20
+highlight: true
 tags:
   - Jeunes
   - Ateliers
   - Primaire
   - Collège
   - Lycée
+  - Sensibilisation
+  - Conseils Pratiques
+  - Société
+  - Environnement
   - La Paillade
   - La Mosson
   - Montpellier
   - Hérault
 ---
 
-{{< figure src="local-seasonal/renovation-ecologique-asso-GSC.png" caption="Renovation écologique à La Paillade, Montpellier - du lundi 21/08 au vendredi 25/08 2023.">}}
+Une association loi 1901
+
+<!--more-->
+
+{{< figure src="assos/local-seasonal-renovation-ecologique-asso-GSC.png" caption="Renovation écologique à La Paillade, Montpellier - du lundi 21/08 au vendredi 25/08 2023.">}}
 
 ## Présentation
 
 Local Seasonal est une [association loi 1901](https://www.journal-officiel.gouv.fr/associations/detail-annonce/associations_b/20200022/840) dont le but est de créer du lien social, se reconnecter à la Nature et entre nous, en créant des lieux de rencontres et moments de partage favorisant l'épanouissement collectif et les échanges harmonieux. L'association cherche à appliquer les principes de la permaculture: prendre soin des Hommes, prendre soin de la Terre et partager équitablement.
 
-{{< figure src="featured.png" caption="Une rencontre Local Seasonal par Louise Lavaud.">}}
+{{< figure src="assos/local-seasonal-louise-lavaud.png" caption="Une rencontre Local Seasonal par Louise Lavaud.">}}
 
 ## Nos campagnes d'action
 
@@ -30,7 +38,7 @@ Local Seasonal est une [association loi 1901](https://www.journal-officiel.gouv.
 
 Distribution de graines [Kokopelli](https://kokopelli-semences.fr/fr/) et de semences paysannes pour initier à l'agriculture urbaine, la revolarisation d'objets du quotidien et cultiver chez soi.
 
-{{< figure src="local-seasonal/freepots.png" caption="Des petits pois dans des gobelets recyclés.">}}
+{{< figure src="assos/local-seasonal-freepots.png" caption="Des petits pois dans des gobelets recyclés.">}}
 
 ### Des données en accès libre
 
@@ -39,13 +47,13 @@ Contribution en accès libre: [Pyfood](https://pyfood.readthedocs.io/en/latest/)
 - ⭐ Locales, de saison. Saines, produites à moins de 250 km et réduisant le gaspillage.
 - ❤ Sélectionnées avec amour. Favorisant un bon équilibre physique, psychologique et social.
 
-{{< figure src="local-seasonal/menuday.jpg" caption="Des idées de soupes, pour toutes les saisons.">}}
+{{< figure src="assos/local-seasonal-menu.jpg" caption="Des idées de soupes, pour toutes les saisons.">}}
 
 ### Ateliers ludiques et tutoriels
 
 Organisation d'activitiés ludiques, artistiques et éducatives, par exemple d'extraction de pigments/parfums naturels ou d'[ecopainting](https://www.behance.net/gallery/104451387/Palette-di-Stagione).
 
-{{< figure src="local-seasonal/workshop.jpg" caption="Confection de pots recyclés pour cultiver chez soi.">}}
+{{< figure src="assos/local-seasonal-workshop.jpg" caption="Confection de pots recyclés pour cultiver chez soi.">}}
 
 ## Nous soutenir
 
