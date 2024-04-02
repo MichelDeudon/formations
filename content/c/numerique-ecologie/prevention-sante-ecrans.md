@@ -32,7 +32,14 @@ Vers une évolution de la loi et des méthodes de prévention
 
 ## Filtres et écrans, quels notions sémantiques et enjeux?
 
+{{< figure src="numeco/smartphones.jpg" caption="Photo by Ketut Subiyanto on [Pexels](https://www.pexels.com/photo/multiethnic-family-spending-time-together-on-couch-with-gadgets-4545968/).">}}
+
+D'après le Larousse, un filtre est un dispositif destiné à favoriser ou à entraver le passage et un écran ce qui s'interpose, s'intercale et dissimule. Ces définitions nous amène à avoir des comportements différents lorsque nous sommes ou non sur nos téléphones, ordinateurs et tablettes, notamment notre manière d'interagir et de communiquer est modifiée.
+
 ## Vers une évolution de la loi
+
+De la loi Informatique et Libertés (1978) au RGPD (2018), du rapport Villani (2018) au European AI Act (2022), la loi et les missions des régulateurs (CNIL, ARCEP) évoluent.
+Une loi de 2018 porte sur la [lutte contre la manipulation de l’information](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037847559) sur et une loi de 2021 sur la [lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043956924).
 
 ## Des pratiques pédagogiques et méthodes préventives
 
@@ -58,9 +65,12 @@ Cette formation, sous forme d'atelier collaboratif et interactif, est construite
 
 👉 Voir notre extrait de propositions de l'atelier {{% staticref "u/Temoignages-reseaux-sociaux-Montpellier-juin-2023.pdf" %}}Les Jeunes et les Réseaux Sociaux{{% /staticref %}}, réalisé en juin 2023 avec l’association [Générations Solidaires et Citoyennes](https://www.jeveuxaider.gouv.fr/organisations/4859-generations-solidaires-et-citoyennes) et le Centre Social CAF de la Paillade - [l’île aux familles](https://www.cultureetsportsolidaires34.fr/Partenaires/_Centre-Social-CAF-Paillade-l-ile-aux-familles), dans le cadre du programme [Cités éducatives](https://www.citeseducatives.fr/).
 
+{{< figure src="numeco/les-jeunes-et-les-reseaux-sociaux.png" caption="Partenaires associatifs et institutionnels. Le programme des [Cités éducatives](https://www.citeseducatives.fr/) vise à renforcer l'accompagnement des jeunes et enfants de 3 ans à 25 ans, pendant le temps scolaire, périscolaire et extrascolaire, en lien avec les familles. L'académie de Montpellier compte 7 cités éducatives, à Nîmes, Montpellier, Perpignan, Béziers, Sète, Lézignan-Corbières, Lunel, et concerne 33 000 élèves.">}}
+
 👉 Voir notre résumé pour la formation {{% staticref "u/Prendre-soin-de-la-relation-pedagogique.pdf" %}}Prendre soin de la relation pédagogique{{% /staticref %}}, à l'université Paul Valéry, en juin 2023.
 
 Par l’éducation: Plus de sorties, du sport…
+Un jeune sur deux propose plus de sorties et sport →  [Sorties avec Morgann pendant l’été](https://www.mtpcours.fr/c/assos/lutte-contre-les-exclusions/) et [projet de roller dance](https://www.mtpcours.fr/p/roller-dance-montpellier/).
 
 {{< callout note >}}
 Voir aussi <a href="https://www.mtpcours.fr/p/roller-dance-montpellier/">Une équipe de roller dance à La Mosson</a>, Montpellier.
