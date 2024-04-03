@@ -39,7 +39,8 @@ D'après le Larousse, un filtre est un dispositif destiné à favoriser ou à en
 ## Vers une évolution de la loi
 
 De la loi Informatique et Libertés (1978) au RGPD (2018), du rapport Villani (2018) au European AI Act (2022), la loi et les missions des régulateurs ([CNIL](https://www.cnil.fr/fr/mission-1-informer-proteger-les-droits), ARCEP) évoluent.
-Une loi de 2018 porte sur la [lutte contre la manipulation de l’information](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037847559). Une autre loi de 2021 sur la [lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043956924) a donné lieu à l'Affaire du Siècle et la condamnation de la France pour inaction climatique.
+
+Une loi de 2018 porte notamment sur la [lutte contre la manipulation de l’information](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037847559). Une autre loi de 2021 sur la [lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043956924) a donné lieu à l'Affaire du Siècle et la condamnation de la France pour inaction climatique...
 
 ## Ateliers Préventifs sur les Réseaux Sociaux
 
@@ -48,8 +49,7 @@ Une loi de 2018 porte sur la [lutte contre la manipulation de l’information](h
 La formation proposée permet aux jeunes et à leur entourage de découvrir des méthodes de débat, d'écoute attentive et d'intelligence collective pour lutter contre les inégalités sociales, les discriminations et les violences en ligne. 
 
 Développées à Montpellier avec et pour des collégien.nes, lycéen.nes, parents d'élèves, professionnel.les de la santé, de la solidarité et de l'éducation nationale, elles ne supposent pas de prérequis.
-
-Cette formation, sous forme d'atelier collaboratif et interactif, est construite autour de 3 temps.
+La formation, sous forme d'atelier collaboratif et interactif, est construite autour de 3 temps.
 
 1. Temps d'introduction.
 2. Mise en pratique de la méthode 1-2-4-tous pour débattre : À quels besoins les réseaux sociaux répondent-ils? Comment me font-ils sentir? Quelles alternatives et solutions concrètes?
@@ -57,12 +57,12 @@ Cette formation, sous forme d'atelier collaboratif et interactif, est construite
 
 {{< figure src="numeco/les-jeunes-et-les-reseaux-sociaux.png" caption="Partenaires associatifs et institutionnels. Le programme des [Cités éducatives](https://www.citeseducatives.fr/) vise à renforcer l'accompagnement des jeunes et enfants de 3 ans à 25 ans, pendant le temps scolaire, périscolaire et extrascolaire, en lien avec les familles. L'académie de Montpellier compte 7 cités éducatives, à Nîmes, Montpellier, Perpignan, Béziers, Sète, Lézignan-Corbières, Lunel, et concerne 33 000 élèves.">}}
 
-👉 Voir notre extrait de propositions de l'atelier {{% staticref "u/Temoignages-reseaux-sociaux-Montpellier-juin-2023.pdf" %}}Les Jeunes et les Réseaux Sociaux{{% /staticref %}}, réalisé en juin 2023 avec l’association [Générations Solidaires et Citoyennes](https://www.jeveuxaider.gouv.fr/organisations/4859-generations-solidaires-et-citoyennes) et le Centre Social CAF de la Paillade - [l’île aux familles](https://www.cultureetsportsolidaires34.fr/Partenaires/_Centre-Social-CAF-Paillade-l-ile-aux-familles), dans le cadre du programme [Cités éducatives](https://www.citeseducatives.fr/).
+👉 Voir notre {{% staticref "u/Temoignages-reseaux-sociaux-Montpellier-juin-2023.pdf" %}}extrait de propositions de l'atelier{{% /staticref %}}, réalisé en juin 2023 avec l’association [Générations Solidaires et Citoyennes](https://www.jeveuxaider.gouv.fr/organisations/4859-generations-solidaires-et-citoyennes) et le Centre Social CAF de la Paillade, dans le cadre du programme [Cités éducatives](https://www.citeseducatives.fr/).
 
 👉 Voir notre résumé pour la formation {{% staticref "u/Prendre-soin-de-la-relation-pedagogique.pdf" %}}Prendre soin de la relation pédagogique{{% /staticref %}}, à l'université Paul Valéry, en juin 2023.
 
-Prévention par l’éducation: Plus de sorties, du sport…
-Un jeune sur deux propose plus de sorties et de sport →  [Sorties avec Morgann pendant l’été](https://www.mtpcours.fr/c/assos/lutte-contre-les-exclusions/) et [projet de roller dance](https://www.mtpcours.fr/p/roller-dance-montpellier/).
+Prévention par l’éducation: 
+Un jeune sur deux propose plus de sorties, du sport... →  [Sorties avec Morgann pendant l’été](https://www.mtpcours.fr/c/assos/lutte-contre-les-exclusions/).
 
 {{< callout note >}}
 Voir aussi <a href="https://www.mtpcours.fr/p/roller-dance-montpellier/">Une équipe de roller dance à La Mosson</a>, Montpellier.
@@ -92,7 +92,9 @@ Pour les salariés (public ou privé), le [médecin du Travail](https://www.univ
 
 ## Références
 
-> Mediapart. [Écrans et santé : il est urgent d'agir !](https://blogs.mediapart.fr/emmanuel-prados/blog/020323/ecrans-et-sante-il-est-urgent-d-agir) 2 mars 2023.
+> Courrier International. [Éducation. Après avoir misé sur le numérique à l’école, les pays scandinaves font machine arrière.](https://www.courrierinternational.com/article/education-apres-avoir-mise-sur-le-numerique-a-l-ecole-les-pays-scandinaves-font-machine-arriere), mars 2024.
+
+> Mediapart. [Écrans et santé : il est urgent d'agir !](https://blogs.mediapart.fr/emmanuel-prados/blog/020323/ecrans-et-sante-il-est-urgent-d-agir), mars 2023.
 
 > Servane Mouton. Humanité et numérique - Les liaisons dangereuses. 2023.
 

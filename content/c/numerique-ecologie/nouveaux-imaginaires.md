@@ -36,6 +36,12 @@ Comprendre leurs origines et sortir du paradigme diviser pour mieux régner
 
 Alain Damasio, auteur de science fiction, témoigne également sur les réseaux sociaux, dans un interview pour le média indépendant Blast, le 12 mai 2023, intitulé [Comment vivre et lutter face au capitalisme de surveillance ?](https://www.blast-info.fr/emissions/2023/comment-vivre-et-lutter-face-au-capitalisme-de-surveillance-n6ikLh60SOONUvL90mXXTg) Il y explique comment sa vision a évolué avec le temps, et le rôle des artistes, de la culture, et des nouveaux imaginaires.
 
+{{< figure src="numeco/incendies.png" caption="La dématérialisation, un mythe? Voir aussi Florence Rodhain. La nouvelle religion du numérique: le numérique est-il écologique?  Éditions EMS, 2019.">}}
+
 ## Portraits de désert'heureuses
 
+{{< figure src="numeco/desertheureuse.png" caption="Portrait de Maxime Radmacher, exemple de [desertheureuse](https://desertheureuses.noblogs.org/).">}}
+
 ## Récits de la transition écologique et sociétale
+
+{{< figure src="numeco/recits-francoise-berthoud.png" caption="Françoise Berthoud est co-fondatrice du GDS [éco-info](https://ecoinfo.cnrs.fr/le-gds-ecoinfo/) et du MOOC [Impacts environnementaux du numérique](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/) de l'INRIA.">}}

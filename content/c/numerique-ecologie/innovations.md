@@ -35,14 +35,12 @@ Pour un numérique responsable
 
 ## Collectifs et Associations
 
+Flavi, la start-up montpelliéraine qui réinvente l'aide à domicile - midilibre.fr avec Eva MURINGER, entrepreneuse incubée au BIC de Montpellier.
+
+## Collectifs et Associations
+
 - [Lève les yeux !](https://www.levelesyeux.com/) promeut la déconnexion pour mieux préserver l'attention humaine, ressource rare et précieuse.
 
 - [Framasoft](https://framasoft.org/fr/) propose des alternatives aux GAFAM.
 
 - [La Base](https://labasemontpellier.org/) propose des [Ateliers d'autodéfense numérique](https://www.aleale.org/event/atelier-dautodefense-numerique-1).
-
-## Pouvoir de la narration, de la science fiction…
-
-## Portraits de désert'heureuses
-
-## Récits de la transition écologique et sociétale
