@@ -33,9 +33,9 @@ Pour un numérique responsable
 
 <!--more-->
 
-## Collectifs et Associations
+## Economie Sociale et Solidaire (ESS)
 
-Flavi, la start-up montpelliéraine qui réinvente l'aide à domicile - midilibre.fr avec Eva MURINGER, entrepreneuse incubée au BIC de Montpellier.
+<b>Flavi</b>, la start-up montpelliéraine qui réinvente l'aide à domicile - midilibre.fr avec Eva MURINGER, entrepreneuse incubée au BIC de Montpellier.
 
 ## Collectifs et Associations
 

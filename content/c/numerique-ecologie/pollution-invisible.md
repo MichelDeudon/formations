@@ -33,10 +33,10 @@ Impacts environnementaux, sanitaires et sociaux.
 
 {{< figure src="numeco/impacts.png" caption="Illustration des impacts environnementaux, sanitaires et sociaux du numérique.">}}
 
-Le numérique a indéniablement des impacts environnementaux, mais aussi des impacts sanitaires et sociaux, invisibles au premier regard. 
-Les impacts environnementaux sont liés à la production des équipements, infrastructures et à leurs usages. Ils sont bien documentés par l'ADEME et The Shift Project.
-Les impacts sanitaires sont liés à la sédentarité, à l'isolement, au stress, à des émotions négatives mais aussi au troubles moteurs, troubles du langage et de l'attention chez les enfants.
-Les impacts sociaux sont eux liés à la transformation de nos modes de vie et de travail.
+Le numérique a des impacts environnementaux, mais aussi des impacts sanitaires et sociaux, invisibles au premier regard. 
+Les <b>impacts environnementaux</b> sont liés à la production des équipements, infrastructures et à leurs usages. Ils sont bien documentés par l'ADEME et The Shift Project.
+Les <b>impacts sanitaires</b> sont liés à la sédentarité, à l'isolement, au stress, à des émotions négatives mais aussi au troubles moteurs, troubles du langage et de l'attention chez les enfants.
+Les <b>impacts sociaux</b> sont eux liés à la transformation de nos modes de vie et de travail.
 
 ### Impacts environnementaux
 
@@ -56,7 +56,7 @@ Selon l’observatoire de Cambridge, le Bitcoin = 10% de la consommation totale 
 
 {{< figure src="numeco/flux-donnees-Shift.png" caption="Evolution des flux de données. Visio, voitures autonomes, vidéosurveillance, téléchirurgie… cloud gaming, streaming ultra HD. Quels sont les nouveaux usages pertinents? Source: The Shift Project. [Impact environnemental du numérique: tendances à 5 ans et gouvernance de la 5G](https://theshiftproject.org/wp-content/uploads/2021/03/Note-danalyse_Numerique-et-5G_30-mars-2021.pdf)">}}
 
-Pourtant, d'autres scénarios sont envisageable pour 2030 et 2050, avec davantage de reconditionnement, réparation, sensibilisation et sobriété.
+Pourtant, d'autres scénarios sont envisageable pour 2030 et 2050, avec davantage de <b>reconditionnement, réparation, sensibilisation et sobriété</b>.
 
 > Scénario Génération frugale 2050: « Des transformations importantes dans les façons de se déplacer, de se chauffer, de s’alimenter, d’acheter et d’utiliser des équipements, permettent d’atteindre la neutralité carbone sans impliquer de technologies de captage et stockage. ». [presse.ademe.fr/2023/03/impact-environnemental-du-numerique-en-2030-et-2050-lademe-et-larcep-publient-une-evaluation-prospective.html](https://presse.ademe.fr/2023/03/impact-environnemental-du-numerique-en-2030-et-2050-lademe-et-larcep-publient-une-evaluation-prospective.html)
 

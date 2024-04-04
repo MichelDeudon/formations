@@ -34,7 +34,7 @@ Vers une évolution de la loi et des méthodes de prévention
 
 {{< figure src="numeco/smartphones.jpg" caption="Photo by Ketut Subiyanto on [Pexels](https://www.pexels.com/photo/multiethnic-family-spending-time-together-on-couch-with-gadgets-4545968/).">}}
 
-D'après le Larousse, un filtre est un dispositif destiné à favoriser ou à entraver le passage et un écran ce qui s'interpose, s'intercale et dissimule. Ces définitions nous amène à avoir des comportements différents lorsque nous sommes ou non sur nos téléphones, ordinateurs et tablettes, notamment notre manière d'interagir et de communiquer est modifiée.
+D'après le Larousse, un <b>filtre</b> est un dispositif destiné à favoriser ou à entraver le passage et un <b>écran</b> ce qui s'interpose, s'intercale et dissimule. Ces définitions nous amène à avoir des comportements différents lorsque nous sommes ou non sur nos téléphones, ordinateurs et tablettes, notamment notre manière d'interagir et de communiquer est modifiée.
 
 ## Vers une évolution de la loi
 

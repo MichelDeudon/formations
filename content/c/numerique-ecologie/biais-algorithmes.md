@@ -36,13 +36,13 @@ Comprendre leurs origines et sortir du paradigme diviser pour mieux régner
 
 {{< figure src="numeco/biais-cognitifs.png" caption="Illustration de biais cognitifs.">}}
 
-Les biais de sélection et biais de confirmation sont fréquents dans les sondages et sur les réseaux sociaux.
+Les <b>biais de sélection</b> et <b>biais de confirmation</b> sont fréquents dans les sondages et sur les réseaux sociaux.
 
 Parmi les autres biais fréquents, on peut citer
-* Aversion pour les pertes : Les humains surévaluent ce qu’ils possèdent. La dissymétrie entre les gains et les pertes entraîne une réticence au changement. 
-* Refus du Hasard : Assure le succès des théories complotistes (coïncidences expliquées).
-* Illusion du choix : L’adhérence est renforcée chez les sujets qui pensent qu’ils ont eu le choix.
-* Surconfiance et illusion de contrôle, fréquent chez les experts (Dunning Kruger effect, 2011)
+* <b>Aversion pour les pertes</b> : Les humains surévaluent ce qu’ils possèdent. La dissymétrie entre les gains et les pertes entraîne une réticence au changement. 
+* <b>Refus du Hasard</b> : Assure le succès des théories complotistes (coïncidences expliquées).
+* <b>Illusion du choix</b> : L’adhérence est renforcée chez les sujets qui pensent qu’ils ont eu le choix.
+* <b>Surconfiance et illusion de contrôle</b>, fréquent chez les experts (Dunning Kruger effect, 2011)
 
 Le découplage entre la reconnaissance et l’action laisse le temps à la réflexion en inhibant la réaction instantanée (Houdé, 2014). La décision est un compromis. Voir le test du Marshmallow. 
 
