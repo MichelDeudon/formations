@@ -35,7 +35,10 @@ Pour un numérique responsable
 
 <!--more-->
 
-## 3 actions concrètes
+## Publication de récits de la transition
 
-## Projet en binôme / trinôme
+Ce projet consiste à réaliser un ou plusieurs entretiens, en vue de réaliser un article ou podcast. 
 
+## Co-animation d’ateliers participatifs et préventifs
+
+Ce projet consiste à co-animer un ou plusieurs ateliers de prévention santé-écran sur le campus ou dans une Maison pour tous. 
