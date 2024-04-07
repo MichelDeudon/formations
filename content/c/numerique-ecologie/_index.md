@@ -34,6 +34,10 @@ Le numérique est-il un levier pour la transition écologique ou le talon d’Ac
 
 À travers ce cours, les étudiants pourront interroger le rôle du numérique dans le bien vivre ensemble, ses liens avec l'environnement et la société, la notion de pollution invisible, de filtres, d’écrans, les enjeux auxquels ces notions renvoient ainsi que des solutions concrètes à portée de main, pour mieux vivre ensemble. Nous apprendrons à faire preuve de discernement face aux discours techno-solutionnistes, à reconnaître les techniques courantes de greenwashing, à déconstruire les mythes sur la dématérialisation et le tout électrique. Nous discuterons des rouages des algorithmes et de nos biais cognitifs pour nous aider à recentrer notre attention. Enfin, nous verrons des exemples et usages positifs du numérique, développés par des professeurs et alumnis de l’Université Paul-Valéry. Nous nous intéresserons au rôle des artistes et au pouvoir des mots pour imaginer d’autres futurs.
 
+{{< icon name="clock" pack="fas" >}} <b>Durée</b> : 6 heures. <br>
+{{< icon name="spell-check" pack="fas" >}} <b>Thèmes</b> : Numérique, Société, Environnement. <br>
+{{< icon name="hands-asl-interpreting" pack="fas" >}} <b>Public</b> (recommandé): Etudiants en Lettres, Langues, Arts ou Sciences Humaines et Sociales
+
 ## Chapitres
 
 Le numérique, talon d'Achille ou levier de la transition écologique ? 

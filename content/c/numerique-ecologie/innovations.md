@@ -5,13 +5,15 @@ type: book
 weight: 60
 highlight: true
 tags:
-  - Pouvoir des récits
+  - Innovations
   - Récits de la transition
+  - Economie Sociale et Solidaire
+  - Sciences participatives
+  - Communication douce
+  - Creative Commons
   - Imaginaires
   - Société
   - Environnement
-  - Sensibilisation
-  - Innovations
 ---
 
 Pour un numérique responsable.

@@ -52,25 +52,11 @@ La formation, sous forme d'atelier collaboratif et interactif, est construite au
 
 👉 Voir notre {{% staticref "u/Temoignages-reseaux-sociaux-Montpellier-juin-2023.pdf" %}}extrait de propositions de l'atelier{{% /staticref %}}, réalisé en juin 2023 avec l’association [Générations Solidaires et Citoyennes](https://www.jeveuxaider.gouv.fr/organisations/4859-generations-solidaires-et-citoyennes) et le Centre Social CAF de la Paillade, dans le cadre du programme [Cités éducatives](https://www.citeseducatives.fr/).
 
-Prévention par l’éducation: 
-Un jeune sur deux propose plus de sorties, du sport... →  [Sorties avec Morgann pendant l’été](https://www.mtpcours.fr/c/assos/lutte-contre-les-exclusions/).
+Un jeune sur deux propose plus de sorties, du sport... →  Prévention / [Sorties avec Morgann pendant l’été](https://www.mtpcours.fr/c/assos/lutte-contre-les-exclusions/).
 
 {{< callout note >}}
 Voir aussi <a href="https://www.mtpcours.fr/p/roller-dance-montpellier/">Une équipe de roller dance à La Mosson</a>, Montpellier.
 {{< /callout >}}
-
-## Co-animation d’ateliers participatifs
-
-Public recommandé: Etudiants en Lettres, Langues, Arts ou Sciences Humaines et Sociales
-
-Ce projet de sciences participatives consiste à co-animer un ou plusieurs ateliers de prévention santé-écran sur le campus de l'université ou dans une Maison pour tous. 
-
-Vous pouvez enquêter auprès des étudiants sur le campus, le personnel de l’université, des personnes à l’extérieur. 
-Vous pouvez partager les résultats de votre enquête sous diverses formes et être à l’initiative d’un [défi solidaire de déconnexion](https://www.levelesyeux.com/les-actions/les-ateliers/le-defi-deconnexion/).
-
-Exemple: [Témoignages sur les réseaux sociaux | Mai 2023](https://www.mtpcours.fr/u/Temoignages-reseaux-sociaux-Montpellier-mai-2023.pdf).
-
-Ce projet est l’occasion de vous confronter au terrain, de développer vos compétences en animation et sensibiliser le public de votre choix au Bien Vivre Ensemble. C’est aussi l’occasion d’explorer des méthodes agiles et d’intelligence collective.
 
 ## Bon plans locaux et soutien
 

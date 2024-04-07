@@ -7,16 +7,16 @@ highlight: true
 tags:
   - Biais
   - Stéréotypes
-  - Media
   - Réseaux Sociaux
-  - Algorithme
   - Intelligence Artificielle
+  - Green Washing
+  - Conflits d'Interets
+  - Desinformation
   - Société
   - Environnement
+  - Économie de l'attention
   - Sensibilisation
   - Conseils Pratiques
-  - Publicité
-  - Économie de l'attention
   - Débats
 ---
 

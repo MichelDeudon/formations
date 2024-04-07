@@ -9,6 +9,8 @@ tags:
   - Récits de la transition
   - Nouveaux Imaginaires
   - Entraide
+  - Solidarité
+  - Sens
   - Actions
   - Innovations
   - Société
