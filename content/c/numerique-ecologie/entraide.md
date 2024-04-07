@@ -71,6 +71,14 @@ Exemple de questions pour amorcer / relancer la discussion <br>
 - Comment envisages-tu xxx (l’engagement citoyen, l’action collective...)?
 - Quels livres/films/musiques aimes tu? Pourquoi?
 
+### Conseils pour réaliser un entretien
+
+1. <b>Mettre la personne à l’aise</b>. L'accueillir, annoncer le thème, l’objectif, le plan et obtenir son accord.
+2. <b>Privilégier des questions ouvertes</b>. Préparer 2-3 questions pour amorcer / relancer la discussion.
+3. <b>Respecter les silences</b>. Laisser le temps de souffler, de réfléchir, de revenir sur ses propos…
+4. <b>Construire un dialogue</b>. Rebondir sur ce qui a été dit sans assommer de questions.
+5. <b>Remercier la personne</b>. Pour l'entretien, son engagement, etc. Donner envie de revenir.
+
 ## Co-animation d’ateliers participatifs et préventifs
 
 Public recommandé: Etudiants en Lettres, Langues, Arts ou Sciences Humaines et Sociales
