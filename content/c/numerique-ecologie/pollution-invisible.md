@@ -35,6 +35,8 @@ Les <b>impacts environnementaux</b> sont liés à la production des équipements
 Les <b>impacts sanitaires</b> sont liés à la sédentarité, à l'isolement, au stress, à des émotions négatives mais aussi au troubles moteurs, troubles du langage et de l'attention chez les enfants.
 Les <b>impacts sociaux</b> sont eux liés à la transformation de nos modes de vie et de travail.
 
+{{< youtube 6E9cYHJG5UM>}}
+
 ### Impacts environnementaux
 
 Infographie de l'ADEME (2022): [infos.ademe.fr/magazine-avril-2022/faits-et-chiffres/numerique-quel-impact-environnemental/](https://infos.ademe.fr/magazine-avril-2022/faits-et-chiffres/numerique-quel-impact-environnemental/)
@@ -42,6 +44,8 @@ Infographie de l'ADEME (2022): [infos.ademe.fr/magazine-avril-2022/faits-et-chif
 {{< figure src="numeco/infographie-Ademe.png" caption="Infographie de l'ADEME (2022). Source: [infos.ademe.fr](https://infos.ademe.fr/magazine-avril-2022/faits-et-chiffres/numerique-quel-impact-environnemental/).">}}
 
 Outil de calcul des usages du numérique: [agirpourlatransition.ademe.fr/particuliers/bureau/numerique/calculez-lempreinte-carbone-usages-numeriques](https://agirpourlatransition.ademe.fr/particuliers/bureau/numerique/calculez-lempreinte-carbone-usages-numeriques)
+
+[La Fresque du Numérique](https://www.fresquedunumerique.org/), un atelier pour comprendre en équipe et de manière ludique les enjeux environnementaux du numérique.
 
 Ressources de l'université Paul Valéry [Pour un numérique responsable](https://www.univ-montp3.fr/fr/vie-de-campus/campus-num%C3%A9rique/un-numerique-responsable).
 

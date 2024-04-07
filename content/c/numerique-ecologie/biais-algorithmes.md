@@ -42,6 +42,8 @@ Le découplage entre la reconnaissance et l’action laisse le temps à la réfl
 
 {{< figure src="numeco/llama-bias.png" caption="Exemple de biais de genre des modèles LLaMA, concurrent de ChatGPT. Source: [LLaMA: Open and efficient foundation language models. Arxiv, 2023.](https://arxiv.org/abs/2302.13971) (Annexe).">}}
 
+Pour aller plus loin: [ETHIQUE ET NUMÉRIQUE : RESPONSABILITÉ SOCIÉTALE, ENVIRONNEMENTALE](https://aim2024.sciencesconf.org/resource/page/id/29), AIM 2024 : 29ème conférence de l'AIM.
+
 ## Sortir du paradigme “diviser pour mieux régner”
 
 {{< figure src="numeco/twitter-climate-cnrs.png" caption="Source: [https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox](https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox). Voir aussi [Désinformation : la Commission européenne suspend toutes ses publicités sur le réseau social X](https://www.lemonde.fr/pixels/article/2023/11/17/desinformation-la-commission-europeenne-suspend-toutes-ses-publicites-sur-le-reseau-social-x_6200746_4408996.html), Le Monde, nov 2023.">}}
