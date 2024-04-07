@@ -42,28 +42,22 @@ Infographie de l'ADEME (2022): [infos.ademe.fr/magazine-avril-2022/faits-et-chif
 
 {{< figure src="numeco/infographie-Ademe.png" caption="Infographie de l'ADEME (2022). Source: [infos.ademe.fr](https://infos.ademe.fr/magazine-avril-2022/faits-et-chiffres/numerique-quel-impact-environnemental/).">}}
 
-Outil de calcul des usages du numérique: [agirpourlatransition.ademe.fr/particuliers/bureau/numerique/calculez-lempreinte-carbone-usages-numeriques](https://agirpourlatransition.ademe.fr/particuliers/bureau/numerique/calculez-lempreinte-carbone-usages-numeriques)
+La notion de <b>sac à dos écologique</b> fait référence au fait qu'il fait 500 fois le poids d'un smartphone en matière première pour le fabriquer (exemple: taux d'extraction du Cuivre 0.3 à 2%, pour le Lithium de 0.05% à 0.15%, etc).
 
-{{< figure src="numeco/mendeleiv.png" caption="Elements présents dans les smartphones en 2021, par composants. La fabrication des composants repose sur l'extraction de mines, responsables de conflits et de pollution. La notion de sac à dos écologique fait référence au fait qu'il fait 500 fois le poids d'un smartphone en matière première pour le fabriquer (exemple: taux d'extraction du Cuivre 0.3 à 2%, pour le Lithium de 0.05% à 0.15%, etc.">}}
+{{< figure src="numeco/mendeleiv.png" caption="Elements présents dans les smartphones en 2021, par composants. La fabrication des composants repose sur l'extraction de mines, responsables de conflits et de pollution.">}}
 
-[La Fresque du Numérique](https://www.fresquedunumerique.org/), un atelier pour comprendre en équipe et de manière ludique les enjeux environnementaux du numérique.
-
-[Le Mooc INRIA/Class Code](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/), accessible à partir du lycée.
-
-Ressources de l'université Paul Valéry [Pour un numérique responsable](https://www.univ-montp3.fr/fr/vie-de-campus/campus-num%C3%A9rique/un-numerique-responsable).
-
-On peut retenir le chiffre de 10% pour la consommation éléctrique annuelle des services numériques en 2022 mais aussi c'est aussi l'évolution de ce chiffre et la tendance (croissance exponentielle des flux de données, +3% à +6% dans les émissions de GES mondiales) que nous sommes invités à interroger (En France, plus de 12 équipements en moyenne par habitant, en forte augmentation).
-The Shift Project a publié une étude en mars 2021 à ce sujet: [Impact environnemental du numérique: tendances à 5 ans et gouvernance de la 5G](https://theshiftproject.org/wp-content/uploads/2021/03/Note-danalyse_Numerique-et-5G_30-mars-2021.pdf). Le rapport cite une étude de Techradar en 2015 selon laquelle une question se pose quant à la capacité même d’assurer une production industrielle suffisante. Indirectement, le numérique accélére la consommation/production et les flux de matières et d'énergie.
+On peut retenir le chiffre de 10% pour la consommation éléctrique annuelle des services numériques en 2022 mais c'est aussi l'évolution de ce chiffre et la tendance (croissance exponentielle des flux de données, +3% à +6% dans les émissions de GES mondiales) que nous sommes invités à interroger (en France, plus de 12 équipements en moyenne par habitant, en forte augmentation).
+The Shift Project a publié une étude en mars 2021 à ce sujet: [Impact environnemental du numérique: tendances à 5 ans et gouvernance de la 5G](https://theshiftproject.org/wp-content/uploads/2021/03/Note-danalyse_Numerique-et-5G_30-mars-2021.pdf). Le rapport cite une étude de Techradar selon laquelle une question se pose quant à la capacité même d’assurer une production industrielle suffisante. Indirectement, le numérique accélére la consommation/production et les flux de matières et d'énergie.
 
 {{< figure src="numeco/usages-infra-Shift.png" caption="Impacts environnementaux du numérique et facteurs de croissance. Source: The Shift Project. [Impact environnemental du numérique: tendances à 5 ans et gouvernance de la 5G](https://theshiftproject.org/wp-content/uploads/2021/03/Note-danalyse_Numerique-et-5G_30-mars-2021.pdf)">}}
+
+{{< figure src="numeco/flux-donnees-Shift.png" caption="Evolution des flux de données. Visio, voitures autonomes, vidéosurveillance, téléchirurgie… cloud gaming, streaming ultra HD. Quels sont les nouveaux usages pertinents? Source: The Shift Project. [Impact environnemental du numérique: tendances à 5 ans et gouvernance de la 5G](https://theshiftproject.org/wp-content/uploads/2021/03/Note-danalyse_Numerique-et-5G_30-mars-2021.pdf)">}}
 
 Selon l’observatoire de Cambridge, le Bitcoin = 10% de la consommation totale des data centers en 2021 et d’après le Haut Conseil pour le Climat en 2020, la 5G = augmentation de 18 à 44 % de l’empreinte carbone du numérique à horizon 2030. L'IA a vu sa consommation explosé depuis les années 2010.
 
 {{< figure src="numeco/neural-networks-LCA.png" caption="K. Hao. [L’entraînement d’un seul modèle d’IA peut émettre autant de carbone que…](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/) MIT Tech Review, 2019.">}}
 
-{{< figure src="numeco/flux-donnees-Shift.png" caption="Evolution des flux de données. Visio, voitures autonomes, vidéosurveillance, téléchirurgie… cloud gaming, streaming ultra HD. Quels sont les nouveaux usages pertinents? Source: The Shift Project. [Impact environnemental du numérique: tendances à 5 ans et gouvernance de la 5G](https://theshiftproject.org/wp-content/uploads/2021/03/Note-danalyse_Numerique-et-5G_30-mars-2021.pdf)">}}
-
-Pourtant, d'autres scénarios sont envisageable pour 2030 et 2050, avec davantage de <b>reconditionnement, réparation, sensibilisation et sobriété</b>. 
+Pourtant, d'autres scénarios sont envisageable pour 2030 et 2050, avec davantage de <b>réparation, reconditionnement, sensibilisation et sobriété</b>. 
 
 La <b>sobriété numérique</b> désigne les efforts faits afin de chercher la modération dans nos productions et nos usages numériques. Concrètement, il s’agit de chercher à réduire volontairement à la fois la quantité d’équipements numériques, leurs usages ainsi que les ressources qu’ils consomment, dans le but de répondre à nos besoins sans dégrader les conditions écologiques de la planète. Source: [Youmatter](https://youmatter.world/fr/definition/sobriete-numerique-definition).
 
@@ -71,9 +65,10 @@ La <b>sobriété numérique</b> désigne les efforts faits afin de chercher la m
 
 {{< figure src="numeco/generation-frugal-ADEME.png" caption="Scénario Génération frugale de l'ADEME. Source: [presse.ademe.fr](https://presse.ademe.fr/2023/03/impact-environnemental-du-numerique-en-2030-et-2050-lademe-et-larcep-publient-une-evaluation-prospective.html).">}}
 
-Pour aller plus loin: [Sobriété Numérique : pourquoi, pourquoi pas et comment ?](https://atecopolmtp.hypotheses.org/352), séminaire Atecopol Montpellier avec Françoise Berthoud, Ingénieure de Recherche CNRS, le 14 mars 2024. Lien vers le [diaporama de la présentation](https://atecopolmtp.hypotheses.org/files/2024/03/Sobriete-Numerique-atecopol-montpellier-mars-2024.pdf).
-
-Voir aussi [L'OMS lance un cri d'alerte : la forte hausse du volume des déchets électroniques met en danger la santé de millions d’enfants](https://www.who.int/fr/news/item/15-06-2021-soaring-e-waste-affects-the-health-of-millions-of-children-who-warns), Organisation Mondiale de la Santé, juin 2021.
+Pour aller plus loin: 
+- [Le Mooc INRIA/Class Code](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/), accessible à partir du lycée.
+- [La Fresque du Numérique](https://www.fresquedunumerique.org/), un atelier pour comprendre en équipe et de manière ludique les enjeux environnementaux du numérique.
+- Ressources de l'université Paul Valéry [Pour un numérique responsable](https://www.univ-montp3.fr/fr/vie-de-campus/campus-num%C3%A9rique/un-numerique-responsable).
 
 ### Impacts sanitaires et sociaux
 
@@ -85,10 +80,21 @@ On est saturé d'information (on parle d'économie de l'attention) de peur d'en 
 
 {{< figure src="numeco/paulva_levetoi.png" caption="Je vis mes partiels sereinement. Partie I et II. [@paulva_levetoi](https://www.instagram.com/paulva_levetoi/), en mai 2023.">}}
 
-👉 Voir notre recueil de 32 témoignages {{% staticref "u/Temoignages-reseaux-sociaux-Montpellier-mai-2023.pdf" %}}Réseaux sociaux, Attention et Santé{{% /staticref %}} en mai 2023. Notre questionnaire est ouvert, pour y répondre, c'est par [ici](https://framaforms.org/reseaux-sociaux-attention-et-sante-mentale-1687119437) !
+👉 Voir notre {{% staticref "u/Temoignages-reseaux-sociaux-Montpellier-mai-2023.pdf" %}}recueil de témoignages{{% /staticref %}} sur les réseaux sociaux en mai 2023. Notre questionnaire est ouvert, pour y répondre, c'est par [ici](https://framaforms.org/reseaux-sociaux-attention-et-sante-mentale-1687119437) !
 
 {{< figure src="numeco/temoignage-reseaux-sociaux.png" caption="[Témoignages sur les réseaux sociaux en mai 2023](https://www.mtpcours.fr/u/Temoignages-reseaux-sociaux-Montpellier-mai-2023.pdf).">}}
 
-Vous pouvez enquêter auprès des étudiants sur le campus, le personnel de l’université, des personnes à l’extérieur. 
-Vous pouvez partager vos résultats sous diverses formes et être à l’initiative d’un [défi solidaire de déconnexion](https://www.levelesyeux.com/les-actions/les-ateliers/le-defi-deconnexion/).
+Vous pouvez enquêter auprès d'étudiants sur le campus, du personnel de l’université, de personnes à l’extérieur, et partager vos résultats sous diverses formes.
 Ce projet de sciences participatives est l’occasion de vous confronter au terrain, de développer vos compétences en animation et sensibiliser le public de votre choix au Bien Vivre Ensemble.
+
+## Références
+
+> [Sobriété Numérique : pourquoi, pourquoi pas et comment ?](https://atecopolmtp.hypotheses.org/352), séminaire Atecopol Montpellier avec Françoise Berthoud, Ingénieure de Recherche CNRS, le 14 mars 2024. Lien vers le [diaporama de la présentation](https://atecopolmtp.hypotheses.org/files/2024/03/Sobriete-Numerique-atecopol-montpellier-mars-2024.pdf).
+
+> ADEME/ARCEP. [presse.ademe.fr/2023/03/impact-environnemental-du-numerique-en-2030-et-2050-lademe-et-larcep-publient-une-evaluation-prospective.html](https://presse.ademe.fr/2023/03/impact-environnemental-du-numerique-en-2030-et-2050-lademe-et-larcep-publient-une-evaluation-prospective.html). Mars 2023.
+
+> Infographie de l'ADEME (2022) [infos.ademe.fr/magazine-avril-2022/faits-et-chiffres/numerique-quel-impact-environnemental/](https://infos.ademe.fr/magazine-avril-2022/faits-et-chiffres/numerique-quel-impact-environnemental/) et outil de calcul des usages du numérique [agirpourlatransition.ademe.fr/particuliers/bureau/numerique/calculez-lempreinte-carbone-usages-numeriques](https://agirpourlatransition.ademe.fr/particuliers/bureau/numerique/calculez-lempreinte-carbone-usages-numeriques)
+
+> [Impact environnemental du numérique: tendances à 5 ans et gouvernance de la 5G](https://theshiftproject.org/wp-content/uploads/2021/03/Note-danalyse_Numerique-et-5G_30-mars-2021.pdf), The Shift Project, mars 2021.
+
+> K. Hao. [L’entraînement d’un seul modèle d’IA peut émettre autant de carbone que…](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/) MIT Tech Review, 2019.

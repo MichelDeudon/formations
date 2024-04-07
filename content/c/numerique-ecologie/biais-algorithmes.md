@@ -57,3 +57,11 @@ Les GAFAM creusent les inégalités sociales, et divisent pour mieux régner. Un
 Voir le [guide anti greenwashing](https://pour-un-reveil-ecologique.org/fr/les-entreprises-nous-repondent/#guide-anti-greenwashing) Pour un Réveil Écologique sur [pour-un-reveil-ecologique.org](https://pour-un-reveil-ecologique.org/fr/).
 
 {{< figure src="numeco/pour-un-reveil-eco.jpg" caption="Source image: [Pour un Réveil Écologique](https://pour-un-reveil-ecologique.org/fr/)">}}
+
+## Références
+
+> Dunning, David. "The Dunning–Kruger effect: On being ignorant of one's own ignorance." Advances in experimental social psychology. Vol. 44. Academic Press, 2011. 247-296.
+
+> [Internet, l’autoroute de la désinformation ?](https://lejournal.cnrs.fr/articles/internet-lautoroute-de-la-desinformation) CNRS, juin 2022.
+
+> [Guide anti greenwashing](https://pour-un-reveil-ecologique.org/fr/les-entreprises-nous-repondent/#guide-anti-greenwashing). Pour un Réveil Écologique, 2018.
