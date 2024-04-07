@@ -12,10 +12,10 @@ tags:
   - Réseaux Sociaux
   - Intelligence Artificielle
   - Economie
-  - Genre
   - Innovation
   - Société
   - Environnement
+  - Genre
   - Imaginaires
 ---
 
@@ -74,6 +74,4 @@ En 2023, Microsoft investit dans OpenAI (ChatGPT) et l’année marque un record
 
 > Après avoir beaucoup misé sur le numérique à l’école, les autorités de la région estiment désormais que cette voie n’est pas bonne pour les élèves. À l’origine de ce revirement, les mises en garde de neurologues et de pédiatres contre l’introduction trop précoce des outils numériques à l’école. - Courrier International. [Éducation. Après avoir misé sur le numérique à l’école, les pays scandinaves font machine arrière.](https://www.courrierinternational.com/article/education-apres-avoir-mise-sur-le-numerique-a-l-ecole-les-pays-scandinaves-font-machine-arriere) Mars 2024.
 
-Par comparaison, la [levée de fonds de 105 millions d'euros de la startup Mistral.ai](https://www.maddyness.com/2023/06/13/mistral-levee-de-fonds-105-millions-artificielle-generative/) correspond au budget [Cités Éducatives](https://www.citeseducatives.fr/actualites/100-millions-deuros-dici-2022-mobilises-pour-la-reussite-des-enfants-et-des-jeunes-des-quartiers) de la France sur 3 ans. Parmi les trois cofondateurs, deux étaient chez Facebook et font partie des auteurs des [modèles LLaMA](https://arxiv.org/abs/2302.13971) concurrent de ChatGPT. D'après l'article de recherche, leurs modèles sont plus sexistes que GPT3 (OpenAI) et OPT (table 12 de l'article et analyse quantitative en Annexe).
-
-{{< figure src="numeco/llama-bias.png" caption="Exemple de biais des modèles LLaMA. Source: [LLaMA: Open and efficient foundation language models. Arxiv, 2023.](https://arxiv.org/abs/2302.13971) (Annexe).">}}
+Par comparaison, la [levée de fonds de 105 millions d'euros de la startup Mistral.ai](https://www.maddyness.com/2023/06/13/mistral-levee-de-fonds-105-millions-artificielle-generative/) correspond au budget [Cités Éducatives](https://www.citeseducatives.fr/actualites/100-millions-deuros-dici-2022-mobilises-pour-la-reussite-des-enfants-et-des-jeunes-des-quartiers) de la France sur 3 ans. 

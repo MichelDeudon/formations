@@ -5,30 +5,14 @@ type: book
 weight: 70
 highlight: true
 tags:
-  - Impacts du numérique
-  - Internet
-  - Media
-  - Réseaux Sociaux
-  - Intelligence Artificielle
-  - Santé Physique
-  - Santé Mentale
-  - Société
-  - Environnement
-  - Addiction
-  - Algorithme
-  - Biais
-  - Sensibilisation
-  - Conseils Pratiques
-  - Débats
-  - Empathie
-  - Publicité
-  - Économie de l'attention
-  - Pouvoir des récits
-  - Récits de la transition
-  - Imaginaires
-  - Innovations
   - Entraide
   - Actions
+  - Imaginaires
+  - Innovations
+  - Récits de la transition
+  - Société
+  - Environnement
+  - Pouvoir des récits
 ---
 
 Pour un numérique responsable
@@ -78,16 +62,3 @@ Exemple de questions pour amorcer / relancer la discussion <br>
 3. <b>Respecter les silences</b>. Laisser le temps de souffler, de réfléchir, de revenir sur ses propos…
 4. <b>Construire un dialogue</b>. Rebondir sur ce qui a été dit sans assommer de questions.
 5. <b>Remercier la personne</b>. Pour l'entretien, son engagement, etc. Donner envie de revenir.
-
-## Co-animation d’ateliers participatifs et préventifs
-
-Public recommandé: Etudiants en Lettres, Langues, Arts ou Sciences Humaines et Sociales
-
-Ce projet de sciences participatives consiste à co-animer un ou plusieurs ateliers de prévention santé-écran sur le campus de l'université ou dans une Maison pour tous. 
-
-Vous pouvez enquêter auprès des étudiants sur le campus, le personnel de l’université, des personnes à l’extérieur. 
-Vous pouvez partager les résultats de votre enquête sous diverses formes et être à l’initiative d’un [défi solidaire de déconnexion](https://www.levelesyeux.com/les-actions/les-ateliers/le-defi-deconnexion/).
-
-Exemple: [Témoignages sur les réseaux sociaux | Mai 2023](https://www.mtpcours.fr/u/Temoignages-reseaux-sociaux-Montpellier-mai-2023.pdf).
-
-Ce projet est l’occasion de vous confronter au terrain, de développer vos compétences en animation et sensibiliser le public de votre choix au Bien Vivre Ensemble. C’est aussi l’occasion d’explorer des méthodes agiles et d’intelligence collective.

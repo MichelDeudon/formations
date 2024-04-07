@@ -6,10 +6,11 @@ weight: 30
 highlight: true
 tags:
   - Impacts du numérique
-  - Internet
-  - Media
   - Réseaux Sociaux
   - Intelligence Artificielle
+  - Économie de l'attention
+  - Prévention Santé Écrans
+  - l'École et les Écrans
   - Santé Physique
   - Santé Mentale
   - Société
@@ -19,11 +20,6 @@ tags:
   - Conseils Pratiques
   - Débats
   - Empathie
-  - l'École et les Écrans
-  - la Santé et les Écrans
-  - Publicité
-  - Économie de l'attention
-  - Imaginaires
 ---
 
 Vers une évolution de la loi et des méthodes de prévention
@@ -67,6 +63,19 @@ Un jeune sur deux propose plus de sorties, du sport... →  [Sorties avec Morgan
 {{< callout note >}}
 Voir aussi <a href="https://www.mtpcours.fr/p/roller-dance-montpellier/">Une équipe de roller dance à La Mosson</a>, Montpellier.
 {{< /callout >}}
+
+## Co-animation d’ateliers participatifs
+
+Public recommandé: Etudiants en Lettres, Langues, Arts ou Sciences Humaines et Sociales
+
+Ce projet de sciences participatives consiste à co-animer un ou plusieurs ateliers de prévention santé-écran sur le campus de l'université ou dans une Maison pour tous. 
+
+Vous pouvez enquêter auprès des étudiants sur le campus, le personnel de l’université, des personnes à l’extérieur. 
+Vous pouvez partager les résultats de votre enquête sous diverses formes et être à l’initiative d’un [défi solidaire de déconnexion](https://www.levelesyeux.com/les-actions/les-ateliers/le-defi-deconnexion/).
+
+Exemple: [Témoignages sur les réseaux sociaux | Mai 2023](https://www.mtpcours.fr/u/Temoignages-reseaux-sociaux-Montpellier-mai-2023.pdf).
+
+Ce projet est l’occasion de vous confronter au terrain, de développer vos compétences en animation et sensibiliser le public de votre choix au Bien Vivre Ensemble. C’est aussi l’occasion d’explorer des méthodes agiles et d’intelligence collective.
 
 ## Bon plans locaux et soutien
 

@@ -6,12 +6,9 @@ weight: 20
 highlight: true
 tags:
   - Impacts du numérique
-  - Internet
-  - Media
   - Réseaux Sociaux
   - Intelligence Artificielle
   - Pollution invisible
-  - Capitalisme extractiviste
   - Santé Physique
   - Santé Mentale
   - Société
@@ -52,7 +49,9 @@ On peut retenir le chiffre de 10% pour la consommation éléctrique annuelle des
 
 {{< figure src="numeco/usages-infra-Shift.png" caption="Impacts environnementaux du numérique et facteurs de croissance. Source: The Shift Project. [Impact environnemental du numérique: tendances à 5 ans et gouvernance de la 5G](https://theshiftproject.org/wp-content/uploads/2021/03/Note-danalyse_Numerique-et-5G_30-mars-2021.pdf)">}}
 
-Selon l’observatoire de Cambridge, le Bitcoin = 10% de la consommation totale des data centers en 2021 et d’après le Haut Conseil pour le Climat en 2020, la 5G = augmentation de 18 à 44 % de l’empreinte carbone du numérique à horizon 2030.
+Selon l’observatoire de Cambridge, le Bitcoin = 10% de la consommation totale des data centers en 2021 et d’après le Haut Conseil pour le Climat en 2020, la 5G = augmentation de 18 à 44 % de l’empreinte carbone du numérique à horizon 2030. L'IA a vu sa consommation explosé depuis les années 2010.
+
+{{< figure src="numeco/neural-networks-LCA.png" caption="K. Hao. [L’entraînement d’un seul modèle d’IA peut émettre autant de carbone que…](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/) MIT Tech Review, 2019.">}}
 
 {{< figure src="numeco/flux-donnees-Shift.png" caption="Evolution des flux de données. Visio, voitures autonomes, vidéosurveillance, téléchirurgie… cloud gaming, streaming ultra HD. Quels sont les nouveaux usages pertinents? Source: The Shift Project. [Impact environnemental du numérique: tendances à 5 ans et gouvernance de la 5G](https://theshiftproject.org/wp-content/uploads/2021/03/Note-danalyse_Numerique-et-5G_30-mars-2021.pdf)">}}
 

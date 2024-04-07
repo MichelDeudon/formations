@@ -5,27 +5,19 @@ type: book
 weight: 40
 highlight: true
 tags:
-  - Impacts du numérique
-  - Internet
+  - Biais
+  - Stéréotypes
   - Media
   - Réseaux Sociaux
+  - Algorithme
   - Intelligence Artificielle
-  - Santé Physique
-  - Santé Mentale
   - Société
   - Environnement
-  - Addiction
-  - Algorithme
-  - Biais
   - Sensibilisation
   - Conseils Pratiques
-  - Débats
-  - Empathie
-  - l'École et les Écrans
-  - la Santé et les Écrans
   - Publicité
   - Économie de l'attention
-  - Imaginaires
+  - Débats
 ---
 
 Comprendre leurs origines et sortir du paradigme diviser pour mieux régner
@@ -46,20 +38,20 @@ Parmi les autres biais fréquents, on peut citer
 
 Le découplage entre la reconnaissance et l’action laisse le temps à la réflexion en inhibant la réaction instantanée (Houdé, 2014). La décision est un compromis. Voir le test du Marshmallow. 
 
+## Biais de l'IA
+
+{{< figure src="numeco/llama-bias.png" caption="Exemple de biais de genre des modèles LLaMA, concurrent de ChatGPT. Source: [LLaMA: Open and efficient foundation language models. Arxiv, 2023.](https://arxiv.org/abs/2302.13971) (Annexe).">}}
+
 ## Sortir du paradigme “diviser pour mieux régner”
 
 {{< figure src="numeco/twitter-climate-cnrs.png" caption="Source: [https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox](https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox). Voir aussi [Désinformation : la Commission européenne suspend toutes ses publicités sur le réseau social X](https://www.lemonde.fr/pixels/article/2023/11/17/desinformation-la-commission-europeenne-suspend-toutes-ses-publicites-sur-le-reseau-social-x_6200746_4408996.html), Le Monde, nov 2023.">}}
 
 {{< figure src="numeco/chatgpt-greenwashing.png" caption="Reconnaître les perles de greenwashing. Capture d’écran d’un étudiant de Paul Valéry en licence MIASHS.">}}
 
-{{< figure src="numeco/neural-networks-LCA.png" caption="K. Hao. [L’entraînement d’un seul modèle d’IA peut émettre autant de carbone que…](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/) MIT Tech Review, 2019.">}}
-
 {{< figure src="numeco/nvidia-stock.png" caption="Reconnaître les conflits d’intérêts. Capitalisation boursière de NVIDIA (2.25 trilliards en 2024).">}}
-
-Voir le [guide anti greenwashing](https://pour-un-reveil-ecologique.org/fr/les-entreprises-nous-repondent/#guide-anti-greenwashing) Pour un Réveil Écologique sur [pour-un-reveil-ecologique.org](https://pour-un-reveil-ecologique.org/fr/).
-
-## Cultiver le pouvoir des récits et imaginaires pour unir et encapaciter
 
 Les GAFAM creusent les inégalités sociales, et divisent pour mieux régner. Une autre vision du monde existe, <i>“celle qui unit”</i> - Paul Valéry.
 
-La [Cité de l'Économie et des Métiers de Demain](https://www.citedeleco.laregion.fr/) est un lieu unique de la [Région Occitanie](https://www.laregion.fr/) pour embarquer vers une économie durable et inclusive. Les étudiant·es du [Master 2 Information-Communication](https://itic.www.univ-montp3.fr/fr/formation/masters/masters-info-com-cno-compaq-cpo) de l'Université [Paul-Valéry Montpellier 3](https://www.univ-montp3.fr/) y ont organisé la 20ème édition de la journée de l'Observatoire Régional de la Communication des Organisations (ORCO), le 12 mai 2023. Dans la revue accompagnant la 20ème édition de l'ORCO, le Futur des Réseaux Sociaux est décrit en un mot par différentes générations: <i>invasion</i>, <i>danger</i>, <i>malsain</i>, <i>désastreux</i>, <i>dramatique</i> et <i>isolement</i>.
+Voir le [guide anti greenwashing](https://pour-un-reveil-ecologique.org/fr/les-entreprises-nous-repondent/#guide-anti-greenwashing) Pour un Réveil Écologique sur [pour-un-reveil-ecologique.org](https://pour-un-reveil-ecologique.org/fr/).
+
+{{< figure src="numeco/pour-un-reveil-eco.jpg" caption="Source image: [Pour un Réveil Écologique](https://pour-un-reveil-ecologique.org/fr/)">}}
