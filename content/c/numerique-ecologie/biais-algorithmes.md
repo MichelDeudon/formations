@@ -48,7 +48,7 @@ Le découplage entre la reconnaissance et l’action laisse le temps à la réfl
 
 ## Sortir du paradigme “diviser pour mieux régner”
 
-{{< figure src="numeco/twitter-climate-cnrs.png" caption="Source: [https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox](https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox).">}}
+{{< figure src="numeco/twitter-climate-cnrs.png" caption="Source: [https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox](https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox). Voir aussi [Désinformation : la Commission européenne suspend toutes ses publicités sur le réseau social X](https://www.lemonde.fr/pixels/article/2023/11/17/desinformation-la-commission-europeenne-suspend-toutes-ses-publicites-sur-le-reseau-social-x_6200746_4408996.html), Le Monde, nov 2023.">}}
 
 {{< figure src="numeco/chatgpt-greenwashing.png" caption="Reconnaître les perles de greenwashing. Capture d’écran d’un étudiant de Paul Valéry en licence MIASHS.">}}
 

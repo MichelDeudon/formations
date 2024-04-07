@@ -59,12 +59,4 @@ Pour un numérique responsable
 
 ## Jeux éducatifs et open source
 
-{{< figure src="numeco/jeu-educatif.png" caption="Jeu éducatif open source pour déconstruire les biais (licence CC). Source: [nlp201-street-names-gender-analysis - Framagit](https://framagit.org/MichelDeudon/nlp201-street-names-gender-analysis)">}} 
-
-## Collectifs et Associations
-
-- [Lève les yeux !](https://www.levelesyeux.com/) promeut la déconnexion pour mieux préserver l'attention humaine, ressource rare et précieuse.
-
-- [Framasoft](https://framasoft.org/fr/) propose des alternatives aux GAFAM.
-
-- [La Base](https://labasemontpellier.org/) propose des [Ateliers d'autodéfense numérique](https://www.aleale.org/event/atelier-dautodefense-numerique-1).
+{{< figure src="numeco/jeu-educatif.png" caption="[Jeu de Memory](https://www.mtpcours.fr/u/Jeux-Memory-Montpellier-qui-est-ce.pdf) open source (licence Creative Commons) pour déconstruire les biais de genre et stéréotypes. Source: [nlp201-street-names-gender-analysis - Framagit](https://framagit.org/MichelDeudon/nlp201-street-names-gender-analysis)">}} 

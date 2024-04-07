@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Michel Deudon. This work is licensed under {license}'
+    notice: '© {year} Maths et Maryam. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -53,8 +53,8 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: '2 Jan 2006'
+  time_format: '15:04'
 
 # Site features
 

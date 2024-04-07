@@ -40,8 +40,22 @@ Comprendre leurs origines et sortir du paradigme diviser pour mieux régner
 
 ## Portraits de désert'heureuses
 
-{{< figure src="numeco/desertheureuse.png" caption="Portrait de Maxime Radmacher, exemple de [desertheureuse](https://desertheureuses.noblogs.org/).">}}
+{{< figure src="numeco/desertheureuse1.png" caption="">}}
+
+{{< figure src="numeco/desertheureuse2.png" caption="Portrait de Maxime Radmacher, exemple de [desertheureuse](https://desertheureuses.noblogs.org/).">}}
 
 ## Récits de la transition écologique et sociétale
 
 {{< figure src="numeco/recits-francoise-berthoud.png" caption="Françoise Berthoud est co-fondatrice du GDS [éco-info](https://ecoinfo.cnrs.fr/le-gds-ecoinfo/) et du MOOC [Impacts environnementaux du numérique](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/) de l'INRIA.">}}
+
+## Collectifs et Associations
+
+{{< figure src="numeco/KimMurton.png" caption="Illustration de Kim Murton pour l'Association [Lève les yeux !](https://www.levelesyeux.com/).">}} 
+
+- [Lève les yeux !](https://www.levelesyeux.com/) promeut la déconnexion pour mieux préserver l'attention humaine, ressource rare et précieuse.
+
+- [Framasoft](https://framasoft.org/fr/) propose des alternatives aux GAFAM.
+
+- [La Base](https://labasemontpellier.org/) propose des [Ateliers d'autodéfense numérique](https://www.aleale.org/event/atelier-dautodefense-numerique-1).
+
+- Le GDS [Ecoinfo](https://ecoinfo.cnrs.fr/le-gds-ecoinfo/)
