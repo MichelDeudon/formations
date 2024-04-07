@@ -30,9 +30,9 @@ tags:
 
 ## Présentation
 
-Le numérique est-il un levier pour la transition écologique ou le talon d’Achille d’un imaginaire devenu ringard? Comment dépasser le paradigme “diviser pour mieux régner”, et vivre en intelligence collective? 
+Le numérique est-il <b>un levier pour la transition écologique ou le talon d’Achille</b> d’un imaginaire devenu ringard? Comment dépasser le paradigme “diviser pour mieux régner”, et vivre en intelligence collective? 
 
-À travers ce cours, les étudiants pourront interroger le rôle du numérique dans le bien vivre ensemble, ses liens avec l'environnement et la société, la notion de pollution invisible, de filtres, d’écrans, les enjeux auxquels ces notions renvoient ainsi que des solutions concrètes à portée de main, pour mieux vivre ensemble. Nous apprendrons à faire preuve de discernement face aux discours techno-solutionnistes, à reconnaître les techniques courantes de greenwashing, à déconstruire les mythes sur la dématérialisation et le tout électrique. Nous discuterons des rouages des algorithmes et de nos biais cognitifs pour nous aider à recentrer notre attention. Enfin, nous verrons des exemples et usages positifs du numérique, développés par des professeurs et alumnis de l’Université Paul-Valéry. Nous nous intéresserons au rôle des artistes et au pouvoir des mots pour imaginer d’autres futurs.
+À travers ce cours, les étudiants pourront interroger le rôle du numérique dans le <b>bien vivre ensemble</b>, ses liens avec l'environnement et la société, la notion de <b>pollution invisible</b>, de filtres, d’écrans, les enjeux auxquels ces notions renvoient ainsi que des solutions concrètes à portée de main, pour mieux vivre ensemble. Nous apprendrons à faire preuve de discernement face aux discours techno-solutionnistes, à reconnaître les techniques courantes de greenwashing, à <b>déconstruire les mythes</b> sur la dématérialisation et le tout électrique. Nous discuterons des rouages des algorithmes et de nos biais cognitifs pour nous aider à recentrer notre attention. Enfin, nous verrons des exemples et <b>usages positifs du numérique</b>, développés par des enseignants et chercheurs de l’Université Paul-Valéry. Nous nous intéresserons au rôle des artistes et au pouvoir des mots pour imaginer d’autres futurs.
 
 {{< icon name="clock" pack="fas" >}} <b>Durée</b> : 6 heures. <br>
 {{< icon name="spell-check" pack="fas" >}} <b>Thèmes</b> : Numérique, Société, Environnement. <br>
@@ -50,10 +50,10 @@ Socle de connaissances / savoirs
 
 - <b>Éléments historiques</b> du développement de l’informatique, numérique, IA.
 - <b>Le rôle pionnier des femmes</b> en sciences et leur invisibilisation.
-- La loi de Moore et la notion de <b>ressources finies</b> (métaux, eau, énergie…), de limites
-- Notion de <b>pollution invisible</b>, de <b>sac à dos écologique</b> et <b>scénarios de l’ADEME</b>. Zoom sur les <b>impacts du numérique</b> (environnementaux, sanitaires et sociaux)
-- <b>Les régulateurs</b> (CNIL, ARCOM) et les grands <b>textes de loi</b>
-- <b>Biais cognitifs</b> (sélection, confirmation, etc), biais de l'IA (sexisme, racisme...), stéréotypes et boucles de rétroaction
+- La loi de Moore et la notion de limites et de <b>ressources finies</b> (métaux, eau, énergie…).
+- Notion de <b>pollution invisible</b>, de <b>sac à dos écologique</b> et <b>scénarios de l’ADEME</b>. Zoom sur les <b>impacts du numérique</b> (environnementaux, sanitaires et sociaux).
+- <b>Les régulateurs</b> et grands <b>textes de loi</b>.
+- <b>Biais cognitifs</b>, biais de l'IA, stéréotypes et boucles de rétroaction.
 - Pouvoir des <b>récits de la transition</b>, de la narration, de la science-fiction...
 - Les <b>innovations</b> à l'UPVM (ESS, handinnovation, licence miashs...)
 
@@ -61,15 +61,15 @@ Socle de connaissances / savoirs
 
 Compétence pro / savoirs faires
 
-- <b>Co-construire</b> un atelier participatif et préventif. Réaliser une fiche action (ex: [prévention santé ecran](https://www.mtpcours.fr/c/numerique-ecologie/prevention-sante-ecrans/))
+- <b>Co-construire</b> un atelier participatif et préventif. Réaliser une fiche action (ex: [prévention santé ecran](https://www.mtpcours.fr/c/numerique-ecologie/prevention-sante-ecrans/)).
 - S’informer, <b>faire preuve d'esprit critique</b>. Repérer le greenwashing, les conflit d'intérêts.
 - Réaliser une enquête, <b>conduire un entretien</b>. Vers de nouveaux imaginaires.
 
 Savoir-Être
 
-- Contribuer au <b>lâcher prise</b> (guide WAKAMA, communication douce), au <b>prendre soin</b>
-- Contribuer à la formation de <b>projets collectifs</b>
-- Développer la <b>créativité</b> et l'<b>engagemen</b> étudiant
+- Contribuer au <b>lâcher prise</b> (guide WAKAMA, communication douce), au <b>prendre soin</b>.
+- Contribuer à la formation de <b>projets collectifs</b>.
+- Développer la <b>créativité</b> et l'<b>engagement</b> étudiant.
 
 ## Bibliographie indicative
 
@@ -88,3 +88,5 @@ Savoir-Être
 > Karen Hao. [Training a single AI model can emit as much carbon as five cars in their lifetime.](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/) MIT Technology Review, 2019.
 
 > Pour un Réveil Écologique. [Guide anti greenwashing](https://pour-un-reveil-ecologique.org/fr/les-entreprises-nous-repondent/#guide-anti-greenwashing), 2017.
+
+{{< cta cta_text="Commencer la formation" cta_link="https://www.mtpcours.fr/c/numerique-ecologie/histoire/">}}
