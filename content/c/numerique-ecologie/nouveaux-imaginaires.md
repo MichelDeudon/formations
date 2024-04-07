@@ -36,7 +36,7 @@ Comprendre leurs origines et sortir du paradigme diviser pour mieux régner
 
 <b>Alain Damasio</b>, auteur de science fiction, témoigne également sur les réseaux sociaux, dans un interview pour le média indépendant Blast, le 12 mai 2023, intitulé [Comment vivre et lutter face au capitalisme de surveillance ?](https://www.blast-info.fr/emissions/2023/comment-vivre-et-lutter-face-au-capitalisme-de-surveillance-n6ikLh60SOONUvL90mXXTg) Il y explique comment sa vision a évolué avec le temps, et le rôle des artistes, de la culture, et des nouveaux imaginaires.
 
-{{< figure src="numeco/incendies.png" caption="La dématérialisation, un mythe? Voir aussi Florence Rodhain. La nouvelle religion du numérique: le numérique est-il écologique?  Éditions EMS, 2019.">}}
+{{< figure src="numeco/incendies.png" caption="La dématérialisation, un mythe? Voir aussi Florence Rodhain. [La nouvelle religion du numérique: le numérique est-il écologique?](https://www.cairn.info/la-nouvelle-religion-du-numerique--9782376872924.htm) Éditions EMS, 2019.">}}
 
 ## Portraits de désert'heureuses
 
@@ -50,7 +50,7 @@ Comprendre leurs origines et sortir du paradigme diviser pour mieux régner
 
 ## Collectifs et Associations
 
-{{< figure src="numeco/KimMurton.png" caption="Illustration de Kim Murton pour l'Association [Lève les yeux !](https://www.levelesyeux.com/).">}} 
+{{< figure src="numeco/KimMurton.jpg" caption="Illustration de Kim Murton pour l'Association [Lève les yeux !](https://www.levelesyeux.com/).">}} 
 
 - [Lève les yeux !](https://www.levelesyeux.com/) promeut la déconnexion pour mieux préserver l'attention humaine, ressource rare et précieuse.
 

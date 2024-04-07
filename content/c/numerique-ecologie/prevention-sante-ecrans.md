@@ -51,9 +51,9 @@ La formation proposée permet aux jeunes et à leur entourage de découvrir des 
 Développées à Montpellier avec et pour des collégien.nes, lycéen.nes, parents d'élèves, professionnel.les de la santé, de la solidarité et de l'éducation nationale, elles ne supposent pas de prérequis.
 La formation, sous forme d'atelier collaboratif et interactif, est construite autour de 3 temps.
 
-1. Temps d'introduction.
-2. Mise en pratique de la méthode 1-2-4-tous pour débattre : À quels besoins les réseaux sociaux répondent-ils? Comment me font-ils sentir? Quelles alternatives et solutions concrètes?
-3. Témoignages de personnes qui ont essayé de limiter leurs usages des réseaux sociaux, ou qui s'en sont libérés. À la fin de l'atelier, les participants sont invités à résumer ce qu'ils ont aimés (ou non) et appris.
+1. <b>Temps d'introduction</b> + météo intérieure.
+2. <b>Mise en pratique de la méthode 1-2-4-tous pour débattre</b> : À quels besoins les réseaux sociaux répondent-ils? Comment me font-ils sentir? Quelles alternatives et solutions concrètes?
+3. <b>Témoignages</b> de personnes qui ont essayé de limiter leurs usages des réseaux sociaux, ou qui s'en sont libérés. À la fin de l'atelier, les participants sont invités à résumer ce qu'ils ont aimés (ou non) et appris.
 
 {{< figure src="numeco/les-jeunes-et-les-reseaux-sociaux.png" caption="Partenaires associatifs et institutionnels. Le programme des [Cités éducatives](https://www.citeseducatives.fr/) vise à renforcer l'accompagnement des jeunes et enfants de 3 ans à 25 ans, pendant le temps scolaire, périscolaire et extrascolaire, en lien avec les familles. L'académie de Montpellier compte 7 cités éducatives, à Nîmes, Montpellier, Perpignan, Béziers, Sète, Lézignan-Corbières, Lunel, et concerne 33 000 élèves.">}}
 
