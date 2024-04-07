@@ -53,27 +53,25 @@ Dans la revue de mai 2023 de l'Observatoire Régional de la Communication des Or
 ## Publication de récits de la transition
 
 Ce projet consiste à réaliser un entretien en vue de réaliser un article, portrait ou podcast. 
+Vous pouvez par exemple contacter des alumnis (anciens diplômés) engagés et investis dans des associations, des institutions, des entreprises sociales et solidaires, des projets de sciences participatives...
 
 Exemple de portraits: [Pot@maï : énergie, autonomie et résilience pour les femmes africaines](https://www.lajauneetlarouge.com/potamai-energie-autonomie-et-resilience-pour-les-femmes-africaines/) par Emilie Catel et Lise Dargentolle.
 
 Exemple de podcast: [Nouvelle Conscience](https://podcast.ausha.co/nouvelle-conscience) par Manon Sala.
 
-Vous pouvez par exemple contacter des alumnis (anciens diplômés) engagés et investis dans des associations, des institutions, des entreprises sociales et solidaires, des projets de sciences participatives... 
-Le recueil de récits fera l’objet d’une publication sur la transition sociale et écologique.
-
 Ce projet est l’occasion de développer votre réseau et soutenir des initiatives locales, solidaires et sociales. 
-C’est aussi l’occasion de développer votre créativité, sensibiliser le public au Bien Vivre Ensemble et s’interroger sur le pouvoir de la narration et des imaginaires, d'un point de vue littéraire et engagé, comme catalyseur de la transition.
+C’est aussi l’occasion de développer votre créativité, sensibiliser le public au Bien Vivre Ensemble et s’interroger sur le pouvoir de la narration et des imaginaires, d'un point de vue littéraire et engagé (recueil de récits), comme catalyseur de la transition sociale et écologique.
 
 Lien utile: [Portraits de diplômés | UPVM](https://www.univ-montp3.fr/fr/pr%C3%A9sentation/portraits-de-dipl%C3%B4m%C3%A9s)
 
 <b>Description</b> <br>
-En binôme, vous réaliserez un entretien en lien avec le Bien Vivre Ensemble.
+En binôme, vous réaliserez un entretien.
 Prenez le temps de vous écouter et d'échanger dans un cadre bienveillant, sans jugement.
 Privilégiez les questions ouvertes et soyez attentifs aux silences.
 
 Avec l’accord de la personne interviewée, vous pouvez prendre des notes et réaliser un portrait, d’une à 4 pages, sur une thématique ou non (évolution des modes de vie, sobriété, santé, sport, psychologie, biodiversité…).
 
-Exemple de questions pour amorcer / relancer la discussion <br>
+Exemple de questions pour amorcer / relancer la discussion: <br>
 - D’où viens-tu? Quel est ton parcours?
 - Peux tu me parler de tes rêves?
 - Comment envisages-tu xxx (l’engagement citoyen, l’action collective...)?

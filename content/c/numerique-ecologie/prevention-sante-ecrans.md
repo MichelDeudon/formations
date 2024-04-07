@@ -52,7 +52,8 @@ La formation, sous forme d'atelier collaboratif et interactif, est construite au
 
 👉 Voir notre {{% staticref "u/Temoignages-reseaux-sociaux-Montpellier-juin-2023.pdf" %}}extrait de propositions de l'atelier{{% /staticref %}}, réalisé en juin 2023 avec l’association [Générations Solidaires et Citoyennes](https://www.jeveuxaider.gouv.fr/organisations/4859-generations-solidaires-et-citoyennes) et le Centre Social CAF de la Paillade, dans le cadre du programme [Cités éducatives](https://www.citeseducatives.fr/).
 
-Un jeune sur deux propose plus de sorties, du sport... →  Prévention / [Sorties avec Morgann pendant l’été](https://www.mtpcours.fr/c/assos/lutte-contre-les-exclusions/).
+Un jeune sur deux propose plus de sorties, du sport... <br>
+→  Prévention / [sorties avec Morgann pendant l’été](https://www.mtpcours.fr/c/assos/lutte-contre-les-exclusions/).
 
 {{< callout note >}}
 Voir aussi <a href="https://www.mtpcours.fr/p/roller-dance-montpellier/">Une équipe de roller dance à La Mosson</a>, Montpellier.
@@ -61,17 +62,17 @@ Voir aussi <a href="https://www.mtpcours.fr/p/roller-dance-montpellier/">Une éq
 ## Bon plans locaux et soutien
 
 {{< spoiler text="Tu es ado" >}}
-La [Maison des adolescents](https://mda34.org/) est un lieu d'expression et d'activités, qui prend soin de toi ! Une équipe de médecins, d'animateurs, éducateurs, psychologues, médiateurs, infirmieres et assistantes sociaux est à ton écoute pour tes projets de vie, famille, santé, scolarité... 
+La [Maison Des Adolescents](https://mda34.org/) est un lieu d'expression et d'activités, qui prend soin de toi ! Une équipe de médecins, d'animateurs, éducateurs, psychologues, médiateurs, infirmieres et assistantes sociaux est à ton écoute pour tes projets de vie, famille, santé, scolarité... 
 {{< /spoiler >}}
 
 {{< spoiler text="Tu es étudiant.e" >}}
 - [Nightline France](https://www.nightline.fr/). Soutien psy gratuit proche de chez toi. Un service d'écoute nocturne tenu par des étudiant·e·s pour une meilleure santé mentale étudiante.
-- Le [Service Universitaire de Médecine Préventive et de Promotion de la Santé](https://univ-montp3.fr/fr/vie-de-campus/sant%C3%A9/la-sant%C3%A9-des-%C3%A9tudiants) (SUMPPS) est un lieu d'écoute, d'information, de prévention, d'éducation à la santé, d'orientation et d'accompagnement. Des [pauses sophrologie](https://www.univ-montp3.fr/fr/vie-de-campus/sant%C3%A9/sophrologie) gratuites sont également proposées et peuvent t'aider à prendre du recul, relâcher les tensions, gérer tes émotions, te ressourcer, sortir du cercle vicieux des ruminations, etc.
+- Le [Service Universitaire de Médecine Préventive et de Promotion de la Santé](https://univ-montp3.fr/fr/vie-de-campus/sant%C3%A9/la-sant%C3%A9-des-%C3%A9tudiants) (SUMPPS) est un lieu d'écoute, d'information, de prévention, d'éducation à la santé, d'orientation et d'accompagnement. Des [pauses sophrologie](https://www.univ-montp3.fr/fr/vie-de-campus/sant%C3%A9/sophrologie) gratuites sont également proposées et peuvent t'aider à prendre du recul, relâcher les tensions, gérer tes émotions, sortir du cercle vicieux des ruminations, etc.
 - Le [Centre de Soins Universitaire](https://www.umontpellier.fr/en/campus/sante-social-et-handicap/centre-de-soins-universitaire) (CSU) propose des consultations de médecine générale, un soutien psychologique et psychiatrique.
 {{< /spoiler >}}
 
 {{< spoiler text="Ouvert à tous et à toutes" >}}
-[Les maisons pour tous](https://www.montpellier.fr/3791-maisons-pour-tous.htm), lieux de découverte, détente, culture, expression, apprentissage, diffusion, sport et convivialité, proposent plus de 500 activités différentes encadrées par les agents de la Ville ou par les associations qualifiées.
+[Les Maisons Pour Tous](https://www.montpellier.fr/3791-maisons-pour-tous.htm), lieux de découverte, détente, culture, expression, apprentissage, diffusion, sport et convivialité, proposent plus de 500 activités différentes encadrées par les agents de la Ville ou par les associations qualifiées.
 {{< /spoiler >}}
 
 ## Références

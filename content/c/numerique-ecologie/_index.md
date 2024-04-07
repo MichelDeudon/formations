@@ -46,42 +46,48 @@ Le numérique, talon d'Achille ou levier de la transition écologique ?
 
 ## Ce que vous apprendrez
 
-Socle de connaissances / savoirs
+Dans le premier chapitre, nous verrons les <b>éléments historiques</b> du développement de l’informatique, numérique, IA; <b>le rôle pionnier des femmes</b> en sciences et leur invisibilisation; la loi de Moore et la notion de limites et de <b>ressources finies</b> (métaux, eau, énergie…).
 
-- <b>Éléments historiques</b> du développement de l’informatique, numérique, IA.
-- <b>Le rôle pionnier des femmes</b> en sciences et leur invisibilisation.
-- La loi de Moore et la notion de limites et de <b>ressources finies</b> (métaux, eau, énergie…).
-- Notion de <b>pollution invisible</b>, de <b>sac à dos écologique</b> et <b>scénarios de l’ADEME</b>. Zoom sur les <b>impacts du numérique</b> (environnementaux, sanitaires et sociaux).
-- <b>Les régulateurs</b> et grands <b>textes de loi</b>.
-- <b>Biais cognitifs</b>, biais de l'IA, stéréotypes et boucles de rétroaction.
-- Pouvoir des <b>récits de la transition</b>, de la narration, de la science-fiction...
-- Les <b>innovations</b> à l'UPVM (ESS, handinnovation, licence miashs...)
+Le second chapitre est consacré à la notion de <b>pollution invisible</b>, de <b>sac à dos écologique</b>. Il présente les <b>scénarios de l’ADEME</b> et zoom sur les <b>impacts du numérique</b> (environnementaux, sanitaires et sociaux).
+
+Le chapitre 3 présente <b>les régulateurs</b>, grands <b>textes de loi</b> et méthode de <b>prévention santé écrans</b>. Le chapitre 4 aborde les <b>biais cognitifs</b>, biais de l'IA, stéréotypes et boucles de rétroaction, ainsi des méthodes pour repérer le greenwashing et les conflit d'intérêts, et <b>faire preuve d'esprit critique</b>.
+
+Enfin dans les chapitres 5 et 6 nous discuterons des <b>récits de la transition</b>, du pouvoir la narration... et les <b>innovations</b> à l'UPVM (ESS, sciences participatives, licence miashs, handinnovation...).
 
 ## Compétences
 
-Compétence pro / savoirs faires
+Au chapitre 3 nous apprendrons à <b>co-construire</b> des atelier participatifs et réaliser une fiche action (ex: [prévention santé ecran](https://www.mtpcours.fr/c/numerique-ecologie/prevention-sante-ecrans/)). 
 
-- <b>Co-construire</b> un atelier participatif et préventif. Réaliser une fiche action (ex: [prévention santé ecran](https://www.mtpcours.fr/c/numerique-ecologie/prevention-sante-ecrans/)).
-- S’informer, <b>faire preuve d'esprit critique</b>. Repérer le greenwashing, les conflit d'intérêts.
-- Réaliser une enquête, <b>conduire un entretien</b>. Vers de nouveaux imaginaires.
+Au chapitre 5, nous verrons en pratique comment réaliser une enquête et <b>conduire des entretiens</b>, vers de nouveaux imaginaires.
 
-Savoir-Être
-
-- Contribuer au <b>lâcher prise</b> (guide WAKAMA, communication douce), au <b>prendre soin</b>.
-- Contribuer à la formation de <b>projets collectifs</b>.
+- Contribuer au <b>lâcher prise</b> (guide communication douce), au <b>prendre soin</b> et à la formation de <b>projets collectifs</b>.
 - Développer la <b>créativité</b> et l'<b>engagement</b> étudiant.
 
 ## Bibliographie indicative
 
-> Courrier International. [Éducation. Après avoir misé sur le numérique à l’école, les pays scandinaves font machine arrière.](https://www.courrierinternational.com/article/education-apres-avoir-mise-sur-le-numerique-a-l-ecole-les-pays-scandinaves-font-machine-arriere) 2024.
+> [Sobriété Numérique : pourquoi, pourquoi pas et comment ?](https://atecopolmtp.hypotheses.org/352) Séminaire Atecopol Montpellier avec Françoise Berthoud, Ingénieure de Recherche CNRS, le 14 mars 2024. Lien vers le [diaporama de la présentation](https://atecopolmtp.hypotheses.org/files/2024/03/Sobriete-Numerique-atecopol-montpellier-mars-2024.pdf).
+
+> Courrier International. [Éducation. Après avoir misé sur le numérique à l’école, les pays scandinaves font machine arrière.](https://www.courrierinternational.com/article/education-apres-avoir-mise-sur-le-numerique-a-l-ecole-les-pays-scandinaves-font-machine-arriere), mars 2024.
 
 > Alain Damasio. [L'imaginaire capitaliste est devenu ringard, il se fissure de partout](https://www.youtube.com/watch?v=Y8SpcxR6FjQ). Blast, 2023.
 
 > Laurent Piccinini. [Guide de communication douce](https://www.univ-montp3.fr/sites/default/files/guide_de_la_communication_douce_2023_0.pdf). Université Paul Valéry, 2023.
 
+> Servane Mouton. Humanité et numérique - Les liaisons dangereuses. 2023.
+
 > Mediapart. [Écrans et santé : il est urgent d'agir !](https://blogs.mediapart.fr/emmanuel-prados/blog/020323/ecrans-et-sante-il-est-urgent-d-agir) 2 mars 2023.
 
-> ADEME. [Impact environnemental du numérique en 2030 et 2050: l’ADEME et l’ARCEP publient une évaluation prospective](https://presse.ademe.fr/2023/03/impact-environnemental-du-numerique-en-2030-et-2050-lademe-et-larcep-publient-une-evaluation-prospective.html). Presse.ademe.fr, 2023.
+> ADEME/ARCEP. [Impact environnemental du numérique en 2030 et 2050: l’ADEME et l’ARCEP publient une évaluation prospective](https://presse.ademe.fr/2023/03/impact-environnemental-du-numerique-en-2030-et-2050-lademe-et-larcep-publient-une-evaluation-prospective.html). Presse.ademe.fr, mars 2023.
+
+> [Internet, l’autoroute de la désinformation ?](https://lejournal.cnrs.fr/articles/internet-lautoroute-de-la-desinformation) CNRS, juin 2022.
+
+> ADEME. Infogfraphie [Numérique : quel impact environnemental ?](https://infos.ademe.fr/magazine-avril-2022/faits-et-chiffres/numerique-quel-impact-environnemental/) et [outil de calcul des usages du numérique](https://agirpourlatransition.ademe.fr/particuliers/bureau/numerique/calculez-lempreinte-carbone-usages-numeriques), 2022.
+
+> The Shift Project. [Impact environnemental du numérique: tendances à 5 ans et gouvernance de la 5G](https://theshiftproject.org/wp-content/uploads/2021/03/Note-danalyse_Numerique-et-5G_30-mars-2021.pdf), mars 2021.
+
+> Fabien Lebrun. On achève bien les enfants: écrans et barbarie numérique. Le Bord de l'eau. 2020.
+
+> Sabine Duflo. Il ne décroche pas des écrans ! - La méthode des "4 pas" pour protéger le cerveau des enfants. 2020.
 
 > Florence Rodhain. [La nouvelle religion du numérique: le numérique est-il écologique?](https://www.editions-ems.fr/boutique/la-nouvelle-religion-du-numerique-le-numerique-est-il-ecologique/) Éditions EMS, 2019.
 
