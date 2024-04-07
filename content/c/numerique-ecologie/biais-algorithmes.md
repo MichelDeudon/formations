@@ -20,7 +20,7 @@ tags:
   - Débats
 ---
 
-Comprendre leurs origines et sortir du paradigme diviser pour mieux régner
+Comprendre leurs origines et sortir du paradigme diviser pour mieux régner.
 
 <!--more-->
 

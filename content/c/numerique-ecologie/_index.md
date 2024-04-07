@@ -40,6 +40,33 @@ Le numérique, talon d'Achille ou levier de la transition écologique ?
 
 {{< list_children >}}
 
+## Ce que vous apprendrez
+
+Socle de connaissances / savoirs
+
+- <b>Éléments historiques</b> du développement de l’informatique, numérique, IA.
+- <b>Le rôle pionnier des femmes</b> en sciences et leur invisibilisation.
+- La loi de Moore et la notion de <b>ressources finies</b> (métaux, eau, énergie…), de limites
+- Notion de <b>pollution invisible</b>, de <b>sac à dos écologique</b> et <b>scénarios de l’ADEME</b>. Zoom sur les <b>impacts du numérique</b> (environnementaux, sanitaires et sociaux)
+- <b>Les régulateurs</b> (CNIL, ARCOM) et les grands <b>textes de loi</b>
+- <b>Biais cognitifs</b> (sélection, confirmation, etc), biais de l'IA (sexisme, racisme...), stéréotypes et boucles de rétroaction
+- Pouvoir des <b>récits de la transition</b>, de la narration, de la science-fiction...
+- Les <b>innovations</b> à l'UPVM (ESS, handinnovation, licence miashs...)
+
+## Compétences
+
+Compétence pro / savoirs faires
+
+- <b>Co-construire</b> un atelier participatif et préventif. Réaliser une fiche action (ex: [prévention santé ecran](https://www.mtpcours.fr/c/numerique-ecologie/prevention-sante-ecrans/))
+- S’informer, <b>faire preuve d'esprit critique</b>. Repérer le greenwashing, les conflit d'intérêts.
+- Réaliser une enquête, <b>conduire un entretien</b>. Vers de nouveaux imaginaires.
+
+Savoir-Être
+
+- Contribuer au <b>lâcher prise</b> (guide WAKAMA, communication douce), au <b>prendre soin</b>
+- Contribuer à la formation de <b>projets collectifs</b>
+- Développer la <b>créativité</b> et l'<b>engagemen</b> étudiant
+
 ## Bibliographie indicative
 
 > Courrier International. [Éducation. Après avoir misé sur le numérique à l’école, les pays scandinaves font machine arrière.](https://www.courrierinternational.com/article/education-apres-avoir-mise-sur-le-numerique-a-l-ecole-les-pays-scandinaves-font-machine-arriere) 2024.

@@ -12,9 +12,9 @@ tags:
   - Réseaux Sociaux
   - Intelligence Artificielle
   - Economie
-  - Innovation
   - Société
   - Environnement
+  - Innovation
   - Genre
   - Imaginaires
 ---

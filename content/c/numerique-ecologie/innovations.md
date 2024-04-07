@@ -14,7 +14,7 @@ tags:
   - Innovations
 ---
 
-Pour un numérique responsable
+Pour un numérique responsable.
 
 <!--more-->
 
