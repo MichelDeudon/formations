@@ -87,7 +87,7 @@ On est saturé d'information (on parle d'économie de l'attention) de peur d'en 
 
 👉 Voir notre recueil de 32 témoignages {{% staticref "u/Temoignages-reseaux-sociaux-Montpellier-mai-2023.pdf" %}}Réseaux sociaux, Attention et Santé{{% /staticref %}} en mai 2023. Notre questionnaire est ouvert, pour y répondre, c'est par [ici](https://framaforms.org/reseaux-sociaux-attention-et-sante-mentale-1687119437) !
 
-{{< figure src="numeco/temoignage-reseaux-sociaux.png" caption="Exemple de [Témoignages sur les réseaux sociaux en mai 2023](https://www.mtpcours.fr/u/Temoignages-reseaux-sociaux-Montpellier-mai-2023.pdf).">}
+{{< figure src="numeco/temoignage-reseaux-sociaux.png" caption="[Témoignages sur les réseaux sociaux en mai 2023](https://www.mtpcours.fr/u/Temoignages-reseaux-sociaux-Montpellier-mai-2023.pdf).">}}
 
 Vous pouvez enquêter auprès des étudiants sur le campus, le personnel de l’université, des personnes à l’extérieur. 
 Vous pouvez partager vos résultats sous diverses formes et être à l’initiative d’un [défi solidaire de déconnexion](https://www.levelesyeux.com/les-actions/les-ateliers/le-defi-deconnexion/).
