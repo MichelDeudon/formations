@@ -27,7 +27,7 @@ Optimisation et régularisation des modèles.
 
 {{% staticref "u/TW233MI-Optimisation-regularisation.pdf" %}}Optimisation et régularisation des modèles{{% /staticref %}} (pdf).
 
-<b>1 Définitions et notations
+<b>1 Définitions et notations</b>
 - 1.1 Rappel sur les fonctions
 - 1.2 Dérivés
 
@@ -77,7 +77,7 @@ Optimisation et régularisation des modèles.
 10. W. J. Fu. Penalized regressions: the bridge versus the lasso. Journal of computational and graphical statistics. 1998.
 11. F. Pedregosa, G. Varoquaux, A. Gramfort et al. [Scikit-learn: Machine learning in Python](https://www.jmlr.org/papers/volume12/pedregosa11a/pedregosa11a.pdf). The Journal of Machine Learning Research. 2011.
 12. N. Freitas. [CPSC540 lecture notes](https://www.cs.ubc.ca/~nando/540-2013/lectures.html). University of British Columbia. 2012.
-13. R. Johnson & T. Zhang. [Accelerating stochastic gradient descent using predictive variance reductio(https://proceedings.neurips.cc/paper/2013/file/ac1dd209cbcc5e5d1c6e28598e8cbbe8-Paper.pdf). Advances in neural information processing systems. 2013.
+13. R. Johnson & T. Zhang. [Accelerating stochastic gradient descent using predictive variance reduction](https://proceedings.neurips.cc/paper/2013/file/ac1dd209cbcc5e5d1c6e28598e8cbbe8-Paper.pdf). Advances in neural information processing systems. 2013.
 14. A. Defazio, F. Bach, & S. Lacoste-Julien. [SAGA: A fast incremental gradient method with support for non-strongly convex composite objectives](https://proceedings.neurips.cc/paper_files/paper/2014/file/ede7e2b6d13a41ddf9f4bdef84fdc737-Paper.pdf). Advances in neural information processing systems. 2014.
 15. D. P. Kingma & J. Ba. [Adam: A method for stochastic optimization](https://arxiv.org/pdf/1412.6980.pdf). International Conference for Learning Representations. 2015.
 16. M. Vazirgiannis. INF554 lecture notes. Machine Learning 1. Polytechnique. 2016.
