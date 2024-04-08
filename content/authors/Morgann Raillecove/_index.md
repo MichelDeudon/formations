@@ -31,6 +31,9 @@ interests:
 
 education:
   courses:
+    - course: PSC1
+      institution: Protection Civile
+      year: 2023
     - course: CPJEPS
       institution: MUC Omnisport
       year: 2023

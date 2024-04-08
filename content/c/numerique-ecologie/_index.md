@@ -60,8 +60,9 @@ Au chapitre 3 nous apprendrons à <b>co-construire</b> des atelier participatifs
 
 Au chapitre 5, nous verrons en pratique comment réaliser une enquête et <b>conduire des entretiens</b>, vers de nouveaux imaginaires.
 
-- Contribuer au <b>lâcher prise</b> (guide communication douce), au <b>prendre soin</b> et à la formation de <b>projets collectifs</b>.
-- Développer la <b>créativité</b> et l'<b>engagement</b> étudiant.
+Les <b>projets collectifs</b> ont pour objectif de développer la <b>créativité</b> et l'<b>engagement</b> étudiant.
+
+L'ensemble du cours vise à contribuer au <b>lâcher prise</b> (guide communication douce), au <b>prendre soin</b> et au bien vivre ensemble.
 
 ## Bibliographie indicative
 
@@ -95,4 +96,5 @@ Au chapitre 5, nous verrons en pratique comment réaliser une enquête et <b>con
 
 > Pour un Réveil Écologique. [Guide anti greenwashing](https://pour-un-reveil-ecologique.org/fr/les-entreprises-nous-repondent/#guide-anti-greenwashing), 2017.
 
+<br>
 {{< cta cta_text="Commencer la formation" cta_link="https://www.mtpcours.fr/c/numerique-ecologie/histoire/">}}

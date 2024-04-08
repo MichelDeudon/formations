@@ -91,7 +91,7 @@ Ce projet de sciences participatives est l’occasion de vous confronter au terr
 
 > [Impact environnemental du numérique en 2030 et 2050 : L'ADEME et l'ARCEP publient une évaluation prospective](https://presse.ademe.fr/2023/03/impact-environnemental-du-numerique-en-2030-et-2050-lademe-et-larcep-publient-une-evaluation-prospective.html). ADEME/ARCEP, mars 2023.
 
-> Numérique : quel impact environnemental ?](https://infos.ademe.fr/magazine-avril-2022/faits-et-chiffres/numerique-quel-impact-environnemental/) Infographie de l'ADEME (2022) et [outil de calcul des usages du numérique](https://agirpourlatransition.ademe.fr/particuliers/bureau/numerique/calculez-lempreinte-carbone-usages-numeriques).
+> [Numérique : quel impact environnemental ?](https://infos.ademe.fr/magazine-avril-2022/faits-et-chiffres/numerique-quel-impact-environnemental/) Infographie de l'ADEME (2022) et [outil de calcul des usages du numérique](https://agirpourlatransition.ademe.fr/particuliers/bureau/numerique/calculez-lempreinte-carbone-usages-numeriques).
 
 > [Impact environnemental du numérique: tendances à 5 ans et gouvernance de la 5G](https://theshiftproject.org/wp-content/uploads/2021/03/Note-danalyse_Numerique-et-5G_30-mars-2021.pdf). The Shift Project, mars 2021.
 
