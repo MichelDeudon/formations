@@ -12,7 +12,7 @@ tags:
   - décomposition en valeur singulière
 ---
 
-Algèbre II et analyse en composante principale.
+Algèbre bilinéaire et analyse en composante principale.
 
 <!--more-->
 

@@ -8,19 +8,15 @@ tags:
   - Youth
 ---
 
-{{< callout note >}}
-New! <a href="https://www.mtpcours.fr/en/p/stage-maths-montpellier/">Pre-school program</a> à la Paillade, Montpellier, from Monday 08/28 to Friday 09/01.
-{{< /callout >}}
-
 {{< figure src="featured.jpg" >}}
 
 ## Program overview
 
 Learning English is [one of the best investment](https://www.mtpcours.fr/en/p/language-learning/) you can make today to become independent. It will give you access to tons of ressources to learn from, bring you work opportunities, and friendships across the world. 
 
-The best way to learn English boils down to three words - <i>"Practice, practice, practice"</i>. In this course, you will have many opportunities to practice with a native American born in New York. It's an opportunity to deepen your vocabulary, grammar and spelling, learn to speak and pronounce words like a native, and an opportunity to expand your culture, including proverbs and American / British history.
+The best way to learn English boils down to three words - <i>"Practice, practice, practice"</i>. In this course, you will have many opportunities to practice your English, learn vocabulary, grammar and spelling, learn to speak and pronounce words like a native, and an opportunity to expand your culture, including American / British history.
 
-Whether you're a beginner or advanced in English, whether you need help with your homework, assignments, tests (Toefl, Toeic), would like to proofread an important document (cover letter, cv, article/blog) or simply want to practice speaking, this program is tailor-made for you.
+Whether you're a beginner or advanced, whether you need help with your homework, assignments, tests (Toefl, Toeic) or simply want to practice speaking, this program is made for you.
 
 
 ## Topics for debates
