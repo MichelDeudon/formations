@@ -9,7 +9,7 @@ design:
   flip_alt_rows: true # Flip alternate rows when in Showcase view?
 ---
 
-> _La météo émotionnelle du jour, c'est super bien qu'on puisse nous demander ça. On a tendance à penser que l'on est peu proche entre l'encadrant pédagogique et étudiant, c'est bien de réduire cette pseudo distance !_ - Thomas, Étudiant en licence à Paul Valéry (2023)
+> _La météo émotionnelle du jour, c'est super bien qu'on puisse nous demander ça. On a tendance à penser que l'on est peu proche entre l'encadrant pédagogique et étudiant, c'est bien de réduire cette pseudo distance !_ - Thomas,étudiant en licence à Paul Valéry (2023)
 
 > _Les cours ont été d'une grande aide pour la transition du collège au lycée. Jeanne a pu choisir la spécialité mathématiques alors qu'en début d'année, elle rencontrait des difficultés. L'enseignement était adapté et bienveillant, basé sur une communication claire._ - Sylvie, Mère de Jeanne (2020)
 
