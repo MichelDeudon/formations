@@ -28,21 +28,15 @@ tags:
 Inscriptions ouvertes <a href="https://www.mtpcours.fr/p/soutien-scolaire-maths-montpellier/">soutien scolaire à Montpellier</a>.
 {{< /callout >}}
 
-{{< figure src="featured.jpg" >}}
-
-> <i> Vous ne pouvez espérer construire un monde meilleur sans améliorer les individus. À cette fin, chacun de nous doit travailler à sa propre amélioration et, en même temps, partager une responsabilité générale pour toute l'humanité, notre devoir particulier étant d'aider ceux pour qui nous pensons être le plus utile. </i> - Marie Curie, double prix Nobel (physique et chimie)
+{{< figure src="featured.jpg" caption="Photo d'un Martin Pecheur." >}}
 
 ## Présentation
 
-J'enseigne depuis 10 ans la physique et la chimie, avec passion, patience et empathie, en cherchant à donner à mes élèves [la confiance, l'intuition et les bons réflexes](https://www.mtpcours.fr/p/7-astuces-pour-progresser-en-maths/) nécessaires pour devenir autonome. En particulier, j'aide mes étudiants à se poser les bonnes questions pour résoudre des problèmes, à bien les visualiser, à se les approprier à travers des exemples concrets et développer des automatismes pour résoudre plus efficacement des exercices.
+Les élèves-tuteurs et mentors de <b>Maths & Maryam</b> enseignent la physique chimie avec passion, patience et empathie, en cherchant à transmettre des méthodes et réflexes pour [gagner en confiance et suivre son intuition](https://www.mtpcours.fr/p/7-astuces-pour-progresser-en-maths/), nécessaires pour devenir autonome. 
 
-Ma méthode est très pratique. On essaie, on voit où ça coince, on en discute. On s'assure de ne plus être bloqué dans des situations similaires. On transforme chaque erreur en essai pour gagner en sérénité et efficacité.
+En particulier, les étudiants sont amenés à se poser des questions pour résoudre des problèmes, à se les approprier à travers des exemples concrets, à les visualiser grâce à des dessins et développer des automatismes pour résoudre plus efficacement des exercices.
 
-## Lycée
-
-- Programme en Physique Chimie au lycée général/technologique. [Eduscol](https://eduscol.education.fr/1648/programmes-et-ressources-en-physique-chimie-voie-gt).
-- Physique (forces, gravitation, force éléctrostatique, énergie, ondes, son et lumière, applications)
-- Chimie (structure de la matière, réaction d'oxydo-réduction, physique quantique, chimie organique)
+Notre méthode est très pratique. On essaie, on voit où ça coince, on en discute. On s'assure de ne plus être bloqué dans des situations similaires. On transforme chaque erreur en essai pour gagner en sérénité et efficacité.
 
 ## Biomimétisme
 
@@ -55,8 +49,11 @@ Trouvez l'inspiration avec le biomimétisme, ou des histoires inspirées de la n
 {{< list_children >}}
 
 ## Ressources utiles
-- Tableau périodique des éléments - Mendeleïev (1869). [Futura-science](https://cdn.futura-sciences.com/cdn-cgi/image/width=1000,quality=60,format=auto/sources/images/tableau-de-Mendeleiev.jpg). [L'étudiant](https://www.letudiant.fr/college/methodologie-college/article/tableau-periodique-des-elements-introduction-et-repertoire.html).
+- Programme de Physique Chimie au lycée général/technologique. [Eduscol](https://eduscol.education.fr/1648/programmes-et-ressources-en-physique-chimie-voie-gt).
+- Tableau périodique des éléments - Mendeleïev (1869). [Futura-science](https://cdn.futura-sciences.com/cdn-cgi/image/width=1000,quality=60,format=auto/sources/images/tableau-de-Mendeleiev.jpg).
 - Grandeurs et unités physique. [IUTenligne](https://public.iutenligne.net/mecanique/mecanique-du-solide/charbonnieras/mecanique/3.2.Img1.png).
+- Physique (forces, gravitation, force éléctrostatique, énergie, ondes, son et lumière, applications).
+- Chimie (structure de la matière, réaction d'oxydo-réduction, physique quantique, chimie organique).
 
 ## FAQs
 

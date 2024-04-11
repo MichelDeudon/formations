@@ -7,7 +7,7 @@ tags:
   - Superresolution
 ---
 
-De la fusion nucléaire à Sentinel-2 (M1/M2).
+De la fusion d'images à Sentinel-2 (M1/M2).
 
 <!--more-->
 

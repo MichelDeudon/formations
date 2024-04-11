@@ -7,7 +7,7 @@ tags:
   - Superconductivité
 ---
 
-Des paires de Coopers aux basses températures (L3/M1)
+Des paires de Coopers aux basses températures (L3).
 
 <!--more-->
 
