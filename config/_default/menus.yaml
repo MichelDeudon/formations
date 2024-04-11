@@ -7,7 +7,7 @@ main:
   - name: Accueil
     url: '/'
     weight: 10
-  - name: Formations
+  - name: Formations Actions
     weight: 20
     identifier: cours
   - name: Anglais
@@ -22,19 +22,16 @@ main:
     PageRef: c/physique-chimie/_index.md
     weight: 30
     parent: cours
-  - name: Prévention
-    weight: 30
-    identifier: prevention
   - name: Numérique et Ecologie
     PageRef: c/numerique-ecologie/_index.md
-    weight: 10
-    parent: prevention
+    weight: 40
+    parent: cours
   - name: Désinformation
     PageRef: c/desinformation/_index.md
-    weight: 20
-    parent: prevention
+    weight: 50
+    parent: cours
   - name: Vie Associative
-    PageRef: c/assos/_index.md
+    PageRef: assos/_index.md
     weight: 40
   - name: Blog
     PageRef: p/_index.md
