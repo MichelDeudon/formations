@@ -1,7 +1,7 @@
 ---
 title: Numérique et écologie, vers de nouveaux imaginaires
 linkTitle: Numérique et Écologie
-summary: Module de formation à la transition sociale et écologique visant à interroger nos usages du numérique, leurs impacts sur l'environnement et le bien vivre ensemble. Initiation à l'animation d'ateliers préventifs et au pouvoir des imaginaires pour sensibiliser aux enjeux et leviers d'actions.
+summary: Module de formation à la transition sociale et écologique visant à interroger les impacts du numérique et nos usages pour bien vivre ensemble. Prévention santé écrans. Pouvoir des imaginaires et récits de la transition.
 date: '2024-03-08'
 type: book
 tags:
