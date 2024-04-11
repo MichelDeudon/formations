@@ -17,7 +17,7 @@ tags:
   - Sobriété Numérique
 ---
 
-Impacts environnementaux, sanitaires et sociaux.
+Impacts du numérique, environnementaux, sanitaires et sociaux.
 
 <!--more-->
 
