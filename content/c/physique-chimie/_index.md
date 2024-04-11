@@ -1,8 +1,8 @@
 ---
 title: Physique Chimie
 linkTitle: Physique-Chimie
-summary: Cours collectifs de physique chimie et soutien scolaire au lycée à Montpellier. Formation sur l'observation de la Terre en master/doctorat.
-date: '2023-10-04'
+summary: Cours collectifs de physique chimie et soutien scolaire de la primaire au lycée, à Montpellier. Cours sur le biomimétisme et l'observation de la Terre (Earth observation).
+date: '2023-04-10'
 type: book
 tags:
   - Jeunes

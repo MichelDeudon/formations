@@ -5,7 +5,7 @@ widget: featurette
 weight: 20
 
 feature:
-- name: 14+
+- name: 21+
   description: Elèves-tuteurs
   icon: chart-line
   icon_pack: fas

@@ -1,8 +1,8 @@
 ---
 title: Mathématiques
 linkTitle: Maths
-summary: Cours collectifs de mathématiques et soutien scolaire au lycée à Montpellier. Cours d'analyse, d'algèbre, statistiques et programmation en licence/master MIASHS.
-date: '2023-10-04'
+summary: Cours collectifs de mathématiques et soutien scolaire de la primaire au lycée, à Montpellier. Cours d'analyse, d'algèbre, géométrie, statistiques et programmation Python.
+date: '2023-04-11'
 type: book
 tags:
   - Jeunes
