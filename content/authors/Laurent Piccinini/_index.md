@@ -19,7 +19,7 @@ role: Professeur agrégé de mathématiques
 # Organizations/Affiliations
 organizations:
   - name: Université Paul Valéry
-    url: "https://fr.linkedin.com/in/laurent-piccinini"
+    url: "https://www.univ-montp3.fr/fr/organisation/pr%C3%A9sidence-direction-générale-des-services"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Short bio.

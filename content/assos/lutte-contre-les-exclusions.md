@@ -2,7 +2,7 @@
 title: Lutte contre les exclusions
 date: '2023-09-28'
 type: book
-weight: 10
+weight: 20
 highlight: true
 tags:
   - Jeunes
