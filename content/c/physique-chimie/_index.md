@@ -24,15 +24,11 @@ tags:
   - Hérault
 ---
 
-{{< callout note >}}
-Inscriptions ouvertes <a href="https://www.mtpcours.fr/p/soutien-scolaire-maths-montpellier/">soutien scolaire à Montpellier</a>.
-{{< /callout >}}
-
 {{< figure src="featured.jpg" caption="Photo d'un Martin Pecheur." >}}
 
 ## Présentation
 
-Les élèves-tuteurs et mentors de <b>Maths & Maryam</b> enseignent la physique chimie avec passion, patience et empathie, en cherchant à transmettre des méthodes et réflexes pour [gagner en confiance et suivre son intuition](https://www.mtpcours.fr/p/7-astuces-pour-progresser-en-maths/), nécessaires pour devenir autonome. 
+Les tuteurs et mentors de <b>Maths & Maryam</b> enseignent la physique chimie avec passion, patience et empathie, en cherchant à transmettre des méthodes et réflexes pour [gagner en confiance et suivre son intuition](https://www.mtpcours.fr/p/7-astuces-pour-progresser-en-maths/), nécessaires pour devenir autonome. 
 
 En particulier, les étudiants sont amenés à se poser des questions pour résoudre des problèmes, à se les approprier à travers des exemples concrets, à les visualiser grâce à des dessins et développer des automatismes pour résoudre plus efficacement des exercices.
 
@@ -58,11 +54,11 @@ Trouvez l'inspiration avec le biomimétisme, ou des histoires inspirées de la n
 ## FAQs
 
 {{< spoiler text="Y a-t-il des prérequis?" >}}
-Il n'y a pas de prérequis pour le premier cours.
+Il n'y a pas de prérequis.
 {{< /spoiler >}}
 
-{{< spoiler text="À quelle fréquence les cours ont-ils lieu ?" >}}
-Aussi souvent que vous en avez besoin. Idéalement une à deux fois par semaine.
+{{< spoiler text="Quand est-ce que les cours ont-ils lieu ?" >}}
+Le vendredi après midi, à la [médiathèque Pierresvives](https://pierresvives.herault.fr/) (hors vacances scolaires --> aide aux devoirs).
 {{< /spoiler >}}
 
 {{< cta cta_text="Commencer la formation" cta_link="mailto:michel.deudon@hotmail.com?subject=Demande de cours collectifs de physique-chimie">}}

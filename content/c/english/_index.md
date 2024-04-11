@@ -5,7 +5,13 @@ summary: Cours collectifs d'anglais et soutien scolaire de la primaire au lycée
 date: '2022-04-09'
 type: book
 tags:
-  - Youth
+  - Jeunes
+  - Anglais
+  - Collège
+  - Lycée
+  - Brevet
+  - Bac
+  - Erasmus
 ---
 
 {{< figure src="featured.jpg" >}}
@@ -30,8 +36,4 @@ Whether you're a beginner or advanced, whether you need help with your homework,
 There are no prerequisites for the first course.
 {{< /spoiler >}}
 
-{{< spoiler text="How often do the courses run?" >}}
-As often as you need. Ideally once or twice a week.
-{{< /spoiler >}}
-
-{{< cta cta_text="Begin the course" cta_link="mailto:michel.deudon@hotmail.com?subject=Request for English lessons" >}}
+{{< cta cta_text="Begin the course" cta_link="https://www.mtpcours.fr/c/english/college/" >}}
