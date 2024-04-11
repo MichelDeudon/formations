@@ -37,7 +37,7 @@ education:
       year: Année
 
 # Social/Academic Networking
-#social:
+social:
 #  - icon: envelope
 #    icon_pack: fas
 #    link: 'mailto:test@gmail.com?subject=[M&M] Contact'
