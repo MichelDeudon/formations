@@ -22,10 +22,6 @@ main:
     PageRef: c/physique-chimie/_index.md
     weight: 30
     parent: cours
-  - name: Ecolinguistique
-    PageRef: c/ecolinguistics/_index.md
-    weight: 40
-    parent: cours
   - name: Prévention
     weight: 30
     identifier: prevention
