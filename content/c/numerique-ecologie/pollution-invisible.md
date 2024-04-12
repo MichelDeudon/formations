@@ -12,6 +12,7 @@ tags:
   - Santé Physique
   - Santé Mentale
   - Economie
+  - Énergie
   - Société
   - Environnement
   - Sobriété Numérique
@@ -53,9 +54,17 @@ The Shift Project a publié une étude en mars 2021 à ce sujet: [Impact environ
 
 {{< figure src="numeco/flux-donnees-Shift.png" caption="Evolution des flux de données. Visio, voitures autonomes, vidéosurveillance, téléchirurgie… cloud gaming, streaming ultra HD. Quels sont les nouveaux usages pertinents? Source: The Shift Project. [Impact environnemental du numérique: tendances à 5 ans et gouvernance de la 5G](https://theshiftproject.org/wp-content/uploads/2021/03/Note-danalyse_Numerique-et-5G_30-mars-2021.pdf)">}}
 
-Selon l’observatoire de Cambridge, le Bitcoin = 10% de la consommation totale des data centers en 2021 et d’après le Haut Conseil pour le Climat en 2020, la 5G = augmentation de 18 à 44 % de l’empreinte carbone du numérique à horizon 2030. L'IA a vu sa consommation explosé depuis les années 2010-2020.
+Selon l’observatoire de Cambridge, le Bitcoin = 10% de la consommation totale des data centers en 2021 et d’après le Haut Conseil pour le Climat en 2020, la 5G = augmentation de 18 à 44 % de l’empreinte carbone du numérique à horizon 2030. L'IA a aussi vu sa consommation explosé dans les années 2010-2020.
 
-{{< figure src="numeco/neural-networks-LCA.png" caption="K. Hao. [L’entraînement d’un seul modèle d’IA peut émettre autant de carbone que…](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/) MIT Tech Review, 2019.">}}
+Le 5 juin 2019, <b>Emma Strubell</b>, doctorante et co-autrice de l'article [Energy and Policy Considerations for Deep Learning in NLP](https://arxiv.org/abs/1906.02243) informait la communauté scientifique de l'impact écologique des modèles de deep learning après avoir effectué une évaluation du cycle de vie pour entraîner plusieurs grands modèles d'IA courants (en 2019). Son article est paru dans <b>ACL2019</b> 🇮🇹, la plus grande conférence de linguistique. Le lendemain, le <b>Massachusetts Institute of Technology</b> rediffuse son message dans sa [revue technologique](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/) et révèle la consommation énergétique et les émissions carbones de modèles comme [Transformers](https://arxiv.org/abs/1706.03762), [BERT](https://arxiv.org/abs/1810.04805) (Google) et [GPT-2](https://www.technologyreview.com/s/612960/an-ai-tool-auto-generates-fake-news-bogus-tweets-and-plenty-of-gibberish/) (OpenAI). 
+
+> Les chercheurs notent que les chiffres ne doivent être considérés que comme des valeurs de référence. "Entrainer un seul modèle est le minimum de travail que vous pouvez faire", déclare Emma Strubell (...) en pratique, les modèles sont généralement entraînés plusieurs fois au cours de la recherche et du développement (...) Strubell et ses collègues ont utilisé un modèle qu'ils avaient produit dans un article précédent comme étude de cas. Ils ont constaté que le processus (...) a émis plus de 35 tonnes.
+
+{{< figure src="numeco/neural-networks-LCA.png" caption="Le processus de deep learning a un impact environnemental démesuré (...) L'entraînement de modèles toujours plus grands sur des ensembles de données tentaculaires récupérées sur Internet (...) est coûteux en calcul et très gourmand en énergie. Source: Karen Hao. [L'entraînement d'un seul modèle d'IA peut émettre autant de carbone que...](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/) MIT Tech Review, juin 2019.">}}
+
+Le même jour, BERT recoit le prix du meilleur article long à [NAACL19](https://aclanthology.org/N19-1423/) 🇺🇸 et la même année les trois pères du Deep Learning recoivent le prix Turing décerné par ACM pour leur travaux sur les réseaux de neurones. On parlait alors de modèles larges allant jusqu'à 65 millions de paramètres par comparaison à [65 milliards](https://arxiv.org/abs/2302.13971) en 2023.
+
+{{< figure src="numeco/mit-review-2019-costs.png" caption="L'intensité des ressources nécessaires pour produire des résultats dignes d'être publiés rend de plus en plus difficile pour les personnes travaillant dans le milieu universitaire de continuer à contribuer à la recherche, souligne l'article. Cette tendance à former d'énormes modèles sur des tonnes de données n'est pas réalisable pour les universitaires, en particulier les étudiants diplômés, car nous n'avons pas les <b>ressources de calcul</b>, déclare Strubell. Il y a un <b>problème d'accès équitable</b> entre les chercheurs du milieu universitaire et les chercheurs de l'industrie. Source: K. Hao. [L’entraînement d’un seul modèle d’IA peut émettre autant de carbone que…](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/) MIT Tech Review, 2019.">}}
 
 Pourtant, d'autres scénarios sont envisageable pour 2030 et 2050, avec davantage de <b>réparation, reconditionnement, sensibilisation et sobriété</b>. 
 

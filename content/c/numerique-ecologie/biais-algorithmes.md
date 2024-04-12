@@ -42,6 +42,8 @@ Le découplage entre la reconnaissance et l’action laisse le temps à la réfl
 
 {{< figure src="numeco/llama-bias.png" caption="Exemple de biais de genre des modèles LLaMA, concurrent de ChatGPT. Source: [LLaMA: Open and efficient foundation language models. Arxiv, 2023.](https://arxiv.org/abs/2302.13971) (Annexe).">}}
 
+{{< figure src="numeco/mafia-CIFRE.png" caption="Y a-t-il un lien avec la privatisation de la recherche? Retweet de @[Yann Lecun](https://twitter.com/ylecun/status/1629845738170597376?lang=en) en février 2023.">}}
+
 ## Sortir du paradigme “diviser pour mieux régner”
 
 {{< figure src="numeco/twitter-climate-cnrs.png" caption="Source: [https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox](https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox). Voir aussi [Désinformation : la Commission européenne suspend toutes ses publicités sur le réseau social X](https://www.lemonde.fr/pixels/article/2023/11/17/desinformation-la-commission-europeenne-suspend-toutes-ses-publicites-sur-le-reseau-social-x_6200746_4408996.html), Le Monde, nov 2023.">}}

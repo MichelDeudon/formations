@@ -48,8 +48,6 @@ Dans la revue de mai 2023 de l'Observatoire Régional de la Communication des Or
 
 - [Framasoft](https://framasoft.org/fr/) propose des alternatives aux GAFAM.
 
-- [La Base](https://labasemontpellier.org/) propose des [Ateliers d'autodéfense numérique](https://www.aleale.org/event/atelier-dautodefense-numerique-1).
-
 ## Publication de récits de la transition
 
 Ce projet consiste à réaliser un entretien en vue de réaliser un article, portrait ou podcast. 

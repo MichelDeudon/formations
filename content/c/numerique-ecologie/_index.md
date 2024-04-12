@@ -35,7 +35,7 @@ Le numérique est-il <b>un levier pour la transition écologique ou le talon d�
 À travers ce cours, les étudiants pourront interroger le rôle du numérique dans le <b>bien vivre ensemble</b>, ses liens avec l'environnement et la société, la notion de <b>pollution invisible</b>, de filtres, d’écrans, les enjeux auxquels ces notions renvoient ainsi que des solutions concrètes à portée de main, pour mieux vivre ensemble. Nous apprendrons à faire preuve de discernement face aux discours techno-solutionnistes, à reconnaître les techniques courantes de greenwashing, à <b>déconstruire les mythes</b> sur la dématérialisation et le tout électrique. Nous discuterons des rouages des algorithmes et de nos biais cognitifs pour nous aider à recentrer notre attention. Enfin, nous verrons des exemples et <b>usages positifs du numérique</b>, développés par des enseignants et chercheurs de l’Université Paul-Valéry. Nous nous intéresserons au rôle des artistes et au pouvoir des mots pour imaginer d’autres futurs.
 
 {{< icon name="clock" pack="fas" >}} <b>Durée</b> : 6 heures. <br>
-{{< icon name="spell-check" pack="fas" >}} <b>Thèmes</b> : Numérique, Santé, Environnement. <br>
+{{< icon name="spell-check" pack="fas" >}} <b>Thèmes</b> : Santé, Environnement. <br>
 {{< icon name="hands-asl-interpreting" pack="fas" >}} <b>Public</b>: Etudiants en Lettres, Langues, Arts, Sciences Humaines et Sociales
 
 ## Ce que vous apprendrez
@@ -50,9 +50,7 @@ Enfin dans les chapitres 5 et 6 nous discuterons des <b>récits de la transition
 
 ## Compétences
 
-Nous apprendrons à <b>co-construire</b> des atelier participatifs en réalisant une fiche action (ex: [prévention santé ecran](https://www.mtpcours.fr/c/numerique-ecologie/prevention-sante-ecrans/)). 
-
-Nous verrons en pratique comment réaliser une enquête et <b>conduire des entretiens</b>.
+Nous apprendrons à <b>co-construire</b> des atelier participatifs en réalisant une fiche action (ex: [prévention santé ecran](https://www.mtpcours.fr/c/numerique-ecologie/prevention-sante-ecrans/)) et nous verrons en pratique comment réaliser une enquête et <b>conduire des entretiens</b>.
 
 Les <b>projets collectifs</b> ont pour objectif de développer la <b>créativité</b> et l'<b>engagement</b> étudiant.
 
@@ -82,8 +80,6 @@ Le numérique, talon d'Achille ou levier de la transition écologique ?
 > ADEME. Infogfraphie [Numérique : quel impact environnemental ?](https://infos.ademe.fr/magazine-avril-2022/faits-et-chiffres/numerique-quel-impact-environnemental/) et [outil de calcul des usages du numérique](https://agirpourlatransition.ademe.fr/particuliers/bureau/numerique/calculez-lempreinte-carbone-usages-numeriques), 2022.
 
 > The Shift Project. [Impact environnemental du numérique: tendances à 5 ans et gouvernance de la 5G](https://theshiftproject.org/wp-content/uploads/2021/03/Note-danalyse_Numerique-et-5G_30-mars-2021.pdf), mars 2021.
-
-> Sabine Duflo. Il ne décroche pas des écrans ! - La méthode des "4 pas" pour protéger le cerveau des enfants. 2020.
 
 > Florence Rodhain. [La nouvelle religion du numérique: le numérique est-il écologique?](https://www.editions-ems.fr/boutique/la-nouvelle-religion-du-numerique-le-numerique-est-il-ecologique/) Éditions EMS, 2019.
 
