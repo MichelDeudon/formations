@@ -28,6 +28,8 @@ tags:
 
 {{< figure src="featured.jpg" caption="Source image: [Pour un Réveil Écologique](https://pour-un-reveil-ecologique.org/fr/)">}}
 
+{{< toc hide_on="xl" >}}
+
 ## Présentation
 
 Le numérique est-il <b>un levier pour la transition écologique ou le talon d’Achille</b> d’un imaginaire devenu ringard? Comment dépasser le paradigme “diviser pour mieux régner”, et vivre en intelligence collective? 
@@ -55,7 +57,6 @@ Nous apprendrons à <b>co-construire</b> des atelier participatifs en réalisant
 Les <b>projets collectifs</b> ont pour objectif de développer la <b>créativité</b> et l'<b>engagement</b> étudiant.
 
 L'ensemble du cours vise à contribuer au <b>lâcher prise</b>, au <b>prendre soin</b>, à la communication douce et au bien vivre ensemble.
-
 
 ## Chapitres
 
@@ -86,6 +87,12 @@ Le numérique, talon d'Achille ou levier de la transition écologique ?
 > Karen Hao. [Training a single AI model can emit as much carbon as five cars in their lifetime.](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/) MIT Technology Review, 2019.
 
 > Pour un Réveil Écologique. [Guide anti greenwashing](https://pour-un-reveil-ecologique.org/fr/les-entreprises-nous-repondent/#guide-anti-greenwashing), 2017.
+
+## FAQs
+
+{{< spoiler text="Y a-t-il des prérequis?" >}}
+Il n'y a pas de prérequis.
+{{< /spoiler >}}
 
 <br>
 {{< cta cta_text="Commencer la formation" cta_link="https://www.mtpcours.fr/c/numerique-ecologie/histoire/">}}

@@ -40,9 +40,13 @@ Le découplage entre la reconnaissance et l’action laisse le temps à la réfl
 
 ## Biais de l'IA
 
+> « Entre les <b>biais</b> de certains programmes – qui reproduisent le racisme et le sexisme humain par exemple –, le <b>manque de mixité</b> dans les équipes de recherche et les <b>risques sociaux</b> que peuvent représenter ces programmes, l'IA peut inquiéter ». 
+
+> Les femmes ne sont que 10 % dans les écoles d'ingénieur en informatique. Ce manque de diversité peut conduire les algorithmes à reproduire des biais. - [Ce qu'il faut retenir du rapport de Cedric Villani](https://www.lemonde.fr/pixels/article/2018/03/28/intelligence-artificielle-ce-qu-il-faut-retenir-du-rapport-de-cedric-villani_5277697_4408996.html), entretien avec Cédric Villani dans le Monde, le 28 mars 2018, par Morgane Tual et Vincent Fagot.
+
 {{< figure src="numeco/llama-bias.png" caption="Exemple de biais de genre des modèles LLaMA, concurrent de ChatGPT. Source: [LLaMA: Open and efficient foundation language models. Arxiv, 2023.](https://arxiv.org/abs/2302.13971) (Annexe).">}}
 
-{{< figure src="numeco/mafia-CIFRE.png" caption="Y a-t-il un lien entre les biais de l'IA et la privatisation de la recherche? Retweet de @[Yann Lecun](https://twitter.com/ylecun/status/1629845738170597376?lang=en) en février 2023.">}}
+{{< figure src="numeco/mafia-CIFRE.png" caption="Y a-t-il un lien entre les biais de l'IA et la privatisation de la recherche? Retweet de @[Yann Lecun](https://twitter.com/ylecun/status/1629845738170597376?lang=en), directeur de la recherche en IA de Facebook, en février 2023.">}}
 
 ## Sortir du paradigme “diviser pour mieux régner”
 
@@ -54,7 +58,7 @@ Le découplage entre la reconnaissance et l’action laisse le temps à la réfl
 
 Les GAFAM creusent les inégalités sociales, et divisent pour mieux régner. Une autre vision du monde existe, <i>“celle qui unit”</i> - Paul Valéry.
 
-Voir le [guide anti greenwashing](https://pour-un-reveil-ecologique.org/fr/les-entreprises-nous-repondent/#guide-anti-greenwashing) Pour un Réveil Écologique sur [pour-un-reveil-ecologique.org](https://pour-un-reveil-ecologique.org/fr/).
+Voir le [guide anti greenwashing](https://pour-un-reveil-ecologique.org/fr/les-entreprises-nous-repondent/#guide-anti-greenwashing) Pour un Réveil Écologique sur [pour-un-reveil-ecologique.org](https://pour-un-reveil-ecologique.org/fr/). Voir ausi l'outil en ligne de l'[ADEME](https://communication-responsable.ademe.fr/antigreenwashing).
 
 {{< figure src="numeco/pour-un-reveil-eco.jpg" caption="Source image: [Pour un Réveil Écologique](https://pour-un-reveil-ecologique.org/fr/)">}}
 
