@@ -12,10 +12,16 @@ De l'angle d'Young à l'effet Fakir (L2/L3).
 <!--more-->
 
 ## Introduction
+  
+{{< figure src="super-hydrophoby/feather.jpg" caption="Photo by Ben Wicks on [Unsplash](https://unsplash.com/photos/white-and-gray-feather-on-brown-dried-leaves-fefHX3S-qhg).">}}
 
 De nombreux exemples de superhydrophobie existent dans la nature. Cette propriété permet notamment aux feuilles de lotus et de ginkgo biloba de rester secs et propres pour transformer plus efficacement le CO2 en dioxygène avec la photosynthèse. Cette même propriété permet à la plupart des oiseaux de décoller directement de l'eau, à quelques exceptions près comme le cormoran, dont les plumes hydrophiles s'imbibent d'eau (raison pour laquelle on le voit perché, se sécher après chaque plongeon).
 
+{{< figure src="super-hydrophoby/cormorant.jpg" caption="Photo by Kevin Grieve on [Unsplash](https://unsplash.com/photos/black-bird-on-gray-rock-near-body-of-water-during-daytime-yUispQVwPbs).">}}  
+
 La mesure de l'angle d'Young, défini comme l'angle formée entre une surface et une goutte d'eau posée dessus, permet de caractériser les surfaces hydrophiles des surfaces hydrophobes. Une goutte d'eau posée sur une surface hydrophile, comme le bois, a tendance à épouser la forme de la surface alors que sur une surface superhydrophobe, elle forme une perle. Cette propriété perlante a inspiré la conception de vêtements imperméables comme les K-ways.
+
+{{< figure src="super-hydrophoby/young.png" caption="Photo de Wikipédia.">}}  
 
 Dans la suite, nous nous intéressons aux spores de lycopode, une plante de type fougère apparue il y a 470 millions d'années. Ses spores microscopiques sont superhydrophobes et auraient permis à la plante de peupler la Terre en traversant les océans.
 

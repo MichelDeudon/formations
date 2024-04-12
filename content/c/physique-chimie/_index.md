@@ -45,9 +45,9 @@ Trouvez l'inspiration avec le biomimétisme, ou des histoires inspirées de la n
 {{< list_children >}}
 
 ## Ressources utiles
-- Programme de Physique Chimie au lycée général/technologique. [Eduscol](https://eduscol.education.fr/1648/programmes-et-ressources-en-physique-chimie-voie-gt).
-- Tableau périodique des éléments - Mendeleïev (1869). [Futura-science](https://cdn.futura-sciences.com/cdn-cgi/image/width=1000,quality=60,format=auto/sources/images/tableau-de-Mendeleiev.jpg).
-- Grandeurs et unités physique. [IUTenligne](https://public.iutenligne.net/mecanique/mecanique-du-solide/charbonnieras/mecanique/3.2.Img1.png).
+- [Programme de Physique Chimie](https://eduscol.education.fr/1648/programmes-et-ressources-en-physique-chimie-voie-gt) au lycée général/technologique (Eduscol).
+- [Tableau] périodique des éléments](https://cdn.futura-sciences.com/cdn-cgi/image/width=1000,quality=60,format=auto/sources/images/tableau-de-Mendeleiev.jpg) de Mendeleïev (1869) sur Futura-science.
+- [Grandeurs et unités physique](https://public.iutenligne.net/mecanique/mecanique-du-solide/charbonnieras/mecanique/3.2.Img1.png) sur IUTenligne.
 - Physique (forces, gravitation, force éléctrostatique, énergie, ondes, son et lumière, applications).
 - Chimie (structure de la matière, réaction d'oxydo-réduction, physique quantique, chimie organique).
 
@@ -58,7 +58,7 @@ Il n'y a pas de prérequis.
 {{< /spoiler >}}
 
 {{< spoiler text="Quand est-ce que les cours ont-ils lieu ?" >}}
-Le vendredi après midi, à la [médiathèque Pierresvives](https://pierresvives.herault.fr/) (hors vacances scolaires --> aide aux devoirs).
+Le vendredi après midi, à la [médiathèque Pierresvives](https://pierresvives.herault.fr/) (hors vacances scolaires).
 {{< /spoiler >}}
 
 {{< cta cta_text="Commencer la formation" cta_link="mailto:michel.deudon@hotmail.com?subject=Demande de cours collectifs de physique-chimie">}}
