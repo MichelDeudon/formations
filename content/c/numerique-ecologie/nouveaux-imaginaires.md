@@ -30,6 +30,8 @@ Dans la revue de mai 2023 de l'Observatoire Régional de la Communication des Or
 
 {{< figure src="numeco/incendies.png" caption="La dématérialisation, un mythe? Voir aussi Florence Rodhain. [La nouvelle religion du numérique: le numérique est-il écologique?](https://www.cairn.info/la-nouvelle-religion-du-numerique--9782376872924.htm) Éditions EMS, 2019.">}}
 
+> Kate Jeffery. [La psychologie de l'inaction climatique](https://www.ucl.ac.uk/play/ucl-talks/ucl-minds-lunch-hour-lectures/lunch-hour-lecture-psychology-climate-inaction). UCL. 2019.
+
 ## Portraits de désert'heureuses
 
 {{< figure src="numeco/desertheureuse1.png" caption="">}}
@@ -49,6 +51,8 @@ Dans la revue de mai 2023 de l'Observatoire Régional de la Communication des Or
 - [Framasoft](https://framasoft.org/fr/) propose des alternatives aux GAFAM.
 
 ## Publication de récits de la transition
+
+> <i> Il y a deux visions possibles du monde : la vision qui morcelle, la vision qui unit.</i> -  Paul Valéry
 
 Ce projet consiste à réaliser un entretien en vue de réaliser un article, portrait ou podcast. 
 Vous pouvez par exemple contacter des alumnis (anciens diplômés) engagés et investis dans des associations, des institutions, des entreprises sociales et solidaires, des projets de sciences participatives...

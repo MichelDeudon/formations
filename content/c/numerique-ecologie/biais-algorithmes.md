@@ -40,11 +40,9 @@ Le découplage entre la reconnaissance et l’action laisse le temps à la réfl
 
 ## Biais de l'IA
 
-> « Entre les <b>biais</b> de certains programmes – qui reproduisent le racisme et le sexisme humain par exemple –, le <b>manque de mixité</b> dans les équipes de recherche et les <b>risques sociaux</b> que peuvent représenter ces programmes, l'IA peut inquiéter ». 
+> Les femmes ne sont que 10 % dans les écoles d'ingénieur en informatique. Ce <b>manque de diversité</b> peut conduire les algorithmes à reproduire des biais. - [Ce qu'il faut retenir du rapport de Cedric Villani](https://www.lemonde.fr/pixels/article/2018/03/28/intelligence-artificielle-ce-qu-il-faut-retenir-du-rapport-de-cedric-villani_5277697_4408996.html), entretien avec Cédric Villani dans le Monde, le 28 mars 2018, par Morgane Tual et Vincent Fagot.
 
-> Les femmes ne sont que 10 % dans les écoles d'ingénieur en informatique. Ce manque de diversité peut conduire les algorithmes à reproduire des biais. - [Ce qu'il faut retenir du rapport de Cedric Villani](https://www.lemonde.fr/pixels/article/2018/03/28/intelligence-artificielle-ce-qu-il-faut-retenir-du-rapport-de-cedric-villani_5277697_4408996.html), entretien avec Cédric Villani dans le Monde, le 28 mars 2018, par Morgane Tual et Vincent Fagot.
-
-{{< figure src="numeco/llama-bias.png" caption="Exemple de biais de genre des modèles LLaMA, concurrent de ChatGPT. Source: [LLaMA: Open and efficient foundation language models. Arxiv, 2023.](https://arxiv.org/abs/2302.13971) (Annexe).">}}
+{{< figure src="numeco/llama-bias.png" caption="Exemple de biais de genre d'un concurrent de ChatGPT. Source: [LLaMA: Open and efficient foundation language models. Arxiv, 2023.](https://arxiv.org/abs/2302.13971) (Annexe).">}}
 
 {{< figure src="numeco/mafia-CIFRE.png" caption="Y a-t-il un lien entre les biais de l'IA et la privatisation de la recherche? Retweet de @[Yann Lecun](https://twitter.com/ylecun/status/1629845738170597376?lang=en), directeur de la recherche en IA de Facebook, en février 2023.">}}
 
@@ -58,16 +56,32 @@ Le découplage entre la reconnaissance et l’action laisse le temps à la réfl
 
 Les GAFAM creusent les inégalités sociales, et divisent pour mieux régner. Une autre vision du monde existe, <i>“celle qui unit”</i> - Paul Valéry.
 
-Voir le [guide anti greenwashing](https://pour-un-reveil-ecologique.org/fr/les-entreprises-nous-repondent/#guide-anti-greenwashing) Pour un Réveil Écologique sur [pour-un-reveil-ecologique.org](https://pour-un-reveil-ecologique.org/fr/). Voir ausi l'outil en ligne de l'[ADEME](https://communication-responsable.ademe.fr/antigreenwashing).
+Voir le [guide anti greenwashing](https://pour-un-reveil-ecologique.org/fr/les-entreprises-nous-repondent/#guide-anti-greenwashing) Pour un Réveil Écologique sur [pour-un-reveil-ecologique.org](https://pour-un-reveil-ecologique.org/fr/) et l'outil en ligne de l'[ADEME](https://communication-responsable.ademe.fr/antigreenwashing).
 
 {{< figure src="numeco/pour-un-reveil-eco.jpg" caption="Source image: [Pour un Réveil Écologique](https://pour-un-reveil-ecologique.org/fr/)">}}
 
 ## Références
 
-> [Ethique et numérique: Responsabilité Sociétale Environnementale](https://aim2024.sciencesconf.org/resource/page/id/29), AIM 2024 : 29ème conférence de l'AIM.
+> David Chavalarias, Paul Bouchaud, Victor Chomel et Maziyar Panahi. [Climatosceptiques : sur Twitter, enquête sur les mercenaires de l’intox](https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox). CNRS. 2023.
 
-> [Internet, l’autoroute de la désinformation ?](https://lejournal.cnrs.fr/articles/internet-lautoroute-de-la-desinformation) CNRS, juin 2022.
+> [Internet, l’autoroute de la désinformation ?](https://lejournal.cnrs.fr/articles/internet-lautoroute-de-la-desinformation) CNRS. 2022.
+
+> [Les fichiers Facebook](https://www.wsj.com/articles/the-facebook-files-11631713039). Une enquête du Wall Street Journal. 2021.
+
+> [Une IA qui écrit une prose convaincante risque de produire en masse de fausses nouvelles](https://www.technologyreview.com/2019/02/14/137426/an-ai-tool-auto-generates-fake-news-bogus-tweets-and-plenty-of-gibberish/). MIT Revue Technologique. 2019.
+
+> Laure Delisle et al. [Une analyse participative à grande échelle des abus contre les femmes journalistes et politiciennes sur Twitter](https://arxiv.org/abs/1902.03093). NeurIPS. 2018.
+
+> Garg Nikhil, Londa Schiebinger, Dan Jurafsky et James Zou. [Les plongements de mots quantifient 100 ans de stéréotypes de genre et ethniques](https://www.pnas.org/doi/10.1073/pnas.1720347115). Proceedings of the National Academy of Sciences. 2018.
 
 > [Guide anti greenwashing](https://pour-un-reveil-ecologique.org/fr/les-entreprises-nous-repondent/#guide-anti-greenwashing). Pour un Réveil Écologique, 2018.
 
 > Dunning, David. "The Dunning–Kruger effect: On being ignorant of one's own ignorance." Advances in experimental social psychology. Vol. 44. Academic Press, 2011. 247-296.
+
+## Textes de loi
+
+> [Loi n° 2021-1104 portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043956924). legifrance.gouv.fr. 2021.
+
+> [Loi n° 2018-1202 relative à la lutte contre la manipulation de l'information](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037847559). legifrance.gouv.fr. 2018.
+
+> [Règlement Général sur la Protection des Données](https://www.cnil.fr/fr/rgpd-de-quoi-parle-t-on). CNIL. 2018.
