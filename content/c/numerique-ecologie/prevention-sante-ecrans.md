@@ -27,19 +27,19 @@ Méthodes de prévention.
 
 ## Filtres et écrans, quels enjeux?
 
-D'après le Larousse, un <b>filtre</b> est un dispositif destiné à favoriser ou à entraver le passage et un <b>écran</b> ce qui s'interpose, s'intercale et dissimule. Ces définitions nous amène à avoir des comportements différents lorsque nous sommes ou non sur nos téléphones, ordinateurs et tablettes, notamment notre manière d'interagir et de communiquer est modifiée.
+D'après le Larousse, un <b>filtre</b> est un dispositif destiné à favoriser ou à entraver le passage. Un <b>écran</b> ce qui s'interpose, s'intercale et dissimule. Ces définitions nous amènent à avoir des comportements différents lorsque nous sommes ou non sur nos téléphones, ordinateurs et tablettes, notamment notre manière d'interagir et de communiquer est modifiée.
 
 {{< figure src="numeco/smartphones.jpg" caption="Photo by Ketut Subiyanto on [Pexels](https://www.pexels.com/photo/multiethnic-family-spending-time-together-on-couch-with-gadgets-4545968/).">}}
 
-En 2024, de plus en plus de parents et d'associations aux Etats Unis, en France et ailleurs se mobilisent contre l'invasion du numérique dans les écoles (lobbying du numérique). 
+Les pays scandinaves ont récemment changé de position sur l'école et les écrans. <i> À l’origine de ce revirement, les mises en garde de neurologues et de pédiatres contre l’introduction trop précoce des outils numériques à l’école</i>. - Courrier International. [Éducation. Après avoir misé sur le numérique à l’école, les pays scandinaves font machine arrière.](https://www.courrierinternational.com/article/education-apres-avoir-mise-sur-le-numerique-a-l-ecole-les-pays-scandinaves-font-machine-arriere), mars 2024.
 
-Les pays scandinaves ont récemment changé de position sur l'école et les écrans. <i> À l’origine de ce revirement, les mises en garde de neurologues et de pédiatres contre l’introduction trop précoce des outils numériques à l’école</i>. - [Courrier International](https://www.courrierinternational.com/article/education-apres-avoir-mise-sur-le-numerique-a-l-ecole-les-pays-scandinaves-font-machine-arriere), mars 2024.
+Voir aussi l'article Mediapart de mars 2023: [Écrans et santé : il est urgent d'agir !](https://blogs.mediapart.fr/emmanuel-prados/blog/020323/ecrans-et-sante-il-est-urgent-d-agir) et le livre de Sabine Duflo, Il ne décroche pas des écrans ! - La méthode des "4 pas" pour protéger le cerveau des enfants, publié en 2020.
 
 ## Ateliers Préventifs sur les Réseaux Sociaux
 
 <b>Les Jeunes et les Réseaux Sociaux</b> est un atelier ouvert au public pour permettre aux jeunes de s'exprimer dans un cadre bienveillant, et s'informer, pour sensibiliser aux impacts des écrans et alternatives aux réseaux sociaux.
 
-La formation proposée permet aux jeunes et à leur entourage (parents, profs) de découvrir des méthodes de débat, d'écoute attentive et d'intelligence collective pour lutter contre les inégalités sociales, les discriminations et les violences en ligne. 
+La formation proposée permet aux jeunes et à leur entourage de découvrir des méthodes de débat, d'écoute attentive et d'intelligence collective pour lutter contre les inégalités sociales, les discriminations et les violences. 
 
 Elle prend la forme d'un atelier collaboratif organisé en 3 temps
 
@@ -47,11 +47,11 @@ Elle prend la forme d'un atelier collaboratif organisé en 3 temps
 2. <b>Méthode 1-2-4-tous pour débattre</b> : À quels besoins les réseaux sociaux répondent-ils? Comment me font-ils sentir? Quelles alternatives et solutions concrètes?
 3. <b>Cercle de parole</b> et témoignages. À la fin de l'atelier, les participants sont invités à résumer ce qu'ils ont aimés (ou non) et appris.
 
-{{< figure src="numeco/les-jeunes-et-les-reseaux-sociaux.png" caption="Le programme [Cités éducatives](https://www.citeseducatives.fr/) vise à renforcer l'accompagnement des jeunes et enfants de 3 ans à 25 ans, pendant le temps scolaire, périscolaire et extrascolaire, en lien avec les familles. L'académie de Montpellier compte 7 cités éducatives, à Nîmes, Montpellier, Perpignan, Béziers, Sète, Lézignan-Corbières, Lunel, et concerne 33 000 élèves.">}}
+{{< figure src="numeco/les-jeunes-et-les-reseaux-sociaux.png" caption="Le programme [Cités éducatives](https://www.citeseducatives.fr/) vise à renforcer l'accompagnement des jeunes et enfants de 3 ans à 25 ans, pendant le temps scolaire, périscolaire et extrascolaire, en lien avec les familles. L'académie de Montpellier compte 7 cités éducatives et concerne 33 000 élèves.">}}
 
-👉 Voir notre {{% staticref "u/Temoignages-reseaux-sociaux-Montpellier-juin-2023.pdf" %}}extrait de propositions de l'atelier{{% /staticref %}} réalisé en juin 2023 avec l’association [Générations Solidaires et Citoyennes](https://www.jeveuxaider.gouv.fr/organisations/4859-generations-solidaires-et-citoyennes) au le Centre Social CAF de la Paillade.
+👉 Voir notre {{% staticref "u/Temoignages-reseaux-sociaux-Montpellier-juin-2023.pdf" %}}extrait de propositions de l'atelier{{% /staticref %}} réalisé en juin 2023 avec l’association [Générations Solidaires et Citoyennes](https://www.jeveuxaider.gouv.fr/organisations/4859-generations-solidaires-et-citoyennes) au Centre Social CAF de la Paillade.
 
-Un jeune sur deux propose plus de sorties et du sport comme alternative...
+Un jeune sur deux propose <b>plus de sorties et du sport</b> comme alternative à l'ennui et aux écrans...
 
 ## Bon plans
 
@@ -78,17 +78,3 @@ La [Maison Des Adolescents](https://mda34.org/) est un lieu d'expression et d'ac
 {{< spoiler text="Ouvert à tous et à toutes" >}}
 [Les Maisons Pour Tous](https://www.montpellier.fr/3791-maisons-pour-tous.htm), lieux de découverte, détente, culture, expression, apprentissage, diffusion, sport et convivialité, proposent plus de 500 activités différentes encadrées par les agents de la Ville ou par les associations qualifiées.
 {{< /spoiler >}}
-
-## Références
-
-> Courrier International. [Éducation. Après avoir misé sur le numérique à l’école, les pays scandinaves font machine arrière.](https://www.courrierinternational.com/article/education-apres-avoir-mise-sur-le-numerique-a-l-ecole-les-pays-scandinaves-font-machine-arriere), mars 2024.
-
-> Mediapart. [Écrans et santé : il est urgent d'agir !](https://blogs.mediapart.fr/emmanuel-prados/blog/020323/ecrans-et-sante-il-est-urgent-d-agir), mars 2023.
-
-> Servane Mouton. Humanité et numérique - Les liaisons dangereuses. 2023.
-
-> Fabien Lebrun. On achève bien les enfants: écrans et barbarie numérique. Le Bord de l'eau. 2020.
-
-> Sabine Duflo. Il ne décroche pas des écrans ! - La méthode des "4 pas" pour protéger le cerveau des enfants. 2020.
-
-> Michel Desmurget. La fabrique du crétin digital - Les dangers des écrans pour nos enfants. Média Diffusion. 2019.

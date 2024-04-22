@@ -44,9 +44,9 @@ social:
 #  - icon: phone
 #    icon_pack: fas
 #    link: 'tel:06xxxxxxxx'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?hl=en&user=N7AFvCcAAAAJ
+#  - icon: google-scholar
+#    icon_pack: ai
+#    link: https://scholar.google.com/citations?hl=en&user=N7AFvCcAAAAJ
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''

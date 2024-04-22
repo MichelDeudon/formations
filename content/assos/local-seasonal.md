@@ -20,7 +20,7 @@ tags:
   - Hérault
 ---
 
-Une association loi 1901
+Une association loi 1901 créée en 2020.
 
 <!--more-->
 

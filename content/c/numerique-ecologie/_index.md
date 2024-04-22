@@ -12,10 +12,8 @@ tags:
   - Santé Physique
   - Santé Mentale
   - Ecologie
-  - Sensibilisation
-  - Conseils Pratiques
-  - Débats
   - Empathie
+  - Débats
   - l'École et les Écrans
   - Santé Écrans
   - Lien Social
@@ -37,7 +35,7 @@ tags:
 
 Le numérique est-il <b>un levier pour la transition écologique ou le talon d’Achille</b> d’un imaginaire devenu ringard? Comment dépasser le paradigme “diviser pour mieux régner”, et vivre en intelligence collective? 
 
-À travers ce cours, les étudiants pourront interroger le rôle du numérique dans le <b>bien vivre ensemble</b>, ses liens avec l'environnement et la société, la notion de <b>pollution invisible</b>, de filtres, d’écrans, les enjeux auxquels ces notions renvoient ainsi que des solutions concrètes à portée de main, pour mieux vivre ensemble. Nous apprendrons à faire preuve de discernement face aux discours techno-solutionnistes, à reconnaître les techniques courantes de greenwashing, à <b>déconstruire les mythes</b> sur la dématérialisation et le tout électrique. Nous discuterons des rouages des algorithmes et de nos biais cognitifs pour nous aider à recentrer notre attention. Enfin, nous verrons des exemples et <b>usages positifs du numérique</b>, développés par des enseignants et chercheurs de l’Université Paul-Valéry. Nous nous intéresserons au rôle des artistes et au pouvoir des mots pour imaginer d’autres futurs.
+À travers ce cours, les étudiants pourront interroger le rôle du numérique dans le <b>bien vivre ensemble</b>, ses liens avec l'environnement et la société, la notion de <b>pollution invisible</b>, de filtres, d’écrans, les enjeux auxquels ces notions renvoient ainsi que des solutions concrètes à portée de main, pour mieux vivre ensemble. Nous apprendrons à faire preuve de discernement face aux discours techno-solutionnistes, à reconnaître les techniques courantes de greenwashing, à <b>déconstruire les mythes</b> sur la dématérialisation et le genre. Nous discuterons des rouages des algorithmes et de nos biais cognitifs pour nous aider à recentrer notre attention. Enfin, nous verrons des exemples et <b>usages positifs du numérique</b>, développés par des enseignants et chercheurs de l’Université Paul-Valéry. Nous nous intéresserons au rôle des artistes et au pouvoir des mots pour imaginer d’autres futurs.
 
 {{< icon name="clock" pack="fas" >}} <b>Durée</b> : 6 heures. <br>
 {{< icon name="spell-check" pack="fas" >}} <b>Thèmes</b> : Santé, Environnement. <br>
@@ -47,9 +45,11 @@ Le numérique est-il <b>un levier pour la transition écologique ou le talon d�
 
 Dans le premier chapitre, nous verrons des <b>éléments historiques</b> du développement de l’informatique; <b>le rôle pionnier des femmes</b> et leur invisibilisation; <b>la loi de Moore</b>, <b>le prix Turing</b>, la notion de limites, de ressources finies; <b>les régulateurs</b>.
 
-Le second chapitre est consacré à la <b>pollution invisible</b> et la notion de <b>sac à dos écologique</b>. Il présente les <b>scénarios de l’ADEME</b> et zoom sur les <b>impacts du numérique</b> (santé, social, environnement). Nous apprendrons à <b>co-construire</b> un atelier participatif en réalisant une fiche action (ex: [prévention santé ecran](https://www.mtpcours.fr/c/numerique-ecologie/prevention-sante-ecrans/))
+Le second chapitre est consacré à la <b>pollution invisible</b> et la notion de <b>sac à dos écologique</b>. Il présente les <b>scénarios de l’ADEME</b> et zoom sur les <b>impacts du numérique</b> (santé, social, environnement). Nous apprendrons à <b>co-construire</b> un atelier participatif en réalisant une fiche action.
 
-Le chapitre 3 présente une méthode de <b>prévention santé écrans</b>. Le chapitre 4 aborde les <b>biais cognitifs</b>, stéréotypes et boucles de rétroaction, ainsi que des méthodes pour repérer le greenwashing et les conflit d'intérêts, afin de <b>faire preuve d'esprit critique</b>.
+Le chapitre 3 présente une méthode de <b>prévention santé écrans</b>. 
+
+Le chapitre 4 aborde les <b>biais cognitifs</b>, stéréotypes et boucles de rétroaction, ainsi que des méthodes pour repérer le greenwashing et les conflit d'intérêts, afin de <b>faire preuve d'esprit critique</b>.
 
 Enfin dans les chapitres 5 et 6 nous discuterons des <b>récits de la transition</b>, du pouvoir la narration et les <b>innovations</b> à l'Université Paul Valéry (ESS, sciences participatives, licence miashs, handinnovation...). Nous verrons en pratique comment réaliser une enquête et <b>conduire des entretiens</b>.
 
@@ -66,19 +66,19 @@ Le numérique, talon d'Achille ou levier de la transition écologique ?
 
 > [Sobriété Numérique : pourquoi, pourquoi pas et comment ?](https://atecopolmtp.hypotheses.org/352) Séminaire Atecopol Montpellier avec Françoise Berthoud, Ingénieure de Recherche CNRS, le 14 mars 2024. Lien vers le [diaporama de la présentation](https://atecopolmtp.hypotheses.org/files/2024/03/Sobriete-Numerique-atecopol-montpellier-mars-2024.pdf).
 
-> Courrier International. [Éducation. Après avoir misé sur le numérique à l’école, les pays scandinaves font machine arrière.](https://www.courrierinternational.com/article/education-apres-avoir-mise-sur-le-numerique-a-l-ecole-les-pays-scandinaves-font-machine-arriere), mars 2024.
-
 > Mediapart. [Écrans et santé : il est urgent d'agir !](https://blogs.mediapart.fr/emmanuel-prados/blog/020323/ecrans-et-sante-il-est-urgent-d-agir), mars 2023.
 
-> ADEME/ARCEP. [Impact environnemental du numérique en 2030 et 2050: l’ADEME et l’ARCEP publient une évaluation prospective](https://presse.ademe.fr/2023/03/impact-environnemental-du-numerique-en-2030-et-2050-lademe-et-larcep-publient-une-evaluation-prospective.html). Presse.ademe.fr, mars 2023.
+> ADEME. [Impact environnemental du numérique en 2030 et 2050: l’ADEME et l’ARCEP publient une évaluation prospective](https://presse.ademe.fr/2023/03/impact-environnemental-du-numerique-en-2030-et-2050-lademe-et-larcep-publient-une-evaluation-prospective.html). Presse.ademe.fr, mars 2023.
 
 > Alain Damasio. [L'imaginaire capitaliste est devenu ringard, il se fissure de partout](https://www.youtube.com/watch?v=Y8SpcxR6FjQ). Blast, fev 2023.
 
-> [Internet, l’autoroute de la désinformation ?](https://lejournal.cnrs.fr/articles/internet-lautoroute-de-la-desinformation) CNRS, juin 2022.
+> Philippe Testard-Vaillant et Charline Zeitoun. [Internet, l’autoroute de la désinformation ?](https://lejournal.cnrs.fr/articles/internet-lautoroute-de-la-desinformation) CNRS, juin 2022.
 
 > ADEME. Infogfraphie [Numérique : quel impact environnemental ?](https://infos.ademe.fr/magazine-avril-2022/faits-et-chiffres/numerique-quel-impact-environnemental/) et [outil de calcul des usages du numérique](https://agirpourlatransition.ademe.fr/particuliers/bureau/numerique/calculez-lempreinte-carbone-usages-numeriques), 2022.
 
 > The Shift Project. [Impact environnemental du numérique: tendances à 5 ans et gouvernance de la 5G](https://theshiftproject.org/wp-content/uploads/2021/03/Note-danalyse_Numerique-et-5G_30-mars-2021.pdf), mars 2021.
+
+> Sabine Duflo. [Il ne décroche pas des écrans ! - La méthode des “4 pas” pour protéger le cerveau des enfants](). 2020.
 
 > Florence Rodhain. [La nouvelle religion du numérique: le numérique est-il écologique?](https://www.editions-ems.fr/boutique/la-nouvelle-religion-du-numerique-le-numerique-est-il-ecologique/) Éditions EMS, 2019.
 

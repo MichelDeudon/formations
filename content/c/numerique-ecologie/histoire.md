@@ -27,7 +27,7 @@ De 1843 à aujourd'hui, les femmes sont pionnières.
 
 ## De 1843 à 1970, les femmes pionières en sciences
 
-Le dictionnaire Larousse définit l'<b>informatique</b> comme la science du traitement automatique et rationnel de l'information considérée comme le support des connaissances et des communications. Il s'agit donc d'une science dans lesquelles les femmes étaient (et sont toujours) pionnières. En effet, on attribue à <b>Ada Lovelace</b> l'origine du premier algorithme en 1843. <b>Mary Jackson, Katherine Johnson, Dorothy Vaugha</b>, mathématiciennes et informaticiennes à la NASA, étaient à l'origine des succès des premières missions Apollo, tout comme <b>Margaret Heafield Hamilton</b>, qui a permis d'aller sur la lune en 1969 (mission Apollo 11).
+Le dictionnaire Larousse définit l'<b>informatique</b> comme la science du traitement de l'information considérée comme le support des connaissances et des communications. Il s'agit donc d'une science dans lesquelles les femmes étaient (et sont toujours) pionnières. En effet, on attribue à <b>Ada Lovelace</b> l'origine du premier algorithme en 1843. <b>Mary Jackson, Katherine Johnson, Dorothy Vaugha</b>, mathématiciennes et informaticiennes à la NASA, étaient à l'origine des succès des premières missions Apollo, tout comme <b>Margaret Heafield Hamilton</b>, qui a permis d'aller sur la lune en 1969 (mission Apollo 11).
 
 ## Des années 1950 à 1980, d'un effort de l'armée à une logique de marché
 
@@ -67,6 +67,4 @@ On parle de transformation numérique, de fracture numérique, de numérique res
 
 {{< figure src="numeco/media-fr.png" caption="Paysage des médias en France. Qui détient quoi?">}}
 
-Selon le Larousse, le <b>numérique</b> relève des nombres (en anglais digital). Qui/quoi se cache derrière les nombres?
-
-Voir aussi [levée de fonds de 105 millions d'euros de la startup Mistral.ai](https://www.maddyness.com/2023/06/13/mistral-levee-de-fonds-105-millions-artificielle-generative/).
+Selon le Larousse, le <b>numérique</b> relève des nombres (en anglais digital). Qui/quoi se cache derrière les nombres? Par exemple derrière la [levée de fonds de 105 millions d'euros de la startup Mistral.ai](https://www.maddyness.com/2023/06/13/mistral-levee-de-fonds-105-millions-artificielle-generative/) en 2023?

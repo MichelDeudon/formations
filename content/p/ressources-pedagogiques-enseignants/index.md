@@ -26,8 +26,6 @@ Et ingénieurs en reconversion.
 
 Les secteurs de l'éducation, de l'enseignement supérieur et de la recherche traversent une crise en France (manque de personnel qualifié, métiers peu valorisés, peu attractifs, précarité, santé physique, santé mentale des professionnels et étudiants). Certains parlent de syndrome de Stockholm pendant que d'autres y voient des opportunités.
 
-{{< figure src="app2app/classe.jpg" caption="Photo de Илья Иванов sur Pexels.">}}
-
 Pour les technophiles convaincu qu'<i>une tablette ou application</i> peut faire 80% voire 100% du travail d'<i>un prof</i>, c'est l'opportunité d'investir dans le numérique, des cours en visio, des formations à distance, des algorithmes d'intelligence artificielle comme chatGPT qui plagie Wikipédia...
 
 Pour les autres, et notamment les professionnels sur le terrain, de l'animation, de l'éducation, de l'enseignement supérieur et de la recherche, c'est l'opportunité d'<b>apprendre à prendre soin de la relation pédagogique</b> et <b>donner du sens à nos enseignements</b>.

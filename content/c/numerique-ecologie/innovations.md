@@ -20,6 +20,8 @@ Pour un numérique responsable.
 
 <!--more-->
 
+Soutenir les initiatives et innovations locales, frugales 🌸, [solidaires et sociales](https://flavi.fr/index.php/about/), la biodiversité, la low-tech, l’[agroécologie](https://wwoof.fr/fr/), les [médias indépendants](https://www.blast-info.fr/), les alternatives aux GAFAM de [Framasoft](https://degooglisons-internet.org/en/)... c'est agir localement, à son échelle, pour la planète.
+
 ## Economie Sociale et Solidaire
 
 <b>Flavi</b>, la start-up montpelliéraine qui réinvente l'aide à domicile.

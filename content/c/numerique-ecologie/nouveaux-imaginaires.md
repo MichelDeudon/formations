@@ -18,7 +18,7 @@ tags:
   - Environnement
 ---
 
-Cultiver le pouvoir des récits et imaginaires unir et encapaciter.
+Cultiver le pouvoir des récits et imaginaires pour unir, encapaciter.
 
 <!--more-->
 
