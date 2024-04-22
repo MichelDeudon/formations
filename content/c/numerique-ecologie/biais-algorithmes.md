@@ -48,11 +48,13 @@ Le découplage entre la reconnaissance et l’action laisse le temps à la réfl
 
 ## Sortir du paradigme “diviser pour mieux régner”
 
-{{< figure src="numeco/twitter-climate-cnrs.png" caption="Source: [https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox](https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox). Voir aussi [Désinformation : la Commission européenne suspend toutes ses publicités sur le réseau social X](https://www.lemonde.fr/pixels/article/2023/11/17/desinformation-la-commission-europeenne-suspend-toutes-ses-publicites-sur-le-reseau-social-x_6200746_4408996.html), Le Monde, nov 2023.">}}
+{{< figure src="numeco/twitter-climate-cnrs.png" caption="Montée du climatosceptisme sur <b>Twitter</b> (acheté par Elon Musk en 2022). Une importante communauté s’est structurée à partir de l’été 2022. Plus de 10 000 comptes actifs relaient des fausses informations et attaquent le [GIEC](https://www.ecologie.gouv.fr/publication-du-6e-rapport-synthese-du-giec), à coups de milliers de tweets quotidiens. Source: [https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox](https://lejournal.cnrs.fr/articles/climatosceptiques-sur-twitter-enquete-sur-les-mercenaires-de-lintox).">}}
 
-{{< figure src="numeco/chatgpt-greenwashing.png" caption="Reconnaître les perles de greenwashing. Capture d’écran d’un étudiant de Paul Valéry en licence MIASHS.">}}
+{{< figure src="numeco/chatgpt-greenwashing.png" caption="Reconnaître les perles de greenwashing. Capture d’écran d’un étudiant (ChatGPT3, février 2023). Une IA qui écrit une prose convaincante risque de produire en masse de fausses nouvelles (ChatGPT2, février 2019). [MIT Technology Review](https://www.technologyreview.com/2019/02/14/137426/an-ai-tool-auto-generates-fake-news-bogus-tweets-and-plenty-of-gibberish/).">}}
 
-{{< figure src="numeco/nvidia-stock.png" caption="Reconnaître les conflits d’intérêts. Capitalisation boursière de NVIDIA (2.25 trilliards en 2024).">}}
+{{<hl>}}L'entraînement de modèles fondamentaux <b>plus petits</b> comme LLaMA est souhaitable{{</hl>}} dans le champ des large language model, car {{<hl>}}ça nécessite beaucoup <b>moins de puissance de calcul et de ressources</b>{{</hl>}} pour tester de nouvelles approches, valider le travail des autres et explorer de nouveaux cas d'utilisation (...) Nous avons entraîné LLaMA 65B et LLaMA 33B sur 1,4 trilliard de jetons. Notre {{<hl>}}<b>plus petit</b> modèle{{</hl>}}, LLaMA 7B, est formé sur un trilliard de jetons. - Perle de greenwashing du blog [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) de Facebook en février 2023.
+
+{{< figure src="numeco/nvidia-stock.png" caption="Reconnaître les conflits d’intérêts. Capitalisation boursière de NVIDIA (2.25 trilliards en 2024). En décembre 2022, à [NeurIPS 2022](https://www.climatechange.ai/events/neurips2022) un workshop est organisé par climatechange.ai et inclut 19 auteurs de <b>NVIDIA</b>, leader mondial du calcul en intelligence artificielle, qui tire profit des crises.">}}
 
 Les GAFAM creusent les inégalités sociales, et divisent pour mieux régner. Une autre vision du monde existe, <i>“celle qui unit”</i> - Paul Valéry.
 

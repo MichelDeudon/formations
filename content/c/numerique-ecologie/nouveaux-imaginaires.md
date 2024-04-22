@@ -8,6 +8,7 @@ tags:
   - Pouvoir des récits
   - Récits de la transition
   - Nouveaux Imaginaires
+  - Sobriété Numérique
   - Entraide
   - Solidarité
   - Sens

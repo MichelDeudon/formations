@@ -14,12 +14,9 @@ tags:
   - Economie
   - Société
   - Environnement
-  - Innovation
-  - Genre
-  - Imaginaires
 ---
 
-De 1843 à aujourd'hui, les femmes sont pionnières.
+De 1843 à aujourd'hui, les femmes sont pionnières et invisibilisées.
 
 <!--more-->
 
@@ -43,15 +40,15 @@ De 1965 à 2015, la <b>loi de Moore</b> traduit un modèle de croissance sans li
 Dans les années 1970-1980, le secteur privé investit dans les processeurs, les ordinateurs (hardware), les logiciels (software) et les entreprises américaines comme Intel (1968), Microsoft et Apple (1976) voient le jour avec <b>Bill Gates</b> et <b>Steve Jobs</b>.
 
 De 1965 à aujourd’hui, la part des femmes / hommes s’est inversée.
-L’histoire se souvient d’Alan Turing (Enigma, 1943) qui a donné son nom au prix Turing.
+L’histoire se souvient d’<b>Alan Turing</b> (Enigma, 1943) qui a donné son nom au prix Turing.
 À ce jour, 3 femmes sur 51 ont obtenu le prix Turing, décerné par l’Association for Computing Machinery (lobby des États-Unis).
 
-## Des années 1990 aux années 2010, essor d'internet et d'applis
+## Des années 1990 aux années 2010, essor d'internet et des applis
 
 <b>Internet</b> fait son apparition au grand public à la fin des années 80 et connait son essor dans les années 1990, dans un monde succédant à la guerre froide (chute du mur de Berlin en 1989).
 
 <b>Jeff Bezos</b> avec Amazon (1994), <b>Serge et Larry Page</b> avec Google (1998) ont fait fortune dans le e-commerce et les moteurs de recherche en surfant la vague internet comme d'autres milliardaires.
-<b>Mark Zuckerberg</b> crée le réseau social Facebook (2004) qui finit de compléter l'accroynome GAFAM.
+<b>Mark Zuckerberg</b> crée le réseau social Facebook (2004) qui finit de compléter l'accronyme GAFAM.
 
 {{< figure src="numeco/gafam.png" caption="Co fondateurs des GAFAM. Voir aussi [Bloomberg Billionaires Index](https://bloomberg.com/billionaires/) (poids économique).">}}
 
@@ -59,7 +56,7 @@ Le premier iphone voit le jour en 2007. Avec les smartphones et l'app store, c'e
 On peut citer Snapchat (2011) ou Tiktok (2016) qui font leur apparition dans les années 2010, et la liste continue.
 Facebook rachète Instagram (2012) et Whatsapp (2014), puis devient Meta en 2021. Google achète DeepMind (2014) et devient Alphabet en 2015.
 
-<b>Vers une évolution de la loi</b>. Le [Réglement Européen sur la Protection des Données personnelles](https://www.cnil.fr/fr/rgpd-de-quoi-parle-t-on) (RGPD) est entré en vigueur dans l'Union Européenne en mai 2018. Il succède en France à la Loi Informatique et Libertés de 1978 et la création de la [Commission nationale de l'informatique et des libertés](https://www.cnil.fr/fr/) (CNIL) comme régulateur. On aussi citer la création de l'[Autorité de Régulation des Communications Électroniques, des Postes et de la Distribution de la Presse](https://www.arcep.fr/) (ARCEP) en 1997 comme régulateur des Télécoms et Médias.
+<b>Vers une évolution de la loi</b>. Le [Réglement Européen sur la Protection des Données personnelles](https://www.cnil.fr/fr/rgpd-de-quoi-parle-t-on) (RGPD) est entré en vigueur dans l'Union Européenne en mai 2018 et sanctionne régulièrement les géants du numérique. Il succède en France à la Loi Informatique et Libertés de 1978 et la création de la [Commission nationale de l'informatique et des libertés](https://www.cnil.fr/fr/) (CNIL) comme régulateur. On aussi citer la création de l'[Autorité de Régulation des Communications Électroniques, des Postes et de la Distribution de la Presse](https://www.arcep.fr/) (ARCEP) en 1997 comme régulateur des Télécoms et Médias.
 
 ## Et aujourd'hui?
 
@@ -67,4 +64,4 @@ On parle de transformation numérique, de fracture numérique, de numérique res
 
 {{< figure src="numeco/media-fr.png" caption="Paysage des médias en France. Qui détient quoi?">}}
 
-Selon le Larousse, le <b>numérique</b> relève des nombres (en anglais digital). Qui/quoi se cache derrière les nombres? Par exemple derrière la [levée de fonds de 105 millions d'euros de la startup Mistral.ai](https://www.maddyness.com/2023/06/13/mistral-levee-de-fonds-105-millions-artificielle-generative/) en 2023?
+Selon le Larousse, le <b>numérique</b> relève des nombres (en anglais digital). Qui/quoi se cache derrière ces nombres? Par exemple derrière la [levée de fonds de 105 millions d'euros de la startup Mistral.ai](https://www.maddyness.com/2023/06/13/mistral-levee-de-fonds-105-millions-artificielle-generative/) en 2023?

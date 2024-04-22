@@ -6,16 +6,12 @@ weight: 20
 highlight: true
 tags:
   - Impacts du numérique
-  - Réseaux Sociaux
-  - Intelligence Artificielle
   - Pollution invisible
   - Santé Physique
   - Santé Mentale
   - Economie
-  - Énergie
   - Société
   - Environnement
-  - Sobriété Numérique
 ---
 
 Impacts du numérique: environnementaux, sanitaires et sociaux.
@@ -41,10 +37,10 @@ Les <b>impacts sociaux</b> sont eux liés à la transformation de nos modes de v
 
 La notion de <b>sac à dos écologique</b> fait référence au fait qu'il fait 500 fois le poids d'un smartphone en matière première pour le fabriquer (le taux d'extraction du Cuivre varie de 0.3 à 2%, celui du Lithium de 0.05% à 0.15%, etc). Ceci produit d'importante quantités de déchets et représente des sources de pollution de l'environnement (eau, sols...).
 
-{{< figure src="numeco/mendeleiv.png" caption="Elements présents dans les smartphones en 2021, par composants. La fabrication des composants repose sur l'extraction de mines, responsables de conflits et de pollution.">}}
+{{< figure src="numeco/mendeleiv.png" caption="Elements présents dans les smartphones en 2021, par composants. La fabrication des composants repose sur l'extraction de mines, responsables de conflits et de pollution. Source: [Sobriété Numérique : pourquoi, pourquoi pas et comment ?](https://atecopolmtp.hypotheses.org/352) Séminaire Atecopol Montpellier avec Françoise Berthoud, Ingénieure de Recherche CNRS, le 14 mars 2024. Lien vers le [diaporama de la présentation](https://atecopolmtp.hypotheses.org/files/2024/03/Sobriete-Numerique-atecopol-montpellier-mars-2024.pdf).">}}
 
-On peut retenir le chiffre de 10% pour la consommation éléctrique annuelle des services numériques en 2022 mais c'est aussi la tendance, la croissance exponentielle des flux de données (+6% dans les émissions de GES mondiales, +12 équipements en moyenne par habitant en France, en forte augmentation) que nous sommes invités à interroger.
-The Shift Project a publié une étude en mars 2021 à ce sujet: Le rapport [Impact environnemental du numérique: tendances à 5 ans et gouvernance de la 5G](https://theshiftproject.org/wp-content/uploads/2021/03/Note-danalyse_Numerique-et-5G_30-mars-2021.pdf) cite une étude de Techradar selon laquelle une question se pose quant à la capacité même d’assurer une production industrielle suffisante. Indirectement, le numérique accélere la consommation/production et les flux de matières premières et d'énergie.
+On peut retenir le chiffre de 10% pour la consommation éléctrique annuelle des services numériques en 2022 mais c'est aussi la tendance, la croissance exponentielle des flux de données (+12 équipements en moyenne par habitant en France, en forte augmentation) que nous sommes invités à interroger.
+The Shift Project a publié en mars 2021 le rapport [Impact environnemental du numérique: tendances à 5 ans et gouvernance de la 5G](https://theshiftproject.org/wp-content/uploads/2021/03/Note-danalyse_Numerique-et-5G_30-mars-2021.pdf) qui cite une étude de Techradar : une question se pose quant à la capacité même d’assurer une production industrielle suffisante. Indirectement, le numérique accélere la consommation et les flux de matières premières et d'énergie.
 
 {{< figure src="numeco/usages-infra-Shift.png" caption="Impacts environnementaux du numérique et facteurs de croissance.">}}
 
@@ -56,7 +52,7 @@ Le Bitcoin représenterait à lui seul 10% de la consommation totale des data ce
 
 La 5G pourrait entrainer une augmentation de 18 à 44% de l’empreinte carbone du numérique à horizon 2030 d'après le Haut Conseil pour le Climat en 2020.
 
-L'IA aussi est gourmand en énergie et a vu sa consommation explosé dans les dernières années (changement d'ordres de grandeur). En 2019, dans l'article [Energy and Policy Considerations for Deep Learning in NLP](https://arxiv.org/abs/1906.02243) d'Emma Strubell, Ganesh Ananya et Andrew McCallum, il est question de modèles avec des millions de paramètres par comparaison à [des milliards](https://arxiv.org/abs/2302.13971) en 2023.
+L'IA aussi est gourmand en énergie et a vu sa consommation explosé dans les dernières années. En 2019, dans l'article [Energy and Policy Considerations for Deep Learning in NLP](https://arxiv.org/abs/1906.02243) d'Emma Strubell, Ganesh Ananya et Andrew McCallum, il est question de modèles avec des millions de paramètres par comparaison à [des milliards](https://arxiv.org/abs/2302.13971) en 2023 (changement d'ordres de grandeur).
 
 {{< figure src="numeco/neural-networks-LCA.png" caption="<i>Le processus de deep learning a <b>un impact environnemental démesuré</b> (...) L'entraînement de modèles toujours plus grands sur des ensembles de données tentaculaires récupérées sur Internet (...) est coûteux en calcul et très gourmand en énergie</i>. Source: Karen Hao. [L'entraînement d'un seul modèle d'IA peut émettre autant de carbone que...](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/) MIT Tech Review, juin 2019.">}}
 
@@ -72,7 +68,6 @@ Pour aller plus loin:
 - [Le Mooc INRIA/Class Code](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/), accessible à partir du lycée.
 - [La Fresque du Numérique](https://www.fresquedunumerique.org/), un atelier pour comprendre en équipe et de manière ludique les enjeux environnementaux du numérique.
 - Ressources de l'université Paul Valéry [Pour un numérique responsable](https://www.univ-montp3.fr/fr/vie-de-campus/campus-num%C3%A9rique/un-numerique-responsable).
-- [Sobriété Numérique : pourquoi, pourquoi pas et comment ?](https://atecopolmtp.hypotheses.org/352) Séminaire Atecopol Montpellier avec Françoise Berthoud, Ingénieure de Recherche CNRS, le 14 mars 2024. Lien vers le [diaporama de la présentation](https://atecopolmtp.hypotheses.org/files/2024/03/Sobriete-Numerique-atecopol-montpellier-mars-2024.pdf).
 
 ### Impacts sanitaires et sociaux
 
@@ -86,5 +81,5 @@ On est saturé d'information de peur d'en manquer ou simplement par ennui (écon
 
 👉 Voir notre {{% staticref "u/Temoignages-reseaux-sociaux-Montpellier-mai-2023.pdf" %}}recueil de témoignages{{% /staticref %}} sur les réseaux sociaux en mai 2023.
 
-Vous pouvez [enquêter autour d'étudiants](https://framaforms.org/reseaux-sociaux-attention-et-sante-mentale-1687119437).
+Vous pouvez [enquêter auprès d'étudiants](https://framaforms.org/reseaux-sociaux-attention-et-sante-mentale-1687119437).
 Ce projet de sciences participatives est l’occasion de vous confronter au terrain et de développer vos compétences de détective.

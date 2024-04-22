@@ -8,12 +8,9 @@ tags:
   - Prévention Santé Écrans
   - l'École et les Écrans
   - Réseaux Sociaux
-  - Intelligence Artificielle
   - Économie de l'attention
   - Santé Physique
   - Santé Mentale
-  - Addiction
-  - Sensibilisation
   - Conseils Pratiques
   - Débats
   - Empathie
@@ -27,7 +24,7 @@ Méthodes de prévention.
 
 ## Filtres et écrans, quels enjeux?
 
-D'après le Larousse, un <b>filtre</b> est un dispositif destiné à favoriser ou à entraver le passage. Un <b>écran</b> ce qui s'interpose, s'intercale et dissimule. Ces définitions nous amènent à avoir des comportements différents lorsque nous sommes ou non sur nos téléphones, ordinateurs et tablettes, notamment notre manière d'interagir et de communiquer est modifiée.
+D'après le Larousse, un <b>filtre</b> est un dispositif destiné à favoriser ou à entraver le passage. Un <b>écran</b> ce qui s'interpose, s'intercale et dissimule. Ces définitions nous amènent à avoir des comportements différents, notamment notre manière d'interagir et de communiquer est modifiée.
 
 {{< figure src="numeco/smartphones.jpg" caption="Photo by Ketut Subiyanto on [Pexels](https://www.pexels.com/photo/multiethnic-family-spending-time-together-on-couch-with-gadgets-4545968/).">}}
 
@@ -35,13 +32,17 @@ Les pays scandinaves ont récemment changé de position sur l'école et les écr
 
 Voir aussi l'article Mediapart de mars 2023: [Écrans et santé : il est urgent d'agir !](https://blogs.mediapart.fr/emmanuel-prados/blog/020323/ecrans-et-sante-il-est-urgent-d-agir) et le livre de Sabine Duflo, Il ne décroche pas des écrans ! - La méthode des "4 pas" pour protéger le cerveau des enfants, publié en 2020.
 
+{{< youtube OUZpHO9JXbE>}}
+
+Écrans: notre santé en danger ? © Servane Mouton / Équipe de recherche STEEP de l'INRIA Grenoble.
+
 ## Ateliers Préventifs sur les Réseaux Sociaux
 
 <b>Les Jeunes et les Réseaux Sociaux</b> est un atelier ouvert au public pour permettre aux jeunes de s'exprimer dans un cadre bienveillant, et s'informer, pour sensibiliser aux impacts des écrans et alternatives aux réseaux sociaux.
 
-La formation proposée permet aux jeunes et à leur entourage de découvrir des méthodes de débat, d'écoute attentive et d'intelligence collective pour lutter contre les inégalités sociales, les discriminations et les violences. 
+L'atelier permet aux jeunes et à leur entourage de découvrir des méthodes de débat, d'écoute attentive et d'intelligence collective pour lutter contre les inégalités sociales, les discriminations et les violences. 
 
-Elle prend la forme d'un atelier collaboratif organisé en 3 temps
+Il prend la forme d'un atelier collaboratif organisé en 3 temps
 
 1. <b>Temps d'introduction</b> et météo intérieure.
 2. <b>Méthode 1-2-4-tous pour débattre</b> : À quels besoins les réseaux sociaux répondent-ils? Comment me font-ils sentir? Quelles alternatives et solutions concrètes?
@@ -51,7 +52,7 @@ Elle prend la forme d'un atelier collaboratif organisé en 3 temps
 
 👉 Voir notre {{% staticref "u/Temoignages-reseaux-sociaux-Montpellier-juin-2023.pdf" %}}extrait de propositions de l'atelier{{% /staticref %}} réalisé en juin 2023 avec l’association [Générations Solidaires et Citoyennes](https://www.jeveuxaider.gouv.fr/organisations/4859-generations-solidaires-et-citoyennes) au Centre Social CAF de la Paillade.
 
-Un jeune sur deux propose <b>plus de sorties et du sport</b> comme alternative à l'ennui et aux écrans...
+Un jeune sur deux propose <b>plus de sorties et du sport</b> comme alternative à l'ennui et aux écrans.
 
 ## Bon plans
 
