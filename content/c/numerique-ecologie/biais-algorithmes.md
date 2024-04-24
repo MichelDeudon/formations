@@ -40,9 +40,7 @@ Le découplage entre la reconnaissance et l’action laisse le temps à la réfl
 
 ## Biais de l'IA
 
-> Les femmes ne sont que 10 % dans les écoles d'ingénieur en informatique. Ce <b>manque de diversité</b> peut conduire les algorithmes à reproduire des biais. - [Ce qu'il faut retenir du rapport de Cedric Villani](https://www.lemonde.fr/pixels/article/2018/03/28/intelligence-artificielle-ce-qu-il-faut-retenir-du-rapport-de-cedric-villani_5277697_4408996.html), entretien avec Cédric Villani dans le Monde, le 28 mars 2018, par Morgane Tual et Vincent Fagot.
-
-{{< figure src="numeco/llama-bias.png" caption="Exemple de biais de genre d'un concurrent de ChatGPT. Source: [LLaMA: Open and efficient foundation language models. Arxiv, 2023.](https://arxiv.org/abs/2302.13971) (Annexe).">}}
+{{< figure src="numeco/llama-bias.png" caption="Exemple de biais de genre de LLaMA, un concurrent de ChatGPT. Source: [LLaMA: Open and efficient foundation language models. Arxiv, 2023.](https://arxiv.org/abs/2302.13971).">}}
 
 {{< figure src="numeco/mafia-CIFRE.png" caption="Y a-t-il un lien entre les biais de l'IA et la privatisation de la recherche? Retweet de @[Yann Lecun](https://twitter.com/ylecun/status/1629845738170597376?lang=en), directeur de la recherche en IA de Facebook, en février 2023.">}}
 
@@ -52,9 +50,7 @@ Le découplage entre la reconnaissance et l’action laisse le temps à la réfl
 
 {{< figure src="numeco/chatgpt-greenwashing.png" caption="Reconnaître les perles de greenwashing. Capture d’écran d’un étudiant (ChatGPT3, février 2023). Une IA qui écrit une prose convaincante risque de produire en masse de fausses nouvelles (ChatGPT2, février 2019). [MIT Technology Review](https://www.technologyreview.com/2019/02/14/137426/an-ai-tool-auto-generates-fake-news-bogus-tweets-and-plenty-of-gibberish/).">}}
 
-{{<hl>}}L'entraînement de modèles fondamentaux <b>plus petits</b> comme LLaMA est souhaitable{{</hl>}} dans le champ des large language model, car {{<hl>}}ça nécessite beaucoup <b>moins de puissance de calcul et de ressources</b>{{</hl>}} pour tester de nouvelles approches, valider le travail des autres et explorer de nouveaux cas d'utilisation (...) Nous avons entraîné LLaMA 65B et LLaMA 33B sur 1,4 trilliard de jetons. Notre {{<hl>}}<b>plus petit</b> modèle{{</hl>}}, LLaMA 7B, est formé sur un trilliard de jetons. - Perle de greenwashing du blog [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) de Facebook en février 2023.
-
-{{< figure src="numeco/nvidia-stock.png" caption="Reconnaître les conflits d’intérêts. Capitalisation boursière de NVIDIA (2.25 trilliards en 2024). En décembre 2022, à [NeurIPS 2022](https://www.climatechange.ai/events/neurips2022) un workshop est organisé par climatechange.ai et inclut 19 auteurs de <b>NVIDIA</b>, leader mondial du calcul en intelligence artificielle, qui tire profit des crises.">}}
+{{< figure src="numeco/nvidia-stock.png" caption="Reconnaître les conflits d’intérêts. Capitalisation boursière de NVIDIA (2.25 trilliards en 2024). En décembre 2022, à [NeurIPS 2022](https://www.climatechange.ai/events/neurips2022) un workshop est organisé par climatechange.ai et compte 19 auteurs de <b>NVIDIA</b>, leader mondial du calcul en intelligence artificielle, qui tire profit des crises.">}}
 
 Les GAFAM creusent les inégalités sociales, et divisent pour mieux régner. Une autre vision du monde existe, <i>“celle qui unit”</i> - Paul Valéry.
 
@@ -68,13 +64,9 @@ Voir le [guide anti greenwashing](https://pour-un-reveil-ecologique.org/fr/les-e
 
 > [Internet, l’autoroute de la désinformation ?](https://lejournal.cnrs.fr/articles/internet-lautoroute-de-la-desinformation) CNRS. 2022.
 
-> [Les fichiers Facebook](https://www.wsj.com/articles/the-facebook-files-11631713039). Une enquête du Wall Street Journal. 2021.
-
 > [Une IA qui écrit une prose convaincante risque de produire en masse de fausses nouvelles](https://www.technologyreview.com/2019/02/14/137426/an-ai-tool-auto-generates-fake-news-bogus-tweets-and-plenty-of-gibberish/). MIT Revue Technologique. 2019.
 
 > Laure Delisle et al. [Une analyse participative à grande échelle des abus contre les femmes journalistes et politiciennes sur Twitter](https://arxiv.org/abs/1902.03093). NeurIPS. 2018.
-
-> Garg Nikhil, Londa Schiebinger, Dan Jurafsky et James Zou. [Les plongements de mots quantifient 100 ans de stéréotypes de genre et ethniques](https://www.pnas.org/doi/10.1073/pnas.1720347115). Proceedings of the National Academy of Sciences. 2018.
 
 > [Guide anti greenwashing](https://pour-un-reveil-ecologique.org/fr/les-entreprises-nous-repondent/#guide-anti-greenwashing). Pour un Réveil Écologique, 2018.
 
@@ -86,4 +78,4 @@ Voir le [guide anti greenwashing](https://pour-un-reveil-ecologique.org/fr/les-e
 
 > [Loi n° 2018-1202 relative à la lutte contre la manipulation de l'information](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037847559). legifrance.gouv.fr. 2018.
 
-> [Règlement Général sur la Protection des Données](https://www.cnil.fr/fr/rgpd-de-quoi-parle-t-on). CNIL. 2018.
+> [Réglement Général sur la Protection des Données](https://www.cnil.fr/fr/rgpd-de-quoi-parle-t-on). CNIL. 2018.

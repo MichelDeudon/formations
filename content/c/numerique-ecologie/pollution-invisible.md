@@ -81,5 +81,5 @@ On est saturé d'information de peur d'en manquer ou simplement par ennui (écon
 
 👉 Voir notre {{% staticref "u/Temoignages-reseaux-sociaux-Montpellier-mai-2023.pdf" %}}recueil de témoignages{{% /staticref %}} sur les réseaux sociaux en mai 2023.
 
-Vous pouvez [enquêter auprès d'étudiants](https://framaforms.org/reseaux-sociaux-attention-et-sante-mentale-1687119437).
+Vous pouvez [enquêter autour de vous](https://framaforms.org/reseaux-sociaux-attention-et-sante-mentale-1687119437).
 Ce projet de sciences participatives est l’occasion de vous confronter au terrain et de développer vos compétences de détective.
