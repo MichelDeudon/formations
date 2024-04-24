@@ -10,7 +10,7 @@ last_name: Deudon
 superuser: true
 
 # Role/position
-role: Ingénieur pédagogique
+role: Entrepreneur et enseignant
 
 # Organizations/Affiliations
 organizations:
@@ -30,9 +30,6 @@ education:
     - course: MBA
       institution: Collège des Ingénieurs
       year: 2020
-    - course: Ingénieur
-      institution: Télécom Paris-Tech
-      year: 2017
     - course: Ingénieur
       institution: Ecole Polytechnique
       year: 2014
@@ -68,4 +65,4 @@ user_groups:
   - Mentors
 ---
 
-Bonjour! Je m'appelle Michel, je suis né à New York. J'enseigne les [maths](https://www.mtpcours.fr/c/maths/), la [physique-chimie](https://www.mtpcours.fr/c/physique-chimie/) et l'[anglais](https://www.mtpcours.fr/c/english/), à l'[association GSC](https://www.helloasso.com/associations/generations-solidaires-et-citoyennes), à la [médiathèque Pierresvives](https://pierresvives.herault.fr/) et à l'université [Paul Valéry Montpellier 3](https://www.univ-montp3.fr/) (licence/master [MIASHS](https://ufr6.www.univ-montp3.fr/fr/formation/masters/master_miashs) et [MEEF](https://ufr6.www.univ-montp3.fr/fr/formation/masters/m1-m2-meef), option [Humanités Écologiques](https://ufr6.www.univ-montp3.fr/fr/formation/humanit%C3%A9s-et-certifications-ufr-6/humanit%C3%A9s-%C3%A9cologiques/informations-sur-les)). J'anime des ateliers préventifs [santé écrans](https://www.mtpcours.fr/c/numerique-ecologie/prevention-sante-ecrans/) et je propose un [soutien scolaire](https://www.mtpcours.fr/p/soutien-scolaire-maths-montpellier/) en maths et sciences. J'ai travaillé en réinsertion sociale à La Réunion, comme ingénieur-chercheur chez Element AI et data scientist chez Vinted. J'ai reçu trois prix de l'Agence Spatiale Européenne et j'ai mentoré des chercheurs à la NASA avant de rejoindre les [désert'heureuses](https://desertheureuses.noblogs.org/). J'ai co-fondé le [Binet Soupe](https://www.polytechnique.edu/sites/default/files/content/pages/documents/2022-02/Plaquette_Alpha_2021_compressed_0.pdf) en 2015 et l'association [Local Seasonal](https://www.mtpcours.fr/c/assos/local-seasonal/) en 2020 pour célébrer la (bio)diversité, au fil des saisons. J'aime danser, faire [du roller](https://www.mtpcours.fr/p/roller-dance-montpellier/) et les activités de plein air.
+Bonjour! Je m'appelle Michel, je suis né à New York. J'enseigne les [maths](https://www.mtpcours.fr/c/maths/), la [physique-chimie](https://www.mtpcours.fr/c/physique-chimie/) et l'[anglais](https://www.mtpcours.fr/c/english/), à l'[association GSC](https://www.helloasso.com/associations/generations-solidaires-et-citoyennes), à la [médiathèque Pierresvives](https://pierresvives.herault.fr/) et à l'université [Paul Valéry Montpellier 3](https://www.univ-montp3.fr/) (licence/master [MIASHS](https://ufr6.www.univ-montp3.fr/fr/formation/masters/master_miashs) et [MEEF](https://ufr6.www.univ-montp3.fr/fr/formation/masters/m1-m2-meef)). J'ai travaillé en réinsertion sociale à La Réunion, comme ingénieur-chercheur chez Element AI et data scientist chez Vinted. J'ai reçu trois prix de l'Agence Spatiale Européenne et j'ai mentoré des chercheurs à la NASA avant de rejoindre les [désert'heureuses](https://desertheureuses.noblogs.org/) et animer des ateliers préventifs [santé écrans](https://www.mtpcours.fr/c/numerique-ecologie/prevention-sante-ecrans/). J'ai co-fondé le [Binet Soupe](https://www.polytechnique.edu/sites/default/files/content/pages/documents/2022-02/Plaquette_Alpha_2021_compressed_0.pdf) en 2015 et l'association [Local Seasonal](https://www.mtpcours.fr/c/assos/local-seasonal/) en 2020 pour célébrer la (bio)diversité, au fil des saisons. J'aime danser, faire [du roller](https://www.mtpcours.fr/p/roller-dance-montpellier/) et les activités de plein air.

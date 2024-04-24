@@ -52,7 +52,7 @@ Le Bitcoin représenterait à lui seul 10% de la consommation totale des data ce
 
 La 5G pourrait entrainer une augmentation de 18 à 44% de l’empreinte carbone du numérique à horizon 2030 d'après le Haut Conseil pour le Climat en 2020.
 
-L'IA aussi est gourmand en énergie et a vu sa consommation explosé dans les dernières années. En 2019, dans l'article [Energy and Policy Considerations for Deep Learning in NLP](https://arxiv.org/abs/1906.02243) d'Emma Strubell, Ganesh Ananya et Andrew McCallum, il est question de modèles avec des millions de paramètres par comparaison à [des milliards](https://arxiv.org/abs/2302.13971) en 2023 (changement d'ordres de grandeur).
+L'IA aussi est gourmande en énergie et a vu sa consommation explosé dans les dernières années. En 2019, dans l'article [Energy and Policy Considerations for Deep Learning in NLP](https://arxiv.org/abs/1906.02243) d'Emma Strubell, Ganesh Ananya et Andrew McCallum, il est question de modèles avec des millions de paramètres par comparaison à [des milliards](https://arxiv.org/abs/2302.13971) en 2023 (changement d'ordres de grandeur).
 
 {{< figure src="numeco/neural-networks-LCA.png" caption="<i>Le processus de deep learning a <b>un impact environnemental démesuré</b> (...) L'entraînement de modèles toujours plus grands sur des ensembles de données tentaculaires récupérées sur Internet (...) est coûteux en calcul et très gourmand en énergie</i>. Source: Karen Hao. [L'entraînement d'un seul modèle d'IA peut émettre autant de carbone que...](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/) MIT Tech Review, juin 2019.">}}
 

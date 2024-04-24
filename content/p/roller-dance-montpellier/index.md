@@ -17,6 +17,7 @@ tags:
 - Pedagogie
 - Science
 - Entrepreneuriat
+- Univers Cite Oxford
 - Spectacle
 - La Paillade
 - La Mosson
@@ -28,8 +29,6 @@ tags:
 Les Étoiles Filantes de Montpellier
 
 <!--more-->
-
-{{< figure src="roller/univers-cite-oxford.jpg" caption="Univers Cite Oxford - Street Art à La Paillade, Montpellier.">}}
 
 ## Introduction
 
