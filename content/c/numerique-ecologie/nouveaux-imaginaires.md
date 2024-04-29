@@ -19,11 +19,11 @@ tags:
   - Environnement
 ---
 
-Cultiver le pouvoir des récits et imaginaires pour unir, encapaciter.
+Cultiver le pouvoir des récits pour unir et encapaciter.
 
 <!--more-->
 
-## Pouvoir de la narration, de la science fiction…
+## Pouvoir de la narration
 
 <b>Alain Damasio</b>, auteur de science fiction, témoigne sur les réseaux sociaux, dans un interview pour le média indépendant Blast, le 12 mai 2023, intitulé [Comment vivre et lutter face au capitalisme de surveillance ?](https://www.blast-info.fr/emissions/2023/comment-vivre-et-lutter-face-au-capitalisme-de-surveillance-n6ikLh60SOONUvL90mXXTg) Il y explique comment sa vision a évolué avec le temps, et le rôle des artistes, de la culture, et des nouveaux imaginaires pour embarquer vers une économie durable et inclusive.
 
@@ -31,7 +31,9 @@ Cultiver le pouvoir des récits et imaginaires pour unir, encapaciter.
 
 Les étudiant·es du [Master 2 Information-Communication](https://itic.www.univ-montp3.fr/fr/formation/masters/masters-info-com-cno-compaq-cpo) de l'Université [Paul-Valéry Montpellier 3](https://www.univ-montp3.fr/) ont également demandé à différentes générations de décrire le Futur des Réseaux Sociaux en un mot. Il en ressort: <i>invasion</i>, <i>danger</i>, <i>malsain</i>, <i>désastreux</i>, <i>dramatique</i> et <i>isolement</i>.
 
-> Kate Jeffery. [La psychologie de l'inaction climatique](https://www.ucl.ac.uk/play/ucl-talks/ucl-minds-lunch-hour-lectures/lunch-hour-lecture-psychology-climate-inaction). UCL. 2019.
+Pourtant, ce sont bien les mots et le langqge qui peuvent nous unir et encapaciter comme conclut Kate Jeffery, professeure de neurosciences à UCL et scientific lead d'Exctinction Rebellion, dans son talk de 2019 sur [la psychologie de l'inaction climatique](https://www.ucl.ac.uk/play/ucl-talks/ucl-minds-lunch-hour-lectures/lunch-hour-lecture-psychology-climate-inaction).
+
+{{< youtube -R6YMWb0vUA>}}
 
 ## Portraits de désert'heureuses
 
@@ -53,9 +55,7 @@ Les étudiant·es du [Master 2 Information-Communication](https://itic.www.univ-
 
 ## Publication de récits de la transition
 
-> <i> Il y a deux visions possibles du monde : la vision qui morcelle, la vision qui unit.</i> -  Paul Valéry
-
-Ce projet consiste à réaliser un entretien en vue de réaliser un article, portrait ou podcast. 
+Ce projet consiste à réaliser un entretien et un article, portrait ou podcast. 
 Vous pouvez par exemple contacter des alumnis (anciens diplômés) engagés et investis dans des associations, des institutions, des entreprises sociales et solidaires, des projets de sciences participatives...
 
 Exemple de portraits: [Pot@maï : énergie, autonomie et résilience pour les femmes africaines](https://www.lajauneetlarouge.com/potamai-energie-autonomie-et-resilience-pour-les-femmes-africaines/) par Emilie Catel et Lise Dargentolle.
@@ -77,13 +77,13 @@ Avec l’accord de la personne interviewée, vous pouvez prendre des notes et r�
 Exemple de questions pour amorcer / relancer la discussion: <br>
 - D’où viens-tu? Quel est ton parcours?
 - Peux tu me parler de tes rêves?
-- Comment envisages-tu xxx (l’engagement citoyen, l’action collective...)?
+- Comment envisages-tu l’engagement citoyen?
 - Quels livres/films/musiques aimes tu? Pourquoi?
 
 ## Conseils pour réaliser un entretien
 
-1. <b>Mettre la personne à l’aise</b>. L'accueillir, annoncer le thème, l’objectif, le plan et obtenir son accord.
+1. <b>Mettre la personne à l’aise</b>. L'accueillir, annoncer l’objectif, le plan et obtenir son accord.
 2. <b>Privilégier des questions ouvertes</b>. Préparer 2-3 questions pour amorcer / relancer la discussion.
-3. <b>Respecter les silences</b>. Laisser le temps de souffler, de réfléchir, de revenir sur ses propos…
+3. <b>Respecter les silences</b>. Laisser le temps de souffler, de réfléchir, de revenir sur ses propos.
 4. <b>Construire un dialogue</b>. Rebondir sur ce qui a été dit sans assommer de questions.
 5. <b>Remercier la personne</b>. Pour l'entretien, son engagement, etc. Donner envie de revenir.
