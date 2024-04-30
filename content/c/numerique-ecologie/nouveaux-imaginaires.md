@@ -11,7 +11,6 @@ tags:
   - Sobriété Numérique
   - Entraide
   - Solidarité
-  - Sens
   - Actions
   - Innovations
   - Société
@@ -31,7 +30,7 @@ Cultiver le pouvoir des récits pour unir et encapaciter.
 
 Les étudiant·es du [Master 2 Information-Communication](https://itic.www.univ-montp3.fr/fr/formation/masters/masters-info-com-cno-compaq-cpo) de l'Université [Paul-Valéry Montpellier 3](https://www.univ-montp3.fr/) ont également demandé à différentes générations de décrire le Futur des Réseaux Sociaux en un mot. Il en ressort: <i>invasion</i>, <i>danger</i>, <i>malsain</i>, <i>désastreux</i>, <i>dramatique</i> et <i>isolement</i>.
 
-Pourtant, ce sont bien les mots et le langqge qui peuvent nous unir et encapaciter comme conclut Kate Jeffery, professeure de neurosciences à UCL et scientific lead d'Exctinction Rebellion, dans son talk de 2019 sur [la psychologie de l'inaction climatique](https://www.ucl.ac.uk/play/ucl-talks/ucl-minds-lunch-hour-lectures/lunch-hour-lecture-psychology-climate-inaction).
+Pourtant, ce sont bien les mots et le langage qui peuvent nous unir et encapaciter comme conclut Kate Jeffery, professeure de neurosciences à UCL et scientific lead d'Exctinction Rebellion dans son talk de 2019 sur [la psychologie de l'inaction climatique](https://www.ucl.ac.uk/play/ucl-talks/ucl-minds-lunch-hour-lectures/lunch-hour-lecture-psychology-climate-inaction) (en anglais).
 
 {{< youtube -R6YMWb0vUA>}}
 
@@ -58,7 +57,7 @@ Pourtant, ce sont bien les mots et le langqge qui peuvent nous unir et encapacit
 Ce projet consiste à réaliser un entretien et un article, portrait ou podcast. 
 Vous pouvez par exemple contacter des alumnis (anciens diplômés) engagés et investis dans des associations, des institutions, des entreprises sociales et solidaires, des projets de sciences participatives...
 
-Exemple de portraits: [Pot@maï : énergie, autonomie et résilience pour les femmes africaines](https://www.lajauneetlarouge.com/potamai-energie-autonomie-et-resilience-pour-les-femmes-africaines/) par Emilie Catel et Lise Dargentolle.
+Exemple de portrait: [Pot@maï : énergie, autonomie et résilience pour les femmes africaines](https://www.lajauneetlarouge.com/potamai-energie-autonomie-et-resilience-pour-les-femmes-africaines/) par Emilie Catel et Lise Dargentolle.
 
 Exemple de podcast: [Nouvelle Conscience](https://podcast.ausha.co/nouvelle-conscience) par Manon Sala.
 

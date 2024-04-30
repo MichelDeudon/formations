@@ -66,7 +66,7 @@ La <b>sobriété numérique</b> désigne les efforts faits afin de chercher la m
 En juin 2022, Total, EDF et ENGIE alertaient de la [menace des prix de l'énergie sur la cohésion](https://www.lejdd.fr/societe/tribune-le-prix-de-lenergie-menace-notre-cohesion-par-les-patrons-dengie-edf-et-totalenergies-9401), appellant les Français à une sobriété d'urgence. En septembre 2022, le Président Macron appellait les français.es à une [sobriété individuelle](https://www.youtube.com/watch?v=XjC1NqzyGkc&ab_channel=%C3%89lys%C3%A9e) et les français.es sont parvenus à réduire leur consommation, mais de manière inégale avec notamment un effort plus important pour les femmes vivant dans des situations plus précaires. Voir aussi la présentation [Les inégalités de genre dans la transition écologique - Exemple: La sobriété énergétique est une histoire de femme](https://www.youtube.com/watch?v=bTXib713IDo&ab_channel=INRAE) d'Amandine Richaud-Crambes de l’ADEME, le 8 mars 2024 à l'INRAE.
 {{< /spoiler >}}
 
-{{< figure src="numeco/generation-frugal-ADEME.png" caption="Scénario Génération frugale de l'ADEME. <i>Des transformations importantes dans les façons de se déplacer, de se chauffer, de s’alimenter, d’acheter et d’utiliser des équipements, permettent d’atteindre la neutralité carbone sans impliquer de technologies de captage et stockage.</i> Source: [Impact environnemental du numérique en 2030 et 2050 : L'ADEME et l'ARCEP publient une évaluation prospective](https://presse.ademe.fr/2023/03/impact-environnemental-du-numerique-en-2030-et-2050-lademe-et-larcep-publient-une-evaluation-prospective.html), mars 2023.">}}
+{{< figure src="numeco/generation-frugal-ADEME.png" caption="<b>Scénario Génération frugale de l'ADEME</b>. <i>Des transformations importantes dans les façons de se déplacer, de se chauffer, de s’alimenter, d’acheter et d’utiliser des équipements, permettent d’atteindre la neutralité carbone sans impliquer de technologies de captage et stockage.</i> Source: [Impact environnemental du numérique en 2030 et 2050 : L'ADEME et l'ARCEP publient une évaluation prospective](https://presse.ademe.fr/2023/03/impact-environnemental-du-numerique-en-2030-et-2050-lademe-et-larcep-publient-une-evaluation-prospective.html), mars 2023.">}}
 
 Pour aller plus loin: 
 - [Le Mooc INRIA/Class Code](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/), accessible à partir du lycée.
@@ -86,4 +86,6 @@ On est saturé d'information de peur d'en manquer ou simplement par ennui (écon
 👉 Voir notre {{% staticref "u/Temoignages-reseaux-sociaux-Montpellier-mai-2023.pdf" %}}recueil de témoignages{{% /staticref %}} sur les réseaux sociaux en mai 2023.
 
 Vous pouvez [enquêter autour de vous](https://framaforms.org/reseaux-sociaux-attention-et-sante-mentale-1687119437).
-Ce projet de sciences participatives est l’occasion de vous confronter au terrain et de développer vos compétences de détective.
+Ce projet de <b>sciences participatives</b> est l’occasion de vous confronter au terrain et de développer vos compétences de détective.
+
+Nous verrons en cours comment agir avec des <b>mises en situation</b> concrètes (au travail, en famille, dans les transports).
