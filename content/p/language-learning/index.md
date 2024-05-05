@@ -1,6 +1,8 @@
 ---
 title: 5 façons alternatives d'apprendre une langue efficacement
 date: 2022-03-29
+tags:
+- Anglais
 ---
 
 Le plus tranquille, aventureux, social, en rythme et intellectuel

@@ -5,16 +5,11 @@ type: book
 weight: 50
 highlight: true
 tags:
-  - Pouvoir des récits
-  - Récits de la transition
-  - Nouveaux Imaginaires
-  - Sobriété Numérique
-  - Entraide
-  - Solidarité
-  - Actions
   - Innovations
-  - Société
+  - Récits de la transition
+  - Sobriété Numérique
   - Économie
+  - Société
   - Environnement
 ---
 

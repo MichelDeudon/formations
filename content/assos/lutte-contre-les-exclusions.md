@@ -7,18 +7,14 @@ highlight: true
 tags:
   - Jeunes
   - Réseaux Sociaux
-  - Santé Physique
-  - Santé Mentale
-  - Addiction
-  - Exclusion
-  - Ateliers Sensibilisation
+  - Sensibilisation
   - Conseils Pratiques
   - Débats
   - Empathie
   - l'École et les Écrans
-  - la Santé et les Écrans
+  - Économie
+  - Santé
   - Société
-  - Économie de l'attention
 ---
 
 Intervention en Master 2 MEEF STMS sur les actions menées avec les associations de la Mosson.

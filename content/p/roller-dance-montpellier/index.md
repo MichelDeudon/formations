@@ -2,23 +2,14 @@
 title: Une équipe de roller dance à La Mosson
 date: 2023-08-30
 tags:
-- Environnement
-- Société
 - Jeunes
-- Sport
-- Prévention
-- Rollerdance
 - Roller
-- Danse
-- Création
-- Bandeau
-- Reparation
-- Recup
+- Sport
 - Pedagogie
-- Science
-- Entrepreneuriat
-- Univers Cite Oxford
-- Spectacle
+- Prévention
+- Société
+- Santé
+- Environnement
 - La Paillade
 - La Mosson
 - Montpellier

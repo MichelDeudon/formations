@@ -11,6 +11,10 @@ tags:
   - Sport
   - Société
   - Environnement
+  - La Paillade
+  - La Mosson
+  - Montpellier
+  - Hérault
 ---
 
 {{< figure src="featured.jpg" caption="Sortie en septembre 2023 à la librairie Gibert Joseph avec Morgann Raillecove et l'association GSC.">}}

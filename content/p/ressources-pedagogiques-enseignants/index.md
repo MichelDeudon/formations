@@ -3,14 +3,9 @@ title: Ressources pédagogiques pour enseignants bienveillants
 date: 2023-10-21
 tags:
 - Pédagogie
-- Psychologie
 - Éducation
-- Neuroscience
-- Emotions
-- Intelligence
-- Prendre soin
-- Environnement
 - Société
+- Environnement
 - Cité éducative
 - La Paillade
 - La Mosson

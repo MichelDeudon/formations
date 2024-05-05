@@ -6,7 +6,6 @@ weight: 10
 highlight: true
 tags:
   - Jeunes
-  - Ateliers
   - Primaire
   - Collège
   - Lycée

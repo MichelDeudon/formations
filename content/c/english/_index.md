@@ -10,8 +10,12 @@ tags:
   - Collège
   - Lycée
   - Brevet
-  - Bac
-  - Erasmus
+  - Baccalauréat
+  - Cours particuliers
+  - Cours collectifs
+  - Soutien Scolaire
+  - Montpellier
+  - Hérault
 ---
 
 {{< figure src="featured.jpg" >}}

@@ -6,8 +6,9 @@ date: '2023-04-10'
 type: book
 tags:
   - Jeunes
-  - Biomimétisme
   - Physique Chimie
+  - Intuition
+  - Logique
   - Collège
   - Lycée
   - Brevet
@@ -20,6 +21,7 @@ tags:
   - Master
   - Cours particuliers
   - Cours collectifs
+  - Soutien Scolaire
   - Montpellier
   - Hérault
 ---

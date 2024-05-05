@@ -5,12 +5,16 @@ type: book
 weight: 20
 math: true
 tags:
-  - optimisation
-  - regularisation
-  - regression lineaire
-  - regression logistique
-  - descente de gradient (stochastique)
-  - méthode de Newton
+  - Mathématiques
+  - Analyse
+  - Optimisation
+  - Regularisation
+  - Regression lineaire
+  - Regression logistique
+  - Descente de gradient
+  - Méthode de Newton
+  - Licence
+  - Master
 ---
 
 Optimisation et régularisation des modèles.

@@ -7,11 +7,8 @@ highlight: true
 tags:
   - Innovations
   - Récits de la transition
-  - Economie Sociale et Solidaire
   - Sciences participatives
-  - Communication douce
-  - Creative Commons
-  - Imaginaires
+  - Économie
   - Société
   - Environnement
 ---
@@ -60,4 +57,4 @@ La recherche ouverte à l'université permet de valoriser des données et produi
 
 Soutenir les initiatives locales, frugales, solidaires et sociales, la biodiversité 🌸, la low-tech, l'agroécologie, les médias indépendants... c'est agir localement, à son échelle, pour la planète.
 
-Et vous? Comment envisagez-vous l’<b>engagement citoyen</b> et l’<b>action collective</b>?
+Et vous, comment envisagez-vous l’<b>engagement citoyen</b> et l’<b>action collective</b>?

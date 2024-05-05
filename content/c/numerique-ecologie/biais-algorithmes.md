@@ -5,19 +5,15 @@ type: book
 weight: 40
 highlight: true
 tags:
-  - Biais
-  - Stéréotypes
   - Réseaux Sociaux
   - Intelligence Artificielle
-  - Green Washing
-  - Conflits d'Interets
   - Desinformation
-  - Société
-  - Environnement
-  - Économie de l'attention
   - Sensibilisation
   - Conseils Pratiques
   - Débats
+  - Économie
+  - Société
+  - Environnement
 ---
 
 Pour sortir du paradigme diviser pour mieux régner.

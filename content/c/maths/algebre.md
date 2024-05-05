@@ -5,11 +5,15 @@ type: book
 weight: 10
 math: true
 tags:
-  - algebre linéaire
-  - réduction de dimension
-  - analyse en composante principale
-  - factorisation de matrices
-  - décomposition en valeur singulière
+  - Mathématiques
+  - Algèbre
+  - Algebre linéaire
+  - Réduction de dimension
+  - Analyse en composante principale
+  - Factorisation de matrices
+  - Décomposition en valeur singulière
+  - Licence
+  - Master
 ---
 
 Algèbre bilinéaire et analyse en composante principale.

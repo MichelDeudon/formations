@@ -5,12 +5,10 @@ type: book
 weight: 20
 highlight: true
 tags:
-  - Impacts du numérique
-  - Pollution invisible
-  - Santé Physique
-  - Santé Mentale
+  - Sobriété Numérique
   - Economie
   - Société
+  - Santé
   - Environnement
 ---
 

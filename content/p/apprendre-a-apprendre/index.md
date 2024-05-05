@@ -3,10 +3,10 @@ title: Apprendre à apprendre
 date: 2023-09-15
 tags:
 - Jeunes
+- Anglais
+- Français
 - Mathématiques
 - Physique Chimie
-- Français
-- Anglais
 - Méthodologie
 - Collège
 - Lycée
@@ -20,6 +20,7 @@ tags:
 - Master
 - Cours particuliers
 - Cours collectifs
+- Soutien Scolaire
 - Cité éducative
 - La Paillade
 - La Mosson

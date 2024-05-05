@@ -5,17 +5,17 @@ type: book
 weight: 30
 highlight: true
 tags:
-  - Prévention Santé Écrans
   - l'École et les Écrans
   - Réseaux Sociaux
-  - Économie de l'attention
-  - Santé Physique
-  - Santé Mentale
+  - Sciences participatives
   - Conseils Pratiques
   - Débats
   - Empathie
   - Collège
   - Lycée
+  - Économie
+  - Santé
+  - Environnement
 ---
 
 Méthodes de prévention.

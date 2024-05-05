@@ -5,10 +5,6 @@ type: book
 weight: 10
 highlight: true
 tags:
-  - Histoire
-  - Numérique
-  - Internet
-  - Media
   - Réseaux Sociaux
   - Intelligence Artificielle
   - Economie

@@ -15,6 +15,9 @@ tags:
 - CPES
 - Licence
 - Master
+- Cours particuliers
+- Cours collectifs
+- Soutien Scolaire
 ---
 
 Pour débutants à avancés

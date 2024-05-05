@@ -9,13 +9,6 @@ tags:
   - Mathématiques
   - Analyse
   - Algèbre
-  - Calcul mental
-  - Fonctions usuelles
-  - Suites
-  - Vecteurs
-  - Probabilités
-  - Statistiques
-  - Trigonométrie
   - Intuition
   - Logique
   - Collège
@@ -28,9 +21,9 @@ tags:
   - CPES
   - Licence
   - Master
-  - MIASHS
   - Cours particuliers
   - Cours collectifs
+  - Soutien Scolaire
   - Montpellier
   - Hérault
 ---

@@ -6,25 +6,17 @@ date: '2024-03-08'
 type: book
 tags:
   - Jeunes
-  - Numérique
   - Réseaux Sociaux
   - Intelligence Artificielle
-  - Santé Physique
-  - Santé Mentale
-  - Ecologie
+  - l'École et les Écrans
   - Empathie
   - Débats
-  - l'École et les Écrans
-  - Santé Écrans
-  - Lien Social
-  - Publicité
-  - Société
-  - Environnement
-  - Energie
-  - Climat
   - Désinformation
   - Imaginaires
   - Prévention
+  - Société
+  - Santé
+  - Environnement
 ---
 
 {{< figure src="featured.jpg" caption="Source image: [Pour un Réveil Écologique](https://pour-un-reveil-ecologique.org/fr/)">}}

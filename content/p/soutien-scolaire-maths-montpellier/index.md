@@ -3,13 +3,14 @@ title: Soutien scolaire à Montpellier
 date: 2023-10-04
 tags:
 - Jeunes
-- Soutien Scolaire
+- Anglais
+- Français
 - Mathématiques
 - Physique Chimie
-- SVT
-- Informatique
 - Méthodologie
+- Collège
 - Lycée
+- Brevet
 - Baccalauréat
 - BTS
 - Prépa
@@ -18,6 +19,7 @@ tags:
 - Licence
 - Master
 - Cours collectifs
+- Soutien Scolaire
 - Cité éducative
 - La Paillade
 - La Mosson
