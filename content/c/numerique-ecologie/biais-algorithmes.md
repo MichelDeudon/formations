@@ -64,9 +64,9 @@ Pour lutter contre la désinformation, il ne faut pas commenter ou partager les 
 
 Les GAFAM creusent les inégalités sociales, et divisent pour mieux régner. Une autre vision du monde existe, <i>“celle qui unit”</i> disait Paul Valéry.
 
-Faut il continuer d'investir massivement dans l'IA ([Galactica 120B](https://huggingface.co/facebook/galactica-120b), ChatGPT3, LLaMA 65B, ChatGPT4, Mistral...), la désinformation, l'[armement](https://www.reuters.com/technology/davos-2023-ceos-buzz-about-chatgpt-style-ai-world-economic-forum-2023-01-17/) plutôt que la solidarité, l'éducation et l'environnement? Quels sont les bénéfices et les risques?
+Faut il continuer d'investir massivement dans l'IA ([Galactica 120B](https://huggingface.co/facebook/galactica-120b), ChatGPT3, LLaMA 65B, ChatGPT4, Mistral...), la désinformation, l'[armement](https://www.reuters.com/technology/davos-2023-ceos-buzz-about-chatgpt-style-ai-world-economic-forum-2023-01-17/) plutôt qu'ailleurs, la solidarité, l'éducation et l'environnement? Quels sont les bénéfices et les risques?
 
-{{< figure src="numeco/pour-un-reveil-eco.jpg" caption="Source image: [Pour un Réveil Écologique](https://pour-un-reveil-ecologique.org/fr/)">}}
+{{< figure src="numeco/pour-un-reveil-eco.jpg" caption="Source image: [Pour un Réveil Écologique](https://pour-un-reveil-ecologique.org/fr/).">}}
 
 Voir le [guide anti greenwashing Pour un Réveil Écologique](https://pour-un-reveil-ecologique.org/fr/les-entreprises-nous-repondent/#guide-anti-greenwashing) et l'[outil en ligne de l'ADEME](https://communication-responsable.ademe.fr/antigreenwashing).
 
@@ -74,12 +74,11 @@ Voir le [guide anti greenwashing Pour un Réveil Écologique](https://pour-un-re
 
 Cette dernière section apporte quelques conseils pratiques pour déjouer les rouages des réseaux sociaux en pratique:
 
-1. <b>Prendre soin de soi</b>, de sa santé physique et mentale 🎗. Apprendre à s'écouter, être davatange présent et exprimer de la gratitude.
+1. <b>Prendre soin de soi</b>, de sa santé physique et mentale 🎗. Apprendre à lacher prise, à s'écouter et être davatange présent.
 2. Privilégier <b>un appel</b> ou <b>une visite</b> pour communiquer avec votre entourage.
-3. Demander de l’<b>aide</b> si besoin. Voir le {{% staticref "u/Guide-Vinted-wellbeing.pdf" %}}guide de Vinted{{% /staticref %}}.
-4. S'informer auprès de <b>sources fiables</b>. Privilégier la qualité sur la quantité.
-5. Faire preuve de <b>discernement</b> et d’<b>esprit critique</b>. Être attentif aux <b>conflits d’intérêts</b> et <b>greenwashing</b>, aux biais et aux non dits. D'où vient l’argent? Quel est le but? Qui est invisibilisé?
-7. Investir son temps et énergie sur le <b>long terme</b>. [Apprendre une langue](https://www.mtpcours.fr/p/language-learning/), à cuisiner, à bricoler… faire du sport, de la musique, du bénévolat, de l’artisanat. Soutenir une cause. Réécrire le futur avec de nouveaux imaginaires.
+3. S'informer auprès de <b>sources fiables</b>. Privilégier la qualité sur la quantité.
+4. Faire preuve de <b>discernement</b> et d’<b>esprit critique</b>. Être attentif aux <b>conflits d’intérêts</b> et <b>greenwashing</b>, aux biais et aux non dits. D'où vient l’argent? Quel est le but? Qui est invisibilisé?
+5. Investir son temps et énergie sur le <b>long terme</b>. [Apprendre une langue](https://www.mtpcours.fr/p/language-learning/), à cuisiner, à bricoler… faire du sport, de la musique, du bénévolat, de l’artisanat. Soutenir une cause. Réécrire le futur avec de nouveaux imaginaires.
 
 {{< figure src="numeco/JO-2024.png" caption="<b>Défi de déconnexion</b> du 22 au 25 mai 2024: Trois jours sans réseaux sociaux est-il souhaitable?">}}
 

@@ -30,7 +30,7 @@ D'après le Larousse, un <b>filtre</b> est un dispositif destiné à favoriser o
 
 Les pays scandinaves ont récemment changé de position sur l'école et les écrans. <i> À l’origine de ce revirement, les mises en garde de neurologues et de pédiatres contre l’introduction trop précoce des outils numériques à l’école</i>. - Courrier International. [Éducation. Après avoir misé sur le numérique à l’école, les pays scandinaves font machine arrière.](https://www.courrierinternational.com/article/education-apres-avoir-mise-sur-le-numerique-a-l-ecole-les-pays-scandinaves-font-machine-arriere), mars 2024.
 
-Voir aussi l'article Mediapart de mars 2023: [Écrans et santé : il est urgent d'agir !](https://blogs.mediapart.fr/emmanuel-prados/blog/020323/ecrans-et-sante-il-est-urgent-d-agir) et le livre de Sabine Duflo, Il ne décroche pas des écrans ! - La méthode des "4 pas" pour protéger le cerveau des enfants, publié en 2020.
+En France: Voir l'article Mediapart de mars 2023 [Écrans et santé : il est urgent d'agir !](https://blogs.mediapart.fr/emmanuel-prados/blog/020323/ecrans-et-sante-il-est-urgent-d-agir) et le livre de Sabine Duflo, Il ne décroche pas des écrans ! - La méthode des "4 pas" pour protéger le cerveau des enfants, publié en 2020.
 
 {{< youtube OUZpHO9JXbE>}}
 

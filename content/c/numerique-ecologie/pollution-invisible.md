@@ -88,4 +88,4 @@ On est saturé d'information de peur d'en manquer ou simplement par ennui (écon
 Vous pouvez [enquêter autour de vous](https://framaforms.org/reseaux-sociaux-attention-et-sante-mentale-1687119437).
 Ce projet de <b>sciences participatives</b> est l’occasion de vous confronter au terrain et de développer vos compétences de détective.
 
-Nous verrons en cours comment agir avec des <b>mises en situation</b> concrètes (au travail, en famille, dans les transports).
+Nous verrons en cours comment agir avec des <b>mises en situations</b> concrètes (au travail, en famille, dans les transports).
