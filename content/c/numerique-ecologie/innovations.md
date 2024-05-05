@@ -21,7 +21,7 @@ Pour un numérique responsable.
 
 [Flavi](https://flavi.fr/) est une entreprise de l'économie solidaire et sociale (ESS) qui réinvente l'aide à domicile, co-fondée par <b>Eva Muringer</b>.
 
-{{< figure src="numeco/flavi.jpg" caption="Portrait d'Eva et Flavie.>}} 
+{{< figure src="numeco/flavi.jpg" caption="Portrait d'Eva et Flavie.">}} 
 
 ## Handinnovation
 
