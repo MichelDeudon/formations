@@ -37,20 +37,20 @@ La notion de <b>sac à dos écologique</b> fait référence au fait qu'il fait 5
 
 {{< figure src="numeco/mendeleiv.png" caption="Elements présents dans les smartphones en 2021, par composants. La fabrication des composants repose sur l'extraction de mines, responsables de conflits et de pollution. Source: [Sobriété Numérique : pourquoi, pourquoi pas et comment ?](https://atecopolmtp.hypotheses.org/352) Séminaire Atecopol Montpellier avec Françoise Berthoud, Ingénieure de Recherche CNRS, le 14 mars 2024. Lien vers le [diaporama de la présentation](https://atecopolmtp.hypotheses.org/files/2024/03/Sobriete-Numerique-atecopol-montpellier-mars-2024.pdf).">}}
 
-On peut retenir le chiffre de 10% pour la consommation éléctrique annuelle des services numériques en 2022 mais c'est aussi la tendance, la croissance exponentielle des flux de données (+12 équipements en moyenne par habitant en France, en forte augmentation) que nous sommes invités à interroger.
+On peut retenir le chiffre de 10% pour la consommation éléctrique annuelle des services numériques en 2022 mais c'est aussi la tendance, la <b>croissance exponentielle des flux de données</b> (+12 équipements en moyenne par habitant en France, en forte augmentation) que nous sommes invités à interroger.
 The Shift Project a publié en mars 2021 le rapport [Impact environnemental du numérique: tendances à 5 ans et gouvernance de la 5G](https://theshiftproject.org/wp-content/uploads/2021/03/Note-danalyse_Numerique-et-5G_30-mars-2021.pdf) qui cite une étude de Techradar selon laquelle une question se pose quant à la capacité même d’assurer une production industrielle suffisante. Indirectement, le numérique accélere la consommation de matières premières et d'énergie.
 
 {{< figure src="numeco/usages-infra-Shift.png" caption="Impacts environnementaux du numérique et facteurs de croissance.">}}
 
 {{< figure src="numeco/flux-donnees-Shift.png" caption="Evolution des flux de données.">}}
 
-Visio, voitures autonomes, vidéosurveillance, téléchirurgie, cloud gaming, streaming ultra HD... quels sont les nouveaux usages pertinents? 
+Visio, voitures autonomes, vidéosurveillance, téléchirurgie, cloud gaming, streaming ultra HD... quels sont les <b>nouveaux usages</b> pertinents? 
 
-Le Bitcoin représenterait à lui seul 10% de la consommation totale des data centers en 2021 d'après l’observatoire de Cambridge.
+<b>Le Bitcoin</b> représenterait à lui seul 10% de la consommation totale des data centers en 2021 d'après l’observatoire de Cambridge.
 
-La 5G pourrait entrainer une augmentation de 18 à 44% de l’empreinte carbone du numérique à horizon 2030 d'après le Haut Conseil pour le Climat en 2020.
+<b>La 5G</b> pourrait entrainer une augmentation de 18 à 44% de l’empreinte carbone du numérique à horizon 2030 d'après le Haut Conseil pour le Climat en 2020.
 
-L'IA aussi est gourmande en énergie et a vu sa consommation exploser dans les dernières années. En 2019, dans l'article [Energy and Policy Considerations for Deep Learning in NLP](https://arxiv.org/abs/1906.02243) d'Emma Strubell, Ganesh Ananya et Andrew McCallum, il est question de modèles avec des millions de paramètres par comparaison à [des milliards](https://arxiv.org/abs/2302.13971) en 2023 (changement d'ordres de grandeur). En projetant les modèles sur un axe, <i>la performance</i>, sans prendre en compte les ressources et l'énergie nécéssaires, <i>la performance</i> s’est améliorée mais avec une complexité accrue, au profit d'entreprises comme Google Cloud Platform (GCP), Amazon Web Services (AWS), Microsoft (Azure) et NVIDIA (hardware).
+<b>L'IA</b> aussi est gourmande en énergie et a vu sa consommation exploser dans les dernières années. En 2019, dans l'article [Energy and Policy Considerations for Deep Learning in NLP](https://arxiv.org/abs/1906.02243) d'Emma Strubell, Ganesh Ananya et Andrew McCallum, il est question de modèles avec des millions de paramètres par comparaison à [des milliards](https://arxiv.org/abs/2302.13971) en 2023 (changement d'ordres de grandeur). En projetant les modèles sur un axe, <i>la performance</i>, sans prendre en compte les ressources et l'énergie nécéssaires, <i>la performance</i> s’est améliorée mais avec une complexité accrue, au profit d'entreprises comme Google Cloud Platform (GCP), Amazon Web Services (AWS), Microsoft (Azure) et NVIDIA (hardware).
 
 {{< figure src="numeco/neural-networks-LCA.png" caption="<i>Le processus de deep learning a <b>un impact environnemental démesuré</b> (...) L'entraînement de modèles toujours plus grands sur des ensembles de données tentaculaires récupérées sur Internet (...) est coûteux en calcul et très gourmand en énergie</i>. Source: Karen Hao. [L'entraînement d'un seul modèle d'IA peut émettre autant de carbone que...](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/) MIT Tech Review, juin 2019.">}}
 
@@ -73,7 +73,7 @@ Pour aller plus loin:
 
 ### Impacts sanitaires et sociaux
 
-Le plaisir ou encore le fait de scroller mobilise des circuits à dopamine. Dans les applications, et en particulier sur les réseaux sociaux (Flux Tiktok, Reels Instagram, Shorts Youtube), tout est pensé, testé, optimisé pour pousser l’utilisateur à cliquer plus, consommer plus... Voir par exemple le Ted Talk de Harrish Murugesan [Psychology Behind UI/UX Design](https://www.youtube.com/watch?v=fdXI9yznzz8) ou encore le blog de recherche de Google Brain sur la [curiosité et procrastination](https://blog.research.google/2018/10/curiosity-and-procrastination-in.html?ref=blog.floydhub.com&m=1).
+Le plaisir ou encore le fait de scroller mobilise des circuits à dopamine. Dans les applications, et en particulier sur les réseaux sociaux (Flux Tiktok, Reels Instagram, Shorts Youtube), tout est pensé, testé, optimisé pour pousser l’utilisateur à <b>cliquer plus, consommer plus</b>... Voir par exemple le Ted Talk de Harrish Murugesan [Psychology Behind UI/UX Design](https://www.youtube.com/watch?v=fdXI9yznzz8) ou encore le blog de recherche de Google Brain sur la [curiosité et procrastination](https://blog.research.google/2018/10/curiosity-and-procrastination-in.html?ref=blog.floydhub.com&m=1).
 
 On est saturé d'information de peur d'en manquer ou simplement par ennui (économie de l'attention), ce qui impacte directement notre état de <b>santé physique</b> et <b>santé mentale</b>.
 

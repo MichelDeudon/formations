@@ -22,7 +22,7 @@ Pour sortir du paradigme diviser pour mieux régner.
 
 ## Biais cognitifs
 
-En psychologie cognitive, les biais sont des raccourcis de la pensée.
+En psychologie cognitive, les biais sont <b>des raccourcis</b> de la pensée.
 Ils mènent à des conclusions rapides, par exemple la présence ou non d'un danger, et donnent un certain avantage d'un point de vue évolutif (par exemple pour se défendre), mais ils peuvent aussi mener à des stéréotypes et conclusions érronées.
 
 Les <b>biais de sélection</b>, fréquents dans les sondages, donnent lieu à une généralisation erronée des résultats et des fausses conclusions, par exemple où renforcer un avion en étudiant le criblage des <i>survivants</i> (les avions qui sont revenus du front). En effet, pour répondre à cette question il faudrait plutôt étudier les avions tombés au combat mais ceux-ci ne sont pas représentés.
@@ -71,7 +71,7 @@ Voir le [guide anti greenwashing Pour un Réveil Écologique](https://pour-un-re
 Cette dernière section apporte quelques conseils pratiques pour déjouer les rouages des réseaux sociaux en pratique:
 
 1. <b>Prendre soin de soi</b>, de sa santé physique et mentale 🎗. Apprendre à lacher prise, à s'écouter et être davatange présent.
-2. Privilégier <b>un appel</b> ou <b>une visite</b> pour communiquer avec votre entourage.
+2. Privilégier <b>un appel ou une visite</b> pour communiquer avec votre entourage.
 3. S'informer auprès de <b>sources fiables</b>. Privilégier la qualité sur la quantité.
 4. Faire preuve de <b>discernement</b> et d’<b>esprit critique</b>. Être attentif aux <b>conflits d’intérêts</b> et <b>greenwashing</b>, aux biais et aux non dits. D'où vient l’argent? Quel est le but? Qui est invisibilisé?
 5. Investir son temps et énergie sur le <b>long terme</b>. [Apprendre une langue](https://www.mtpcours.fr/p/language-learning/), à cuisiner, à bricoler… faire du sport, de la musique, du bénévolat, de l’artisanat. Soutenir une cause. Réécrire le futur avec de nouveaux imaginaires.
