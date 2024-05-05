@@ -21,7 +21,7 @@ Pour un numérique responsable.
 
 [Flavi](https://flavi.fr/) est une entreprise de l'économie solidaire et sociale (ESS) qui réinvente l'aide à domicile, co-fondée par <b>Eva Muringer</b>.
 
-{{< figure src="numeco/flavi.jpg">}} 
+{{< figure src="numeco/flavi.jpg" caption="Portrait d'Eva et Flavie.>}} 
 
 ## Handinnovation
 
@@ -31,9 +31,9 @@ Le pôle Handinnovation, rattaché à la direction de la transition écologique 
 
 ## Licence / Master MIASHS
 
-La licence et le master MIASHS préparent au métier de "data scientist" en formant des étudiants ayant à la fois des connaissances nécessaires en informatique et statistique et des connaissances de domaines d'applications en sciences humaines et sociales. Pour plus d'informations: [https://ufr6.www.univ-montp3.fr/fr/formation/masters/master_miashs](https://ufr6.www.univ-montp3.fr/fr/formation/masters/master_miashs).
+La licence et le master MIASHS préparent au métier de "data scientist" en formant des étudiants ayant à la fois des connaissances nécessaires en informatique et statistique et des connaissances de domaines d'<b>applications en sciences humaines et sociales</b>. Pour plus d'informations: [https://ufr6.www.univ-montp3.fr/fr/formation/masters/master_miashs](https://ufr6.www.univ-montp3.fr/fr/formation/masters/master_miashs).
 
-{{< figure src="numeco/miashs.png" caption="Exemple d'exercice du cours TE43MI Bases de données (en 2e année de licence).">}} 
+{{< figure src="numeco/miashs.png" caption="Exemple d'exercice du cours TE43MI Bases de données (en 2e année de licence MIASHS).">}} 
 
 ## Sciences participatives
 
@@ -43,7 +43,7 @@ Pl@ntNet est un projet de sciences participatives accessible sous forme d’appl
 
 ## Communication douce
 
-L'université définit et met en place des actions (sensibilisation, bonnes pratiques, etc) pour limiter, au quotidien, les impacts du numérique dans le cadre professionnel ou dans la vie personnelle.
+L'université met en place des actions (sensibilisation, bonnes pratiques, etc) pour limiter, au quotidien, les impacts du numérique dans le cadre professionnel ou dans la vie personnelle.
 
 {{< figure src="numeco/wakama.png" caption="La méthode WAKAMA. Source: [Guide de la communication douce](https://www.univ-montp3.fr/sites/default/files/guide_de_la_communication_douce_2023_0.pdf).">}} 
 

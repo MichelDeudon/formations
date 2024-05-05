@@ -52,9 +52,7 @@ Nous verrons en cours comment créer une <b>fiche action</b> pour co-construire 
 
 {{< figure src="numeco/les-jeunes-et-les-reseaux-sociaux.png" caption="Le programme [Cités éducatives](https://www.citeseducatives.fr/) vise à renforcer l'accompagnement des jeunes et enfants de 3 ans à 25 ans, pendant le temps scolaire, périscolaire et extrascolaire, en lien avec les familles. L'académie de Montpellier compte 7 cités éducatives et concerne 33 000 élèves.">}}
 
-👉 Voir notre {{% staticref "u/Temoignages-reseaux-sociaux-Montpellier-juin-2023.pdf" %}}extrait de propositions de l'atelier{{% /staticref %}} réalisé en juin 2023 avec l’association [Générations Solidaires et Citoyennes](https://www.jeveuxaider.gouv.fr/organisations/4859-generations-solidaires-et-citoyennes) au Centre Social CAF de la Paillade.
-
-Un jeune sur deux propose <b>plus de sorties et du sport</b> comme alternative à l'ennui et aux écrans.
+👉 Voir notre {{% staticref "u/Temoignages-reseaux-sociaux-Montpellier-juin-2023.pdf" %}}extrait de propositions de l'atelier{{% /staticref %}} réalisé en juin 2023 avec l’association [Générations Solidaires et Citoyennes](https://www.jeveuxaider.gouv.fr/organisations/4859-generations-solidaires-et-citoyennes) au Centre Social CAF de la Paillade: Un jeune sur deux propose <b>plus de sorties et du sport</b> comme alternative à l'ennui et aux écrans.
 
 ## Bon plans
 

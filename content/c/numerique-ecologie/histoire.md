@@ -27,7 +27,7 @@ Le dictionnaire Larousse définit l'<b>informatique</b> comme la science du trai
 Les technologies de l'information et de la communication (TIC) ont connu d'important <b>investissements de l'armée américaine</b> (DARPA) dans les années 1950-1960, dans un contexte de guerre froide.
 Le perceptron (U.S. Office of Naval Research, 1949) par exemple est un modèle de réseau de neurone, précurseur de modèles plus complexes (deep learning).
 
-{{< figure src="numeco/cornell_rosenblatt.jpg" caption="Frank Rosenblatt a precursor to the perceptron. Source [Cornell.edu](https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon)">}}
+{{< figure src="numeco/cornell_rosenblatt.jpg" caption="Frank Rosenblatt a precursor to the perceptron. Source [Cornell.edu](https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon).">}}
 
 De 1965 à 2015, la <b>loi de Moore</b> traduit un modèle de croissance sans limite. La puissance des appareils doublerait chaque année (accélération exponentielle) mais celà suppose que les ressources sont inépuisables et infinies.
 
@@ -44,7 +44,7 @@ L’histoire se souvient d’<b>Alan Turing</b> (Enigma, 1943) qui a donné son 
 <b>Internet</b> fait son apparition au grand public à la fin des années 80 et connait son essor dans les années 1990, dans un monde succédant à la guerre froide (chute du mur de Berlin en 1989).
 
 <b>Jeff Bezos</b> avec Amazon (1994), <b>Serge et Larry Page</b> avec Google (1998) ont fait fortune dans le e-commerce et les moteurs de recherche en surfant la vague internet comme d'autres milliardaires.
-<b>Mark Zuckerberg</b> crée le réseau social Facebook (2004) qui finit de compléter l'accronyme GAFAM.
+<b>Mark Zuckerberg</b> en créant le réseau social Facebook (2004) finit de compléter l'accronyme GAFAM.
 
 {{< figure src="numeco/gafam.png" caption="Co fondateurs des GAFAM. Voir aussi [Bloomberg Billionaires Index](https://bloomberg.com/billionaires/) (poids économique).">}}
 
@@ -52,7 +52,7 @@ Le premier iphone voit le jour en 2007. Avec les smartphones et l'app store, c'e
 On peut citer Snapchat (2011) ou Tiktok (2016) qui font leur apparition dans les années 2010, et la liste continue.
 Facebook rachète Instagram (2012) et Whatsapp (2014), puis devient Meta en 2021. Google achète DeepMind (2014) et devient Alphabet en 2015.
 
-<b>Vers une évolution de la loi</b>. Le [Réglement Européen sur la Protection des Données personnelles](https://www.cnil.fr/fr/rgpd-de-quoi-parle-t-on) (RGPD) est entré en vigueur dans l'Union Européenne en mai 2018 et sanctionne régulièrement les géants du numérique. Il succède en France à la Loi Informatique et Libertés de 1978 et la création de la [Commission nationale de l'informatique et des libertés](https://www.cnil.fr/fr/) (CNIL) comme régulateur. On aussi citer la création de l'[Autorité de Régulation des Communications Électroniques, des Postes et de la Distribution de la Presse](https://www.arcep.fr/) (ARCEP) en 1997 comme régulateur des Télécoms et Médias.
+<b>Vers une évolution de la loi</b>. Le [Réglement Européen sur la Protection des Données personnelles](https://www.cnil.fr/fr/rgpd-de-quoi-parle-t-on) (RGPD) est entré en vigueur dans l'Union Européenne en mai 2018 et sanctionne régulièrement les géants du numérique. Il succède en France à la Loi Informatique et Libertés de 1978 et la création de la [Commission nationale de l'informatique et des libertés](https://www.cnil.fr/fr/) (CNIL) comme régulateur. On peut aussi citer la création de l'[Autorité de Régulation des Communications Électroniques, des Postes et de la Distribution de la Presse](https://www.arcep.fr/) (ARCEP) en 1997 comme régulateur des Télécoms et Médias.
 
 ## Et aujourd'hui?
 

@@ -76,7 +76,7 @@ Cette dernière section apporte quelques conseils pratiques pour déjouer les ro
 4. Faire preuve de <b>discernement</b> et d’<b>esprit critique</b>. Être attentif aux <b>conflits d’intérêts</b> et <b>greenwashing</b>, aux biais et aux non dits. D'où vient l’argent? Quel est le but? Qui est invisibilisé?
 5. Investir son temps et énergie sur le <b>long terme</b>. [Apprendre une langue](https://www.mtpcours.fr/p/language-learning/), à cuisiner, à bricoler… faire du sport, de la musique, du bénévolat, de l’artisanat. Soutenir une cause. Réécrire le futur avec de nouveaux imaginaires.
 
-{{< figure src="numeco/JO-2024.png" caption="<b>Défi de déconnexion</b> du 22 au 25 mai 2024: Trois jours sans réseaux sociaux est-il souhaitable?">}}
+{{< figure src="numeco/JO-2024.png" caption="<b>Défi de déconnexion</b> du 22 au 25 mai 2024. Trois jours sans réseaux sociaux, prêt à relever le défi?">}}
 
 ## Textes de loi
 

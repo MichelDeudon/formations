@@ -19,7 +19,7 @@ tags:
   - Environnement
 ---
 
-{{< figure src="featured.jpg" caption="Source image: [Pour un Réveil Écologique](https://pour-un-reveil-ecologique.org/fr/)">}}
+{{< figure src="featured.jpg" caption="Source image: [Pour un Réveil Écologique](https://pour-un-reveil-ecologique.org/fr/).">}}
 
 {{< toc hide_on="xl" >}}
 
@@ -31,7 +31,7 @@ Le numérique est-il <b>un levier pour la transition écologique ou le talon d�
 
 {{< icon name="clock" pack="fas" >}} <b>Durée</b> : 6 heures. <br>
 {{< icon name="spell-check" pack="fas" >}} <b>Thèmes</b> : Santé, Environnement. <br>
-{{< icon name="hands-asl-interpreting" pack="fas" >}} <b>Public</b>: Etudiants en Lettres, Langues, Arts, Sciences Humaines et Sociales
+{{< icon name="hands-asl-interpreting" pack="fas" >}} <b>Public</b>: Etudiants en Lettres, Langues, Arts, Sciences Humaines et Sociales.
 
 ## Ce que vous apprendrez
 
