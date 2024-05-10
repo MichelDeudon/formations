@@ -35,17 +35,15 @@ Le numérique est-il <b>un levier pour la transition écologique ou le talon d�
 
 ## Ce que vous apprendrez
 
-Dans le premier chapitre, nous verrons des <b>éléments historiques</b> du développement de l’informatique; <b>le rôle pionnier des femmes</b> et leur invisibilisation; <b>la loi de Moore</b>, <b>le prix Turing</b>, la notion de limites, de ressources finies; <b>les régulateurs</b>.
+Jour 1. Dans le premier chapitre, nous verrons des <b>éléments historiques</b> du développement de l’informatique; <b>le rôle pionnier des femmes</b> et leur invisibilisation; <b>la loi de Moore</b>, <b>le prix Turing</b>, la notion de limites, de ressources finies; <b>les régulateurs</b>.
+Le second chapitre est consacré à la <b>pollution invisible</b> et la notion de <b>sac à dos écologique</b>. Il présente les <b>scénarios de l’ADEME</b> et zoom sur les <b>impacts du numérique</b> (santé, social, environnement).
 
-Le second chapitre est consacré à la <b>pollution invisible</b> et la notion de <b>sac à dos écologique</b>. Il présente les <b>scénarios de l’ADEME</b> et zoom sur les <b>impacts du numérique</b> (santé, social, environnement). Nous apprendrons à <b>co-construire</b> un atelier participatif en réalisant une fiche action.
+Jour 2. Le chapitre 3 présente une méthode de <b>prévention santé écrans</b>. [Activité] Nous apprendrons en pratique à <b>co-construire</b> un atelier participatif et préventif en réalisant une fiche action.
 
-Le chapitre 3 présente une méthode de <b>prévention santé écrans</b>. 
+Jour 3. Le chapitre 4 aborde les <b>biais cognitifs</b>, les stéréotypes, le greenwashing et les conflit d'intérêts, afin de <b>faire preuve d'esprit critique</b>.
+Enfin dans les chapitres 5 et 6 nous discuterons des <b>récits de la transition</b>, du pouvoir la narration et les <b>innovations</b> à l'Université Paul Valéry (ESS, sciences participatives, licence miashs, handinnovation...).  [Activité] Nous verrons en pratique comment réaliser une enquête et <b>conduire des entretiens</b>.
 
-Le chapitre 4 aborde les <b>biais cognitifs</b>, stéréotypes et boucles de rétroaction, ainsi que des méthodes pour repérer le greenwashing et les conflit d'intérêts, afin de <b>faire preuve d'esprit critique</b>.
-
-Enfin dans les chapitres 5 et 6 nous discuterons des <b>récits de la transition</b>, du pouvoir la narration et les <b>innovations</b> à l'Université Paul Valéry (ESS, sciences participatives, licence miashs, handinnovation...). Nous verrons en pratique comment réaliser une enquête et <b>conduire des entretiens</b>.
-
-L'ensemble du cours vise à contribuer au <b>lâcher prise</b>, au <b>prendre soin</b>, à la communication douce et au bien vivre ensemble. 
+L'ensemble du cours vise à contribuer au lâcher prise, au prendre soin et au bien vivre ensemble. 
 Les <b>projets collectifs</b> ont pour objectif de développer la <b>créativité</b> et l'<b>engagement</b> étudiant.
 
 ## Chapitres

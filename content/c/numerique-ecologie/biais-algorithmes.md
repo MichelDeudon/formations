@@ -43,7 +43,7 @@ Le découplage entre la reconnaissance et l’action laisse le temps à la réfl
 
 {{< figure src="numeco/llama-bias.png" caption="Exemple de biais de genre de LLaMA, un concurrent de ChatGPT. Source: [LLaMA: Open and efficient foundation language models. Arxiv, 2023](https://arxiv.org/abs/2302.13971).">}}
 
-{{< figure src="numeco/mafia-CIFRE.png" caption="Retweet de @[Yann Lecun](https://twitter.com/ylecun/status/1629845738170597376?lang=en), directeur de la recherche en IA de <b>Facebook</b>, en février 2023. Comment expliquer le sexisme des modèles LLaMA et que 13 sur 14 des auteurs sont des hommes?">}}
+{{< figure src="numeco/mafia-CIFRE.png" caption="Retweet de @[Yann Lecun](https://twitter.com/ylecun/status/1629845738170597376?lang=en), directeur de la recherche en IA de <b>Facebook</b>, en février 2023. Comment expliquer le sexisme des modèles LLaMA et que 13 sur 14 des auteurs sont des hommes? Comment la startup Mistral.ai, co-fondée par 2 auteurs des modèles LLaMA, compte s'adresser au sexisme de l'IA?">}}
 
 ## Sortir du paradigme “diviser pour mieux régner”
 
@@ -56,7 +56,7 @@ Pour lutter contre la désinformation, il ne faut pas commenter ou partager les 
 
 {{< figure src="numeco/chatgpt-greenwashing.png" caption="<b>Reconnaître les perles de greenwashing</b>. Capture d’écran d’un étudiant en février 2023. <i>Une IA qui écrit une prose convaincante risque de produire en masse de fausses nouvelles</i> (ChatGPT2). Source: [MIT Technology Review](https://www.technologyreview.com/2019/02/14/137426/an-ai-tool-auto-generates-fake-news-bogus-tweets-and-plenty-of-gibberish/), février 2019.">}}
 
-{{< figure src="numeco/nvidia-stock.png" caption="<b>Reconnaître les conflits d’intérêts</b>. Capitalisation boursière de NVIDIA (2.25 trilliards en 2024), leader mondial du calcul en intelligence artificielle, qui <i>lutte contre le changement climatique</i> avec l'IA (voir le workshop organisé par [climatechange.ai](https://www.climatechange.ai/events/neurips2022) à la conférence NeurIPS 2022, qui compte 19 auteurs de NVIDIA).">}}
+{{< figure src="numeco/nvidia-stock.png" caption="<b>Reconnaître les conflits d’intérêts</b>. Capitalisation boursière de NVIDIA (2.25 trilliards en 2024), leader mondial du calcul en intelligence artificielle qui [lutte contre le changement climatique](https://www.climatechange.ai/events/neurips2022) avec l'IA.">}}
 
 Les GAFAM creusent les inégalités sociales, et divisent pour mieux régner. Une autre vision du monde existe, <i>“celle qui unit”</i> disait Paul Valéry.
 

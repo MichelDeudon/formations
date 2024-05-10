@@ -20,7 +20,7 @@ De 1843 à aujourd'hui, les femmes sont pionnières et invisibilisées.
 
 ## De 1843 à 1970, les femmes pionières en sciences
 
-Le dictionnaire Larousse définit l'<b>informatique</b> comme la science du traitement de l'information considérée comme le support des connaissances et des communications. Il s'agit donc d'une science dans lesquelles les femmes étaient (et sont toujours) pionnières. En effet, on attribue à <b>Ada Lovelace</b> l'origine du premier algorithme en 1843. <b>Mary Jackson, Katherine Johnson, Dorothy Vaugha</b>, mathématiciennes et informaticiennes à la NASA, étaient à l'origine des succès des premières missions Apollo, tout comme <b>Margaret Heafield Hamilton</b>, qui a permis d'aller sur la lune en 1969 (mission Apollo 11).
+Le dictionnaire Larousse définit l'<b>informatique</b> comme la science du traitement de l'information considérée comme le support des connaissances et des communications. Il s'agit donc d'une science dans lesquelles les femmes étaient (et sont toujours) pionnières. En effet, on attribue à <b>Ada Lovelace</b> l'origine du premier algorithme en 1843. <b>Mary Jackson, Katherine Johnson, Dorothy Vaugha</b>, mathématiciennes et informaticiennes à la NASA, sont à l'origine des succès des premières missions Apollo, tout comme <b>Margaret Heafield Hamilton</b>, qui a permis d'aller sur la lune en 1969 (mission Apollo 11).
 
 ## Des années 1950 à 1980, d'un effort de l'armée à une logique de marché
 
@@ -36,8 +36,7 @@ De 1965 à 2015, la <b>loi de Moore</b> traduit un modèle de croissance sans li
 Dans les années 1970-1980, le secteur privé investit dans les processeurs, les ordinateurs (hardware), les logiciels (software) et les entreprises américaines comme Intel (1968), Microsoft et Apple (1976) voient le jour avec <b>Bill Gates</b> et <b>Steve Jobs</b>.
 
 De 1965 à aujourd’hui, la part des femmes / hommes s’est inversée.
-L’histoire se souvient d’<b>Alan Turing</b> (Enigma, 1943) qui a donné son nom au prix Turing.
-À ce jour, 3 femmes sur 51 ont obtenu le prix Turing, décerné par l’Association for Computing Machinery (lobby des États-Unis).
+L’histoire se souvient d’<b>Alan Turing</b> (Enigma, 1943) qui a donné son nom au prix Turing mais à ce jour, 3 femmes sur 51 ont obtenu le prix Turing, décerné par l’Association for Computing Machinery (lobby des États-Unis).
 
 ## Des années 1990 aux années 2010, essor d'internet et des applis
 
@@ -60,4 +59,4 @@ On parle de transformation numérique, de fracture numérique, de numérique res
 
 {{< figure src="numeco/media-fr.png" caption="Paysage des médias en France. Qui détient quoi?">}}
 
-Selon le Larousse, le <b>numérique</b> relève des nombres (en anglais digital). Qui/quoi se cache derrière ces nombres? Par exemple derrière la [levée de fonds de 105 millions d'euros de la startup Mistral.ai](https://www.maddyness.com/2023/06/13/mistral-levee-de-fonds-105-millions-artificielle-generative/) en 2023?
+Qui/quoi se cache derrière le <b>numérique</b> (ce qui relève des nombres d'après le Larousse, en anglais digital)? Par exemple qui/quoi se cache derrière la [levée de fonds de 105 millions d'euros de la startup Mistral.ai](https://www.maddyness.com/2023/06/13/mistral-levee-de-fonds-105-millions-artificielle-generative/) en 2023?
