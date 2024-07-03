@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professeure et animatrice indépendante
+role: Animatrice et co-présidente
 
 # Organizations/Affiliations
 organizations:
@@ -48,7 +48,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:morgann.rai@gmail.com?subject=[M&M] Contact'
+    link: 'mailto:morgann@mathsetmaryam.fr?subject=Contact'
   - icon: phone
     icon_pack: fas
     link: 'tel:0647095044'
