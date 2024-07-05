@@ -46,8 +46,8 @@ Lycée et supérieur (BTS, Prépa, Licence, Master).
 
 ## Dates et lieu
 
-📍 À la médiathèque [Pierresvives](https://pierresvives.herault.fr/663-horaires-d-ouverture.htm), la médiathèque [Jean Jacques Rousseau](https://mediatheques.montpellier3m.fr/default/mediatheque-jean-jacques-rousseau.aspx?_lg=fr-FR), au centre social CAF l'[ile aux familles](https://www.cultureetsportsolidaires34.fr/Partenaires/_Centre-Social-CAF-Paillade-l-ile-aux-familles), l’[association GSC](https://www.helloasso.com/associations/generations-solidaires-et-citoyennes) ou à domicile. <br>
-📅 De 9h à 21h, en semaine ou week-end, sur rdv, dans la limite des places disponibles.
+📍 À la médiathèque [Pierresvives](https://pierresvives.herault.fr/663-horaires-d-ouverture.htm) ou à la [Maison Pour Tous Louis Feuillade](https://www.montpellier.fr/structure/1788/240-maison-pour-tous-louis-feuillade-structure.htm). <br>
+📅 Le jeudi et vendredi, de 17h à 19h, en période scolaire. <br>
 
 ## 🎯 Objectifs
 
@@ -58,19 +58,12 @@ Lycée et supérieur (BTS, Prépa, Licence, Master).
 ## Les avantages du soutien scolaire
 
 - Une approche innovante, efficace et ludique alliant apprentissage, culture et sport, adapté aux jeunes, en petits groupes.
-- Des supports et [exercices pour tous les niveaux](https://www.mtpcours.fr/c/maths/).
+- Des supports et [exercices pour tous les niveaux](https://www.mathsetmaryam.fr/c/maths/).
 - Un bilan et un suivi pédagogique personnalisés.
 
-## Programme
+##  Tutorat
 
-###  Tarifs individuels (groupe de 5 max)
-
-| Séance | Mois | Trimestre |
-|---|---|---|
-| 1h30 | 4 séances | 10 séances |
-| 15€ | 50€ | 120€ ou 12h de tutorat |
-
-L'objectif du tutorat est d'encourager l'entraide et l'idée d'enseigner pour apprendre (méthode Feynman), ou de former des formateurs, pour perenisser l'action de soutien scolaire durablement. Il permet aux familles plus modestes de bénéficier d'une réduction sur le trimestre, par exemple de 30€ pour 3h de tutorat (2 séances de CLAS à co-animer comme bénévole en renfort). Enfin, le programme de soutien scolaire et tutorat vise à donner plus d'autonomie aux jeunes, en leur permettant, à leur tour, de transmettre ce qu'ils et elles ont appris.
+L'objectif du tutorat est d'encourager l'entraide et l'idée d'enseigner pour apprendre (méthode Feynman), ou de former des formateurs, pour perenisser l'action de soutien scolaire durablement. Le soutien scolaire et le tutorat visent à donner plus d'autonomie aux jeunes, en leur permettant, à leur tour, de transmettre ce qu'ils et elles ont appris.
 
 ## FAQ
 
@@ -79,4 +72,4 @@ L'objectif du tutorat est d'encourager l'entraide et l'idée d'enseigner pour ap
 - Cahier, feuilles, stylo, compas, règle, équerre... le kit classique !
 {{< /spoiler >}}
 
-Partenaires associatifs et institutionnels
+<!-- Partenaires associatifs et institutionnels -->

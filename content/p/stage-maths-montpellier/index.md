@@ -26,24 +26,24 @@ tags:
 - Hérault
 ---
 
-Pour bien préparer son début d'année
+Pour bien préparer son début d'année.
 
 <!--more-->
 
 ## Introduction
 
-Avec l'[association GSC](https://www.jeveuxaider.gouv.fr/organisations/4859-generations-solidaires-et-citoyennes) (Générations Solidaires et Citoyennes), un « STAGE DE PRÉ-RENTRÉE » pour l’année scolaire 2023-2024 est organisé, pour des élèves du primaire au lycée et supérieur. Le stage d’été est l'occasion de préparer efficacement sa rentrée, dans un cadre bienveillant et une ambiance de travail collectif, en petits groupes. Il permet aux jeunes d’apprendre ou de réviser dans la bonne humeur, d’aider les élèves dans leurs difficultés, leur redonner confiance et les accompagner en s'adaptant à leurs besoins.
+Le stage d’été est l'occasion de préparer efficacement sa rentrée, dans un cadre bienveillant et une ambiance de travail collectif, en petits groupes. Il permet aux jeunes d’apprendre ou de réviser dans la bonne humeur, d’aider les élèves dans leurs difficultés, leur redonner confiance et les accompagner en s'adaptant à leurs besoins.
 
 ## Public
 
 Ouvert à toutes et à tous, du CP à la terminale, et études supérieures (BTS, Prépa, Licence, Master).
 
-<b>Matières</b>: Mathématiques, Français, Physique-Chimie, Anglais
+<b>Matières</b>: Français, Mathématiques, Physique-Chimie, Anglais, Histoire, SVT.
 
 ## Dates et lieu
 
-📅 Du lundi 28 août au vendredi 1er septembre 2023, de 14h à 18h <br>
- 📍  À l’[association GSC](https://www.jeveuxaider.gouv.fr/organisations/4859-generations-solidaires-et-citoyennes), 124 Allée de Coventry, 34080 Montpellier
+📍 À la médiathèque [Pierresvives](https://pierresvives.herault.fr/663-horaires-d-ouverture.htm) ou à la [Maison Pour Tous Louis Feuillade](https://www.montpellier.fr/structure/1788/240-maison-pour-tous-louis-feuillade-structure.htm). <br>
+📅 Du lundi 28 août au vendredi 1er septembre 2023, de 14h à 18h. <br>
 
 ## Objectifs
 
@@ -54,24 +54,7 @@ Ouvert à toutes et à tous, du CP à la terminale, et études supérieures (BTS
 ## Les avantages du stage de pré-rentrée
 
 - Un stage gratuit, efficace et ludique alliant apprentissage, culture et sport, adapté aux jeunes, en petits groupes.
-- Des supports pédagogiques de qualité, et des [exercices pour tous les niveaux](https://www.mtpcours.fr/c/maths/) (merci aux enseignants du lycée Louis Le Grand et Henri IV !).
 - Un bilan pédagogique personnalisé, communiqué en fin de stage.
-
-## Programme
-
-### Du lundi au vendredi, de 14h à 18h
-
-Aide aux devoirs et stage de mathématiques et physique-chimie (Primaire, Collège, Lycée, Supérieur).
-
-### Activités culturelles et sport, de 18h à 20h
-
-| Jour | Description |
-|---|---|
-|Lundi 28/08 | Calligraphie et tour du monde |
-|Mardi 29/08 | <i>Apprendre à apprendre</i> (jeux d'attention, mémoire, confiance en soi) |
-|Mercredi 30/08 | Karaoké et origami |
-|Jeudi 31/08 | Orientation. <i>CPGE, CPES, BTS...?</i> |
-|Vendredi 01/09 | Goûter et bilan pédagogique |
 
 {{< cta cta_text="Places limitées. RSVP par sms" cta_link=".">}}
 
