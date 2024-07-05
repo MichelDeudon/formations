@@ -28,87 +28,86 @@ Rencontres avec les parents, présentation de l'[association M&M](https://www.he
 
 ## Vendredi 12 juillet
 
-📍 Devant la [médiathèque Pierresvives](https://g.co/kgs/rW8BnA2), 34080 Montpellier.  <br>
+📍 Devant la [médiathèque Pierresvives](https://g.co/kgs/rW8BnA2).  <br>
 🕕 De 18h à 20h.  <br>
-🎵 Session de <b>Roller Dance</b> inter générationnel.
+🎵 <b>Roller Dance</b> inter générationnel.
 
 ## Samedi 13 juillet
 
 📍 Au [Parc Sophie Desmarets](https://g.co/kgs/qkcWFcD).  <br>
 🕛 De 12h à 20h.  <br>
-👒 <b>Picnic</b>, jeux de société, d'eau et de balles (de 12h à 15h). <br>
-🐤 Création de <b>Nichoirs</b> avec l'association [le Passe Murail](https://www.lepassemuraille.org/qui-sommes-nous/) (de 15h à 18h). <br>
-🇫🇷 Expression / débat sur les <b>élections législatives</b> (de 18h à 20h). <br>
+👒 <b>Picnic</b> et jeux (de 12h à 15h). <br>
+🐤 <b>Création de Nichoirs</b> (de 15h à 18h). <br>
 
 ## Vendredi 19 juillet
 
 📍 Au Parc Montcalm.  <br>
 🕒 De 14h à 18h.  <br>
-🎵 Session de <b>Roller Coaster</b> (trottinettes, BMX, sk8 bienvenus!).
+🎵 <b>Roller Coaster</b> et goûter.
 
 ## Samedi 20 juillet
 
 📍 Au [Parc Sophie Desmarets](https://g.co/kgs/qkcWFcD).  <br>
 🕛 De 12h à 20h.  <br>
-👒 <b>Picnic</b>, jeux de société, eau, balles (de 12h à 15h). <br>
-🛠️ Réparation de <b>Roller Sk8</b>, in english (de 15h à 18h). <br>
-🎨 <b>Dessin</b> / grande fresque et quiz (de 18h à 20h). <br>
+👒 <b>Picnic</b> et jeux (de 12h à 15h). <br>
+🛠️ <b>Repair Roller Sk8</b>, in english (de 15h à 18h). <br>
+🎨 <b>Dessin</b> / grande fresque (de 18h à 20h). <br>
 
 ## Vendredi 26 juillet
 
 📍 À l'[aquarium Planet Océan](https://www.planetoceanworld.fr/).  <br>
 🕛 De 10h à 18h.  <br>
-🐟 Visite guidée de l'aquarium.
+🐟 <b>Visite guidée</b> de l'aquarium.
 
 ## Samedi 27 juillet
 
 📍 Au [Parc Sophie Desmarets](https://g.co/kgs/qkcWFcD).  <br>
 🕒 De 15h à 18h.  <br>
-🗿 Atelier de sculpture en argile.
+🗿 <b>Atelier de sculpture</b> en argile.
 
 ## Vendredi 9 août 
 
 📍 Au Jardin des plantes.  <br>
 🕒 De 15h à 18h.  <br>
-🍂 Création d'un Herbier avec [le Passe Murail](https://www.lepassemuraille.org/qui-sommes-nous/).
+🍂 <b>Création d'un Herbier</b>.
 
 ## Samedi 10 août
 
 📍 Au [Parc Sophie Desmarets](https://g.co/kgs/qkcWFcD).  <br>
 🕒 De 15h à 18h. <br>
-🎨 Dessin / grande fresque et quiz.
+🎨 <b>Dessin</b> / grande fresque. <br>
 
 ## Samedi 17 août
 
 📍 À la [patinoire Vegapolis](https://www.vegapolis.fr/).  <br>
 🕒 De 14h à 18h. <br>
-❄️ Sortie sur glace et goûter.
+❄️ <b>Sortie sur glace</b> et goûter.
 
 ## Vendredi 23 août
 
 📍 Comédie / Antigone.  <br>
 🕒 De 15h à 18h. <br>
-💦 Grands jeux d’eau (Koh Lanta) et remise des bandeaux de roller dance.
+💦 <b>Grands jeux d’eau</b> (Koh Lanta) et remise des bandeaux de roller dance.
 
 ## Samedi 24 août
 
 📍 Au [Parc Sophie Desmarets](https://g.co/kgs/qkcWFcD).  <br>
 🕛 De 12h à 20h. <br>
-👒 <b>Picnic</b>, jeux de société, eau, balles (de 12h à 15h). <br>
-🛠️ Réparation de <b>Roller Sk8</b>, in english (de 15h à 18h). <br>
-🎨 Upcycling et eco painting en partenariat avec l'association Local Seasonal (de 18h à 20h). <br>
+👒 <b>Picnic</b> et jeux (de 12h à 15h). <br>
+🛠️ <b>Repair Roller Sk8</b>, in english (de 15h à 18h). <br>
+🎨 <b>Upcycling et eco painting</b> avec l'association Local Seasonal (de 18h à 20h). <br>
 
 ## Stage de pré-rentrée
 
-📍 À la [médiathèque Pierresvives](https://g.co/kgs/rW8BnA2), 34080 Montpellier.  <br>
+📍 À la [médiathèque Pierresvives](https://g.co/kgs/rW8BnA2).  <br>
 📅 Du mardi 27 août au vendredi 30 août, de 18h à 20h. <br>
-📚 Pré Rentrée Primaire / Collège / Lycée (révisions, méthodes, prépa).
+📚 <b>Pré Rentrée</b> Primaire / Collège / Lycée.
 
 ## Vendredi 6 septembre
 
 📍 À la [Maison Pour Tous Louis Feuillade](https://www.montpellier.fr/structure/1788/240-maison-pour-tous-louis-feuillade-structure.htm).  <br>
 🕕 De 18h à 20h. <br>
-📽️ Rétrospective été 2024 (court métrage, à partir de 12 ans) et spectacle de roller dance / fête de quartier.
+📽️ <b>Rétrospective</b> été 2024 (court métrage), spectacle de roller dance et fête de quartier.
 
 ## FAQ
 
@@ -119,7 +118,7 @@ Pour les mineurs souhaitant participer aux activités et sorties, vous devez com
 - une attestation de responsabilité civile et assurance.
 - un certificat médical de non contre indication (pour le roller)
 - une autorisation parentale (pour le roller et les sorties, fiche à retourner remplie et signée)
-- la charte d'engagement signée.
+- la charte d'engagement signée (à venir).
 {{< /spoiler >}}
 
 {{< spoiler text="Combien coûtent les sorties?" >}}
