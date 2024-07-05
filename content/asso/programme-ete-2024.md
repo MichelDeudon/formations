@@ -23,22 +23,19 @@ Agenda des activités et sorties à Montpellier.
 
 ## Semaine d'info et inscriptions.
 
-📅 Du lundi 1er juillet au dimanche 14 juillet.
-
+📅 Du lundi 1er juillet au dimanche 14 juillet.  <br>
 Rencontres avec les parents, présentation de l'[association M&M](https://www.helloasso.com/associations/maths-et-maryam) et actions de [prévention santé écrans](https://www.mathsetmaryam.fr/c/numerique-ecologie/prevention-sante-ecrans/).
 
 ## Vendredi 12 juillet
 
 📍 Devant la [médiathèque Pierresvives](https://g.co/kgs/rW8BnA2), 34080 Montpellier.  <br>
-🕕 De 18h à 20h.
-
-🎵 Session de <b>Roller Dance</b> inter générationnel avec des [Funny Riders](https://funnyriders.fr/).
+🕕 De 18h à 20h.  <br>
+🎵 Session de <b>Roller Dance</b> inter générationnel.
 
 ## Samedi 13 juillet
 
 📍 Au [Parc Sophie Desmarets](https://g.co/kgs/qkcWFcD).  <br>
-🕛 De 12h à 20h.
-
+🕛 De 12h à 20h.  <br>
 👒 <b>Picnic</b>, jeux de société, d'eau et de balles (de 12h à 15h). <br>
 🐤 Création de <b>Nichoirs</b> avec l'association [le Passe Murail](https://www.lepassemuraille.org/qui-sommes-nous/) (de 15h à 18h). <br>
 🇫🇷 Expression / débat sur les <b>élections législatives</b> (de 18h à 20h). <br>
@@ -46,15 +43,13 @@ Rencontres avec les parents, présentation de l'[association M&M](https://www.he
 ## Vendredi 19 juillet
 
 📍 Au Parc Montcalm.  <br>
-🕒 De 14h à 18h.
-
+🕒 De 14h à 18h.  <br>
 🎵 Session de <b>Roller Coaster</b> (trottinettes, BMX, sk8 bienvenus!).
 
 ## Samedi 20 juillet
 
 📍 Au [Parc Sophie Desmarets](https://g.co/kgs/qkcWFcD).  <br>
-🕛 De 12h à 20h.
-
+🕛 De 12h à 20h.  <br>
 👒 <b>Picnic</b>, jeux de société, eau, balles (de 12h à 15h). <br>
 🛠️ Réparation de <b>Roller Sk8</b>, in english (de 15h à 18h). <br>
 🎨 <b>Dessin</b> / grande fresque et quiz (de 18h à 20h). <br>
@@ -62,50 +57,43 @@ Rencontres avec les parents, présentation de l'[association M&M](https://www.he
 ## Vendredi 26 juillet
 
 📍 À l'[aquarium Planet Océan](https://www.planetoceanworld.fr/).  <br>
-🕛 De 10h à 18h.
-
+🕛 De 10h à 18h.  <br>
 🐟 Visite guidée de l'aquarium.
 
 ## Samedi 27 juillet
 
 📍 Au [Parc Sophie Desmarets](https://g.co/kgs/qkcWFcD).  <br>
-🕒 De 15h à 18h.
-
-🗿 Atelier de sculpture en argile avec l'association IPEICC.
+🕒 De 15h à 18h.  <br>
+🗿 Atelier de sculpture en argile.
 
 ## Vendredi 9 août 
 
 📍 Au Jardin des plantes.  <br>
-🕒 De 15h à 18h.
-
+🕒 De 15h à 18h.  <br>
 🍂 Création d'un Herbier avec [le Passe Murail](https://www.lepassemuraille.org/qui-sommes-nous/).
 
 ## Samedi 10 août
 
 📍 Au [Parc Sophie Desmarets](https://g.co/kgs/qkcWFcD).  <br>
-🕒 De 15h à 18h.
-
+🕒 De 15h à 18h. <br>
 🎨 Dessin / grande fresque et quiz.
 
 ## Samedi 17 août
 
 📍 À la [patinoire Vegapolis](https://www.vegapolis.fr/).  <br>
-🕒 De 14h à 18h.
-
-❄️ Sortie sur glace et goûter en partenariat avec l'[association GSC](https://www.jeveuxaider.gouv.fr/organisations/4859-generations-solidaires-et-citoyennes).
+🕒 De 14h à 18h. <br>
+❄️ Sortie sur glace et goûter.
 
 ## Vendredi 23 août
 
 📍 Comédie / Antigone.  <br>
-🕒 De 15h à 18h.
-
-💦 Grands jeux d’eau (Koh Lanta) et remise des bandeaux de roller dance avec Precy ([FFRS](https://ffroller-skateboard.fr/)) ou Cathy ([FFSG](https://www.ffsg.org/)).
+🕒 De 15h à 18h. <br>
+💦 Grands jeux d’eau (Koh Lanta) et remise des bandeaux de roller dance.
 
 ## Samedi 24 août
 
 📍 Au [Parc Sophie Desmarets](https://g.co/kgs/qkcWFcD).  <br>
-🕛 De 12h à 20h.
-
+🕛 De 12h à 20h. <br>
 👒 <b>Picnic</b>, jeux de société, eau, balles (de 12h à 15h). <br>
 🛠️ Réparation de <b>Roller Sk8</b>, in english (de 15h à 18h). <br>
 🎨 Upcycling et eco painting en partenariat avec l'association Local Seasonal (de 18h à 20h). <br>
@@ -113,16 +101,14 @@ Rencontres avec les parents, présentation de l'[association M&M](https://www.he
 ## Stage de pré-rentrée
 
 📍 À la [médiathèque Pierresvives](https://g.co/kgs/rW8BnA2), 34080 Montpellier.  <br>
-📅 Du mardi 27 août au vendredi 30 août, de 18h à 20h.
-
+📅 Du mardi 27 août au vendredi 30 août, de 18h à 20h. <br>
 📚 Pré Rentrée Primaire / Collège / Lycée (révisions, méthodes, prépa).
 
 ## Vendredi 6 septembre
 
 📍 À la [Maison Pour Tous Louis Feuillade](https://www.montpellier.fr/structure/1788/240-maison-pour-tous-louis-feuillade-structure.htm).  <br>
-🕕 De 18h à 20h.
-
-📽️ Rétrospective été 2024 (court métrage, à partir de 12 ans) et spectacle de roller dance / fête de quartier, en partenariat avec l'[association GSC](https://www.jeveuxaider.gouv.fr/organisations/4859-generations-solidaires-et-citoyennes) et les Ziconophages.
+🕕 De 18h à 20h. <br>
+📽️ Rétrospective été 2024 (court métrage, à partir de 12 ans) et spectacle de roller dance / fête de quartier.
 
 ## FAQ
 
