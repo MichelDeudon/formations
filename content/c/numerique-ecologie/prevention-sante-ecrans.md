@@ -61,7 +61,7 @@ Nous verrons en cours comment créer une <b>fiche action</b> pour co-construire 
 {{< /callout >}}
 
 {{< callout note >}}
-<a href="https://www.mtpcours.fr/assos/lutte-contre-les-exclusions/">Sorties avec Morgann pendant l’été</a>, Montpellier.
+<a href="https://www.mtpcours.fr/asso/lutte-contre-les-exclusions/">Sorties avec Morgann pendant l’été</a>, Montpellier.
 {{< /callout >}}
 
 ## Soutien
