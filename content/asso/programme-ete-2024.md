@@ -19,7 +19,7 @@ Agenda des activités et sorties à Montpellier.
 
 <!--more-->
 
-{{< figure src="assos/lutte-exclusions.png" caption="Partenaires associatifs et institutionnels.">}}
+<!-- {{< figure src="assos/lutte-exclusions.png" caption="Partenaires associatifs et institutionnels.">}} -->
 
 ## Semaine d'info et inscriptions.
 
@@ -29,16 +29,14 @@ Rencontres avec les parents, présentation de l'[association M&M](https://www.he
 
 ## Vendredi 12 juillet
 
-📍 Devant la [médiathèque Pierresvives](https://g.co/kgs/rW8BnA2), 34080 Montpellier.
-
+📍 Devant la [médiathèque Pierresvives](https://g.co/kgs/rW8BnA2), 34080 Montpellier.  <br>
 🕕 De 18h à 20h.
 
 🎵 Session de <b>Roller Dance</b> inter générationnel avec des [Funny Riders](https://funnyriders.fr/).
 
 ## Samedi 13 juillet
 
-📍 Au [Parc Sophie Desmarets](https://g.co/kgs/qkcWFcD).
-
+📍 Au [Parc Sophie Desmarets](https://g.co/kgs/qkcWFcD).  <br>
 🕛 De 12h à 20h.
 
 👒 <b>Picnic</b>, jeux de société, d'eau et de balles (de 12h à 15h). <br>
@@ -47,16 +45,14 @@ Rencontres avec les parents, présentation de l'[association M&M](https://www.he
 
 ## Vendredi 19 juillet
 
-📍 Au Parc Montcalm.
+📍 Au Parc Montcalm.  <br>
+🕒 De 14h à 18h.
 
 🎵 Session de <b>Roller Coaster</b> (trottinettes, BMX, sk8 bienvenus!).
 
-🕒 De 14h à 18h.
-
 ## Samedi 20 juillet
 
-📍 Au [Parc Sophie Desmarets](https://g.co/kgs/qkcWFcD).
-
+📍 Au [Parc Sophie Desmarets](https://g.co/kgs/qkcWFcD).  <br>
 🕛 De 12h à 20h.
 
 👒 <b>Picnic</b>, jeux de société, eau, balles (de 12h à 15h). <br>
@@ -65,56 +61,49 @@ Rencontres avec les parents, présentation de l'[association M&M](https://www.he
 
 ## Vendredi 26 juillet
 
-📍 À l'[aquarium Planet Océan](https://www.planetoceanworld.fr/).
-
+📍 À l'[aquarium Planet Océan](https://www.planetoceanworld.fr/).  <br>
 🕛 De 10h à 18h.
 
 🐟 Visite guidée de l'aquarium.
 
 ## Samedi 27 juillet
 
-📍 Au [Parc Sophie Desmarets](https://g.co/kgs/qkcWFcD).
-
+📍 Au [Parc Sophie Desmarets](https://g.co/kgs/qkcWFcD).  <br>
 🕒 De 15h à 18h.
 
 🗿 Atelier de sculpture en argile avec l'association IPEICC.
 
 ## Vendredi 9 août 
 
-📍 Au Jardin des plantes.
-
+📍 Au Jardin des plantes.  <br>
 🕒 De 15h à 18h.
 
 🍂 Création d'un Herbier avec [le Passe Murail](https://www.lepassemuraille.org/qui-sommes-nous/).
 
 ## Samedi 10 août
 
-📍 Au [Parc Sophie Desmarets](https://g.co/kgs/qkcWFcD).
-
+📍 Au [Parc Sophie Desmarets](https://g.co/kgs/qkcWFcD).  <br>
 🕒 De 15h à 18h.
 
 🎨 Dessin / grande fresque et quiz.
 
 ## Samedi 17 août
 
-📍 À la [patinoire Vegapolis](https://www.vegapolis.fr/).
-
+📍 À la [patinoire Vegapolis](https://www.vegapolis.fr/).  <br>
 🕒 De 14h à 18h.
 
 ❄️ Sortie sur glace et goûter en partenariat avec l'[association GSC](https://www.jeveuxaider.gouv.fr/organisations/4859-generations-solidaires-et-citoyennes).
 
 ## Vendredi 23 août
 
-📍 Comédie / Antigone.
-
+📍 Comédie / Antigone.  <br>
 🕒 De 15h à 18h.
 
 💦 Grands jeux d’eau (Koh Lanta) et remise des bandeaux de roller dance avec Precy ([FFRS](https://ffroller-skateboard.fr/)) ou Cathy ([FFSG](https://www.ffsg.org/)).
 
 ## Samedi 24 août
 
-📍 Au [Parc Sophie Desmarets](https://g.co/kgs/qkcWFcD).
-
+📍 Au [Parc Sophie Desmarets](https://g.co/kgs/qkcWFcD).  <br>
 🕛 De 12h à 20h.
 
 👒 <b>Picnic</b>, jeux de société, eau, balles (de 12h à 15h). <br>
@@ -123,16 +112,14 @@ Rencontres avec les parents, présentation de l'[association M&M](https://www.he
 
 ## Stage de pré-rentrée
 
-📍 À la [médiathèque Pierresvives](https://g.co/kgs/rW8BnA2), 34080 Montpellier.
-
+📍 À la [médiathèque Pierresvives](https://g.co/kgs/rW8BnA2), 34080 Montpellier.  <br>
 📅 Du mardi 27 août au vendredi 30 août, de 18h à 20h.
 
 📚 Pré Rentrée Primaire / Collège / Lycée (révisions, méthodes, prépa).
 
 ## Vendredi 6 septembre
 
-📍 À la [Maison Pour Tous Louis Feuillade](https://www.montpellier.fr/structure/1788/240-maison-pour-tous-louis-feuillade-structure.htm).
-
+📍 À la [Maison Pour Tous Louis Feuillade](https://www.montpellier.fr/structure/1788/240-maison-pour-tous-louis-feuillade-structure.htm).  <br>
 🕕 De 18h à 20h.
 
 📽️ Rétrospective été 2024 (court métrage, à partir de 12 ans) et spectacle de roller dance / fête de quartier, en partenariat avec l'[association GSC](https://www.jeveuxaider.gouv.fr/organisations/4859-generations-solidaires-et-citoyennes) et les Ziconophages.
