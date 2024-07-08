@@ -42,10 +42,8 @@ De la primaire au collège, lycée et études supérieures (BTS, Prépa, Licence
 
 ## Matières
 
-Français, Anglais, Histoire, Philo...
-
-Mathématiques, Physique Chimie, SVT, Info... 
-
+Français, Anglais, Histoire, Philo. <br>
+Mathématiques, Physique Chimie, SVT, Info. <br>
 Métholodogie, Orientation, etc.
 
 ## Objectifs
@@ -61,22 +59,22 @@ Métholodogie, Orientation, etc.
 ## Stage de pré-rentrée 2024-2025
 
 📅 Du mardi 27 août au vendredi 30 août, de 18h à 20h. <br>
-Le stage d’été est l'occasion de préparer efficacement sa rentrée, dans un cadre bienveillant et une ambiance de travail collectif, en petits groupes. Il permet aux jeunes d’apprendre ou de réviser dans la bonne humeur, d’aider les élèves dans leurs difficultés, leur redonner confiance et les accompagner en s'adaptant à leurs besoins.
+Le <b>stage de pré-rentrée</b> est l'occasion de préparer efficacement sa rentrée dans un cadre bienveillant. Il permet aux jeunes d’apprendre et de réviser, d’aider les élèves dans leurs difficultés, leur redonner confiance et les accompagner en s'adaptant à leurs besoins.
 
 ## Aide aux devoirs et soutien scolaire 2024-2025
 
 📅 Le jeudi et vendredi, de 17h à 19h, en période scolaire. <br>
-Le soutien scolaire est l'occasion de préparer efficacement son année au lycée et supérieur, dans un cadre bienveillant et une ambiance de travail collectif. Il permet aux jeunes d’apprendre dans la bonne humeur et d’aider les autres, pour gagner en confiance et ouvrir le champs des possibles.
+Le <b>soutien scolaire</b> est l'occasion de préparer efficacement son année au lycée et supérieur, dans un cadre bienveillant. Il permet aux jeunes d’apprendre et d’aider les autres, pour gagner en confiance et ouvrir le champs des possibles.
 
 ## Les avantages de M&M
 
-- Un accompagnement gratuit, efficace et ludique alliant apprentissage, culture et sport, adapté aux jeunes, en petits groupes.
+- <b>Un accompagnement gratuit, ludique et efficace</b> alliant apprentissage, culture et sport, adapté aux jeunes.
 - Des supports et [exercices pour tous les niveaux](https://www.mathsetmaryam.fr/c/maths/).
-- Un suivi pédagogique personnalisé.
+- Des bilans et un suivi pédagogique personnalisé.
 
 ## Tutorat
 
-L'objectif du tutorat est d'encourager l'entraide et l'idée d'enseigner pour apprendre, ou de former des formateurs, pour perenisser l'action de soutien scolaire durablement. Le soutien scolaire et le tutorat visent à donner plus d'autonomie aux jeunes, en leur permettant, à leur tour, de transmettre ce qu'ils et elles ont appris.
+L'objectif du <b>tutorat</b> est d'encourager l'<b>entraide</b> et l'idée d'<b>enseigner pour apprendre</b> pour perenisser l'action de soutien scolaire durablement. Le soutien scolaire et le tutorat visent à donner plus d'autonomie aux jeunes, en leur permettant, à leur tour, de transmettre ce qu'ils et elles ont appris.
 
 ## FAQ
 
