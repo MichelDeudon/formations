@@ -122,7 +122,7 @@ Pour les mineurs souhaitant participer aux activités et sorties, vous devez com
 {{< /spoiler >}}
 
 {{< spoiler text="Combien coûtent les sorties?" >}}
-Les activités et sorties sont soit gratuites, soit à prix réduits, mais vous pouvez nous soutenir financièrement sur [Helloasso](https://www.helloasso.com/associations/maths-et-maryam/formulaires/1).
+Les activités et sorties sont soit gratuites, soit à prix réduits, mais vous pouvez nous soutenir financièrement sur [Helloasso](https://www.helloasso.com/associations/maths-et-maryam/formulaires/3).
 {{< /spoiler >}}
 
 {{< spoiler text="Que dois-je apporter pour le stage de pré-rentrée?" >}}
