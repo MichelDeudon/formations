@@ -48,7 +48,7 @@ Trouvez l'inspiration avec le biomimétisme, ou des histoires inspirées de la n
 
 ## Ressources utiles
 - [Programme de Physique Chimie](https://eduscol.education.fr/1648/programmes-et-ressources-en-physique-chimie-voie-gt) au lycée général/technologique (Eduscol).
-- [Tableau] périodique des éléments](https://cdn.futura-sciences.com/cdn-cgi/image/width=1000,quality=60,format=auto/sources/images/tableau-de-Mendeleiev.jpg) de Mendeleïev (1869) sur Futura-science.
+- [Tableau périodique des éléments](https://cdn.futura-sciences.com/cdn-cgi/image/width=1000,quality=60,format=auto/sources/images/tableau-de-Mendeleiev.jpg) de Mendeleïev (1869) sur Futura-science.
 - [Grandeurs et unités physique](https://public.iutenligne.net/mecanique/mecanique-du-solide/charbonnieras/mecanique/3.2.Img1.png) sur IUTenligne.
 - Physique (forces, gravitation, force éléctrostatique, énergie, ondes, son et lumière, applications).
 - Chimie (structure de la matière, réaction d'oxydo-réduction, physique quantique, chimie organique).

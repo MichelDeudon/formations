@@ -2,7 +2,7 @@
 widget: portfolio
 headless: true
 weight: 30
-title: Explorer les formations
+title: Explorer les projets
 subtitle:
 content:
   filters:

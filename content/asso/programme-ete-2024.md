@@ -41,7 +41,7 @@ Rencontres avec les parents, présentation de l'[association M&M](https://www.he
 
 ## Vendredi 19 juillet
 
-📍 Au Parc Montcalm.  <br>
+📍 Au [Parc Montcalm](https://www.montpellier-tourisme.fr/sejourner/loisirs-et-activites/patrimoine-et-musees/tout-le-patrimoine-musees-monuments/parc-montcalm-montpellier-fr-3835032/).  <br>
 🕒 De 14h à 18h.  <br>
 🎵 <b>Roller Coaster</b> et goûter.
 
@@ -50,7 +50,7 @@ Rencontres avec les parents, présentation de l'[association M&M](https://www.he
 📍 Au [Parc Sophie Desmarets](https://g.co/kgs/qkcWFcD).  <br>
 🕛 De 12h à 20h.  <br>
 👒 <b>Picnic</b> et jeux (de 12h à 15h). <br>
-🛠️ <b>Repair Roller Sk8</b>, in english (de 15h à 18h). <br>
+🛠️ <b>Repair Roller</b> in english (de 15h à 18h). <br>
 🎨 <b>Dessin</b> / grande fresque (de 18h à 20h). <br>
 
 ## Vendredi 26 juillet
@@ -67,7 +67,7 @@ Rencontres avec les parents, présentation de l'[association M&M](https://www.he
 
 ## Vendredi 9 août 
 
-📍 Au Jardin des plantes.  <br>
+📍 Au [Jardin des plantes](https://facmedecine.umontpellier.fr/patrimoine-historique/jardin-des-plantes/visiter-le-jardin/).  <br>
 🕒 De 15h à 18h.  <br>
 🍂 <b>Création d'un Herbier</b>.
 
@@ -85,7 +85,7 @@ Rencontres avec les parents, présentation de l'[association M&M](https://www.he
 
 ## Vendredi 23 août
 
-📍 Comédie / Antigone.  <br>
+📍 La Comédie / [Antigone](https://www.montpellier-tourisme.fr/sejourner/loisirs-et-activites/patrimoine-et-musees/tout-le-patrimoine-musees-monuments/esplanade-de-leurope-montpellier-fr-3835028/).  <br>
 🕒 De 15h à 18h. <br>
 💦 <b>Grands jeux d’eau</b> (Koh Lanta) et remise des bandeaux de roller dance.
 
@@ -94,19 +94,19 @@ Rencontres avec les parents, présentation de l'[association M&M](https://www.he
 📍 Au [Parc Sophie Desmarets](https://g.co/kgs/qkcWFcD).  <br>
 🕛 De 12h à 20h. <br>
 👒 <b>Picnic</b> et jeux (de 12h à 15h). <br>
-🛠️ <b>Repair Roller Sk8</b>, in english (de 15h à 18h). <br>
+🛠️ <b>Repair Roller</b> in english (de 15h à 18h). <br>
 🎨 <b>Upcycling et eco painting</b> avec l'association Local Seasonal (de 18h à 20h). <br>
 
 ## Stage de pré-rentrée
 
 📍 À la [médiathèque Pierresvives](https://g.co/kgs/rW8BnA2).  <br>
-📅 Du mardi 27 août au vendredi 30 août, de 18h à 20h. <br>
+📅 Du mardi 27 août au vendredi 30 août, de 17h à 19h. <br>
 📚 <b>Pré Rentrée</b> Primaire / Collège / Lycée.
 
 ## Vendredi 6 septembre
 
 📍 À la [Maison Pour Tous Louis Feuillade](https://www.montpellier.fr/structure/1788/240-maison-pour-tous-louis-feuillade-structure.htm).  <br>
-🕕 De 18h à 20h. <br>
+🕕 De 17h à 18h. <br>
 📽️ <b>Rétrospective</b> été 2024 (court métrage), spectacle de roller dance et fête de quartier.
 
 ## FAQ
