@@ -1,5 +1,5 @@
 ---
-title: 📚 Formations
+title: 📚 Projets
 type: page
 tags:
   - preface
@@ -11,4 +11,4 @@ banner:
   image: ''
 ---
 
-Explorer nos formations et développer vos connaissances!
+Explorer nos projets et développer vos connaissances!

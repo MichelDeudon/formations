@@ -1,5 +1,5 @@
 ---
-title: Mathématiques
+title: Prépa Mathématiques
 linkTitle: Maths
 summary: Cours collectifs de mathématiques et soutien scolaire de la primaire au lycée, à Montpellier. Cours d'analyse, d'algèbre, géométrie, statistiques et programmation Python.
 date: '2023-04-11'

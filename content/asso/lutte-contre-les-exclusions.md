@@ -1,5 +1,5 @@
 ---
-title: Lutte contre les exclusions
+title: Promotion de l'inclusion
 date: '2023-09-28'
 type: book
 weight: 20

@@ -1,5 +1,5 @@
 ---
-title: Physique Chimie
+title: Prépa Physique Chimie
 linkTitle: Physique-Chimie
 summary: Cours collectifs de physique chimie et soutien scolaire de la primaire au lycée, à Montpellier. Cours sur le biomimétisme et l'observation de la Terre (Earth observation).
 date: '2023-04-10'
