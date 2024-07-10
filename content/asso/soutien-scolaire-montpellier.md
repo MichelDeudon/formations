@@ -58,7 +58,7 @@ Métholodogie, Orientation, etc.
 
 ## Stage de pré-rentrée 2024-2025
 
-📅 Du mardi 27 août au vendredi 30 août, de 18h à 20h. <br>
+📅 Du mardi 27 août au vendredi 30 août, de 17h à 19h. <br>
 Le <b>stage de pré-rentrée</b> est l'occasion de préparer efficacement sa rentrée dans un cadre bienveillant. Il permet aux jeunes d’apprendre et de réviser, d’aider les élèves dans leurs difficultés, leur redonner confiance et les accompagner en s'adaptant à leurs besoins.
 
 ## Aide aux devoirs et soutien scolaire 2024-2025

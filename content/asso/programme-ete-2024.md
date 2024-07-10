@@ -97,13 +97,7 @@ Rencontres avec les parents, présentation de l'[association M&M](https://www.he
 🛠️ <b>Repair Roller</b> in english (de 15h à 18h). <br>
 🎨 <b>Upcycling et eco painting</b> avec l'association Local Seasonal (de 18h à 20h). <br>
 
-## Stage de pré-rentrée
-
-📍 À la [médiathèque Pierresvives](https://g.co/kgs/rW8BnA2).  <br>
-📅 Du mardi 27 août au vendredi 30 août, de 17h à 19h. <br>
-📚 <b>Pré Rentrée</b> Primaire / Collège / Lycée.
-
-## Vendredi 6 septembre
+## Samedi 31 août
 
 📍 À la [Maison Pour Tous Louis Feuillade](https://www.montpellier.fr/structure/1788/240-maison-pour-tous-louis-feuillade-structure.htm).  <br>
 🕕 De 17h à 18h. <br>
