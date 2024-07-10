@@ -24,7 +24,7 @@ tags:
 ## Roller Dance Montpellier
 Plus d'info à venir.
 
-## Topics for debates
+## Chapitres
 
 {{< list_children >}}
 

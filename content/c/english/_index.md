@@ -1,7 +1,7 @@
 ---
 title: Prépa Anglais
 linkTitle: Anglais
-summary: Cours collectifs d'anglais et soutien scolaire de la primaire au lycée, à Montpellier. Vocabulaire, grammaire, pratique. Relecture de CV et lettres. Soutien dans les démarches pour étudier ou travailler à l'étranger.
+summary: Cours collectifs d'anglais et soutien scolaire de la primaire au lycée, à Montpellier. Vocabulaire, grammaire, pratique. Soutien dans les démarches pour étudier ou travailler à l'étranger.
 date: '2022-04-09'
 type: book
 tags:
