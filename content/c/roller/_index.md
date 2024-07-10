@@ -1,8 +1,8 @@
 ---
-title: Roller Dance
+title: Roller Dance Montpellier
 linkTitle: Roller
-summary: Initiation au roller dance et découverte du slalom, freeride, freestyle.
-date: '2022-04-09'
+summary: Initiation au roller dance et découverte du slalom, roller freeride, roller freestyle à Montpellier.
+date: '2024-07-11'
 type: book
 tags:
   - Jeunes
