@@ -31,21 +31,22 @@ Les entrainements et spectacles de roller danse ont pour objectif de permettre a
 
 ## Autorisation parentale
 
-Pour participez aux entrainements, vous devez compléter et signer l'[autorisation parentale](https://www.mathsetmaryam.fr/u/Roller-Autorisation-Parentale.pdf) si vous êtes mineur. Nous rappelons que les protections (coudière, genouillière, protège poignet et casque) sont obligatoires pour participer aux entrainements.
+Pour participez aux entrainements et spectacles, vous devez compléter et signer l'[autorisation parentale](https://www.mathsetmaryam.fr/u/Roller-Autorisation-Parentale.pdf) si vous êtes mineur. Nous rappelons que <b>les protections sont obligatoires</b> (casque et coudière, genouillière, protège poignet) pour participer aux entrainements.
 
 ## Exemple de progression
 
-Les séances de roller danse suivent une progression en quatres étapes: La phase de réveil musculaire est suivie d'une phase d'exercices techniques et des jeux avant de conclure la séance par des étirements.
+Les séances de roller danse suivent une progression en quatres étapes: La phase de réveil musculaire est suivie d'une phase d'exercices techniques, puis d'une phase de jeux et spectacles avant de conclure la séance par des étirements.
 
 {{< figure src="roller/seance-roller.png" caption="Séance type pour apprendre le roller et s'amuser!">}}
 
 ## Bandeaux de Roller Danse
 
-Nous organisons des évaluations et remises de bandeaux plusieurs fois dans l'année. Pour valider un niveau, il faut compléter des épreuves techniques, de style et de confiance.
+Nous organisons des évaluations et remises de bandeaux plusieurs fois dans l'année. Pour valider un niveau, il faut compléter huit épreuves sur neuf, de techniques, de style et de confiance.
 
-{{< figure src="roller/Roller-Bandeau-Jaune.png" caption="Premier niveau / Bandeau jaune.">}}
+{{< figure src="roller/Roller-Bandeau-Jaune.png" caption="Épreuves du bandeau jaune (premier niveau).">}}
 
-{{< figure src="roller/Roller-Bandeau-Vert.png" caption="Deuxième niveau / Bandeau vert.">}}
+{{< figure src="roller/Roller-Bandeau-Vert.png" caption="Épreuves du bandeau vert (deuxième niveau).">}}
 
-{{< figure src="roller/Roller-Bandeau-Bleu.png" caption="Troisième niveau / Bandeau bleu.">}}
+{{< figure src="roller/Roller-Bandeau-Bleu.png" caption="Épreuves du bandeau bleu (troisìème niveau).">}}
 
+<!-- Voir notre [Carnet de niveaux](https://www.mathsetmaryam.fr/u/Les-Etoiles-de-la-Mosson-carnet-de-niveaux-roller.pdf) -->

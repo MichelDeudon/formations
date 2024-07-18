@@ -24,8 +24,7 @@ Réparer, recycler, reconditionner ses rollers.
 
 ## Atelier de réparation ou récup
 
-Le roller permet de bricoler, construire, déconstruire et laisser son imagination déborder.
-
-Nous organisons des ateliers de réparations et de récup de roller le vendredi de 18h30 à 20h devant la médiathèque Pierresvives.
+Le roller permet de bricoler, de construire, de déconstruire et laisser son imagination déborder.
+Nous organisons pour cela des ateliers de réparations et de récup de roller, skate et trottinettes le <b>vendredi de 18h30 à 20h</b> devant la médiathèque Pierresvives.
 
 {{< figure src="roller/roller-reparation-recup.png" caption="Ateliers de réparations ou récup les vendredis devant Pierresvives.">}}

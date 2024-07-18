@@ -1,7 +1,7 @@
 ---
 title: Roller Dance Montpellier
 linkTitle: Roller Dance
-summary: Initiation au roller dance et découverte du slalom, roller freeride, roller freestyle à Montpellier.
+summary: Initiation au roller dance et découverte du slalom, roller freeride, roller freestyle à Montpellier. Tutoriels, entrainements et spectacles de roller à partir de 9 ans. 
 date: '2024-07-18'
 type: book
 tags:
@@ -42,9 +42,11 @@ Une casquette, de l'eau, de la crème solaire et un titre de transport selon les
 {{< /spoiler >}}
 
 {{< spoiler text="Je n'ai pas de roller. Comment participer?" >}}
-C'est l'objet de notre proposition de projet pour le [budget participatif](https://participer.montpellier.fr/budget-participatif/roller-dance-montpellier)! Nous vous donnons rdv en octobre 2024 pour voter. En attendant, si vous avez besoin de commander du matériel, vous pouvez demander à l'association Maths et Maryam pour bénéficier de 10% de réduction avec Decathlon Pro.
+C'est l'objet de notre proposition de projet pour le [budget participatif](https://participer.montpellier.fr/budget-participatif/roller-dance-montpellier)! Nous vous donnons rendez-vous en octobre 2024 pour voter pour les projets. En attendant, si vous avez besoin de commander du matériel, vous pouvez demander à l'association M&M pour bénéficier de 10% de réduction avec Decathlon Pro.
 {{< /spoiler >}}
 
 {{< spoiler text="Est-ce que je peux venir comme bénévole?" >}}
-Oui, les bénévoles sont bienvenus! Que vous soyez animateur/trice, patineur/se, professionnel.le... n'hésitez pas à nous rejoindre. 
+Oui, les bénévoles sont bienvenus! Que vous soyez animateur/trice, patineur/se, DJ... n'hésitez pas à nous rejoindre. 
 {{< /spoiler >}}
+
+{{< cta cta_text="Commencer le roller." cta_link="https://www.mathsetmaryam.fr/c/roller/tuto/" >}}

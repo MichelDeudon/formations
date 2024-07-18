@@ -28,4 +28,4 @@ Dites OUI! au Roller Danse.
 
 ## Santé, Sport et Sciences
 
-Le roller permet de créer des ponts entre le sport, la culture et les sciences. Que ce soit à travers des ateliers de bricolage, des tutos en anglais ou des opérations simples de calcul mental (180, 360, 720), le roller en tant qu'expérience donne à réfléchir.
+Le roller permet de créer des ponts entre le sport, la culture et les sciences. Que ce soit à travers des ateliers de bricolage, des tutos en anglais ou des opérations de calcul mental (180°, 360°, 720°), <b>l'expérience du roller</b> donne à réfléchir et offre un espace de créativité.
