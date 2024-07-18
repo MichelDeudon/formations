@@ -30,4 +30,4 @@ Dans cette vidéo vous apprendrez les bases du roller: comment enfiler ses rolle
 
 ## Autres tuto de roller
 
-Vous pouvez aussi consulter les six vidéos de [Decathlon](https://conseilsport.decathlon.fr/apprendre-a-faire-du-roller-enfants-adultes) pour apprendre à faire du roller ou encore les tutos de slalom organisés en huit niveaux sur [kompakombo](https://www.kompakombo.com/niveau-1).
+Vous pouvez aussi consulter les six vidéos de [Decathlon](https://conseilsport.decathlon.fr/apprendre-a-faire-du-roller-enfants-adultes) pour apprendre à faire du roller ou encore les tutos de slalom organisés en huit niveaux sur [kompakombo.com](https://www.kompakombo.com/niveau-1).

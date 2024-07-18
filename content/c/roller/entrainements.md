@@ -1,5 +1,5 @@
 ---
-title: Entrainements
+title: Entrainements et spectacles
 date: '2023-01-10'
 type: book
 weight: 20
@@ -22,7 +22,7 @@ Séance type de roller danse.
 
 <!--more-->
 
-Les entrainements de roller danse ont pour objectif de permettre aux jeunes de progresser en roller et se divertir, tout en développant leur attention, confiance en soi et l'esprit d'équipe, et en créant des ponts entre le sport, la culture et les sciences.
+Les entrainements et spectacles de roller danse ont pour objectif de permettre aux jeunes de progresser en roller et se divertir, tout en développant leur technique, leur style, leur confiance en soi et l'esprit d'équipe.
 
 ## Date et lieu
 
@@ -37,15 +37,15 @@ Pour participez aux entrainements, vous devez compléter et signer l'[autorisati
 
 Les séances de roller danse suivent une progression en quatres étapes: La phase de réveil musculaire est suivie d'une phase d'exercices techniques et des jeux avant de conclure la séance par des étirements.
 
-{{< figure src="src/roller/seance-roller.png" caption="Séance type pour apprendre le roller et s'amuser!">}}
+{{< figure src="roller/seance-roller.png" caption="Séance type pour apprendre le roller et s'amuser!">}}
 
 ## Bandeaux de Roller Danse
 
 Nous organisons des évaluations et remises de bandeaux plusieurs fois dans l'année. Pour valider un niveau, il faut compléter des épreuves techniques, de style et de confiance.
 
-{{< figure src="src/roller/Roller-Bandeau-Jaune.png" caption="Premier niveau / Bandeau jaune.">}}
+{{< figure src="roller/Roller-Bandeau-Jaune.png" caption="Premier niveau / Bandeau jaune.">}}
 
-{{< figure src="src/roller/Roller-Bandeau-Vert.png" caption="Deuxième niveau / Bandeau vert.">}}
+{{< figure src="roller/Roller-Bandeau-Vert.png" caption="Deuxième niveau / Bandeau vert.">}}
 
-{{< figure src="src/roller/Roller-Bandeau-Bleu.png" caption="Troisième niveau / Bandeau bleu.">}}
+{{< figure src="roller/Roller-Bandeau-Bleu.png" caption="Troisième niveau / Bandeau bleu.">}}
 

@@ -1,8 +1,8 @@
 ---
 title: Roller Dance Montpellier
-linkTitle: Roller
+linkTitle: Roller Dance
 summary: Initiation au roller dance et découverte du slalom, roller freeride, roller freestyle à Montpellier.
-date: '2024-07-09'
+date: '2024-07-18'
 type: book
 tags:
   - Jeunes
@@ -22,21 +22,15 @@ tags:
 {{< figure src="featured.png" caption="Notre première affiche de Roller Dance!">}}
 
 ## Introduction
-Un jeune sur deux propose des [sorties et des pratiques sportives](https://www.mathsetmaryam.fr/u/Temoignages-reseaux-sociaux-Montpellier-juin-2023.pdf) comme alternative à l’ennui, donc aux écrans. Ainsi, après avoir organisé plusieurs ateliers de [prévention santé écran](https://www.mathsetmaryam.fr/c/numerique-ecologie/prevention-sante-ecrans/) au centre social CAF et à l’université Paul Valéry, l’association Maths et Maryam s'engage pour la jeunesse, en particulier durant l'été pour les jeunes qui ne partent pas en vacances. Nous organisons des entrainements réguliers de roller et des activités ludiques et éducatives. Nous prévoyons aussi d'organiser 2-3 événements phares dans l'année promouvant la mixité sociale et impactant la cohésion de la ville / du quartier.
+Un jeune sur deux propose des [sorties et des pratiques sportives](https://www.mathsetmaryam.fr/u/Temoignages-reseaux-sociaux-Montpellier-juin-2023.pdf) comme alternative à l’ennui, donc aux écrans. Ainsi, après avoir organisé plusieurs ateliers de [prévention santé écran](https://www.mathsetmaryam.fr/c/numerique-ecologie/prevention-sante-ecrans/) au centre social CAF et à l’université Paul Valéry, l’association Maths et Maryam s'engage pour la jeunesse, en particulier durant l'été pour les jeunes qui ne partent pas en vacances. Nous organisons des entrainements réguliers de roller et des activités ludiques et éducatives. Nous prévoyons aussi d'organiser 2-3 événements phares dans l'année promouvant la mixité sociale et la cohésion de la ville / du quartier.
 
-{{< cta cta_text="Voir aussi notre proposition de projet pour le budget participatif." cta_link="https://participer.montpellier.fr/budget-participatif/roller-dance-montpellier" >}}
+{{< cta cta_text="Voir notre proposition pour le budget participatif." cta_link="https://participer.montpellier.fr/budget-participatif/roller-dance-montpellier" >}}
 
 ## Sections
 
 {{< list_children >}}
 
-## Dites OUI! au Roller Danse
-
-Extrait de la publicité officielle du Roller Kingdom à Reno, NV.
-
-{{< youtube t0LSkX46dS4>}}
-
-## FAQs
+## FAQ
 
 {{< spoiler text="Combien coûtent les activités?" >}}
 Les activités et sorties sont soit gratuites, soit à prix réduits, mais vous pouvez nous soutenir financièrement sur [Helloasso](https://www.helloasso.com/associations/maths-et-maryam/formulaires/1).
@@ -47,7 +41,10 @@ Des rollers, un casque, des protections (poignets, coudes, genoux).
 Une casquette, de l'eau, de la crème solaire et un titre de transport selon les sorties.
 {{< /spoiler >}}
 
+{{< spoiler text="Je n'ai pas de roller. Comment participer?" >}}
+C'est l'objet de notre proposition de projet pour le [budget participatif](https://participer.montpellier.fr/budget-participatif/roller-dance-montpellier)! Nous vous donnons rdv en octobre 2024 pour voter. En attendant, si vous avez besoin de commander du matériel, vous pouvez demander à l'association Maths et Maryam pour bénéficier de 10% de réduction avec Decathlon Pro.
+{{< /spoiler >}}
+
 {{< spoiler text="Est-ce que je peux venir comme bénévole?" >}}
 Oui, les bénévoles sont bienvenus! Que vous soyez animateur/trice, patineur/se, professionnel.le... n'hésitez pas à nous rejoindre. 
 {{< /spoiler >}}
-
