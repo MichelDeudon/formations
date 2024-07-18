@@ -31,7 +31,7 @@ En juin 2023, lors d'un [atelier préventif sur les réseaux sociaux](https://ww
 
 ## Dates et lieu
 
-📅 <b> Les mercredis, de 16h à 18h </b> (2h)<br>
+📅 <b> Les vendredi, de 18h30 à 20h </b><br>
 📍 Devant la [médiathèque Pierresvives](https://g.co/kgs/rW8BnA2).
 
 ## Objectifs
@@ -42,12 +42,12 @@ En juin 2023, lors d'un [atelier préventif sur les réseaux sociaux](https://ww
 
 ## Au programme
 
-1. Des <b> entraînements réguliers</b>, tous les mercredis (2h).
+1. Des <b> entraînements réguliers</b>, tous les vendredis (2h).
 2. Des <b> sorties à Montpellier et autour</b>, des rencontres et invités surprises de Slalom, Dance, Freestyle, Freeride, Rando... à PierresVives, l'Écusson, Grammont, Palavas-les-Flots et Clermont l’Hérault.
 3. Des <b> concours, spectacles et prix </b> à gagner ([marque de mode/sport](https://www.mathsetmaryam.fr/u/Concours-Creation-Bandeau.pdf), textile, basket…).
 4. Des <b> ateliers</b> de [réparations ou récup](https://www.mathsetmaryam.fr/u/Roller-Reparation-Recup.pdf).
 
-{{< figure src="roller/roller-reparation-recup.png" caption="Ateliers de [réparations ou récup](https://www.mathsetmaryam.fr/u/Roller-Reparation-Recup.pdf) les mercredis à l'association GSC.">}}
+{{< figure src="roller/roller-reparation-recup.png" caption="Ateliers de [réparations ou récup](https://www.mathsetmaryam.fr/u/Roller-Reparation-Recup.pdf) les vendredis à l'association GSC.">}}
 
 ## Nous rejoindre comme…
 

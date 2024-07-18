@@ -19,14 +19,22 @@ tags:
   - Hérault
 ---
 
-{{< figure src="featured.jpg" >}}
+{{< figure src="featured.png" caption="Notre première affiche de Roller Dance!">}}
 
-## Roller Dance Montpellier
-Plus d'info à venir.
+## Introduction
+Un jeune sur deux propose des [sorties et des pratiques sportives](https://www.mathsetmaryam.fr/u/Temoignages-reseaux-sociaux-Montpellier-juin-2023.pdf) comme alternative à l’ennui, donc aux écrans. Ainsi, après avoir organisé plusieurs ateliers de [prévention santé écran](https://www.mathsetmaryam.fr/c/numerique-ecologie/prevention-sante-ecrans/) au centre social CAF et à l’université Paul Valéry, l’association Maths et Maryam s'engage pour la jeunesse, en particulier durant l'été pour les jeunes qui ne partent pas en vacances. Nous organisons des entrainements réguliers de roller et des activités ludiques et éducatives. Nous prévoyons aussi d'organiser 2-3 événements phares dans l'année promouvant la mixité sociale et impactant la cohésion de la ville / du quartier.
 
-## Chapitres
+{{< cta cta_text="Voir aussi notre proposition de projet pour le budget participatif." cta_link="https://participer.montpellier.fr/budget-participatif/roller-dance-montpellier" >}}
+
+## Sections
 
 {{< list_children >}}
+
+## Dites OUI! au Roller Danse
+
+Extrait de la publicité officielle du Roller Kingdom à Reno, NV.
+
+{{< youtube t0LSkX46dS4>}}
 
 ## FAQs
 
@@ -39,6 +47,7 @@ Des rollers, un casque, des protections (poignets, coudes, genoux).
 Une casquette, de l'eau, de la crème solaire et un titre de transport selon les sorties.
 {{< /spoiler >}}
 
-<!--
-{{< cta cta_text="Begin the course" cta_link="https://www.mtpcours.fr/c/english/college/" >}}
--->
+{{< spoiler text="Est-ce que je peux venir comme bénévole?" >}}
+Oui, les bénévoles sont bienvenus! Que vous soyez animateur/trice, patineur/se, professionnel.le... n'hésitez pas à nous rejoindre. 
+{{< /spoiler >}}
+
