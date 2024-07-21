@@ -53,7 +53,7 @@ Merci aux enseignants de mathématiques du lycée Henri IV et Louis Le Grand !
 
 ## Enseignement supérieur
 
-Cours dispensés à l'université Paul Valéry, en licence et master [MIASHS](https://ufr6.www.univ-montp3.fr/fr/licence_miashs):
+Cours de maths dispensés à l'université Paul Valéry Montpellier 3, en licence et master [MIASHS](https://ufr6.www.univ-montp3.fr/fr/licence_miashs):
 
 {{< list_children >}}
 
@@ -63,9 +63,9 @@ Cours dispensés à l'université Paul Valéry, en licence et master [MIASHS](ht
 - Programme de mathématiques au [lycée général/technologique](https://eduscol.education.fr/1723/programmes-et-ressources-en-mathematiques-voie-gt) (Eduscol).
 - Chaines Youtube [3Blue1Brown](https://www.youtube.com/c/3blue1brown) et [Numberphile](https://www.youtube.com/user/Numberphile) pour les plus curieux.
 - [Tables de multiplication](https://i.pinimg.com/736x/14/0d/be/140dbe1148d46d94e239084a6086cf28.jpg) et [formules de géométrie plane](https://i.pinimg.com/736x/1a/08/d4/1a08d487c1972fdd5f5daf84081fee08.jpg) sur Pinterest.
-- [Fonctions usuelles](https://i.pinimg.com/736x/ed/89/d5/ed89d530fcf24e471bf5993a9776eff6.jpg) et [primitives](https://i.pinimg.com/1200x/8e/10/d1/8e10d14a4ac34ee5d3dfcdf92f358260.jpg)
-- [Arbre conditionnel](https://i.pinimg.com/736x/83/83/13/838313f21fd105e0466b14f8d608cde5.jpg)
-- [Cercle trigonométrique](https://i.pinimg.com/736x/19/f5/b3/19f5b354491a16b870ef4108e909a258--animation.jpg)
+- [Fonctions usuelles](https://i.pinimg.com/736x/ed/89/d5/ed89d530fcf24e471bf5993a9776eff6.jpg) et [primitives](https://i.pinimg.com/1200x/8e/10/d1/8e10d14a4ac34ee5d3dfcdf92f358260.jpg) (intégrales usuelles).
+- [Arbre conditionnel](https://i.pinimg.com/736x/83/83/13/838313f21fd105e0466b14f8d608cde5.jpg).
+- [Cercle trigonométrique](https://i.pinimg.com/736x/19/f5/b3/19f5b354491a16b870ef4108e909a258--animation.jpg).
 - Présentation du [Cycle Pluridisciplinaire d'Études Supérieures](https://www.enseignementsup-recherche.gouv.fr/fr/le-cycle-pluridisciplinaire-d-etudes-superieures-84197) (CPES) et des [Classes Préparatoires aux Grandes Écoles](https://www.enseignementsup-recherche.gouv.fr/fr/classes-preparatoires-aux-grandes-ecoles-cpge-46496) (CPGE).
 
 ## Jeux et éveil scientifique

@@ -1,7 +1,7 @@
 ---
 title: Roller Dance Montpellier
 linkTitle: Roller Dance
-summary: Initiation au roller dance et découverte du slalom, roller freeride, roller freestyle à Montpellier. Tutoriels, entrainements et spectacles de roller à partir de 9 ans. 
+summary: Initiation au roller dance et découverte du slalom, roller freeride, roller freestyle à Montpellier. Tutoriels, entrainements et spectacles de roller, le vendredi, à partir de 9 ans. 
 date: '2024-07-18'
 type: book
 tags:

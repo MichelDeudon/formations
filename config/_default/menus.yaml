@@ -11,7 +11,7 @@ main:
     weight: 20
     identifier: cours
   - name: Roller Dance Montpellier
-    PageRef: c/english/_index.md
+    PageRef: c/roller/_index.md
     weight: 10
     parent: cours
   - name: Prépa Anglais

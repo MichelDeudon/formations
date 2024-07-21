@@ -11,7 +11,7 @@ tags:
   - Réduction de dimension
   - Analyse en composante principale
   - Factorisation de matrices
-  - Décomposition en valeur singulière
+  - Décomposition en valeurs singulières
   - Licence
   - Master
 ---
