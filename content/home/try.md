@@ -3,7 +3,7 @@ title: Prêt à apprendre?
 subtitle:
 widget: blank
 weight: 70
-design
+design:
   columns: '1'
 ---
 
