@@ -24,18 +24,12 @@ Agenda des activités et sorties à Montpellier.
 ## 🎵 Roller Dance
 
 📍 Devant la [médiathèque Pierresvives](https://g.co/kgs/rW8BnA2).  <br>
-📅 Les vendredi 12, 19 et 26 juillet. <br>
-🕕 De 18h à 20h.  <br>
-
-## 💦 Jeux d'eau
-
-📍 Au [Parc Sophie Desmarets](https://g.co/kgs/qkcWFcD).  <br>
-📅 Le samedi 20 juillet. <br>
-🕛 De 15h à 18h.  <br>
+📅 Les vendredi 12, 19, 26 juillet et vendredi 9, 16, 23 août 2024. <br>
+🕕 De 18h30 à 20h.  <br>
 
 ## Autres activités culturelles et sportives
 
-Des sorties à la [patinoire Vegapolis](https://www.vegapolis.fr/), à l'[aquarium Planet Océan](https://www.planetoceanworld.fr/), des sorties à Jean Vilar, des ateliers théâtre, de sculpture en argile, création d'un herbier au [jardin des plantes](https://facmedecine.umontpellier.fr/patrimoine-historique/jardin-des-plantes/visiter-le-jardin/), jeux au Musée Fabre, ateliers de calligraphie-karaoké-origami et initiation au premiers secours sont en cours de préparation. Dates en juillet et août à venir prochainement.
+Des sorties à la [patinoire Vegapolis](https://www.vegapolis.fr/), à l'[aquarium Planet Océan](https://www.planetoceanworld.fr/), des sorties à Jean Vilar, des ateliers théâtre, de sculpture en argile, création d'un herbier au [jardin des plantes](https://facmedecine.umontpellier.fr/patrimoine-historique/jardin-des-plantes/visiter-le-jardin/), jeux au Musée Fabre, jeux d'eau au parc Sophie Desmarets, ateliers de calligraphie-karaoké-origami et initiation au premiers secours sont en cours de préparation. Dates en août à venir prochainement.
 
 <!--
 ## Samedi 31 août
