@@ -24,7 +24,7 @@ Agenda des activités et sorties à Montpellier.
 ## 🎵 Roller Dance
 
 📍 Devant la [médiathèque Pierresvives](https://g.co/kgs/rW8BnA2).  <br>
-📅 Les vendredi 12, 19, 26 juillet et vendredi 9, 16, 23 août 2024. <br>
+📅 Les vendredi 12, 19, 26 juillet et 9, 16, 23 août 2024. <br>
 🕕 De 18h30 à 20h.  <br>
 
 ## Autres activités culturelles et sportives

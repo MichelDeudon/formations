@@ -38,7 +38,7 @@ Pour bien préparer son année.
 
 ## Public
 
-De la primaire au collège, lycée et études supérieures (BTS, Prépa, Licence, Master).
+De la primaire au collège, lycée et supérieur (BTS, Prépa, Licence, Master).
 
 ## Matières
 
@@ -52,19 +52,16 @@ Métholodogie, Orientation, etc.
 2. <b>Préparer</b> sereinement son entrée dans les classes supérieures en abordant la méthodologie et la confiance en soi.
 3. <b>S'entraider</b>, s'écouter, s’informer, s’orienter, etc.
 
-## Lieu
-
-📍 À la médiathèque [Pierresvives](https://pierresvives.herault.fr/663-horaires-d-ouverture.htm) ou à la [Maison Pour Tous Louis Feuillade](https://www.montpellier.fr/structure/1788/240-maison-pour-tous-louis-feuillade-structure.htm). <br>
-
 ## Stage de pré-rentrée 2024-2025
 
 📅 Du mardi 27 août au vendredi 30 août, de 17h à 19h. <br>
-Le <b>stage de pré-rentrée</b> est l'occasion de préparer efficacement sa rentrée dans un cadre bienveillant. Il permet aux jeunes d’apprendre et de réviser, d’aider les élèves dans leurs difficultés, leur redonner confiance et les accompagner en s'adaptant à leurs besoins.
+Le <b>stage de pré-rentrée</b> est l'occasion de préparer efficacement sa rentrée dans <b>un cadre bienveillant</b>. Il permet aux jeunes d’apprendre et de réviser, d’aider les élèves dans leurs difficultés, leur redonner confiance et les accompagner en s'adaptant à leurs besoins.
 
 ## Aide aux devoirs et soutien scolaire 2024-2025
 
 📅 Le jeudi et vendredi, de 17h à 19h, en période scolaire. <br>
-Le <b>soutien scolaire</b> est l'occasion de préparer efficacement son année au lycée et supérieur, dans un cadre bienveillant. Il permet aux jeunes d’apprendre et d’aider les autres, pour gagner en confiance et ouvrir le champs des possibles.
+📍 À la médiathèque [Pierresvives](https://pierresvives.herault.fr/663-horaires-d-ouverture.htm) le vendredi (lycéen.nes) et à la [Maison Pour Tous Louis Feuillade](https://www.montpellier.fr/structure/1788/240-maison-pour-tous-louis-feuillade-structure.htm) le jeudi (collégien.nes). <br>
+Le <b>soutien scolaire</b> est l'occasion de préparer efficacement son année au lycée et supérieur, dans <b>un cadre bienveillant</b>. Il permet aux jeunes d’apprendre et d’aider les autres, pour gagner en confiance et ouvrir le champs des possibles.
 
 ## Les avantages de M&M
 

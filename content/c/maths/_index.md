@@ -43,7 +43,7 @@ Notre méthode est très pratique. On essaie, on voit où ça coince, on en disc
 Une sélection d'exercices de mathématiques et solutions par niveaux:
 - Le livret de travail [de la 3e à la 2nde](https://www.louislegrand.fr/wp-content/uploads/2021/07/Livret-3eme-2nde.pdf) aborde le calcul fractionnaire, les puissances, les entiers, le calcul littéral, les (in)équations, la géométrie, les fonctions, et les raisonnements.
 - Le livret de travail [de la 2nde à la 1ère](https://lycee-henri4.com/wp-content/uploads/2023/06/Livret-2nde-1ere.pdf) s'intéresse au calcul numérique, au calcul algébrique, à l'algorithmique, aux (in)équations, aux fonctions, aux vecteurs et à la géométrie repérée.
-- Le livret de travail [de la 1ère à la Terminale](https://lycee-henri4.com/wp-content/uploads/2023/06/Livret-1ere-Term.pdf) se penche sur les calculs et (in)équations, les suites, les probabilités, les fonctions, les vecteurs et le repérage.
+- Le livret de travail [de la 1ère à la Terminale](https://lycee-henri4.com/wp-content/uploads/2024/07/Livret-1ere-Term-2024-07-.pdf) se penche sur les calculs et (in)équations, les suites, les probabilités, les fonctions, les vecteurs et le repérage.
 - Lycée / Prépa S: [Mathématiques, du lycée aux CPGE scientifiques](https://www.louislegrand.fr/wp-content/uploads/2022/02/EXOS-TERMINALE3-3-AVECDESSIN-2.pdf).
 - Lycée / Prépa S: [Quelques outils mathématiques pour la physique](https://lycee-henri4.com/wp-content/uploads/2023/06/poly-MPSI2023.pdf).
 - Lycée / Prépa ECG: [Mathématiques, entre la Terminale et la classe d'ECG](https://lycee-henri4.com/wp-content/uploads/2022/07/ECG1-MATHS.pdf).
