@@ -23,7 +23,7 @@ L'université met en place des actions (sensibilisation, bonnes pratiques, etc) 
 
 {{< figure src="numeco/wakama.png" caption="La méthode WAKAMA. Source: [Guide de la communication douce](https://www.univ-montp3.fr/sites/default/files/guide_de_la_communication_douce_2023_0.pdf).">}} 
 
-{{< figure src="numeco/nettoyage-des-données.png">}} 
+{{< figure src="numeco/nettoyage-des-données.png" caption="L'université Paul Valéry participe au [Digital Cleanup Day](https://cyberworldcleanupday.fr/), la journée mondiale du nettoyage numérique (données, réemploi, recyclage) qui se tient, chaque année, le 3ème samedi de mars.">}} 
 
 ## Handinnovation
 
