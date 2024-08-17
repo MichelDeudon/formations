@@ -24,12 +24,12 @@ Séance type de roller danse.
 
 Les entrainements et spectacles de roller danse ont pour objectif de permettre aux jeunes de progresser en roller et se divertir, tout en développant leur technique, leur style, leur confiance en soi et l'esprit d'équipe.
 
-{{< cta cta_text="Voir notre carnet de niveaux." cta_link="https://wwww.mathsetmaryam.fr/u/Roller-Danse-Carnet.pdf" >}}
+{{< cta cta_text="Voir notre carnet de niveaux." cta_link="https://www.mathsetmaryam.fr/u/Roller-Danse-Carnet.pdf" >}}
 
 ## Date et lieu
 
 📅 <b> Les vendredi, de 18h30 à 20h </b><br>
-📍 Devant la [médiathèque Pierresvives](https://g.co/kgs/rW8BnA2).
+📍 [Esplanade de l'egalité](https://g.page/r/CV0JpobxDzTwEBM/review), devant la médiathèque Pierresvives, 34080 Montpellier.
 
 ## Autorisation parentale
 
@@ -45,10 +45,10 @@ Les séances de roller danse suivent une progression en quatres étapes: La phas
 
 Nous organisons des évaluations et remises de bandeaux plusieurs fois dans l'année. Pour valider un niveau, il faut compléter huit épreuves sur neuf, de techniques, de style et de confiance.
 
-{{< figure src="roller/Roller-Bandeau-Jaune.png" caption="Épreuves du bandeau jaune (premier niveau).">}}
+{{< figure src="roller/Roller-Bandeau-Jaune.png" caption="Épreuves du [bandeau jaune](https://www.mathsetmaryam.fr/u/Roller-Danse-Carnet.pdf) (premier niveau).">}}
 
-{{< figure src="roller/Roller-Bandeau-Vert.png" caption="Épreuves du bandeau vert (deuxième niveau).">}}
+{{< figure src="roller/Roller-Bandeau-Vert.png" caption="Épreuves du [bandeau vert](https://www.mathsetmaryam.fr/u/Roller-Danse-Carnet.pdf) (deuxième niveau).">}}
 
-{{< figure src="roller/Roller-Bandeau-Bleu.png" caption="Épreuves du bandeau bleu (troisìème niveau).">}}
+{{< figure src="roller/Roller-Bandeau-Bleu.png" caption="Épreuves du [bandeau bleu](https://www.mathsetmaryam.fr/u/Roller-Danse-Carnet.pdf) (troisìème niveau).">}}
 
-{{< cta cta_text="Télécharger notre carnet de niveaux." cta_link="https://wwww.mathsetmaryam.fr/u/Roller-Danse-Carnet.pdf" >}}
+{{< cta cta_text="Télécharger notre carnet de niveaux." cta_link="https://www.mathsetmaryam.fr/u/Roller-Danse-Carnet.pdf" >}}

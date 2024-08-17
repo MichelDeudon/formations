@@ -35,7 +35,7 @@ Pour bien préparer son année.
 
 ## Public
 
-De la primaire au collège, lycée et supérieur (BTS, Prépa, Licence, Master).
+De la primaire au collège, lycée et supérieur.
 
 ## Matières
 
@@ -73,7 +73,7 @@ L'objectif du <b>tutorat</b> est d'encourager l'<b>entraide</b> et l'idée d'<b>
 ## FAQ
 
 {{< spoiler text="Combien ça coûte?" >}}
-Les stages et le soutien scolaire sont gratuits pour les élèves tuteurs, à prix libres pour les parents. Vous pouvez nous soutenir financièrement sur [Helloasso](https://www.helloasso.com/associations/maths-et-maryam/formulaires/3).
+Les stages et le soutien scolaire sont gratuits pour les élèves tuteurs, à prix libres pour les parents. Vous pouvez nous soutenir financièrement sur [Helloasso](https://www.helloasso.com/associations/maths-et-maryam/formulaires/2).
 {{< /spoiler >}}
 
 {{< spoiler text="Comment s'inscrire?" >}}

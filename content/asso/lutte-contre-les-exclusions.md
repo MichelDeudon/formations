@@ -42,8 +42,8 @@ L'association GSC est une association de quartier (cité Oxford), par opposition
 
 L'association GSC est une des rares associations qui est restée ouverte tout l’été pour proposer des activités aux familles qui ne peuvent pas partir en vacances. Grâce aux [cartes été jeunes](https://www.montpellier.fr/1830-carte-ete-jeunes.htm), l'association a assuré une programmation culturelle et sportive en juillet et en août pour une centaine de bénéficiaires: 
 - <b>Sorties culturelles</b> : Au Musée Fabre, au MOCO, sortie Street Art, Cinéma, soirée Pizza et Film, visite de Planète Océan, d'une librairie, etc.
-- <b>Activités sportives</b> : Journée à la piscine Olympique, Futsal, Escalade, Patinoire à Vegapolis, sorties [Roller](https://www.mtpcours.fr/p/roller-dance-montpellier/), etc.
-- <b>Autre</b> : Sortie à Aqualand, Laser Game, Trampoline, Bowling, ateliers de lecture, [stage de pré-rentrée](https://www.mtpcours.fr/p/stage-maths-montpellier/), etc.
+- <b>Activités sportives</b> : Journée à la piscine Olympique, Futsal, Escalade, Patinoire à Vegapolis, sorties [Roller](https://www.mathsetmaryam.fr/c/roller/), etc.
+- <b>Autre</b> : Sortie à Aqualand, Laser Game, Trampoline, Bowling, ateliers de lecture, [stage de pré-rentrée](https://www.mathsetmaryam.fr/asso/soutien-scolaire-montpellier/), etc.
 
 {{< figure src="assos/Sortie-GSC-Juillet.png" caption="L'association GSC est restée ouverte en été pour proposer des activités aux familles. Exemple de sorties organisées par Morgann en juillet 2023.">}}
 
@@ -51,7 +51,7 @@ Par comparaison, les antennes locales présentes à La Mosson disposent de moyen
 
 ### Des actions concrètes
 
-En juin 2023, dans le cadre du programme [Cités éducatives](https://www.citeseducatives.fr/) visant à renforcer l’accompagnement des jeunes et enfants de 3 ans à 25 ans, l'association GSC a co-animé un atelier préventif intitulé <i>Les Jeunes et les Réseaux Sociaux</i>, avec et pour les familles, au Centre Social CAF de la Paillade <i>l’île aux familles</i>. L'atelier a donné lieu à des propositions concrètes : Un jeune sur deux proposait de faire plus de sport ! De nombreux jeunes ont également exprimé leur souhait de sortir plus et faire des rencontres. Voir le compte rendu de l'atelier {{% staticref "u/Temoignages-reseaux-sociaux-Montpellier-juin-2023.pdf" %}}ici{{% /staticref %}}.
+En juin 2023, dans le cadre du programme [Cités éducatives](https://agence-cohesion-territoires.gouv.fr/cites-educatives-76) visant à renforcer l’accompagnement des jeunes et enfants de 3 ans à 25 ans, l'association GSC a co-animé un atelier préventif intitulé <i>Les Jeunes et les Réseaux Sociaux</i>, avec et pour les familles, au Centre Social CAF de la Paillade <i>l’île aux familles</i>. L'atelier a donné lieu à des propositions concrètes : Un jeune sur deux proposait de faire plus de sport ! De nombreux jeunes ont également exprimé leur souhait de sortir plus et faire des rencontres. Voir le compte rendu de l'atelier {{% staticref "u/Temoignages-reseaux-sociaux-Montpellier-juin-2023.pdf" %}}ici{{% /staticref %}}.
 
 👉 Les activités culturelles et sportives proposées pendant l'été répondent aux propositions et attentes des habitants. Le programme a été co-construit avec les familles et les partenaires institutionnels, culturels, sportifs, etc.
 

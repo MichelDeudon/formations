@@ -27,7 +27,7 @@ Agenda des activités et sorties à Montpellier.
 
 ## 🎵 Roller Dance
 
-📍 Devant la [médiathèque Pierresvives](https://g.co/kgs/rW8BnA2).  <br>
+📍 [Esplanade de l'egalité](https://g.page/r/CV0JpobxDzTwEBM/review), devant la médiathèque Pierresvives, 34080 Montpellier. <br>
 📅 Les vendredi 12, 19, 26 juillet et 9, 16, 23 août 2024. <br>
 🕕 De 18h30 à 20h.  <br>
 
@@ -52,7 +52,7 @@ Des sorties à la [patinoire Vegapolis](https://www.vegapolis.fr/), à l'[aquari
 ## FAQ
 
 {{< spoiler text="Combien ça coûte?" >}}
-Les activités et sorties sont soit gratuites, soit à prix libres ou réduits. Vous pouvez nous soutenir financièrement sur [Helloasso](https://www.helloasso.com/associations/maths-et-maryam/formulaires/3).
+Les activités et sorties sont soit gratuites, soit à prix libres ou réduits. Vous pouvez nous soutenir sur [Helloasso](https://www.helloasso.com/associations/maths-et-maryam/formulaires/1).
 {{< /spoiler >}}
 
 {{< spoiler text="Comment s'inscrire?" >}}

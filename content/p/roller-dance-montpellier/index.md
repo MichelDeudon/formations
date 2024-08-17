@@ -20,7 +20,7 @@ Des Étoiles Filantes à Montpellier
 
 ## Introduction
 
-En juin 2023, lors d'un [atelier préventif sur les réseaux sociaux](https://www.mathsetmaryam.fr/u/Temoignages-reseaux-sociaux-Montpellier-juin-2023.pdf), un jeune sur deux proposait de faire plus de sport ! Les étoiles filantes ✨ est une équipe de roller, qui promeut la solidarité du quartier La Paillade à Montpellier, le talent des jeunes et les valeurs du sport. Les sessions se déclinent sous formes d'activités en fonction de la météo et de l'humeur des participants. Le programme éducatif met en pratique de nouvelles pédagogies en [sciences](https://www.mathsetmaryam.fr/u/Roller-Notions-scientifiques.pdf) et [entrepreneuriat](https://www.mathsetmaryam.fr/u/Les-Etoiles-de-la-Mosson-Montpellier-2028.pdf), co-construites avec les familles du quartier.
+En juin 2023, lors d'un [atelier préventif sur les réseaux sociaux](https://www.mathsetmaryam.fr/u/Temoignages-reseaux-sociaux-Montpellier-juin-2023.pdf), un jeune sur deux proposait de faire plus de sport ! Les étoiles filantes ✨ est une équipe de roller, qui promeut la solidarité du quartier La Paillade à Montpellier, le talent des jeunes et les valeurs du sport. Les sessions se déclinent sous formes d'activités en fonction de la météo et de l'humeur des participants.
 
 ## Public
 
@@ -29,8 +29,7 @@ En juin 2023, lors d'un [atelier préventif sur les réseaux sociaux](https://ww
 ## Dates et lieu
 
 📅 <b> Les vendredi, de 18h30 à 20h. </b><br>
-📍 Devant la [médiathèque Pierresvives](https://g.co/kgs/rW8BnA2).
-
+📍 [Esplanade de l'egalité](https://g.page/r/CV0JpobxDzTwEBM/review), devant la médiathèque Pierresvives, 34080 Montpellier.
 ## Objectifs
 
 1. Permettre aux jeunes de s'entraîner en roller, faire du sport et se divertir.
@@ -51,7 +50,7 @@ En juin 2023, lors d'un [atelier préventif sur les réseaux sociaux](https://ww
 1. <b>Animateur/trice</b> - [PSC1](https://www.protection-civile.org/psc1/), [BAFA](https://www.jeunes.gouv.fr/bafa-bafd), [BIF](https://ffroller-skateboard.fr/bif-roller/), CQP, BPJEPS ou équivalent souhaité.
 2. <b>Patineur.se</b> - Rejoindre l'association M&M, compléter et signer l'[autorisation parentale](https://www.mathsetmaryam.fr/u/Roller-Autorisation-Parentale.pdf) si mineur.
 3. <b>Sponsor ou mécène</b> - Marrainer une patineuse sur [HelloAsso](https://www.helloasso.com/associations/maths-et-maryam/formulaires/1).
-4. <b>Créateur, artiste ou presse indépendante</b> - Contacter <a href="tel:0613835412">Mich</a>.
+4. <b>Créateur, artiste ou presse indépendante</b> - Contact en MP.
 
 ## Quoi <i>ramener</i> dans le quartier
 
@@ -61,6 +60,5 @@ En juin 2023, lors d'un [atelier préventif sur les réseaux sociaux](https://ww
 - Enceintes et caméra
 
 ## Autres événements de roller à Montpellier
-- [Rando lundi](https://www.facebook.com/groups/758727760916523/)
+- [FISE Montpellier](https://www.fise.fr/fr)
 - [Discopatine](https://www.instagram.com/discopatin.e/?hl=cs)
-- [FISE](https://www.fise.fr/fr)
