@@ -24,6 +24,8 @@ Séance type de roller danse.
 
 Les entrainements et spectacles de roller danse ont pour objectif de permettre aux jeunes de progresser en roller et se divertir, tout en développant leur technique, leur style, leur confiance en soi et l'esprit d'équipe.
 
+{{< cta cta_text="Voir notre carnet de niveaux." cta_link="https://wwww.mathsetmaryam.fr/u/Roller-Carnet-Roller.pdf" >}}
+
 ## Date et lieu
 
 📅 <b> Les vendredi, de 18h30 à 20h </b><br>
@@ -31,7 +33,7 @@ Les entrainements et spectacles de roller danse ont pour objectif de permettre a
 
 ## Autorisation parentale
 
-Pour participez aux entrainements et spectacles, vous devez compléter et signer l'[autorisation parentale](https://www.mathsetmaryam.fr/u/Roller-Autorisation-Parentale.pdf) si vous êtes mineur. Nous rappelons que <b>les protections sont obligatoires</b> (casque et coudière, genouillière, protège poignet) pour participer aux entrainements.
+Pour participez aux entrainements et spectacles, vous devez [adhérer à l'association](https://www.mathsetmaryam.fr/u/Adhesion.pdf) et compléter l'[autorisation parentale](https://www.mathsetmaryam.fr/u/Roller-Autorisation-Parentale.pdf) si vous êtes mineur. Nous rappelons que <b>les protections sont obligatoires</b> (casque et coudière, genouillière, protège poignet) pour participer aux entrainements.
 
 ## Exemple de progression
 
@@ -49,4 +51,4 @@ Nous organisons des évaluations et remises de bandeaux plusieurs fois dans l'an
 
 {{< figure src="roller/Roller-Bandeau-Bleu.png" caption="Épreuves du bandeau bleu (troisìème niveau).">}}
 
-<!-- Voir notre [Carnet de niveaux](https://www.mathsetmaryam.fr/u/Les-Etoiles-de-la-Mosson-carnet-de-niveaux-roller.pdf) -->
+{{< cta cta_text="Télécharger notre carnet de niveaux." cta_link="https://wwww.mathsetmaryam.fr/u/Roller-Carnet-Roller.pdf" >}}

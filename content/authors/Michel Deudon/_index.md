@@ -21,9 +21,8 @@ organizations:
 bio: Mes intérêts de recherche incluent l'écologie, la psychologie et l'apprentissage des langues.
 
 interests:
-  - Roller
   - Musique
-  - Danse
+  - Roller Danse
 
 education:
   courses:
