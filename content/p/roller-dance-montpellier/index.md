@@ -4,12 +4,9 @@ date: 2024-04-28
 tags:
 - Jeunes
 - Roller
-- Sport
-- Pedagogie
-- Prévention
-- Société
+- Danse
 - Santé
-- Environnement
+- Sport
 - La Paillade
 - La Mosson
 - Montpellier

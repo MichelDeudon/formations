@@ -9,10 +9,10 @@ design:
   flip_alt_rows: true # Flip alternate rows when in Showcase view?
 ---
 
-> _Salut, sache que si tu passes par là, tu tomberas sur des merveilleuses personnes, avec lesquels tu vas grandir, apprendre, qui vont te soutenir, qui te feront sentir bien et assez pour pouvoir évoluer et par dessus tout, progresser, si il y aurait un mot pour décrire cette magnifique association, ça serait le mot progresser car avec c’est certain.
-Un grand merci à Michel, et j’espère que son projet verra la plus grande lumière :)_ - Abrar, étudiante au Lycée Agricole Honoré De Balzac (2023).
+> _Salut, sache que si tu passes par là, tu tomberas sur des merveilleuses personnes, avec lesquels tu vas grandir, apprendre, qui vont te soutenir, qui te feront sentir bien et assez pour pouvoir évoluer et par dessus tout, progresser. S'il y avait un mot pour décrire cette magnifique association, ça serait le mot progresser car avec c’est certain.
+Un grand merci à Michel, et j’espère que son projet verra la plus grande lumière. :)_ - Abrar, étudiante au Lycée Agricole Honoré De Balzac (2023).
 
-> _La météo émotionnelle du jour, c'est super bien qu'on puisse nous demander ça. On a tendance à penser que l'on est peu proche entre l'encadrant pédagogique et étudiant, c'est bien de réduire cette pseudo distance !_ - Thomas, étudiant en licence MIASHS à l'université Paul Valéry (2023).
+> _La météo émotionnelle du jour, c'est super bien qu'on puisse nous demander ça. On a tendance à penser que l'on est peu proche entre l'encadrant pédagogique et étudiant, c'est bien de réduire cette pseudo distance!_ - Thomas, étudiant en licence MIASHS à l'université Paul Valéry (2023).
 
 > _Nous tenons à adresser nos sincères remerciements à Michel qui a apporté une contribution de très bonne qualité à cette édition [de l'aide aux devoirs à la médiathèque Pierresvives], avec une présence durant les sept jours du début jusqu’à la fin de chaque séance tout en étant toujours disponible et bienveillant envers les élèves. Il a réussi à rajouter encore plus de motivations à certains élèves, de sorte qu’ils ne voulaient plus le quitter après cela._ - Karim, enseignant au CFAI de Baillargues (2022).
 

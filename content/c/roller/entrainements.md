@@ -24,7 +24,7 @@ Séance type de roller danse.
 
 Les entrainements et spectacles de roller danse ont pour objectif de permettre aux jeunes de progresser en roller et se divertir, tout en développant leur technique, leur style, leur confiance en soi et l'esprit d'équipe.
 
-{{< cta cta_text="Voir notre carnet de niveaux." cta_link="https://wwww.mathsetmaryam.fr/u/Roller-Carnet-Roller.pdf" >}}
+{{< cta cta_text="Voir notre carnet de niveaux." cta_link="https://wwww.mathsetmaryam.fr/u/Roller-Danse-Carnet.pdf" >}}
 
 ## Date et lieu
 
@@ -51,4 +51,4 @@ Nous organisons des évaluations et remises de bandeaux plusieurs fois dans l'an
 
 {{< figure src="roller/Roller-Bandeau-Bleu.png" caption="Épreuves du bandeau bleu (troisìème niveau).">}}
 
-{{< cta cta_text="Télécharger notre carnet de niveaux." cta_link="https://wwww.mathsetmaryam.fr/u/Roller-Carnet-Roller.pdf" >}}
+{{< cta cta_text="Télécharger notre carnet de niveaux." cta_link="https://wwww.mathsetmaryam.fr/u/Roller-Danse-Carnet.pdf" >}}

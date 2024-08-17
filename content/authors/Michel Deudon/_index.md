@@ -21,23 +21,24 @@ organizations:
 bio: Mes intérêts de recherche incluent l'écologie, la psychologie et l'apprentissage des langues.
 
 interests:
-  - Musique
+  - Enseignement
   - Roller Danse
+  - Sciences
 
 education:
   courses:
     - course: MBA
       institution: Collège des Ingénieurs
-      year: 2020-21
+      year: 2021
     - course: Master en science des données
       institution: Télécom Paris et ENS Cachan
-      year: 2017-19
+      year: 2019
     - course: Master en maths appliqués
       institution: Ecole Polytechnique
-      year: 2014-17
+      year: 2014 - 2017
     - course: Prépa Physique Chimie
       institution: Lycée Pasteur
-      year: 2012-14
+      year: 2012 - 2014
 
 # Social/Academic Networking
 social:
