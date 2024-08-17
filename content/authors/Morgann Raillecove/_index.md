@@ -35,7 +35,7 @@ education:
       institution: Protection Civile
       year: 2023
     - course: CPJEPS
-      institution: MUC Omnisport
+      institution: MUC Omnisports
       year: 2023
     - course: Licence d'histoire
       institution: Université Paul Valéry
