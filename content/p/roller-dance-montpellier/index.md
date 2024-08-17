@@ -27,7 +27,7 @@ En juin 2023, lors d'un [atelier préventif sur les réseaux sociaux](https://ww
 
 ## Public
 
-<i>Ouvert à tous</i> : débutant, intermédiaire, avancé, à partir de 9 ans. 🌸
+<i>Ouvert à tous</i> : débutant, intermédiaire, avancé, à partir de 7 ans. 🌸
 
 ## Dates et lieu
 
