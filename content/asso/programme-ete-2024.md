@@ -59,6 +59,6 @@ Les activités et sorties sont soit gratuites, soit à prix libres ou réduits. 
 Pour les mineurs souhaitant participer aux activités et sorties, complétez et signez notre {{% staticref "u/Adhesion.pdf" %}}demande d'adhésion à l'association M&M{{% /staticref %}} auprès de Morgann ou Michel.
 {{< /spoiler >}}
 
-{{< spoiler text="Que dois-je apporter pour les activités et sorties?" >}}
+{{< spoiler text="Que dois-je apporter?" >}}
 Une casquette, de l'eau, crème solaire, titre de transport selon les sorties.
 {{< /spoiler >}}
