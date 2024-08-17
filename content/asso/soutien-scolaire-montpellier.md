@@ -16,10 +16,7 @@ tags:
 - Méthodologie
 - Brevet
 - Baccalauréat
-- BTS
 - Prépa
-- CPGE
-- CPES
 - Licence
 - Master
 - Cours collectifs
@@ -76,7 +73,11 @@ L'objectif du <b>tutorat</b> est d'encourager l'<b>entraide</b> et l'idée d'<b>
 ## FAQ
 
 {{< spoiler text="Combien ça coûte?" >}}
-C’est gratuit ! Vous pouvez nous soutenir financièrement sur [Helloasso](https://www.helloasso.com/associations/maths-et-maryam/formulaires/2).
+Les stages et le soutien scolaire sont gratuits pour les élèves tuteurs, à prix libres pour les parents. Vous pouvez nous soutenir financièrement sur [Helloasso](https://www.helloasso.com/associations/maths-et-maryam/formulaires/3).
+{{< /spoiler >}}
+
+{{< spoiler text="Comment s'inscrire?" >}}
+Pour les mineurs souhaitant participer aux activités et sorties, complétez et signez notre {{% staticref "u/Adhesion.pdf" %}}demande d'adhésion à l'association M&M{{% /staticref %}} auprès de Morgann ou Michel.
 {{< /spoiler >}}
 
 {{< spoiler text="Que dois-je apporter?" >}}
