@@ -43,13 +43,13 @@ Apprendre à avancer, reculer ou encore freiner permet d'aborder des notions de 
 
 Alors que la notion de suite pose des difficultés aux étudiants en lycée, le roller permet de voir, de manière concrète, quelques notions de <b>mathématiques discrètes comme les suites</b> des nombres paires / impaires ou encore d'étudier des distances à parcourir en fonction du nombre de plots.
 
+Exemple d'exercice: Nous espaçons des plots de 50 cm pour apprendre à slalomer. À quelle distance correspondent 7 plots? Combien de plots faut-il pour atteindre 12m? Si Souheila franchit les 10 plots en 30 secondes, quelle est sa vitesse en m/s? Exprimer ce résultat en km/h. Comparer cette vitesse à celle d'une petite brise (voir l'[échelle de Beaufort](https://meteofrance.com/sites/meteofrance.com/files/styles/free_crop/public/images/editorial/echelle_beaufort_0.jpg?itok=lOWmq1cI)).
+
 ## Mécanique et cinématique
 
-Le roller met naturellement en jeu des durées, des distances, et donc des vitesses avec la relation $v=\frac{D}/{\Delta T}$. Le sport met aussi en avant des forces (gravitation, frottements) et des énergies qui ont de nombreuses <b>applications en mécanique</b> comme le principe d'inertie. Le roller permet aussi d'étudier différentes unités en physique chimie (longueurs, surfaces, volumes, distances, vitesses, accélération, etc.).
+Le roller met naturellement en jeu des durées, des distances, et donc des vitesses avec la relation $v=\frac{D}{\Delta T}$. Le sport met aussi en avant des forces (gravitation, frottements) et des énergies qui ont de nombreuses <b>applications en mécanique</b> comme le principe d'inertie. Le roller permet aussi d'étudier différentes unités en physique chimie (longueurs, surfaces, volumes, distances, vitesses, accélération, etc.).
 
 {{< figure src="roller/roller-science-3.png" caption="Exemples de phénomènes physique à relier à leurs vitesses.">}}
-
-Autre exemple d'exercice: Nous espaçons des plots de 50 cm pour apprendre à slalomer. À quelle distance correspondent 7 plots? Combien de plots faut-il pour atteindre 12m? Si Souheila franchit les 10 plots en 30 secondes, quelle est sa vitesse en m/s? Exprimer ce résultat en km/h. Comparer cette vitesse à celle d'une petite brise (voir l'[échelle de Beaufort](https://meteofrance.com/sites/meteofrance.com/files/styles/free_crop/public/images/editorial/echelle_beaufort_0.jpg?itok=lOWmq1cI)).
 
 ## Sciences des matériaux
 

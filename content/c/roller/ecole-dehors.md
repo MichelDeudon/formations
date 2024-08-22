@@ -34,4 +34,4 @@ Une récente [étude britannique](https://journals.sagepub.com/doi/epub/10.1177/
 
 La <b>sensation de liberté</b>, le plaisir et la concentration nécéssaire au sport entraînent des bienfaits directs pour la <b>santé mentale</b> chez les jeunes filles et les skateuses. La pratique du roller skate permet de réduire leur stress et renforcer leur <b>confiance en soi</b>.
 
-Le roller permet aussi de créer des ponts entre le sport, la culture et les sciences. Que ce soit à travers des ateliers de bricolage, des tutos en anglais ou des opérations de calcul mental (180°, 360°, 720°), <b>l'expérience du roller</b> donne à réfléchir et offre un espace sain de créativité et développement personnel.
+Le roller permet aussi de créer des ponts entre le sport, la culture et les sciences. Que ce soit à travers des ateliers de bricolage, des tutos en anglais ou des opérations de calcul mental, <b>l'expérience du roller</b> donne à réfléchir et offre un espace sain de créativité et développement personnel.
