@@ -2,7 +2,7 @@
 title: Chiffres clés
 subtitle:
 widget: featurette
-weight: 30
+weight: 40
 
 feature:
 - name: 21+
