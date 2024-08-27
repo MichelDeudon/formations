@@ -36,7 +36,7 @@ main:
   - name: Blog
     PageRef: p/_index.md
     weight: 50
-  - name: Nous soutenir
+  - name: 
     params:
       rel: external
     pre: <i class="fa fa-heart"></i>

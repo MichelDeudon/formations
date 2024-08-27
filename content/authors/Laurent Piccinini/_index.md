@@ -33,10 +33,10 @@ education:
   courses:
     - course: Doctorat de mathématiques
       institution: Université de Montpellier
-      year:
+      year: 1995
     - course: Maitrise de Mathématiques
       institution: Université Paul Sabatier Toulouse III
-      year:
+      year: 1991
 
 # Social/Academic Networking
 #social:
@@ -56,6 +56,4 @@ user_groups:
   - Membres d'Honneur
 ---
 
-Bonjour! Je m'appelle Laurent...
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Bonjour! Je m'appelle Laurent. Je suis enseignant chercheur universitaire et parrain de l'association Maths et Maryam depuis 2024.
