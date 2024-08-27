@@ -2,7 +2,7 @@
 title: Nos partenaires
 subtitle: Académiques, institutionnels, associatifs et privés
 widget: blank
-weight: 50
+weight: 60
 design:
   columns: '1'
 ---

@@ -25,9 +25,9 @@ organizations:
 bio: Short bio.
 
 interests:
-  - Interet 1
-  - Interet 2
-  - Interet 3
+  - Numérique
+  - Écologie
+  - Sciences de l'éducation
 
 education:
   courses:

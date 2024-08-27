@@ -28,7 +28,7 @@ Agenda des activités et sorties à Montpellier.
 ## 🎵 Roller Dance
 
 📍 [Esplanade de l'egalité](https://g.page/r/CV0JpobxDzTwEBM/review), devant la médiathèque Pierresvives, 34080 Montpellier. <br>
-📅 Les vendredi 12, 19, 26 juillet et 9, 16, 23 août 2024. <br>
+📅 Les vendredi 12, 19, 26 juillet et 9, 16, 23 et 30 août 2024. <br>
 🕕 De 18h30 à 20h.  <br>
 
 ## ⛸ Sortie Patinoire

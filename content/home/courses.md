@@ -1,7 +1,7 @@
 ---
 widget: portfolio
 headless: true
-weight: 30
+weight: 40
 title: Explorer les projets
 subtitle:
 content:

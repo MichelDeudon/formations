@@ -39,8 +39,12 @@ main:
   - name: 
     params:
       rel: external
+    pre: <i class="fa fa-star"></i>
+    url: https://g.page/r/CV0JpobxDzTwEAE/review
+    weight: 60
+  - name: 
+    params:
+      rel: external
     pre: <i class="fa fa-heart"></i>
     url: https://www.helloasso.com/associations/maths-et-maryam
-    weight: 60
-
-
+    weight: 70
