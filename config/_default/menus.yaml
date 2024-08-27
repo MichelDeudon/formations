@@ -36,3 +36,11 @@ main:
   - name: Blog
     PageRef: p/_index.md
     weight: 50
+  - name: Nous soutenir
+    params:
+      rel: external
+    pre: <i class="fa fa-heart"></i>
+    url: https://www.helloasso.com/associations/maths-et-maryam
+    weight: 60
+
+
