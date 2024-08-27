@@ -40,7 +40,7 @@ De la primaire au collège, lycée et supérieur.
 
 ## Matières
 
-Français, Anglais, Histoire, Philo. <br>
+Français, Anglais, Histoire Geo, Philo. <br>
 Mathématiques, Physique Chimie, SVT, Info. <br>
 Métholodogie, Orientation, etc.
 
@@ -53,7 +53,7 @@ Métholodogie, Orientation, etc.
 ## Stage de pré-rentrée 2024-2025
 
 📅 Du mardi 27 août au vendredi 30 août. <br>
-📌 À la médiathèque [Pierresvives](https://pierresvives.herault.fr/663-horaires-d-ouverture.htm) de 17h à 18h30 (public lycéen.nes). <br>
+📌 À la [médiathèque Pierresvives](https://pierresvives.herault.fr/663-horaires-d-ouverture.htm) de 17h à 18h30 (public lycéen.nes). <br>
 📌 À l'[association ASSMR34](https://www.helloasso.com/associations/assamr34) de 17h à 18h30 (public primaires) et de 18h30 à 20h (public collégien.nes). <br>
 🎯 Le <b>stage de pré-rentrée</b> est l'occasion de préparer efficacement sa rentrée dans <b>un cadre bienveillant</b>. Il permet aux jeunes d’apprendre et de réviser, d’aider les élèves dans leurs difficultés, leur redonner confiance et les accompagner en s'adaptant à leurs besoins.
 
@@ -61,9 +61,8 @@ Métholodogie, Orientation, etc.
 
 ## Aide aux devoirs et soutien scolaire 2024-2025
 
-📅 Le jeudi et vendredi, de 17h à 19h, en période scolaire (à partir du mois d'octobre). <br>
-📌 À la médiathèque [Pierresvives](https://pierresvives.herault.fr/663-horaires-d-ouverture.htm) le vendredi (public lycéen.nes). <br>
-📌 À la [Maison Pour Tous Louis Feuillade](https://www.montpellier.fr/structure/1788/240-maison-pour-tous-louis-feuillade-structure.htm) le jeudi (public collégien.nes). <br>
+📅 Le jeudi, de 17h à 19h, à la [Maison Pour Tous Louis Feuillade](https://www.montpellier.fr/structure/1788/240-maison-pour-tous-louis-feuillade-structure.htm) (public collégien.nes). <br>
+📅 Le vendredi, de 17h à 19h, à la [médiathèque Pierresvives](https://pierresvives.herault.fr/663-horaires-d-ouverture.htm) (public lycéen.nes).
 🎯 Le <b>soutien scolaire</b> est l'occasion de préparer efficacement son année dans <b>un cadre bienveillant</b>. Il permet aux jeunes d’apprendre et d’aider les autres, pour gagner en confiance et ouvrir le champs des possibles.
 
 ## Les avantages de M&M
