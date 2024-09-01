@@ -20,11 +20,11 @@ Des Étoiles Filantes à Montpellier
 
 ## Introduction
 
-En juin 2023, lors d'un [atelier préventif sur les réseaux sociaux](https://www.mathsetmaryam.fr/u/Temoignages-reseaux-sociaux-Montpellier-juin-2023.pdf), un jeune sur deux proposait de faire plus de sport ! Les étoiles filantes ✨ est une équipe de roller, qui promeut la solidarité du quartier La Paillade à Montpellier, le talent des jeunes et les valeurs du sport. Les sessions se déclinent sous formes d'activités en fonction de la météo et de l'humeur des participants.
+En juin 2023, lors d'un [atelier préventif sur les réseaux sociaux](https://www.mathsetmaryam.fr/u/Temoignages-reseaux-sociaux-Montpellier-juin-2023.pdf), un jeune sur deux proposait de faire plus de sport ! Les étoiles filantes ✨ est une équipe de [roller dance à Montpellier](https://www.mathsetmaryam.fr/c/roller/), qui promeut la solidarité du quartier la Paillade, le talent des jeunes et les valeurs du sport. Les sessions se déclinent sous formes d'activités en fonction de la météo et de l'humeur des participants.
 
 ## Public
 
-<i>Ouvert à tous</i> : débutant, intermédiaire, avancé, à partir de 7 ans. 🌸
+<i>Ouvert à tous</i> : débutant, intermédiaire, avancé, à partir de 6 ans. 🌸
 
 ## Dates et lieu
 

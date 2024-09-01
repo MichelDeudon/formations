@@ -25,27 +25,37 @@ Agenda des activités et sorties à Montpellier.
 
 {{< figure src="roller/roller-dance-and-smile.png" caption="Cours collectifs de roller dance pendant les JO 2024 devant la médiathèque Pierresvives.">}}
 
-## 🎵 Roller Dance
+## 🎵 Stage de Roller Dance
 
 📍 [Esplanade de l'egalité](https://g.page/r/CV0JpobxDzTwEBM/review), devant la médiathèque Pierresvives, 34080 Montpellier. <br>
 📅 Les vendredi 12, 19, 26 juillet et 9, 16, 23 et 30 août 2024. <br>
 🕕 De 18h30 à 20h.  <br>
 
-## ⛸ Sortie Patinoire
+## 📚 Stage de Pré Rentrée
 
+📍 Dans les locaux de l'[association ASSMR34](https://www.helloasso.com/associations/assamr34) et à la [médiathèque Pierresvives](https://pierresvives.herault.fr/663-horaires-d-ouverture.htm), 34080 Montpellier. <br>
+📅 Du mardi 27 août au vendredi 30 août 2024. <br>
+🕕 De 17h00 à 20h.  <br>
+
+## 🐿 Grand Goûter et Jeux d'Eau
+
+📍 Au [parc Sophie Desmarets](https://www.montpellier.fr/structure/1526/240-parc-sophie-desmarets-structure.htm).  <br>
+📅 Samedi 31 août 2024. <br>
+🕕 De 15h30 à 19h.  <br>
+
+
+<!--
+## ⛸ Sortie Patinoire
 📍 À la [patinoire Vegapolis](https://www.vegapolis.fr/).  <br>
 📅 Samedi 31 août 2024. <br>
 🕕 De 15h à 18h.  <br>
 
-<!--
 ## Samedi 6 septmbre
-
 📍 À la [Maison Pour Tous Louis Feuillade](https://www.montpellier.fr/structure/1788/240-maison-pour-tous-louis-feuillade-structure.htm).  <br>
 🕕 De 17h à 18h. <br>
 📽️ <b>Rétrospective</b> été 2024 (court métrage), spectacle de roller dance et fête de quartier.
 
 ## Autres activités culturelles et sportives
-
 Des sorties à la [patinoire Vegapolis](https://www.vegapolis.fr/), à l'[aquarium Planet Océan](https://www.planetoceanworld.fr/), des sorties à Jean Vilar, des ateliers théâtre, de sculpture en argile, création d'un herbier au [jardin des plantes](https://facmedecine.umontpellier.fr/patrimoine-historique/jardin-des-plantes/visiter-le-jardin/), jeux au Musée Fabre, jeux d'eau au parc Sophie Desmarets, ateliers de calligraphie-karaoké-origami et initiation au premiers secours sont en cours de préparation. Dates en août à venir prochainement.
 -->
 
