@@ -37,7 +37,7 @@ Agenda des activités et sorties à Montpellier.
 📅 Du mardi 27 août au vendredi 30 août 2024. <br>
 🕕 De 17h00 à 20h.  <br>
 
-## 🐿 Grand Goûter et Jeux d'Eau
+## 💦 Grand Goûter et Jeux d'Eau
 
 📍 Au [parc Sophie Desmarets](https://www.montpellier.fr/structure/1526/240-parc-sophie-desmarets-structure.htm).  <br>
 📅 Samedi 31 août 2024. <br>
