@@ -56,16 +56,12 @@ user_groups:
   - Eleves Tuteurs
 ---
 
-Bonjour! Je m'appelle Anas, je suis en terminale générale au lycée Joffre (spécialités mathématiques et physique-chimie) et je suis pleinement engagé dans des actions de solidarité et d'entraide à Montpellier.
-
+Bonjour! Je m'appelle Anas, je suis en terminale générale au lycée Joffre et je suis pleinement engagé dans des actions de solidarité et d'entraide à Montpellier.
 Je pratique la natation depuis 10 ans. Ce sport m'a inculqué la persévérance, le dépassement de soi et la gestion du temps, des qualités qui se reflètent dans tous les aspects de ma vie. Je suis également impliqué en tant qu'arbitre officiel au sein du [Montpellier Handball Club](https://www.montpellierhandball.com/accueil) (MHB). Cette expérience m'a permis de développer des compétences en leadership, en prise de décision et en gestion des conflits, tout en contribuant au dynamisme et à l'esprit d'équipe. 
 
 Je suis certifié [PSC](https://www.croix-rouge.fr/formations), [PSE1](https://competence.croix-rouge.fr/formation/premiers-secours-en-equipe-de-niveau-1-pse1/) et [PSE2](https://competence.croix-rouge.fr/formation/premiers-secours-en-equipe-de-niveau-2-pse2/), ce qui me permet d'intervenir en tant que secouriste et équipier secouriste auprès de la [Croix-Rouge](https://www.croix-rouge.fr/) (interventions dirigées par l'UL de Montpellier et la DT de l'Hérault à Grabel, missions sociales d'aide à la personne).
-
+Curieux et passionné d'aéronautique, je poursuis également une [formation PPL](https://www.aeroformation.fr/formations/licence-ppl/) en vue d'obtenir une licence de pilote privée. Ayant déjà cumulé 20 heures de vol à l'aéroclub de l'Hérault à Montpellier, je suis déterminé à aller encore plus loin dans cette voie.
 <!-- Mon stage de troisième à la [Chambre de Commerce et d'Industrie](https://www.herault.cci.fr/) (CCI) de Montpellier m'a plongé au cœur du monde professionnel. -->
 
-Curieux et passionné d'aéronautique, je poursuis également une [formation PPL](https://www.aeroformation.fr/formations/licence-ppl/) en vue d'obtenir une licence de pilote privée. Ayant déjà cumulé 20 heures de vol à l'aéroclub de l'Hérault à Montpellier, je suis déterminé à aller encore plus loin dans cette voie.
-
 Enfin, depuis mes dix ans, je nourris une passion pour le théâtre qui m'a accompagné tout au long de mon parcours. Cette pratique m'a permis d'explorer ma créativité, d'affiner mes compétences en communication et de développer une capacité d'empathie essentielle dans mes interactions quotidiennes.
-
 En résumé, je suis un étudiant avide de connaissances, passionné par l'apprentissage continu et la participation active dans diverses activités, qu'elles soient académiques, sportives ou artistiques. Notre association s'efforce de créer un environnement où chaque élève se sent soutenu et encouragé dans son parcours.
