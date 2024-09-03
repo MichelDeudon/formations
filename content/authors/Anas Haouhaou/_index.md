@@ -56,7 +56,7 @@ user_groups:
   - Eleves Tuteurs
 ---
 
-Bonjour! Je m'appelle Anas, je suis en terminale générale au lycée Joffre et je suis pleinement engagé dans des actions de solidarité et d'entraide à Montpellier.
+Bonjour! Je m'appelle Anas, je suis en terminale générale au [lycée Joffre](https://lycee-joffre-montpellier.mon-ent-occitanie.fr/) et je suis pleinement engagé dans des actions de solidarité et d'entraide à Montpellier.
 Je pratique la natation depuis 10 ans. Ce sport m'a inculqué la persévérance, le dépassement de soi et la gestion du temps, des qualités qui se reflètent dans tous les aspects de ma vie. Je suis également impliqué en tant qu'arbitre officiel au sein du [Montpellier Handball Club](https://www.montpellierhandball.com/accueil) (MHB). Cette expérience m'a permis de développer des compétences en leadership, en prise de décision et en gestion des conflits, tout en contribuant au dynamisme et à l'esprit d'équipe. 
 
 Je suis certifié [PSC](https://www.croix-rouge.fr/formations), [PSE1](https://competence.croix-rouge.fr/formation/premiers-secours-en-equipe-de-niveau-1-pse1/) et [PSE2](https://competence.croix-rouge.fr/formation/premiers-secours-en-equipe-de-niveau-2-pse2/), ce qui me permet d'intervenir en tant que secouriste et équipier secouriste auprès de la [Croix-Rouge](https://www.croix-rouge.fr/) (interventions dirigées par l'UL de Montpellier et la DT de l'Hérault à Grabel, missions sociales d'aide à la personne).
