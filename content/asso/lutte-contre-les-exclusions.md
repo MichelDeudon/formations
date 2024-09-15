@@ -23,7 +23,11 @@ Intervention en Master 2 MEEF STMS sur les actions menées avec les associations
 
 {{< figure src="assos/lutte-exclusions.png" caption="Partenaires associatifs et institutionnels.">}}
 
-{{< icon name="calendar" pack="fas" >}} 21 et 28 septembre 2023, de 9h15 à 11h15 à l'université Paul Valery.
+{{< icon name="calendar" pack="fas" >}} Jeudi 19 septembre 2024, de 9h15 à 12h15 à l'association ASSAMR34 (rdv à l’arrêt de tram St Paul à 9h10).
+
+{{< callout note >}}
+Télécharger le <a href="https://www.mathsetmaryam.fr/u/UPVM-M2-MEEF-lutte-contre-les-exclusions.pdf">support du cours 2024</a>.
+{{< /callout >}}
 
 ## 🎯 Objectif
 

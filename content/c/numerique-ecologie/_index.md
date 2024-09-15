@@ -83,4 +83,4 @@ Il n'y a pas de prérequis.
 {{< /spoiler >}}
 
 <br>
-{{< cta cta_text="Commencer la formation" cta_link="https://www.mtpcours.fr/c/numerique-ecologie/histoire/">}}
+{{< cta cta_text="Commencer la formation" cta_link="https://www.mathsetmaryam.fr/c/numerique-ecologie/histoire/">}}

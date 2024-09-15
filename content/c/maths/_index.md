@@ -32,7 +32,7 @@ tags:
 
 ## Présentation
 
-Les tuteurs et mentors de <b>Maths & Maryam</b> enseignent les mathématiques avec passion, patience et empathie, en cherchant à transmettre des méthodes et réflexes pour [gagner en confiance et suivre son intuition](https://www.mtpcours.fr/p/7-astuces-pour-progresser-en-maths/), nécessaires pour devenir autonome. 
+Les tuteurs et mentors de <b>Maths & Maryam</b> enseignent les mathématiques avec passion, patience et empathie, en cherchant à transmettre des méthodes et réflexes pour [gagner en confiance, intuition et autonomie](https://www.mathsetmaryam.fr/p/7-astuces-pour-progresser-en-maths/). 
 
 En particulier, les étudiants sont amenés à se poser des questions pour résoudre des problèmes, à se les approprier à travers des exemples concrets, à les visualiser grâce à des dessins et développer des automatismes pour résoudre plus efficacement des exercices.
 
@@ -90,4 +90,4 @@ Il n'y a pas de prérequis.
 Le vendredi après midi, à la [médiathèque Pierresvives](https://pierresvives.herault.fr/) (hors vacances scolaires).
 {{< /spoiler >}}
 
-{{< cta cta_text="Commencer la formation" cta_link="mailto:michel.deudon@hotmail.com?subject=Demande de cours collectifs de maths">}}
+{{< cta cta_text="Commencer la formation" cta_link="mailto:michel@mathsetmaryam.fr?subject=Prépa Mathématiques">}}

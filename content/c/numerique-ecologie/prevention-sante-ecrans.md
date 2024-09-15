@@ -57,11 +57,11 @@ Nous verrons en cours comment créer une <b>fiche action</b> pour co-construire 
 ## Bon plans
 
 {{< callout note >}}
-<a href="https://www.mtpcours.fr/p/roller-dance-montpellier/">Une équipe de roller dance à La Mosson</a>, Montpellier.
+<a href="https://www.mathsetmaryam.fr/p/roller-dance-montpellier/">Une équipe de roller dance à La Mosson</a>, Montpellier.
 {{< /callout >}}
 
 {{< callout note >}}
-<a href="https://www.mtpcours.fr/asso/lutte-contre-les-exclusions/">Sorties avec Morgann pendant l’été</a>, Montpellier.
+<a href="https://www.mathsetmaryam.fr/asso/lutte-contre-les-exclusions/">Sorties avec Morgann pendant l’été</a>, Montpellier.
 {{< /callout >}}
 
 ## Soutien
