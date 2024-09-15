@@ -23,7 +23,8 @@ Intervention en Master 2 MEEF STMS sur les actions menées avec les associations
 
 {{< figure src="assos/partenaires.png" caption="Partenaires associatifs, institutionnels et privés.">}}
 
-{{< icon name="calendar" pack="fas" >}} Jeudi 19 septembre 2024, de 9h15 à 12h15 à l'association ASSAMR34 (rdv à l’arrêt de tram St Paul à 9h10).
+{{< icon name="calendar" pack="fas" >}} Jeudi 19 septembre 2024, de 9h15 à 12h15 à l'association ASSAMR34. <br>
+Rdv à l’arrêt de tram St Paul à 9h10.
 
 {{< callout note >}}
 Télécharger le <a href="https://www.mathsetmaryam.fr/u/M2-MEEF-lutte-contre-les-exclusions.pdf">support du cours 2024</a>.
