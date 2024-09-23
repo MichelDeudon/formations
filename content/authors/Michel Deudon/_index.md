@@ -51,6 +51,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://framagit.org/MichelDeudon
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=p4RP5SoAAAAJ&hl=fr
 
 # Status emoji
 status:
@@ -68,4 +71,4 @@ user_groups:
   - Mentors
 ---
 
-Bonjour! Je m'appelle Michel, je suis né à New York. J'enseigne à l'université [Paul Valéry Montpellier 3](https://www.univ-montp3.fr/) et à la [médiathèque Pierresvives](https://pierresvives.herault.fr/), les [maths](https://www.mathsetmaryam.fr/c/maths/), la [physique-chimie](https://www.mathsetmaryam.fr/c/physique-chimie/) et l'[anglais](https://www.mathsetmaryam.fr/c/english/). J'ai travaillé comme ingénieur-chercheur et data scientist à l'université de Tokyo, Element AI (Londres) et Vinted (Berlin). J'ai mentoré des doctorants à la NASA en 2019 et j'ai co-fondé l'association [Local Seasonal](https://www.mathsetmaryam.fr/asso/local-seasonal/) en 2020 pour célébrer la diversité au fil des saisons. Depuis deux ans, j'anime des ateliers préventifs [santé écrans](https://www.mathsetmaryam.fr/c/numerique-ecologie/prevention-sante-ecrans/) et des cours collectifs de [roller danse](https://www.mathsetmaryam.fr/c/roller/).
+Bonjour! Je m'appelle Michel, je suis né à New York 🗽. J'enseigne à l'université [Paul Valéry Montpellier 3](https://www.univ-montp3.fr/) et à la [médiathèque Pierresvives](https://pierresvives.herault.fr/), les [maths](https://www.mathsetmaryam.fr/c/maths/), la [physique-chimie](https://www.mathsetmaryam.fr/c/physique-chimie/) et l'[anglais](https://www.mathsetmaryam.fr/c/english/). J'ai travaillé comme ingénieur-chercheur et data scientist à l'université de Tokyo, Element AI (Londres) et Vinted (Berlin). J'ai mentoré des doctorants à la NASA en 2019 et co-fondé le binet Soupe en 2015, l'association [Local Seasonal](https://www.mathsetmaryam.fr/asso/local-seasonal/) en 2020 pour célébrer la diversité au fil des saisons. Depuis deux ans, j'anime des ateliers préventifs [santé écrans](https://www.mathsetmaryam.fr/c/numerique-ecologie/prevention-sante-ecrans/) et des cours collectifs de [roller danse](https://www.mathsetmaryam.fr/c/roller/).
