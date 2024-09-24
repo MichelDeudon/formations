@@ -2,7 +2,7 @@
 title: Ateliers Local Seasonal
 date: '2023-09-28'
 type: book
-weight: 10
+weight: 40
 highlight: true
 tags:
   - Jeunes

@@ -2,7 +2,7 @@
 title: Stage de pré-rentrée et soutien scolaire
 date: '2024-07-05'
 type: book
-weight: 40
+weight: 10
 highlight: true
 tags:
 - Jeunes

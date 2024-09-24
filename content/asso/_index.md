@@ -17,7 +17,7 @@ tags:
   - Hérault
 ---
 
-{{< figure src="featured.jpg" caption="Sortie en septembre 2023 à la librairie Gibert Joseph avec Morgann Raillecove et l'association GSC.">}}
+{{< figure src="featured.jpg" caption="Goûter de pré rentrée au parc Sophie Desmarets le 31 août 2024, jeux d'eau et atelier de peinture.">}}
 
 ## Campagnes d'action
 

@@ -2,7 +2,7 @@
 title: Programmation Juillet Août 2024
 date: '2024-07-05'
 type: book
-weight: 30
+weight: 20
 highlight: true
 tags:
 - Jeunes
