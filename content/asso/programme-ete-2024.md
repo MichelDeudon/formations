@@ -43,6 +43,7 @@ Agenda des activités et sorties à Montpellier.
 📅 Samedi 31 août 2024. <br>
 🕕 De 15h30 à 19h.  <br>
 
+{{< figure src="assos/gouter-pre-rentree.png" caption="Goûter de pré rentrée au parc Sophie Desmarets le 31 août 2024, jeux d'eau et atelier de peinture.">}}
 
 <!--
 ## ⛸ Sortie Patinoire
