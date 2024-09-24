@@ -1,5 +1,5 @@
 ---
-title: Stage de pré-rentrée et soutien scolaire
+title: Aide aux devoirs et soutien scolaire
 date: '2024-07-05'
 type: book
 weight: 10
@@ -36,7 +36,7 @@ Pour bien préparer son année.
 
 ## Public
 
-De la primaire au collège, lycée et supérieur.
+De la primaire au collège, lycée et études supérieures.
 
 ## Matières
 
@@ -44,12 +44,7 @@ Français, Anglais, Histoire Geo, Philo. <br>
 Mathématiques, Physique Chimie, SVT, Info. <br>
 Métholodogie, Orientation, etc.
 
-## Objectifs
-
-1. <b>Consolider</b> les acquis pour progresser, réviser les notions clés et renforcer ses connaissances.
-2. <b>Préparer</b> sereinement son entrée dans les classes supérieures en abordant la méthodologie et la confiance en soi.
-3. <b>S'entraider</b>, s'écouter, s’informer, s’orienter, etc.
-
+<!-- 
 ## Stage de pré-rentrée 2024-2025
 
 📅 Du mardi 27 août au vendredi 30 août. <br>
@@ -58,14 +53,16 @@ Métholodogie, Orientation, etc.
 🎯 Le <b>stage de pré-rentrée</b> est l'occasion de préparer efficacement sa rentrée dans <b>un cadre bienveillant</b>. Il permet aux jeunes d’apprendre et de réviser, d’aider les élèves dans leurs difficultés, leur redonner confiance et les accompagner en s'adaptant à leurs besoins.
 
 {{< figure src="assos/pre-rentree.png" caption="Supports de communication pour les stages de pré-rentrée.">}}
+-->
 
-## Aide aux devoirs et soutien scolaire 2024-2025
+## Emploi du temps 2024-2025
 
-📅 Le jeudi, de 17h à 19h, à la [Maison Pour Tous Louis Feuillade](https://www.montpellier.fr/structure/1788/240-maison-pour-tous-louis-feuillade-structure.htm) (public collégien.nes). <br>
-📅 Le vendredi, de 17h à 19h, à la [médiathèque Pierresvives](https://pierresvives.herault.fr/663-horaires-d-ouverture.htm) (public lycéen.nes).
-🎯 Le <b>soutien scolaire</b> est l'occasion de préparer efficacement son année dans <b>un cadre bienveillant</b>. Il permet aux jeunes d’apprendre et d’aider les autres, pour gagner en confiance et ouvrir le champs des possibles.
+📅 Le jeudi, de 17h à 19h, à la [Maison Pour Tous Louis Feuillade](https://www.montpellier.fr/structure/1788/240-maison-pour-tous-louis-feuillade-structure.htm) (public primaires + collégien.ne.s). <br>
+📅 Le vendredi, de 17h à 19h, à la [médiathèque Pierresvives](https://pierresvives.herault.fr/663-horaires-d-ouverture.htm) (public lycéen.ne.s).
+📅 Le dimanche, de 10h30 à 12h30, à la [association ASSMR34](https://www.helloasso.com/associations/assamr34) (public primaires + collégien.ne.s).
+🎯 Le <b>soutien scolaire</b> est l'occasion de préparer sereinement son année dans <b>un cadre bienveillant</b>. Il permet aux jeunes d’apprendre et de s'entraider, pour gagner en confiance en soi et ouvrir le champs des possibles.
 
-## Les avantages de M&M
+## Les avantages de Maths et Maryam
 
 - <b>Un accompagnement gratuit, ludique et efficace</b> alliant apprentissage, culture et sport, adapté aux jeunes.
 - Des supports et [exercices pour tous les niveaux](https://www.mathsetmaryam.fr/c/maths/).
