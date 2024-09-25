@@ -57,9 +57,9 @@ Métholodogie, Orientation, etc.
 
 ## Emploi du temps 2024-2025
 
-📅 Le jeudi, de 17h à 19h, à la [Maison Pour Tous Louis Feuillade](https://www.montpellier.fr/structure/1788/240-maison-pour-tous-louis-feuillade-structure.htm) (public primaires + collégien.ne.s). <br>
-📅 Le vendredi, de 17h à 19h, à la [médiathèque Pierresvives](https://pierresvives.herault.fr/663-horaires-d-ouverture.htm) (public lycéen.ne.s).
-📅 Le dimanche, de 10h30 à 12h30, à la [association ASSMR34](https://www.helloasso.com/associations/assamr34) (public primaires + collégien.ne.s).
+📅 Le jeudi de 17h à 19h, à la [Maison Pour Tous Louis Feuillade](https://www.montpellier.fr/structure/1788/240-maison-pour-tous-louis-feuillade-structure.htm) (public collège et primaire). <br>
+📅 Le vendredi de 17h à 19h, à la [médiathèque Pierresvives](https://pierresvives.herault.fr/663-horaires-d-ouverture.htm) (public lycée). <br>
+📅 Le dimanche de 10h30 à 12h30, à l'[association ASSMR34](https://www.helloasso.com/associations/assamr34) (public collège et primaire). <br>
 🎯 Le <b>soutien scolaire</b> est l'occasion de préparer sereinement son année dans <b>un cadre bienveillant</b>. Il permet aux jeunes d’apprendre et de s'entraider, pour gagner en confiance en soi et ouvrir le champs des possibles.
 
 ## Les avantages de Maths et Maryam
@@ -79,7 +79,7 @@ Les stages et le soutien scolaire sont gratuits pour les élèves tuteurs, à pr
 {{< /spoiler >}}
 
 {{< spoiler text="Comment s'inscrire?" >}}
-Pour les mineurs souhaitant participer aux activités et sorties, complétez et signez notre {{% staticref "u/Adhesion.pdf" %}}demande d'adhésion à l'association M&M{{% /staticref %}} auprès de Morgann ou Michel.
+Pour les mineurs souhaitant participer aux activités et sorties, complétez et signez notre {{% staticref "u/Adhesion.pdf" %}}demande d'adhésion à l'association{{% /staticref %}} auprès de Morgann ou Michel.
 {{< /spoiler >}}
 
 {{< spoiler text="Que dois-je apporter?" >}}

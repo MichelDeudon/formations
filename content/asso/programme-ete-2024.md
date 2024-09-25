@@ -25,7 +25,7 @@ Agenda des activités et sorties à Montpellier.
 
 ## 🎵 Stage de Roller Dance
 
-📍 [Esplanade de l'egalité](https://g.page/r/CV0JpobxDzTwEBM/review), devant la médiathèque Pierresvives, 34080 Montpellier. <br>
+📍 [Esplanade de l'egalité](https://g.page/r/CV0JpobxDzTwEBM/review), devant la médiathèque Pierresvives. <br>
 📅 Les vendredi 12, 19, 26 juillet et 9, 16, 23 et 30 août 2024. <br>
 🕕 De 18h30 à 20h.  <br>
 
@@ -33,7 +33,7 @@ Agenda des activités et sorties à Montpellier.
 
 ## 📚 Stage de Pré Rentrée
 
-📍 Dans les locaux de l'[association ASSMR34](https://www.helloasso.com/associations/assamr34) et à la [médiathèque Pierresvives](https://pierresvives.herault.fr/663-horaires-d-ouverture.htm), 34080 Montpellier. <br>
+📍 Dans les locaux de l'[association ASSMR34](https://www.helloasso.com/associations/assamr34) et à la [médiathèque Pierresvives](https://pierresvives.herault.fr/663-horaires-d-ouverture.htm). <br>
 📅 Du mardi 27 août au vendredi 30 août 2024. <br>
 🕕 De 17h00 à 20h.  <br>
 
@@ -67,7 +67,7 @@ Les activités et sorties sont soit gratuites, soit à prix libres ou réduits. 
 {{< /spoiler >}}
 
 {{< spoiler text="Comment s'inscrire?" >}}
-Pour les mineurs souhaitant participer aux activités et sorties, complétez et signez notre {{% staticref "u/Adhesion.pdf" %}}demande d'adhésion à l'association M&M{{% /staticref %}} auprès de Morgann ou Michel.
+Pour les mineurs souhaitant participer aux activités et sorties, complétez et signez notre {{% staticref "u/Adhesion.pdf" %}}demande d'adhésion à l'association{{% /staticref %}} auprès de Morgann ou Michel.
 {{< /spoiler >}}
 
 {{< spoiler text="Que dois-je apporter?" >}}
