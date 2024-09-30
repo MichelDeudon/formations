@@ -37,10 +37,7 @@ education:
     - course: Brevet d'Initiation Aéronautique
       institution: Aéroclub de l'Hérault
       year:
-    - course: Brevet National de Sécurité et de Sauvetage Aquatique
-      institution: La Croix Rouge
-      year:
-    - course: PSC, PSE1 et PSE2, OPR
+    - course: Brevet National de Sécurité et de Sauvetage Aquatique, PSC1, PSE1, PSE2 et OPR
       institution: La Croix Rouge
       year:
 

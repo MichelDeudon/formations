@@ -25,15 +25,12 @@ organizations:
 bio: Short bio.
 
 interests:
-  - Ecologie
+  - Educ pop
   - Histoire
-  - Littérature
+  - Théàtre
 
 education:
   courses:
-    - course: PSC1
-      institution: Protection Civile
-      year: 2023
     - course: CPJEPS
       institution: MUC Omnisports
       year: 2023
@@ -62,4 +59,4 @@ user_groups:
   - Mentors
 ---
 
-Bonjour! Je m'appelle Morgann, je suis née à Montpellier et j'ai grandi dans l'Hérault 🌺. J'ai une licence d'histoire de l'université [Paul Valéry Montpellier 3](https://www.univ-montp3.fr/) et j'enseigne à la [médiathèque Pierresvives](https://pierresvives.herault.fr/), l'association ASSAMR34 et l'association GSC, l'[anglais](https://www.mathsetmaryam.fr/c/english/), le francais et l'histoire-géo. J'ai travaillé comme animatrice socio-culturelle dans le milieu associatif et en périscolaire. Depuis deux ans, j'ai rejoint le [programme KAPS](https://afev.org/actions/colocation-solidaire) de l'[AFEV](https://afev.org/) et je suis activement impliquée dans des actions d'éducation populaire.
+Bonjour! Je m'appelle Morgann, je suis née à Montpellier et j'ai grandi dans l'Hérault 🦩. J'ai une licence d'histoire de l'université [Paul Valéry Montpellier 3](https://www.univ-montp3.fr/) et j'enseigne à la [médiathèque Pierresvives](https://pierresvives.herault.fr/), l'association ASSAMR34 et l'association GSC, l'[anglais](https://www.mathsetmaryam.fr/c/english/), le francais et l'histoire-géo. J'ai travaillé comme animatrice socio-culturelle dans le milieu associatif et en périscolaire. Depuis deux ans, j'ai rejoint le [programme KAPS](https://afev.org/actions/colocation-solidaire) de l'[AFEV](https://afev.org/) et je suis activement impliquée dans des actions d'éducation populaire.
