@@ -5,13 +5,13 @@ widget: featurette
 weight: 60
 
 feature:
-- name: 21+
-  description: Elèves-tuteurs
-  icon: chart-line
-  icon_pack: fas
-- name: 6+
+- name: 7+
   description: Mentors
   icon: user-graduate
+  icon_pack: fas
+- name: 28+
+  description: Elèves-tuteurs
+  icon: chart-line
   icon_pack: fas
 - name: 200+
   description: Heures de soutien scolaire à Pierresvives
