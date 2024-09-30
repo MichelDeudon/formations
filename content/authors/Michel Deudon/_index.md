@@ -22,23 +22,20 @@ bio: Mes intérêts de recherche incluent l'écologie, la psychologie et l'appre
 
 interests:
   - Enseignement
+  - Arts et Sciences
   - Roller Danse
-  - Sciences
 
 education:
   courses:
     - course: MBA
       institution: Collège des Ingénieurs
       year: 2021
-    - course: Master en science des données
+    - course: Master 2 en science des données
       institution: Télécom Paris et ENS Cachan
       year: 2019
-    - course: Master en maths appliqués
+    - course: Master 1 en maths appliqués
       institution: Ecole Polytechnique
-      year: 2014 - 2017
-    - course: Prépa Physique Chimie
-      institution: Lycée Pasteur
-      year: 2012 - 2014
+      year: 2017
 
 # Social/Academic Networking
 social:
@@ -50,7 +47,7 @@ social:
     link: 'tel:0613835412'
   - icon: github
     icon_pack: fab
-    link: https://framagit.org/MichelDeudon
+    link: https://framagit.org/users/MichelDeudon/projects
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=p4RP5SoAAAAJ&hl=fr
@@ -71,4 +68,4 @@ user_groups:
   - Mentors
 ---
 
-Bonjour! Je m'appelle Michel, je suis né à New York 🗽. J'enseigne à l'université [Paul Valéry Montpellier 3](https://www.univ-montp3.fr/) et à la [médiathèque Pierresvives](https://pierresvives.herault.fr/), les [maths](https://www.mathsetmaryam.fr/c/maths/), la [physique-chimie](https://www.mathsetmaryam.fr/c/physique-chimie/) et l'[anglais](https://www.mathsetmaryam.fr/c/english/). J'ai travaillé comme ingénieur-chercheur et data scientist à l'université de Tokyo, Element AI (Londres) et Vinted (Berlin). J'ai mentoré des doctorants à la NASA en 2019 et co-fondé le binet Soupe en 2015, l'association [Local Seasonal](https://www.mathsetmaryam.fr/asso/local-seasonal/) en 2020 pour célébrer la diversité au fil des saisons. Depuis deux ans, j'anime des ateliers préventifs [santé écrans](https://www.mathsetmaryam.fr/c/numerique-ecologie/prevention-sante-ecrans/) et des cours collectifs de [roller danse](https://www.mathsetmaryam.fr/c/roller/).
+Bonjour! Je m'appelle Michel, je suis né à New York 🗽. J'enseigne à l'université [Paul Valéry Montpellier 3](https://www.univ-montp3.fr/) et à la [médiathèque Pierresvives](https://pierresvives.herault.fr/), les [maths](https://www.mathsetmaryam.fr/c/maths/), la [physique-chimie](https://www.mathsetmaryam.fr/c/physique-chimie/) et l'[anglais](https://www.mathsetmaryam.fr/c/english/). J'ai travaillé comme data scientist à l'université de Tokyo, Element AI (Londres), Vinted (Berlin) et j'ai mentoré des doctorants à la NASA en 2019. J'ai co-fondé le Binet Soupe en 2015 et l'association [Local Seasonal](https://www.mathsetmaryam.fr/asso/local-seasonal/) en 2020 pour célébrer la biodiversité au fil des saisons. Depuis deux ans, j'anime des [ateliers préventifs santé écrans](https://www.mathsetmaryam.fr/c/numerique-ecologie/prevention-sante-ecrans/) et des [cours collectifs de roller danse](https://www.mathsetmaryam.fr/c/roller/).
