@@ -59,7 +59,7 @@ Métholodogie, Orientation, etc.
 
 ## Emploi du temps 2024-2025
 
-📅 <b>Jeudi</b> de 17h à 19h, à la [Maison Pour Tous Louis Feuillade](https://www.montpellier.fr/structure/1788/240-maison-pour-tous-louis-feuillade-structure.htm) (collège et primaire). <br>
+📅 <b>Jeudi</b> de 17h à 19h, à la [Maison Pour Tous L. Feuillade](https://www.montpellier.fr/structure/1788/240-maison-pour-tous-louis-feuillade-structure.htm) (collège et primaire). <br>
 📅 <b>Vendredi</b> de 17h à 19h, à la [médiathèque Pierresvives](https://pierresvives.herault.fr/663-horaires-d-ouverture.htm) (lycée). <br>
 📅 <b>Dimanche</b> de 10h30 à 12h30, à l'[asso ASSMR34](https://www.helloasso.com/associations/assamr34) (collège et primaire). <br>
 📅 <b>Dimanche</b> de 14h30 à 16h30, à l'[asso ASSMR34](https://www.helloasso.com/associations/assamr34) (lycée). <br>
