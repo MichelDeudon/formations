@@ -34,6 +34,8 @@ Pour bien préparer son année.
 
 <!-- {{< figure src="assos/lutte-exclusions.png" caption="Partenaires associatifs et institutionnels.">}} -->
 
+🎯 Le <b>soutien scolaire</b> est l'occasion de préparer sereinement son année dans <b>un cadre bienveillant</b>. Il permet aux jeunes d’apprendre et de s'entraider, pour gagner en confiance en soi et ouvrir le champs des possibles.
+
 ## Public
 
 De la primaire au collège, lycée et études supérieures.
@@ -57,10 +59,10 @@ Métholodogie, Orientation, etc.
 
 ## Emploi du temps 2024-2025
 
-📅 Le jeudi de 17h à 19h, à la [Maison Pour Tous Louis Feuillade](https://www.montpellier.fr/structure/1788/240-maison-pour-tous-louis-feuillade-structure.htm) (public collège et primaire). <br>
-📅 Le vendredi de 17h à 19h, à la [médiathèque Pierresvives](https://pierresvives.herault.fr/663-horaires-d-ouverture.htm) (public lycée). <br>
-📅 Le dimanche de 10h30 à 12h30, à l'[association ASSMR34](https://www.helloasso.com/associations/assamr34) (public collège et primaire). <br>
-🎯 Le <b>soutien scolaire</b> est l'occasion de préparer sereinement son année dans <b>un cadre bienveillant</b>. Il permet aux jeunes d’apprendre et de s'entraider, pour gagner en confiance en soi et ouvrir le champs des possibles.
+📅 <b>Jeudi</b> de 17h à 19h, à la [Maison Pour Tous Louis Feuillade](https://www.montpellier.fr/structure/1788/240-maison-pour-tous-louis-feuillade-structure.htm) (collège et primaire). <br>
+📅 <b>Vendredi</b> de 17h à 19h, à la [médiathèque Pierresvives](https://pierresvives.herault.fr/663-horaires-d-ouverture.htm) (lycée). <br>
+📅 <b>Dimanche</b> de 10h30 à 12h30, à l'[asso ASSMR34](https://www.helloasso.com/associations/assamr34) (collège et primaire). <br>
+📅 <b>Dimanche</b> de 14h30 à 16h30, à l'[asso ASSMR34](https://www.helloasso.com/associations/assamr34) (lycée). <br>
 
 ## Les avantages de Maths et Maryam
 

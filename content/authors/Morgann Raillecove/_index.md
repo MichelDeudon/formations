@@ -27,7 +27,7 @@ bio: Short bio.
 interests:
   - Educ pop
   - Histoire
-  - Théàtre
+  - Théâtre
 
 education:
   courses:

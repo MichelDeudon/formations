@@ -12,3 +12,7 @@ Le [soutien scolaire](https://www.mathsetmaryam.fr/asso/soutien-scolaire-montpel
 Les [entrainements de roller danse](https://www.mathsetmaryam.fr/c/roller/) et [sorties à la patinoire Vegapolis](https://www.vegapolis.fr/pistes-2/) reprendront après les épisodes cévenoles (pluie, orages), en <b>novembre/décembre</b> pour les adhérents de l'association.
 
 {{% cta cta_link="./u/Adhesion.pdf" cta_text="Télécharger notre feuille d'adhésion ✅" %}}
+
+Vous pouvez aussi voter pour <b>3 à 5 projets</b> ce mois-ci sur le site [participer.montpellier.fr](https://participer.montpellier.fr/bp) si vous avez <b>11 ans ou plus</b>. 
+
+{{% cta cta_link="./u/Roller-Dance-BP.pdf" cta_text="Télécharger notre tuto pour voter au BP ✅" %}}
