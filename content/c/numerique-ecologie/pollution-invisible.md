@@ -31,7 +31,7 @@ Les <b>impacts sociaux</b> sont eux liés à la transformation de nos modes de v
 
 ### Impacts environnementaux
 
-{{< figure src="numeco/infographie-Ademe.png" caption="Infographie de l'ADEME (2022). [Numérique : quel impact environnemental?](https://infos.ademe.fr/magazine-avril-2022/faits-et-chiffres/numerique-quel-impact-environnemental/) <br> Voir aussi l'[outil de calcul des usages du numérique](https://agirpourlatransition.ademe.fr/particuliers/bureau/numerique/calculez-lempreinte-carbone-usages-numeriques).">}}
+{{< figure src="numeco/infographie-Ademe.png" caption="Infographie de l'ADEME (2022). [Numérique : quel impact environnemental?](https://infos.ademe.fr/magazine-avril-2022/faits-et-chiffres/numerique-quel-impact-environnemental/) <br> Voir aussi l'infographie [le smartphone, une relation compliquée](https://multimedia.ademe.fr/infographies/smartphone-version-ademe/), [pollution numérique : du clic au déclic](https://archives.qqf.fr/infographie/69/pollution-numerique-du-clic-au-declic) et l'[outil de calcul des usages du numérique](https://agirpourlatransition.ademe.fr/particuliers/bureau/numerique/calculez-lempreinte-carbone-usages-numeriques).">}}
 
 La notion de <b>sac à dos écologique</b> fait référence au fait qu'il fait 500 fois le poids d'un smartphone en matière première pour le fabriquer (le taux d'extraction du Cuivre varie de 0.3 à 2%, celui du Lithium de 0.05% à 0.15%, etc). Ceci produit d'importantes quantités de déchets et représente des sources de pollution de l'environnement (eau, air, sols).
 

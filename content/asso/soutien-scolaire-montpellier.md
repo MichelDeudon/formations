@@ -60,19 +60,19 @@ Métholodogie, Orientation, etc.
 ## Emploi du temps 2024-2025
 
 📅 <b>Jeudi</b> de 17h à 19h, à la [Maison Pour Tous L. Feuillade](https://www.montpellier.fr/structure/1788/240-maison-pour-tous-louis-feuillade-structure.htm) (collège et primaire). <br>
-📅 <b>Vendredi</b> de 17h à 19h, à la [médiathèque Pierresvives](https://pierresvives.herault.fr/663-horaires-d-ouverture.htm) (lycée). <br>
-📅 <b>Dimanche</b> de 10h30 à 12h30, à l'[asso ASSMR34](https://www.helloasso.com/associations/assamr34) (collège et primaire). <br>
-📅 <b>Dimanche</b> de 14h30 à 16h30, à l'[asso ASSMR34](https://www.helloasso.com/associations/assamr34) (lycée). <br>
+📅 <b>Vendredi</b> de 17h à 19h, à la [Médiathèque Pierresvives](https://pierresvives.herault.fr/663-horaires-d-ouverture.htm) (lycée). <br>
+📅 <b>Dimanche</b> de 10h30 à 12h30, à l'[Asso ASSMR34](https://www.helloasso.com/associations/assamr34) (collège et primaire). <br>
+📅 <b>Dimanche</b> de 14h30 à 16h30, à l'[Asso ASSMR34](https://www.helloasso.com/associations/assamr34) (lycée). <br>
 
 ## Les avantages de Maths et Maryam
 
-- <b>Un accompagnement gratuit, ludique et efficace</b> alliant apprentissage, culture et sport, adapté aux jeunes.
+- <b>Un accompagnement gratuit, ludique et efficace</b> alliant apprentissage, culture et [sport](https://www.mathsetmaryam.fr/c/roller/notions-scientifiques/), adapté aux jeunes.
 - Des supports et [exercices pour tous les niveaux](https://www.mathsetmaryam.fr/c/maths/).
 - Des bilans et un suivi pédagogique personnalisé.
 
 ## Tutorat
 
-L'objectif du <b>tutorat</b> est d'encourager l'<b>entraide</b> et l'idée d'<b>enseigner pour apprendre</b> pour perenisser l'action de soutien scolaire durablement. Le soutien scolaire et le tutorat visent à donner plus d'autonomie aux jeunes, en leur permettant, à leur tour, de transmettre ce qu'ils et elles ont appris.
+L'objectif du <b>tutorat</b> est d'encourager l'<b>entraide</b> et l'idée d'<b>enseigner pour apprendre</b> pour perenisser l'action de soutien scolaire durablement. Le soutien scolaire et le programme de tutorat visent à donner plus d'autonomie aux jeunes, en leur permettant, à leur tour, de transmettre ce qu'ils et elles ont appris.
 
 ## FAQ
 

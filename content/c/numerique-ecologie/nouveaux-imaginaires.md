@@ -19,15 +19,19 @@ Cultiver le pouvoir des récits pour unir et encapaciter.
 
 ## Pouvoir de la narration
 
-<b>Alain Damasio</b>, auteur de science fiction, témoigne sur les réseaux sociaux, dans un interview pour le média indépendant Blast, le 12 mai 2023, intitulé [Comment vivre et lutter face au capitalisme de surveillance ?](https://www.blast-info.fr/emissions/2023/comment-vivre-et-lutter-face-au-capitalisme-de-surveillance-n6ikLh60SOONUvL90mXXTg) Il y explique comment sa vision a évolué avec le temps, et le rôle des artistes, de la culture, et des nouveaux imaginaires pour embarquer vers une économie durable et inclusive.
+<b>Alain Damasio</b>, auteur de science fiction, témoigne sur les réseaux sociaux, dans un interview pour le média indépendant Blast, le 12 mai 2023, intitulé [Comment vivre et lutter face au capitalisme de surveillance ?](https://www.blast-info.fr/emissions/2023/comment-vivre-et-lutter-face-au-capitalisme-de-surveillance-n6ikLh60SOONUvL90mXXTg). La même année, Boum publiait son 6e [Guide d’Autodéfense Numérique](https://guide.boum.org/pr%C3%A9face-%C3%A0-cette-%C3%A9dition.html) que les plus aguerris peuvent consulter en ligne (cas d'usages et outils pour naviguer sous les radars). Alain Damasio explique comment sa vision a évolué avec le temps, et le rôle des artistes, de la culture, et des nouveaux imaginaires pour embarquer vers une économie durable et inclusive.
 
-{{< figure src="numeco/incendies.png" caption="La dématérialisation, un mythe? Voir aussi Florence Rodhain. [La nouvelle religion du numérique: le numérique est-il écologique?](https://www.cairn.info/la-nouvelle-religion-du-numerique--9782376872924.htm) Éditions EMS, 2019.">}}
+{{< figure src="numeco/incendies.png" caption="La dématérialisation, un mythe? Florence Rodhain déconstruit des idées reçues dans [La nouvelle religion du numérique: le numérique est-il écologique?](https://www.cairn.info/la-nouvelle-religion-du-numerique--9782376872924.htm) aux éditions EMS, 2019.">}}
 
 Les étudiant·es du [Master 2 Information-Communication](https://itic.www.univ-montp3.fr/fr/formation/masters/masters-info-com-cno-compaq-cpo) de l'Université [Paul-Valéry Montpellier 3](https://www.univ-montp3.fr/) ont également demandé à différentes générations de décrire le Futur des Réseaux Sociaux en un mot. Il en ressort: <i>invasion</i>, <i>danger</i>, <i>malsain</i>, <i>désastreux</i>, <i>dramatique</i> et <i>isolement</i>.
 
 Pourtant, ce sont bien les mots et le langage qui peuvent nous unir et encapaciter comme conclut Kate Jeffery, professeure de neurosciences à UCL et scientific lead d'Exctinction Rebellion dans son talk de 2019 sur [la psychologie de l'inaction climatique](https://www.ucl.ac.uk/play/ucl-talks/ucl-minds-lunch-hour-lectures/lunch-hour-lecture-psychology-climate-inaction) (en anglais).
 
 {{< youtube -R6YMWb0vUA>}}
+
+L'interview suivant d'Amélie Nothomb publié le 21 août 2024 est également inspirant. Avec humour, intelligence et sincérité, la romancière belge se livre aux questions de Brut. <i>"C'est pas par mépris, j'ai tout de suite senti une indifférence totale vis à vis de cet univers là [le numérique, les réseaux sociaux]."</i> (minute 12:24).
+
+{{< youtube PShmkZYydI8>}}
 
 ## Portraits de désert'heureuses
 

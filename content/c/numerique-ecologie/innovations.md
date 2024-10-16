@@ -57,4 +57,4 @@ La recherche ouverte permet de <b>valoriser des données</b> et <b>produire des 
 
 Soutenir les initiatives locales, frugales, solidaires et sociales, la biodiversité 🌸, la low-tech, l'agroécologie, les médias indépendants... c'est <b>agir localement, à son échelle</b>, pour la planète.
 
-Et vous, comment envisagez-vous l’<b>engagement citoyen</b> et l’<b>action collective</b>?
+Et vous, comment envisagez-vous l’<b>action citoyenne et collective</b>?

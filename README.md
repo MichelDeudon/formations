@@ -1,9 +1,9 @@
-# Personal Website
+# M&M Website
 
 <p align="center">
   <!-- Website -->
   <a href="https://michel-deudon.netlify.app/en/">
-    <img src="https://img.shields.io/website?label=Website&style=flat-square&url=https://michel-deudon.netlify.app/en/" alt="website">
+    <img src="https://img.shields.io/website?label=Website&style=flat-square&url=https://www.mathsetmaryam.fr/" alt="website">
   </a>
   <!-- License -->
   <a href="https://creativecommons.org/licenses/by-nc/4.0/">
@@ -11,13 +11,9 @@
   </a>
 </p>
 
-## French version
+## URL
 - [https://michel-deudon.netlify.app/](https://michel-deudon.netlify.app/)
-- [https://www.mtpcours.fr/](https://www.mtpcours.fr/)
-
-## English version
-- [https://michel-deudon.netlify.app/](https://michel-deudon.netlify.app/en/)
-- [https://www.mtpcours.fr/](https://www.mtpcours.fr/en/)
+- [https://www.mathsetmaryam.fr/](https://www.mathsetmaryam.fr/)
 
 ## Credits
 - Website created using the open source [**Hugo Online Course Template**](https://github.com/wowchemy/starter-hugo-online-course)
