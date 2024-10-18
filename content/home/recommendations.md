@@ -9,8 +9,12 @@ design:
   flip_alt_rows: true # Flip alternate rows when in Showcase view?
 ---
 
+> _Quelques mots pour remercier infiniment l'animatrice Morgann, et pour vous dire aussi que je n'ai jamais vu mes enfants très motivés pour participer à des activités comme cette fois ci et tout cela grâce à Morgann, avec sa patience, sa compréhension, sa gentillesse et surtout sa relation éducative professionnelle personnalisée avec les enfants... Merci Morgann 🫶🫶_ - Amina, mère de Nesrine, Younes, Inès et Yassine (2024).
+
 > _Salut, sache que si tu passes par là, tu tomberas sur des merveilleuses personnes, avec lesquels tu vas grandir, apprendre, qui vont te soutenir, qui te feront sentir bien et assez pour pouvoir évoluer et par dessus tout, progresser. S'il y avait un mot pour décrire cette magnifique association, ça serait le mot progresser car avec c’est certain.
 Un grand merci à Michel, et j’espère que son projet verra la plus grande lumière. :)_ - Abrar, étudiante au Lycée Agricole Honoré De Balzac (2023).
+
+> _Merci beaucoup Morgann pour ton aide, franchement je te remercie du fond du coeur. Tu es une personne en or, très gentille, intelligente, il y a trop de choses à dire. Je me débrouille de mieux en mieux surtout en français. J'ai pris la relève, t'as vu ça, grâce à toi, tu m'as appris beaucoup de choses, tu m'as vraiment aidé, franchement franchement sans toi je ne sais pas comment j'aurais fait. Profite bien de tes vacances au maximum 💕._ - Manal, étudiante au collège des Escholiers de la Mosson (2023).
 
 > _La météo émotionnelle du jour, c'est super bien qu'on puisse nous demander ça. On a tendance à penser que l'on est peu proche entre l'encadrant pédagogique et étudiant, c'est bien de réduire cette pseudo distance!_ - Thomas, étudiant en licence MIASHS à l'université Paul Valéry (2023).
 

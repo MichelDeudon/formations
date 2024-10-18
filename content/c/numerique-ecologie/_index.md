@@ -52,6 +52,16 @@ Le numérique, talon d'Achille ou levier de la transition écologique ?
 
 {{< list_children >}}
 
+## Témoignages
+
+{{< figure src="numeco/Garance-Merle-dessin.png" caption="Dessin de Garance Merle, étudiante en Licence 3 Études Théâtrales.">}}
+
+> _Étant jeune, le numérique est quelque chose qui fait partie intégrante de mon quotidien. Ce cours m’a permis de prendre conscience qu'à notre échelle on pollue plus qu’on le pense et qu'on peut remédier à ça en ne changeant pas grand-chose dans notre quotidien. En général on dit “un petit pas pour l’Homme un grand pas pour l’humanité”, mais j’ai envie de dire “un petit pas fait par l’Homme est un grand pas pour la protection de notre planète”_. - Camille, étudiante en Licence 2 Sciences du langage, parcours Langage, Média, Communication.
+
+> _Ce qui m’a le plus intéressée c’était la partie sur l’histoire du numérique, la pollution invisible, la prévention santé écran. J’ai beaucoup appris concernant le numérique, son histoire, les appareils, les différents acteurs, médias. En ce qui concerne la pollution invisible j’ai beaucoup appris sur les impacts. Les impacts environnementaux, les impacts sanitaires et enfin l’impact social._ - Océane, étudiante en Licence 2 Psychologie.
+
+> _Ce cours m’a touché car il est assez proche de notre génération et qu’on ne se rend pas forcément compte de l’impact que nous pouvons avoir. Par exemple avec nos téléphones, c’est une pollution invisible, on a pu étudier ceci. Le numérique pollue l’environnement mais aussi nous, les écrans dont mauvais pour nos yeux, et certaines applications peuvent nous renfermer du monde social. Des lois ont même été votées. Mais tout n’est pas que négatif, il existe notamment des projets pour protéger, réparer et même lâcher prise etc.. De plus, les ateliers proposés ont permis d’apprendre autrement que devant un écran._ - Jeanne, étudiante en Licence 2 Arts plastiques.
+
 ## Bibliographie indicative
 
 > [Sobriété Numérique : pourquoi, pourquoi pas et comment ?](https://atecopolmtp.hypotheses.org/352) Séminaire Atecopol Montpellier avec Françoise Berthoud, Ingénieure de Recherche CNRS, le 14 mars 2024. Lien vers le [diaporama de la présentation](https://atecopolmtp.hypotheses.org/files/2024/03/Sobriete-Numerique-atecopol-montpellier-mars-2024.pdf).
@@ -77,17 +87,6 @@ Le numérique, talon d'Achille ou levier de la transition écologique ?
 > Karen Hao. [Training a single AI model can emit as much carbon as five cars in their lifetime.](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/) MIT Technology Review, 2019.
 
 > Pour un Réveil Écologique. [Guide anti greenwashing](https://pour-un-reveil-ecologique.org/fr/les-entreprises-nous-repondent/#guide-anti-greenwashing), 2017.
-
-## Témoignages
-
-{{< figure src="numeco/Garance-Merle-dessin.png" caption="Dessin de Garance Merle, étudiante en Licence 3 Études Théâtrales.">}}
-
-> _Étant jeune, le numérique est quelque chose qui fait partie intégrante de mon quotidien. Ce cours m’a permis de prendre conscience qu'à notre échelle on pollue plus qu’on le pense et qu'on peut remédier à ça en ne changeant pas grand-chose dans notre quotidien. En général on dit “un petit pas pour l’Homme un grand pas pour l’humanité”, mais j’ai envie de dire “un petit pas fait par l’Homme est un grand pas pour la protection de notre planète”_. - Camille, étudiante en Licence 2 Sciences du langage, parcours Langage, Média, Communication.
-
-> _Ce qui m’a le plus intéressée c’était la partie sur l’histoire du numérique, la pollution invisible, la prévention santé écran. J’ai beaucoup appris concernant le numérique, son histoire, les appareils, les différents acteurs, médias. En ce qui concerne la pollution invisible j’ai beaucoup appris sur les impacts. Les impacts environnementaux, les impacts sanitaires et enfin l’impact social._ - Océane, étudiante en Licence 2 Psychologie.
-
-> _Ce cours m’a touché car il est assez proche de notre génération et qu’on ne se rend pas forcément compte de l’impact que nous pouvons avoir. Par exemple avec nos téléphones, c’est une pollution invisible, on a pu étudier ceci. Le numérique pollue l’environnement mais aussi nous, les écrans dont mauvais pour nos yeux, et certaines applications peuvent nous renfermer du monde social. Des lois ont même été votées. Mais tout n’est pas que négatif, il existe notamment des projets pour protéger, réparer et même lâcher prise etc.. De plus, les ateliers proposés ont permis d’apprendre autrement que devant un écran._ - Jeanne, étudiante en Licence 2 Arts plastiques.
-
 
 ## FAQs
 
