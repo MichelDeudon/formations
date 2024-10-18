@@ -9,7 +9,7 @@ design:
   flip_alt_rows: true # Flip alternate rows when in Showcase view?
 ---
 
-> _Quelques mots pour remercier infiniment l'animatrice Morgann, et pour vous dire aussi que je n'ai jamais vu mes enfants très motivés pour participer à des activités comme cette fois ci et tout cela grâce à Morgann, avec sa patience, sa compréhension, sa gentillesse et surtout sa relation éducative professionnelle personnalisée avec les enfants... Merci Morgann 🫶🫶_ - Amina, mère de Nesrine, Younes, Inès et Yassine (2024).
+> _Quelques mots pour remercier infiniment l'animatrice Morgann, et pour vous dire aussi que je n'ai jamais vu mes enfants très motivés pour participer à des activités comme cette fois ci et tout cela grâce à Morgann, avec sa patience, sa compréhension, sa gentillesse et surtout sa relation éducative professionnelle personnalisée avec les enfants... Merci Morgann ❤_ - Amina, mère de Nesrine, Younes, Inès et Yassine (2024).
 
 > _Salut, sache que si tu passes par là, tu tomberas sur des merveilleuses personnes, avec lesquels tu vas grandir, apprendre, qui vont te soutenir, qui te feront sentir bien et assez pour pouvoir évoluer et par dessus tout, progresser. S'il y avait un mot pour décrire cette magnifique association, ça serait le mot progresser car avec c’est certain.
 Un grand merci à Michel, et j’espère que son projet verra la plus grande lumière. :)_ - Abrar, étudiante au Lycée Agricole Honoré De Balzac (2023).
