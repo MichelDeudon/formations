@@ -23,6 +23,8 @@ Avec l'association ASSAMR34
 
 Le mercedi 30 octobre 2024, nous avons organisé une sortie à la [patinoire Vegapolis](https://www.vegapolis.fr/) avec 12 enfants des associations ASSAMR34 et Maths et Maryam, et 3 bénévoles. 
 
+{{< figure src="roller/en-avant-les-patins.png" caption="Affiche pour la sortie.">}} 
+
 Merci à l'équipe de la patinoire pour l'accueil avec les enfants et à Antea, en master Droits des Enfants, qui nous a accompagnés !
 
 ## Retour sur la sortie
