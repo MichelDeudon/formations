@@ -26,8 +26,8 @@ Le <b>budget participatif</b> est à la mode en France et dans les territoires e
 L'association Maths et Maryam est heureuse d'avoir proposé un projet à la Mosson et compter plus de 100 <i>votes organiques</i>. Notre [projet de roller danse](https://participer.montpellier.fr/budget-participatif/roller-dance-montpellier) a fini 2e dans la thématique santé derrière le projet d'[aménagement du relais psychologiques parent-enfant La Bobine](https://participer.montpellier.fr/budget-participatif/amenagement-du-relais-psychologique-parent-enfant-la-bobine) de l'association L'Appart, et 3e dans le quartier de la Mosson après le projet [Arlette ton cirque](https://participer.montpellier.fr/budget-participatif/arlette-ton-cirque) du collectif Lanceurs d'Arlettes et le projet [Ensemble.s](https://participer.montpellier.fr/budget-participatif/ensembles) de l'asso Créatures Créatrices. Merci à tous les porteurs et porteuses de projet et à toutes les personnes qui ont voté au budget participatif!
 
 |  Quartier | Projet | Asso | Montant | Votes organiques |
-|   | | | (en €) | et 👍 (+ 300) |
 |---|---|---|---|---|
+|   | | | (en €) | et 👍 (+ 300) |
 | Mosson | Arlette ton cirque | Lanceur d'Arlettes | 20.000 | 513 |
 | Toute la ville | Classes actives | MUC | 30.000 | 224 |
 | Centre | Vélobus | Le Relais | 23.400 | 173 |
