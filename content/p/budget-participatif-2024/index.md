@@ -1,6 +1,6 @@
 ---
 title: Le projet Roller Dance Mosson au budget participatif de Montpellier
-date: 2024-11-01
+date: 2024-10-21
 tags:
 - Jeunes
 - Roller
