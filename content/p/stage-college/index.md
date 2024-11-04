@@ -49,17 +49,15 @@ Chaque matinée, de 9h30 à 12h30, était découpée en plusieurs activités. No
 {{< figure src="maths/stage-college.jpg" caption="Travaux pratiques (couper un gâteau en 2, 4, 8 et 6) pour revoir les notions de fraction, d'angle, de bissectrice, de médiatrice, etc.">}}
 
 Nous avons réutilisé des exercices de l'association Sesamaths:
-* Exercices sur la <b>proportionnalité</b>: En [6e](https://manuel.sesamath.net/coll_docs/cah/valide/ds_chapitre_2013_6D1.pdf), en [5e](https://manuel.sesamath.net/coll_docs/cmep/valide/kidimath_DS_5N5.pdf) et [en 4e](https://manuel.sesamath.net/coll_docs/cmep/valide/kidimath_DS_4N6.pdf).
-* Exercices sur les <b>angles</b>: En [6e](https://manuel.sesamath.net/coll_docs/cmep/valide/kidimath_DS_6M1.pdf), en [5e](https://manuel.sesamath.net/coll_docs/cmep/valide/kidimath_DS_5N5.pdf) et [en 4e](https://manuel.sesamath.net/coll_docs/cmep/valide/kidimath_DS_4G4.pdf) (trigonométrie).
+* Exercices sur la <b>proportionnalité</b>: En [6e](https://manuel.sesamath.net/coll_docs/cah/valide/ds_chapitre_2013_6D1.pdf), en [5e](https://manuel.sesamath.net/coll_docs/cmep/valide/kidimath_DS_5N5.pdf) et en [4e](https://manuel.sesamath.net/coll_docs/cmep/valide/kidimath_DS_4N6.pdf).
+* Exercices sur les <b>angles</b>: En [6e](https://manuel.sesamath.net/coll_docs/cmep/valide/kidimath_DS_6M1.pdf), en [5e](https://manuel.sesamath.net/coll_docs/cmep/valide/kidimath_DS_5N5.pdf) et en [4e](https://manuel.sesamath.net/coll_docs/cmep/valide/kidimath_DS_4G4.pdf) (trigonométrie).
 * Exercices sur les <b>fractions</b>: En [6e](https://manuel.sesamath.net/coll_docs/cah/valide/ds_chapitre_2013_6N5.pdf) et en [5e](https://manuel.sesamath.net/coll_docs/cmep/valide/kidimath_DS_5N2.pdf).
 * Exercices sur les <b>statistiques</b>: En [6e](https://manuel.sesamath.net/coll_docs/cah/valide/ds_chapitre_2013_6D2.pdf), en [5e](https://manuel.sesamath.net/coll_docs/cmep/valide/kidimath_DS_5N6.pdf) et en [4e](https://manuel.sesamath.net/coll_docs/cmep/valide/kidimath_DS_4N7.pdf).
 * Exercices sur les <b>aires et périmètres</b>: En [6e](https://manuel.sesamath.net/coll_docs/cah/valide/ds_chapitre_2013_6M2.pdf), en [5e](https://manuel.sesamath.net/coll_docs/cmep/valide/kidimath_DS_5G4.pdf) et en [4e](https://mathadoc.sesamath.net/Documents/college/4eme/4equat/d10equat.pdf) (calcul littéral).
-* Autres exercices en 6e: [Droites parallèles et perpendiculaires](https://manuel.sesamath.net/coll_docs/cah/valide/ds_chapitre_2013_6G2.pdf), [nombres entiers et opérations](https://manuel.sesamath.net/coll_docs/cmep/valide/kidimath_DS_6N2.pdf), [nombres décimaux](https://manuel.sesamath.net/coll_docs/cah/valide/ds_chapitre_2013_6N3.pdf), [distance et cercle](https://manuel.sesamath.net/coll_docs/cmep/valide/kidimath_DS_6G1.pdf), [triangles et quadrilatères](https://manuel.sesamath.net/coll_docs/cah/valide/ds_chapitre_2013_6G3.pdf), [espace](https://manuel.sesamath.net/coll_docs/cmep/valide/kidimath_DS_6G4.pdf) et [volumes](https://manuel.sesamath.net/coll_docs/cmep/valide/kidimath_DS_6M3.pdf).
+* Autres exercices en 6e: [Droites parallèles et perpendiculaires](https://manuel.sesamath.net/coll_docs/cah/valide/ds_chapitre_2013_6G2.pdf), [nombres entiers](https://manuel.sesamath.net/coll_docs/cmep/valide/kidimath_DS_6N2.pdf) et [nombres décimaux](https://manuel.sesamath.net/coll_docs/cah/valide/ds_chapitre_2013_6N3.pdf), [distance et cercle](https://manuel.sesamath.net/coll_docs/cmep/valide/kidimath_DS_6G1.pdf), [triangles et quadrilatères](https://manuel.sesamath.net/coll_docs/cah/valide/ds_chapitre_2013_6G3.pdf), [espace](https://manuel.sesamath.net/coll_docs/cmep/valide/kidimath_DS_6G4.pdf) et [volumes](https://manuel.sesamath.net/coll_docs/cmep/valide/kidimath_DS_6M3.pdf).
 * Autres exercices en 5e: [Prismes et cylindres](https://manuel.sesamath.net/coll_docs/cmep/valide/kidimath_DS_5G6.pdf).
 
-Nous avons aussi réutilisé des dictées du site <i>réussir à l'école</i>:
-* [https://www.reussiralecole.fr/dictee-5eme/](https://www.reussiralecole.fr/dictee-5eme/)
-* [https://www.reussiralecole.fr/dictee-6eme/](https://www.reussiralecole.fr/dictee-6eme/)
+Nous avons aussi réutilisé <b>des dictées</b> en [6e](https://www.reussiralecole.fr/dictee-5eme/) et en [5e](https://www.reussiralecole.fr/dictee-6eme/) du site <i>réussir à l'école</i>.
 
 <!--
 Autres liens utiles:

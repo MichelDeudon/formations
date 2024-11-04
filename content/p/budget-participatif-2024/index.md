@@ -26,14 +26,14 @@ Le <b>budget participatif</b> est à la mode en France et dans les territoires e
 L'association Maths et Maryam est heureuse d'avoir proposé un projet à la Mosson et de compter plus de 100 <i>votes organiques</i>. Notre [projet de roller danse](https://participer.montpellier.fr/budget-participatif/roller-dance-montpellier) a fini 2e dans la thématique santé derrière le projet d'[aménagement du relais psychologiques parent-enfant La Bobine](https://participer.montpellier.fr/budget-participatif/amenagement-du-relais-psychologique-parent-enfant-la-bobine) de l'association L'Appart, et 3e dans le quartier de la Mosson après le projet [Arlette ton cirque](https://participer.montpellier.fr/budget-participatif/arlette-ton-cirque) du collectif Lanceurs d'Arlettes et le projet [Ensemble.s](https://participer.montpellier.fr/budget-participatif/ensembles) de l'asso Créatures Créatrices. Merci à tous les porteurs et porteuses de projet et à toutes les personnes qui ont voté au budget participatif!
 
 |  Quartier | Projet | Asso | Montant | &nbsp; Votes organiques |
-|---|---|---|---|---|
-|   | | | (en €) | &nbsp; et 👍 (+ 300) |
+|---|---|---|:---:|:---:|
+|   | | | (en €) | et 👍 (+ 300) |
 | Mosson | [Arlette ton cirque](https://participer.montpellier.fr/budget-participatif/arlette-ton-cirque) | Lanceur d'Arlettes | 20.000 | 513 |
-| Toute la ville | [Classes actives](https://participer.montpellier.fr/budget-participatif/les-classes-actives-du-muc-lenergie-au-coeur-de-la-journee-scolaire) | MUC | 30.000 | 224 |
+| Toute la ville &nbsp; | [Classes actives](https://participer.montpellier.fr/budget-participatif/les-classes-actives-du-muc-lenergie-au-coeur-de-la-journee-scolaire) | MUC | 30.000 | 224 |
 | Centre | [Vélobus](https://participer.montpellier.fr/budget-participatif/un-velobus-dans-le-centre-ville-au-service-des-enfants-de-la-ville-et-de-la) | Le Relais | 23.400 | 173 |
-| Mosson | [Ensemble.s](https://participer.montpellier.fr/budget-participatif/ensembles) | Créatures Créatrices | 52.500 | 123 👍 |
-| Toute la ville | [Relais psy](https://participer.montpellier.fr/budget-participatif/amenagement-du-relais-psychologique-parent-enfant-la-bobine) | L’Appart | 24.600 | 123 |
-| Centre | [Parc de la Guirlande](https://participer.montpellier.fr/budget-participatif/materiel-mutualise-pour-faire-vivre-le-parc-de-la-guirlande) |  Ademass | 29.300 | 122 👍 |
+| Mosson | [Ensemble.s](https://participer.montpellier.fr/budget-participatif/ensembles) | Créatures Créatrices &nbsp; | 52.500 | 123 👍 |
+| Toute la ville &nbsp; | [Relais psy](https://participer.montpellier.fr/budget-participatif/amenagement-du-relais-psychologique-parent-enfant-la-bobine) | L’Appart | 24.600 | 123 |
+| Centre | [Parc de la Guirlande](https://participer.montpellier.fr/budget-participatif/materiel-mutualise-pour-faire-vivre-le-parc-de-la-guirlande) &nbsp; |  Ademass | 29.300 | 122 👍 |
 | Mosson | [Roller Dance](https://participer.montpellier.fr/budget-participatif/roller-dance-montpellier) |  Maths et Maryam | 20.000 | 112 |
 | Mosson | [QG des jeunes](https://participer.montpellier.fr/budget-participatif/le-qg-des-jeunes) |  GSC | 35.000 | 107 👍 |
 | Mosson | [Guinguette au lac](https://participer.montpellier.fr/budget-participatif/guinguette-associative-au-bord-du-lac-des-garrigues) |  Hauts Val & Co | 48.150 | 101 👍 |
