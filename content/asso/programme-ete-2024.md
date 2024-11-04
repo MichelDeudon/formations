@@ -29,7 +29,7 @@ Agenda des activités et sorties à Montpellier.
 📅 Les vendredi 12, 19, 26 juillet et 9, 16, 23 et 30 août 2024. <br>
 🕕 De 18h30 à 20h.  <br>
 
-{{< figure src="roller/roller-dance-and-smile.png" caption="Cours collectifs de roller dance pendant les JO 2024 devant la médiathèque Pierresvives.">}}
+{{< figure src="roller/roller-dance-and-smile.png">}}
 
 {{< figure src="roller/roller-pierresvives.jpg" caption="Cours collectifs de roller dance pendant les JO 2024 devant la médiathèque Pierresvives.">}}
 

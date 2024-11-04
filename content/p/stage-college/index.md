@@ -38,7 +38,7 @@ Anas, président de l’association Maths et Maryam.
 
 ## Retour des élèves
 
-Les élèves ont trouvé le stage utile / très utile dans l'ensemble. Ils et elles ont particulièrement apprécié l'ambiance de groupe, les explications claires, la disponibilité des encadrants et les méthodes d'apprentissages (travail en groupe, exercices pratiques, participation au tableau, etc). Le stage a permis de développer leur autonomie et les a aidés à gagner en confiance en soi, en particulier pour les mathématiques et le français. A la fin du stage, les élèves ont dit se sentir encouragés, motivés, satisfaits et optimistes.
+Les élèves ont trouvé le stage utile / très utile dans l'ensemble. Ils et elles ont particulièrement apprécié l'ambiance de groupe, les explications claires, la disponibilité des encadrants et les méthodes d'apprentissages (travail en groupe, exercices pratiques, participation au tableau, etc). Le stage a permis de développer leur autonomie et les a aidés à gagner en confiance en soi, en particulier pour les mathématiques et le français. A la fin du stage, les élèves ont dit se sentir <b>encouragés</b>, <b>motivés</b>, <b>satisfaits</b> et <b>optimistes</b>.
 
 ## Retour sur le tutorat
 
