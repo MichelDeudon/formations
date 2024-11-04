@@ -31,6 +31,8 @@ Agenda des activités et sorties à Montpellier.
 
 {{< figure src="roller/roller-dance-and-smile.png" caption="Cours collectifs de roller dance pendant les JO 2024 devant la médiathèque Pierresvives.">}}
 
+{{< figure src="roller/roller-pierresvives.jpg" caption="Cours collectifs de roller dance pendant les JO 2024 devant la médiathèque Pierresvives.">}}
+
 ## 📚 Stage de Pré Rentrée
 
 📍 Dans les locaux de l'[association ASSMR34](https://www.helloasso.com/associations/assamr34) et à la [médiathèque Pierresvives](https://pierresvives.herault.fr/663-horaires-d-ouverture.htm). <br>

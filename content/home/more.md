@@ -7,6 +7,6 @@ design:
   columns: '1'
 ---
 
-{{% cta cta_link="./asso/" cta_text="Vie associative" %}}
+{{% cta cta_link="./asso/" cta_text="Sur la vie associative" %}}
 
-{{% cta cta_link="./p/" cta_text="Blog" %}}
+{{% cta cta_link="./p/" cta_text="Voir notre blog" %}}

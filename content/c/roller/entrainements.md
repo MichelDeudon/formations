@@ -33,7 +33,7 @@ Les entrainements et spectacles de roller danse ont pour objectif de permettre a
 
 ## Autorisation parentale
 
-Pour participez aux entrainements et spectacles, vous devez [adhérer à l'association](https://www.mathsetmaryam.fr/u/Adhesion.pdf) et compléter l'[autorisation parentale](https://www.mathsetmaryam.fr/u/Roller-Autorisation-Parentale.pdf) si vous êtes mineur. Nous rappelons que <b>les protections sont obligatoires</b> (casque et coudière, genouillière, protège poignet) pour participer aux entrainements.
+Pour participer aux entrainements et spectacles, vous devez [adhérer à l'association](https://www.mathsetmaryam.fr/u/Adhesion.pdf) et compléter l'[autorisation parentale](https://www.mathsetmaryam.fr/u/Roller-Autorisation-Parentale.pdf) si vous êtes mineur. Nous rappelons que <b>les protections sont obligatoires</b> (casque et coudière, genouillière, protège poignet) pour participer aux entrainements.
 
 ## Exemple de progression
 
@@ -45,10 +45,6 @@ Les séances de roller danse suivent une progression en quatres étapes: La phas
 
 Nous organisons des évaluations et remises de bandeaux plusieurs fois dans l'année. Pour valider un niveau, il faut compléter huit épreuves sur neuf, de techniques, de style et de confiance.
 
-{{< figure src="roller/Roller-Bandeau-Jaune.png" caption="Épreuves du [bandeau jaune](https://www.mathsetmaryam.fr/u/Roller-Danse-Carnet.pdf) (premier niveau).">}}
-
-{{< figure src="roller/Roller-Bandeau-Vert.png" caption="Épreuves du [bandeau vert](https://www.mathsetmaryam.fr/u/Roller-Danse-Carnet.pdf) (deuxième niveau).">}}
-
-{{< figure src="roller/Roller-Bandeau-Bleu.png" caption="Épreuves du [bandeau bleu](https://www.mathsetmaryam.fr/u/Roller-Danse-Carnet.pdf) (troisìème niveau).">}}
+{{< figure src="roller/Roller-Bandeau-Jaune-Vert-Bleu.png" caption="Épreuves du [bandeau jaune et vert](https://www.mathsetmaryam.fr/u/Roller-Danse-Carnet.pdf) (premier et deuxième niveaux).">}}
 
 {{< cta cta_text="Télécharger notre carnet de niveaux." cta_link="https://www.mathsetmaryam.fr/u/Roller-Danse-Carnet.pdf" >}}

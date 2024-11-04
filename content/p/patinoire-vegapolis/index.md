@@ -7,7 +7,7 @@ tags:
 - Patinoire
 - Santé
 - Sport
-- Vegpolis
+- Vegapolis
 - La Paillade
 - La Mosson
 - Montpellier
