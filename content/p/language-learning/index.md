@@ -5,7 +5,7 @@ tags:
 - Anglais
 ---
 
-Le plus tranquille, aventureux, social, en rythme et intellectuel
+Le plus tranquille, aventureux, social, en rythme et intellectuel.
 
 <!--more-->
 

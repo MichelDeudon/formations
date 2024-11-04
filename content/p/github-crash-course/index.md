@@ -3,7 +3,7 @@ title: Cours sur Github pour data scientists
 date: 2022-01-24
 ---
 
-De A à Z, tout ce que vous devez savoir
+De A à Z, tout ce que vous devez savoir.
 
 <!--more-->
 

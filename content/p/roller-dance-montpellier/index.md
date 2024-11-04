@@ -14,7 +14,7 @@ tags:
 
 ---
 
-Des Étoiles Filantes à Montpellier
+Des étoiles filantes à Montpellier.
 
 <!--more-->
 

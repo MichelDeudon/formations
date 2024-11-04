@@ -17,7 +17,7 @@ tags:
 - Soutien Scolaire
 ---
 
-Pour débutants à avancés
+Pour débutants à avancés.
 
 <!--more-->
 
