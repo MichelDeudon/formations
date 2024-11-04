@@ -36,6 +36,10 @@ Ce stage a été une expérience enrichissante et positive, et je suis convaincu
 
 Anas, président de l’association Maths et Maryam.
 
+## Retour des élèves
+
+Les élèves ont trouvé le stage utile / très utile dans l'ensemble. Ils et elles ont particulièrement apprécié l'ambiance de groupe, les explications claires, la disponibilité des encadrants et les méthodes d'apprentissages (travail en groupe, exercices pratiques, participation au tableau, etc). Le stage a permis de développer leur autonomie et les a aidés à gagner en confiance en soi, en particulier pour les mathématiques et le français. A la fin du stage, les élèves ont dit se sentir encouragés, motivés, satisfaits et optimistes.
+
 ## Retour sur le tutorat
 
 > _Merci Michel pour ce stage, c’est la toute première fois que j’enseignais à des élèves et c’est une expérience que j’ai vraiment appréciée. Ça m’a vraiment permis de prendre confiance en moi. Merci pour les 50 euros (j’économise pour m’acheter un iPad pour mes études ). Merci à toi et Morgann pour tout et bonne fin de vacances_ - Nabila, élève-tutrice en terminale générale.
