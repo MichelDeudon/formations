@@ -22,7 +22,7 @@ bio: Mes intérêts de recherche incluent l'écologie, la psychologie et l'appre
 
 interests:
   - Enseignement
-  - Arts et Sciences
+  - Art et Science
   - Roller Danse
 
 education:
@@ -31,11 +31,14 @@ education:
       institution: Collège des Ingénieurs
       year: 2021
     - course: Master 2 en science des données
-      institution: Télécom Paris et ENS Cachan
+      institution: ENS Cachan et Télécom Paris
       year: 2019
     - course: Master 1 en maths appliqués
       institution: Ecole Polytechnique
       year: 2017
+    - course: Prépa physique chimie
+      institution: Lycée Pasteur
+      year: 2012-2014
 
 # Social/Academic Networking
 social:

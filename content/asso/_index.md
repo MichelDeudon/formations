@@ -22,3 +22,13 @@ tags:
 ## Campagnes d'action
 
 {{< list_children >}}
+
+## PV d'Assemblée Générale
+
+* PV [AG #1](https://www.mathsetmaryam.fr/u/PV-AG-1-2024.pdf)
+
+## Bilan moral
+
+## Bilan financier
+
+## Rapport d'activité
