@@ -1,42 +1,39 @@
 ---
 # Display name
-title: Laurent Piccinini
+title: Hélène Gautier Pelissier
 
 # Full name (for SEO)
-first_name: Laurent
-last_name: Piccinini
+first_name: Hélène
+last_name: Gautier Pelissier
 
 # Username (this should match the folder name)
 authors:
-  - Laurent Piccinini
+  - Hélène Gautier Pelissier
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professeur agrégé de mathématiques
+role: Professeure agrégée en sciences et techniques médico sociales.
 
 # Organizations/Affiliations
 organizations:
   - name: Université Paul Valéry
-    url: "https://www.univ-montp3.fr/fr/organisation/pr%C3%A9sidence-direction-générale-des-services"
+    url: "https://www.univ-montp3.fr/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Short bio.
 
 interests:
-  - Numérique
-  - Écologie
-  - Sciences de l'éducation
+  - Pédagogie
+  - Lutte contre les exclusions
+  - Sciences et techniques médico sociales
 
-education:
-  courses:
-    - course: Doctorat de mathématiques
-      institution: Université de Montpellier
-      year: 1995
-    - course: Maitrise de Mathématiques
-      institution: Université Paul Sabatier Toulouse III
-      year: 1991
+#education:
+#  courses:
+#    - course: Agrégation de Mathématiques
+#      institution: Université de Montpellier
+#      year: 2005
 
 # Social/Academic Networking
 #social:
@@ -56,4 +53,4 @@ user_groups:
   - Membres d'Honneur
 ---
 
-Bonjour! Je m'appelle Laurent. J'enseigne à l'université Paul Valéry et je suis parrain de l'association Maths et Maryam depuis 2024.
+Bonjour! Je m'appelle Hélène. J'enseigne à l'université Paul Valéry et je suis marraine de l'association Maths et Maryam depuis 2024.

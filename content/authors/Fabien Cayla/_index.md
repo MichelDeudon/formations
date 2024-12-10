@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Laurent Piccinini
+title: Fabien Cayla
 
 # Full name (for SEO)
-first_name: Laurent
-last_name: Piccinini
+first_name: Fabien
+last_name: Cayla
 
 # Username (this should match the folder name)
 authors:
-  - Laurent Piccinini
+  - Fabien Cayla
 
 # Is this the primary user of the site?
 superuser: false
@@ -19,24 +19,27 @@ role: Professeur agrégé de mathématiques
 # Organizations/Affiliations
 organizations:
   - name: Université Paul Valéry
-    url: "https://www.univ-montp3.fr/fr/organisation/pr%C3%A9sidence-direction-générale-des-services"
+    url: "https://www.univ-montp3.fr/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Short bio.
 
 interests:
-  - Numérique
-  - Écologie
+  - Pédagogie
+  - Mathématiques
   - Sciences de l'éducation
 
 education:
   courses:
-    - course: Doctorat de mathématiques
+    - course: Agrégation de Mathématiques
       institution: Université de Montpellier
-      year: 1995
-    - course: Maitrise de Mathématiques
-      institution: Université Paul Sabatier Toulouse III
-      year: 1991
+      year: 2005
+    - course: Maitrise et CAPES de mathématiques
+      institution: Université Paris Sud (Paris XI)
+      year: 1998
+    - course: Licence de Mathématiques
+      institution: Université de Montpellier
+      year: 1996
 
 # Social/Academic Networking
 #social:
@@ -56,4 +59,4 @@ user_groups:
   - Membres d'Honneur
 ---
 
-Bonjour! Je m'appelle Laurent. J'enseigne à l'université Paul Valéry et je suis parrain de l'association Maths et Maryam depuis 2024.
+Bonjour! Je m'appelle Fabien. J'enseigne à l'université Paul Valéry et je suis parrain de l'association Maths et Maryam depuis 2024.

@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Hajar Mounouar
+title: Ziyed Oussaa
 
 # Full name (for SEO)
-first_name: Hajar
-last_name: Mounouar
+first_name: Ziyed
+last_name: Oussaa
 
 # Username (this should match the folder name)
 authors:
-  - Hajar Mounouar
+  - Ziyed Oussaa
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Présidente
+role: Élève-Tuteur
 
 # Organizations/Affiliations
 organizations:
@@ -36,10 +36,10 @@ bio: Short bio.
 #      year: 2025
 
 # Social/Academic Networking
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:hajar@mathsetmaryam.fr?subject=Contact'
+#social:
+#  - icon: envelope
+#    icon_pack: fas
+#    link: 'mailto:Ziyed@mathsetmaryam.fr?subject=Contact'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -50,4 +50,4 @@ user_groups:
   - Eleves Tuteurs
 ---
 
-Bonjour! Je m'appelle Hajar.
+Bonjour! Je m'appelle Ziyed.

@@ -1,25 +1,25 @@
 ---
 # Display name
-title: Hajar Mounouar
+title: Adam El Hamzaoui
 
 # Full name (for SEO)
-first_name: Hajar
-last_name: Mounouar
+first_name: Adam
+last_name: El Hamzaoui
 
 # Username (this should match the folder name)
 authors:
-  - Hajar Mounouar
+  - Adam El Hamzaoui
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Présidente
+role: Élève-Tuteur
 
 # Organizations/Affiliations
 organizations:
-  - name: Lycée Jules Guesde
-    url: 'https://jules-guesde.mon-ent-occitanie.fr/'
+  - name: Lycée Frédéric Bazille - Agropolis
+    url: 'https://epl.montpellier-orb-herault.educagri.fr/lycee-bazille'
 
 # Short bio (displayed in user profile at end of posts)
 bio: Short bio.
@@ -32,14 +32,14 @@ bio: Short bio.
 #education:
 #  courses:
 #    - course: Baccalauréat Scientifique
-#      institution: Lycée Jules Guesde
+#      institution: Lycée Frédéric Bazille - Agropolis
 #      year: 2025
 
 # Social/Academic Networking
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:hajar@mathsetmaryam.fr?subject=Contact'
+#social:
+#  - icon: envelope
+#    icon_pack: fas
+#    link: 'mailto:Adam@mathsetmaryam.fr?subject=Contact'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -50,4 +50,4 @@ user_groups:
   - Eleves Tuteurs
 ---
 
-Bonjour! Je m'appelle Hajar.
+Bonjour! Je m'appelle Adam.

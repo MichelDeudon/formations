@@ -1,25 +1,25 @@
 ---
 # Display name
-title: Hajar Mounouar
+title: Wiam Boulaassal
 
 # Full name (for SEO)
-first_name: Hajar
-last_name: Mounouar
+first_name: Wiam
+last_name: Boulaassal
 
 # Username (this should match the folder name)
 authors:
-  - Hajar Mounouar
+  - Wiam Boulaassal
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Présidente
+role: Élève-Tutrice
 
 # Organizations/Affiliations
 organizations:
-  - name: Lycée Jules Guesde
-    url: 'https://jules-guesde.mon-ent-occitanie.fr/'
+  - name: Lycée Jean Monnet
+    url: 'https://jean-monnet-montpellier.mon-ent-occitanie.fr/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: Short bio.
@@ -32,14 +32,14 @@ bio: Short bio.
 #education:
 #  courses:
 #    - course: Baccalauréat Scientifique
-#      institution: Lycée Jules Guesde
+#      institution: Lycée Jean Monnet
 #      year: 2025
 
 # Social/Academic Networking
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:hajar@mathsetmaryam.fr?subject=Contact'
+#social:
+#  - icon: envelope
+#    icon_pack: fas
+#    link: 'mailto:Wiam@mathsetmaryam.fr?subject=Contact'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -50,4 +50,4 @@ user_groups:
   - Eleves Tuteurs
 ---
 
-Bonjour! Je m'appelle Hajar.
+Bonjour! Je m'appelle Wiam.
