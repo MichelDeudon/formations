@@ -14,8 +14,8 @@ role: Entrepreneur et co-président
 
 # Organizations/Affiliations
 organizations:
-  - name: Université Paul Valéry
-    url: "https://www.univ-montp3.fr/"
+  - name: 
+    url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: Mes intérêts de recherche incluent l'écologie, la psychologie et l'apprentissage des langues.

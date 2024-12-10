@@ -18,8 +18,8 @@ role: Animatrice et co-présidente
 
 # Organizations/Affiliations
 organizations:
-  - name: AFEV
-    url: 'https://afev.org/'
+  - name:
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: Short bio.

@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Maitre de Conférences, HDR
+role: Maitresse de Conférences, HDR
 
 # Organizations/Affiliations
 organizations:

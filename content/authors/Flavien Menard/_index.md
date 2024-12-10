@@ -26,8 +26,6 @@ bio: Short bio.
 
 interests:
   - X
-  - Y
-  - Z
 
 education:
   courses:
