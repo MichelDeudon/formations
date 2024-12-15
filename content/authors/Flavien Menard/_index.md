@@ -25,12 +25,14 @@ organizations:
 bio: Short bio.
 
 interests:
-  - X
+  - Randonnée
+  - Cuisine
+  - Naturalisme
 
 education:
   courses:
-    - course: Formation
-      institution: Institution
+    - course: Diplôme d'ingénieur
+      institution: Grenoble INP - ENSE3
       year: Année
 
 # Social/Academic Networking
@@ -54,4 +56,4 @@ user_groups:
   - Mentors
 ---
 
-Bonjour! Je m'appelle Flavien. J'ai rejoint l'association Maths et Maryam en 2024.
+Bonjour! Je m'appelle Flavien. J'ai rejoint l'association Maths et Maryam en 2024. Diplômé d'une école d'ingénieur, j'ai travaillé durant deux ans dans le domaine du photovoltaique avant de me tourner vers l'éducation nationale où j'ai enseigné durant un an et demi les [mathématiques](https://www.mathsetmaryam.fr/c/maths/) et les [sciences](https://www.mathsetmaryam.fr/c/physique-chimie/) en lycée professionnel.
